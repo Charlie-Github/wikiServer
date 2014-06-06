@@ -1,10 +1,10 @@
 <?php 
 //functions for retrieving images	
 
-	$file_name='/var/www/html/foodNames_10.txt';
+	$file_name='./foodnames_keyformat_2600.txt';
 	$fp=fopen($file_name,'r');
 	
-	$filepath = './wikiextraction.txt';
+	$filepath = './wikiextraction_2600.txt';
 	$handle = fopen($filepath, "w+");
 	echo "Open file for read and write...\r\n";
 	while(!feof($fp))
@@ -17,6 +17,7 @@
 		$buffer = str_replace("\n", "", $buffer);
 		$buffer = str_replace("\r", "", $buffer);
 		
+		echo $buffer."\r\n";
 		
 		
 		wikisearch($buffer,$handle);
@@ -40,8 +41,12 @@ function wiki3image($keyword,$handle){
 	
 	foreach ($imageUrls as &$value) {
 		
+		if($counter == 2){
+			break;
+		}
+		
 			fwrite($handle,"<Image>".$value."</Image>\r\n");
-			$img = "./wikipic/".$keyword."_".$counter.".jpg";
+			$img = "./pic/".$keyword."_".$counter.".jpg";
 			file_put_contents($img, file_get_contents($value));
 		
    		 $counter++;

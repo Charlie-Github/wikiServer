@@ -5,10 +5,10 @@ $from='en';
 $to='zh';
 
 	
-$inputPath = '/var/www/html/wikiextraction.txt';
+$inputPath = './wikiextraction_2600.txt';
 $inputHandle = fopen($inputPath, "r");
 
-$outputPath = './wikichinese.txt';
+$outputPath = './wikichinese_2600.txt';
 $outputHandle = fopen($outputPath, "w+");
 
 
@@ -19,7 +19,7 @@ $outputHandle = fopen($outputPath, "w+");
 		
 		$buffer = str_replace("\n", "", $buffer);
 		$buffer = str_replace("\r", "", $buffer);
-		
+		$buffer = str_replace("_", " ", $buffer);
 		
 		$pattern = '#<Image>(.*)</Image>#Us';
 		$patternName = '#<Name>(.*)</Name>#Us';
@@ -31,10 +31,16 @@ $outputHandle = fopen($outputPath, "w+");
 		
 		if(preg_match($patternName,$buffer)){
 			$buffer = str_replace("<Name>", "", $buffer);
-			$buffer = str_replace("<\/Name>", "", $buffer);
+			$buffer = str_replace("</Name>", "", $buffer);
+			
+			echo $buffer."\r\n";
+			$transword = "<ENName>".$buffer. "</ENName>\r\n";
+			fwrite($outputHandle,$transword);
 			
 			$word = urlencode($buffer);
-			$transword = "<Name>". $translator->translate($word, $from, $to) . "</Name>\r\n";
+			
+			$transword = "<ZHName>".$translator->translate($word, $from, $to) . "</ZHName>\r\n";
+
 			fwrite($outputHandle,$transword);
 			
 		}
@@ -51,10 +57,8 @@ $outputHandle = fopen($outputPath, "w+");
 		
 		
 		
-		$buffer = str_replace("<Desc>", "", $buffer);
 		
-		$buffer = str_replace("<\/Desc>", "", $buffer);
-		$buffer = str_replace("_", " ", $buffer);
+		
 		
 		
 		

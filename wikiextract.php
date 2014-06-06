@@ -1,10 +1,10 @@
 <?php 
 //functions for retrieving images	
 
-	$file_name='/var/www/html/foodNames_10.txt';
+	$file_name='./foodnames_keyformat_10.txt';
 	$fp=fopen($file_name,'r');
 	
-	$filepath = '/var/www/html/wikiextraction.txt';
+	$filepath = './wikiextraction.txt';
 	$handle = fopen($filepath, "w+");
 	echo "Open file for read and write...\r\n";
 	while(!feof($fp))
@@ -59,7 +59,9 @@ function wikisearch($keyword,$handle){
 		$c = curl_exec($ch);
 
 		$json = json_decode($c);
-
+		
+		try{
+		
 		$content = $json->{'parse'}->{'text'}->{'*'}; // get the main text content of the query (it's parsed HTML)
 
 		// pattern for first match of a paragraph
@@ -69,6 +71,11 @@ function wikisearch($keyword,$handle){
  		   // print $matches[0]; // content of the first paragraph (including wrapping <p> tag)
   			 $content_2 = strip_tags($matches[1]); // Content of the first paragraph without the HTML tags.
 			fwrite($handle,"<Desc>".$content_2."</Desc>\r\n");
+		}
+		
+		}
+		catch (Exception $e) {
+    		echo 'Caught exception: ',  $e->getMessage(), "\n";
 		}
 		
 		
