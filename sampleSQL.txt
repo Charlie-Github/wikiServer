@@ -1,0 +1,7 @@
+INSERT INTO tableName    
+    (ename,cname,text,photos)
+   {"bake been","烤豆"，"烤豆是传统","bake_been"}
+   {"bake been","烤豆"，"烤豆是传统","bake_been"}
+   {"bake been","烤豆"，"烤豆是传统","bake_been"}
+   {"bake been","烤豆"，"烤豆是传统","bake_been"}
+   {"bake been","烤豆"，"烤豆是传统","bake_been"}
