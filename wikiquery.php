@@ -13,10 +13,6 @@
 
 		$content = $json->{'query'}->{'search'}; // get the main text content of the query (it's parsed HTML)
 		
-		//echo $content[0];
-		//var_dump($content);
-		
-		
 		$length = sizeof($content);
 		for($index = 0; $index < $length; $index++){
 		
@@ -24,14 +20,5 @@
 			echo"<p>    ".$content[$index]->{'snippet'}."</p>";
 		}
 
-		/*
-		// pattern for first match of a paragraph
-		$pattern = '#<p ns="0" title=(.*)snippet#Us'; // http://www.phpbuilder.com/board/showthread.php?t=10352690
-		if(preg_match($pattern, $content,$matches))
-		{
- 		   // print $matches[0]; // content of the first paragraph (including wrapping <p> tag)
-  		  print strip_tags($matches[1]); // Content of the first paragraph without the HTML tags.
-		}
-		*/
 	
 ?>

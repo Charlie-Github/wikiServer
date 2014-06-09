@@ -1,11 +1,12 @@
 <?php 
 //functions for retrieving images	
 
-	$file_name='./foodnames_keyformat_10.txt';
+	$file_name='./foodnames_keyformat_2600.txt';
 	$fp=fopen($file_name,'r');
 	
-	$filepath = './wikiextraction.txt';
+	$filepath = './wikiextraction_query_2600.xml';
 	$handle = fopen($filepath, "w+");
+	
 	echo "Open file for read and write...\r\n";
 	while(!feof($fp))
 	{
@@ -19,8 +20,8 @@
 		
 		
 		
-		wikisearch($buffer,$handle);
-		wiki3image($buffer,$handle);
+		wikiquery($buffer,$handle);
+		
 		
 		
  	}
@@ -40,13 +41,47 @@ function wiki3image($keyword,$handle){
 	
 	foreach ($imageUrls as &$value) {
 		
-			fwrite($handle,"<Image>".$value."</Image>\r\n");
+		if (counter == 2){
+			break;
+		}
+		fwrite($handle,"<Image>".$value."</Image>\r\n");
+		$img = "./pic/".$keyword."_".$counter.".jpg";
+		file_put_contents($img, file_get_contents($value));
 		
 		
    		 $counter++;
    	}
 
 }
+
+
+
+function wikiquery($keyword,$handle){
+
+		
+		$url = 'http://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch='.$keyword;
+		$ch = curl_init($url);
+		curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt ($ch, CURLOPT_USERAGENT, "TestScript"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
+		$c = curl_exec($ch);
+
+		$json = json_decode($c);
+
+		$content = $json->{'query'}->{'search'}; // get the main text content of the query (it's parsed HTML)
+		
+		$length = sizeof($content);
+		for($index = 0; $index < $length; $index++){
+			$new_keyword = $content[$index]->{'title'};
+			fwrite($handle,"<Name>".$content[$index]->{'title'}."</Name>\r\n");
+			fwrite($handle,"<Desc>".$content[$index]->{'snippet'}."</Desc>\r\n");
+			
+		}
+		wiki3image($new_keyword,$handle);
+	
+
+
+}
+
 	
 function wikisearch($keyword,$handle){
 
