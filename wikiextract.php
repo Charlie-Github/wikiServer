@@ -20,7 +20,8 @@
 		
 		
 		
-		wikiquery($buffer,$handle);
+		wikisearch($buffer,$handle);
+		wiki3image($buffer,$handle);
 		
 		
 		
@@ -56,31 +57,6 @@ function wiki3image($keyword,$handle){
 
 
 
-function wikiquery($keyword,$handle){
-
-		
-		$url = 'http://en.wikipedia.org/w/api.php?action=query&list=search&format=json&srlimit=3&srsearch='.$keyword;
-		$ch = curl_init($url);
-		curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt ($ch, CURLOPT_USERAGENT, "TestScript"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
-		$c = curl_exec($ch);
-
-		$json = json_decode($c);
-
-		$content = $json->{'query'}->{'search'}; // get the main text content of the query (it's parsed HTML)
-		
-		$length = sizeof($content);
-		for($index = 0; $index < $length; $index++){
-			$new_keyword = $content[$index]->{'title'};
-			fwrite($handle,"<Name>".$content[$index]->{'title'}."</Name>\r\n");
-			fwrite($handle,"<Desc>".$content[$index]->{'snippet'}."</Desc>\r\n");
-			
-		}
-		wiki3image($new_keyword,$handle);
-	
-
-
-}
 
 	
 function wikisearch($keyword,$handle){
