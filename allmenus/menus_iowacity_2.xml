@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Menu>
+<menu id="298098">
+                            <group id="0">
+                    <name>Main</name>
+                                            <category id="5884702">
+                        <name>Salads</name>
+                        <description> </description>
+                                                    <item id="39679390">
+                        <name>Small House Salad</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, and fresh cucumber served with your choice of salad dressing.</description>
+                        <sizes>
+                                            <size name=" ">3</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679402">
+                        <name>Small Greek Salad</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing.</description>
+                        <sizes>
+                                            <size name=" ">3.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679414">
+                        <name>Small Caesar Salad</name>
+                        <description>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing.</description>
+                        <sizes>
+                                            <size name=" ">3.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679422">
+                        <name>House Salad</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, and fresh cucumber served with your choice of salad dressing.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679432">
+                        <name>Greek Salad With Pita</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread.</description>
+                        <sizes>
+                                            <size name=" ">5.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679443">
+                        <name>Caesar Salad With Pita</name>
+                        <description>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing and handmade pita bread.</description>
+                        <sizes>
+                                            <size name=" ">5.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679451">
+                        <name>Greek Salad With Chicken</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread, topped off with our succulent chicken breast.</description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679457">
+                        <name>Caesar Salad With Chicken</name>
+                        <description>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing and handmade pita bread, topped off with our succulent chicken breast.</description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679464">
+                        <name>Greek Salad With Gyro</name>
+                        <description>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread, topped off with our famous gyro meat and renown tzatziki sauce.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884717">
+                        <name>Sandwiches &amp; Plates</name>
+                        <description> </description>
+                                                    <item id="39679497">
+                        <name>Beef And Sausage Combo</name>
+                        <description>cant decide which one you want how about both an entire beef sandwich on top of our italian sausage hope you have a big mouth.</description>
+                        <sizes>
+                                            <size name=" ">6.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679503">
+                        <name>Big Beef And Sausage Combo</name>
+                        <description>got an appetite well, were here to help a bigger version of our beef and sausage combo.</description>
+                        <sizes>
+                                            <size name=" ">8.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679508">
+                        <name>Pork Chop Sandwich</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679512">
+                        <name>Pork Chops Plate</name>
+                        <description>two pork chops, fries and a french bread.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679521">
+                        <name>Lamb Chops Plate</name>
+                        <description>eat like a spartan king and have our succulent greek-style lamb chops served with fries and french bread. so good youll be licking the bones.</description>
+                        <sizes>
+                                            <size name=" ">14.99</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884723">
+                        <name>Pita Sandwiches</name>
+                        <description> </description>
+                                                    <item id="39679536">
+                        <name>Blt Pita</name>
+                        <description>five strips of fresh bacon served on a handmade pita served with crisp lettuce, ripe tomato, and creamy mayo. mmmmm bacon yeah, that line just never gets old.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679547">
+                        <name>Greek Veggie Pita</name>
+                        <description>a vegetarian delight crisp lettuce, ripe tomato, fresh cut onion, hummus, pepperoncini peppers, smothered in feta a cheese served on a handmade pita. the only thing that could make this sandwich better is bacon.</description>
+                        <sizes>
+                                            <size name=" ">4.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679555">
+                        <name>Chicken Breast Pita</name>
+                        <description>our succulent chicken breast served on a handmade pita with crisp lettuce, ripe tomato, and our renown homemade tzatziki sauce. what can we say chicken is delicious.</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679560">
+                        <name>Breaded Chicken Pita</name>
+                        <description>pieces of juicy crispy breaded chicken served on a handmade pita with crisp lettuce, ripe tomato, and creamy mayo. making life a little crispier.</description>
+                        <sizes>
+                                            <size name=" ">5.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679571">
+                        <name>Chicken Caesar Pita</name>
+                        <description>our succulent chicken breast served on handmade pita with crisp lettuce, ripe tomato, delicious caesar dressing and fresh grated parmesan cheese. this sandwich would do augustus proud.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679585">
+                        <name>Greek Chicken Pita</name>
+                        <description>our succulent chicken breast served on a handmade pita with crisp lettuce, ripe tomato, fresh cut onion, smothered in feta cheese, and topped off with our homemade greek dressing. la, la, la, life is wonderful.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679596">
+                        <name>Chicken Philly Pita</name>
+                        <description>our succulent chicken breast served on a handmade pita with mozzarella cheese, sauteed grilled green peppers and onions, and creamy mayo. borrowing this classic sandwich from the city of brotherly love.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679607">
+                        <name>Chicken Club Pita</name>
+                        <description>our succulent chicken breast served on a handmade pita with american cheese, crisp lettuce, ripe tomato, fresh bacon, and creamy mayo. arent you glad we didnt say mmmmmm bacon.</description>
+                        <sizes>
+                                            <size name=" ">6.5</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884736">
+                        <name>Burgers</name>
+                        <description> </description>
+                                                    <item id="39679637">
+                        <name>1/3 Lb. Hamburger</name>
+                        <description>a thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, and pickle. every mouth watering bite is packed with an explosion of flavor.</description>
+                        <sizes>
+                                            <size name=" ">3.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679642">
+                        <name>1/3 Lb. Cheeseburger</name>
+                        <description>a thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese. what doesnt taste better smothered in cheese.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679650">
+                        <name>1/3 Lb. Bacon Cheeseburger</name>
+                        <description>thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, american cheese, and two strips of fresh bacon. mmmmm bacon.</description>
+                        <sizes>
+                                            <size name=" ">4.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679656">
+                        <name>2/3 Lb. Double Burger</name>
+                        <description>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, and pickle. who said having a big mouth was a bad thing.</description>
+                        <sizes>
+                                            <size name=" ">4.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679664">
+                        <name>2/3 Lb. Double Cheese Burger</name>
+                        <description>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese. there is only on thing that could make this perfect sandwich better.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679673">
+                        <name>2/3 Lb. Bacon Double Cheese Burger</name>
+                        <description>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, american cheese, and fresh bacon bacon.</description>
+                        <sizes>
+                                            <size name=" ">6.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679681">
+                        <name>1/3 Lb. Western Burger</name>
+                        <description>a thick juicy 100% beef burger char-grilled served on a toasted bun smothered in barbecue sauce, sauteed grilled onions, american cheese, and fresh bacon. a truly zesty sensation.</description>
+                        <sizes>
+                                            <size name=" ">5.3</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679699">
+                        <name>1/3 Lb. Spartis Burger</name>
+                        <description>our one of a kind creation! a two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese topped with our famous gyro meat and renown tzatz</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679714">
+                        <name>1 Lb. Nikki Burger</name>
+                        <description>strap on your seat belts for this one. not one, or two, but three 100% beef burger patties stacked on a toasted bun served with all the trimmings. its called the nikki burger because we told nikki if she could eat one then we would name it after her. wel</description>
+                        <sizes>
+                                            <size name=" ">8.5</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884752">
+                        <name>Chicago Classics</name>
+                        <description> </description>
+                                                    <item id="39679758">
+                        <name>Chicago Style Hot Dog</name>
+                        <description>an authentic chicago classic! 100% beef hot dog served on a poppy seed bun with mustard, hand chopped onions, green relish, ripe tomato, crisp pickle spear, spicy sport pepper and a splash of celery salt the real deal, and its so good you cant only just</description>
+                        <sizes>
+                                            <size name=" ">2.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679767">
+                        <name>Cheese Dog</name>
+                        <description>our amazing hot dog smothered in a creamy cheese sauce. this dog is cheesier than our jokes.</description>
+                        <sizes>
+                                            <size name=" ">3.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679786">
+                        <name>Chili Dog</name>
+                        <description>our amazing hot dog smothered in our chicago style chili. dont eat this with white gloves.</description>
+                        <sizes>
+                                            <size name=" ">3.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679792">
+                        <name>Chili Cheese Dog</name>
+                        <description>our amazing hot dog smothered in our creamy cheese sauce and our chicago style chili. so messy, but so so good.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679800">
+                        <name>Trevor Dog</name>
+                        <description>our amazing hot dog served with sliced onion, ripe tomato, our famous gyro meat, and our renown tzatziki sauce. why is it called the trevor dog well, youre going to have to ask trevor.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679814">
+                        <name>Chicago Style Polish Sausage</name>
+                        <description>a bone fide chicago style 100% beef polish sausage served on a poppy seed bun with mustard, hand chopped onions, green relish, ripe tomato, crisp pickle spear, spicy sport pepper and a splash of celery salta marvelous combination of flavor.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679823">
+                        <name>Maxwell Street Polish Sausage</name>
+                        <description>a bone fide chicago style 100% beef polish sausage served on a poppy seed bun with mustard, sauteed grilled onions, and spicy sport pepper. with taste so good youll think youre on maxwell street.</description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679831">
+                        <name>Grilled Chicken Breast Sandwich</name>
+                        <description>our succulent chicken breast char-grilled served on a toasted sesame seed bun with creamy mayo, ripe tomato, and crisp lettuce.</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679837">
+                        <name>Italian Beef Sandwich</name>
+                        <description>genuine chicago style italian beef seasoned to perfection, stacked high on french bread. the meaty sensation that is so wonderful youll be left wondering if you died and gone to heaven.</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679848">
+                        <name>Cheesy Italian Beef Sandwich</name>
+                        <description>our wonderful italian beef sandwich with mozzarella cheese on it to make meaty cheesy phenomenon.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679856">
+                        <name>Big Italian Beef</name>
+                        <description>the same extraordinary sandwich just served on a larger piece of french bread and more of the tasty meat.</description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679866">
+                        <name>Big Cheesy Italian Beef Sandwich</name>
+                        <description>does this need explanation more beef. its cheesy. on a larger piece of french bread.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679876">
+                        <name>Sweet Or Hot Peppers</name>
+                        <description>add some of our homemade sweet peppers or our chicago style spicy giardinerra peppers to our italian beef and add a sweet or spicy flavor.</description>
+                        <sizes>
+                                            <size name=" ">0.4</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884785">
+                        <name>Greek Specialties</name>
+                        <description> </description>
+                                                    <item id="39679933">
+                        <name>Gyro Sandwich</name>
+                        <description>thinly sliced authentic gyro meat stacked high on a handmade pita bread, served with ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce. after one bite you will be hooked.</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679944">
+                        <name>Gyro Plate</name>
+                        <description>mounds and mounds of our delicious gyro meat served open face with our handmade pita bread, ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce all on the side, served with fries. so big an iowa football player will be asking for </description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679955">
+                        <name>Chicken Breast Plate</name>
+                        <description>two pieces of our succulent chicken breast marinated in our secret greek recipe, char-grilled to perfection, served with crisp lettuce, ripe tomato, world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. chicken that truly m</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679971">
+                        <name>Souvlaki Sandwich</name>
+                        <description>a traditional greek classic! hand cut select pork pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on a hand made pita, ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce. its like a pa</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679981">
+                        <name>Souvlaki Plate</name>
+                        <description>two of our mouth-watering souvlaki skewers grilled to perfection served with ripe tomato, fresh cut onion, our world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. theres always room for more at this party.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679987">
+                        <name>Chicken Souvlaki Sandwich</name>
+                        <description>hand cut chicken breast pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on handmade pita bread with ripe tomato, crisp lettuce, and our world renowned homemade tzatziki sauce. who knew chicken could be so delici</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679992">
+                        <name>Chicken Souvlaki Plate</name>
+                        <description>two of our succulent chicken skewers grilled to perfection served with ripe tomato, crisp lettuce, our world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. why settlefor one when you can have two.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39679996">
+                        <name>Souvlaki Combo Plate</name>
+                        <description>one skewer of pork and one of chicken served like our other souvlaki plates. this way you wont drive your self crazy choosing between pork or chicken. choose both.</description>
+                        <sizes>
+                                            <size name=" ">7.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680006">
+                        <name>Gyro/ Souvlaki Combo Plate</name>
+                        <description>your choice between one of our delicious souvlakis and our famous gyro meat served with ripe tomato, fresh cut onion, our world renowned tzatziki sauce, handmade pita, and fries. one of the toughest choices anyone has to make is between gyro and souvlaki </description>
+                        <sizes>
+                                            <size name=" ">8.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680011">
+                        <name>Greek Feast Plate</name>
+                        <description>both of our celebrated souvlakis and our famous gyro meat served with ripe tomato, fresh cut onion, crisp lettuce, our renowned tzatziki sauce, handmade pita, and fries. the trick to eating this feast is to not eat for at least a week, then maybe you migh</description>
+                        <sizes>
+                                            <size name=" ">9.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680017">
+                        <name>Saganaki</name>
+                        <description>the opa cheese! a traditional greek cheese called kefalotiri that we grill and soak in lemon juice. a truly unique appetizer that you wont regret trying.</description>
+                        <sizes>
+                                            <size name=" ">4.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680034">
+                        <name>Spankopita</name>
+                        <description>greek filo dough stuffed with spinach and imported feta cheese. a cheesy, spinachy delight you wont want to miss. (spinach cheese pie).</description>
+                        <sizes>
+                                            <size name=" ">4.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680035">
+                        <name>Hummus With Pita</name>
+                        <description>a delicious appetizer spread made of tahini and chickpeas. a mediterranean favorite that will leave you wanting more.</description>
+                        <sizes>
+                                            <size name=" ">2.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680039">
+                        <name>Tzatziki</name>
+                        <description>our world renowned tzatziki is homemade with greek yogurt, fresh cucumbers, and fresh pressed garlic cloves. this is the magic sauce that makes everything better. if your wondering how to pronounce tzatziki, its just like its spelled tza tziki its as s</description>
+                        <sizes>
+                                            <size name=" ">0.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680061">
+                        <name>Gyro Chili</name>
+                        <description>tasty chili the greek way, with gyro.</description>
+                        <sizes>
+                                            <size name=" ">2.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680068">
+                        <name>Avgolemono</name>
+                        <description>a classic greek soup. the translation is egg lemon soup. we like to describe it as a cream of chicken with rice and lemon. a home recipe soon to be famous. add soup or chili to any meal $1.99.</description>
+                        <sizes>
+                                            <size name=" ">2.99</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884815">
+                        <name>Healthy Options</name>
+                        <description> </description>
+                                                    <item id="39680101">
+                        <name>Turkey Burger</name>
+                        <description>a mouthwatering ground turkey patty served on a toasted bun with crisp lettuce, ripe tomato, fresh cut onion, and pickle. taste so good youll forget its turkey.</description>
+                        <sizes>
+                                            <size name=" ">4.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680108">
+                        <name>Wheat Chicken Souvlaki Sandwich</name>
+                        <description>hand cut chicken breast pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on wheat pita bread with ripe tomato, crisp lettuce, and our world renowned homemade tzatziki sauce. already a very healthy option made a l</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680119">
+                        <name>1/2 Chicken Souvlaki Plate</name>
+                        <description>one of our succulent chicken skewers grilled to perfection served with ripe tomato, crisp lettuce, our world renowned homemade tzatziki sauce, wheat pita, and grecian style white rice. youll still have a hard time finishing all of this spectacularly deli</description>
+                        <sizes>
+                                            <size name=" ">6.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680124">
+                        <name>Wheat Chicken Pita Sandwich</name>
+                        <description>our succulent chicken breast served on a wheat pita with crisp lettuce, ripe tomato, and our renowned homemade tzatziki sauce. you cant go wrong with chicken.</description>
+                        <sizes>
+                                            <size name=" ">5.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680131">
+                        <name>1/2 Chicken Breast Plate</name>
+                        <description>one piece of our succulent chicken breast marinated in our secret greek recipe, char-grilled to perfection, served with crisp lettuce, ripe tomato, world renowned homemade tzatziki sauce, wheat pita, and grecian style white rice.</description>
+                        <sizes>
+                                            <size name=" ">6.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680136">
+                        <name>Hummus With Wheat Pita</name>
+                        <description>same great spread, served with wheat pita.</description>
+                        <sizes>
+                                            <size name=" ">3.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680140">
+                        <name>Greek Veggie Wheat Pita</name>
+                        <description>for people who just dont like eating. put some meat on it.</description>
+                        <sizes>
+                                            <size name=" ">5.5</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884826">
+                        <name>Sides And Extras</name>
+                        <description> </description>
+                                                    <item id="39680158">
+                        <name>Fries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680164">
+                        <name>Cheese Fries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680168">
+                        <name>Chili Fries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680172">
+                        <name>Chili Cheese Fries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680178">
+                        <name>Greek Fries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680182">
+                        <name>Cheese Sauce</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680185">
+                        <name>Cheese Curds</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680190">
+                        <name>Onion Rings</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680195">
+                        <name>Breaded Mushrooms</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680199">
+                        <name>Pizza Puff</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680209">
+                        <name>Jalapeno Poppers</name>
+                        <description>(cream cheese).</description>
+                        <sizes>
+                                            <size name=" ">3.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680215">
+                        <name>Mozzarella Sticks (5)</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680222">
+                        <name>Mac N Cheese Bites</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680226">
+                        <name>Chicken Strip Basket</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name="(3)">4.5</size>
+                                                                                                                                                                                                                <size name="(5)">5.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680243">
+                        <name>Rice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680246">
+                        <name>Side Feta Cheese</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680247">
+                        <name>Pita Bread</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680251">
+                        <name>Extra Salad Dressing</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680255">
+                        <name>Tzatziki Sauce</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680258">
+                        <name>Sweet Or Hot Peppers</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.4</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884847">
+                        <name>Just For Kids</name>
+                        <description> </description>
+                                                    <item id="39680297">
+                        <name>Kids Meal</name>
+                        <description>(kids 12 &amp; under only) comes with your choice of a hot dog, grilled cheese pita, pizza puff, 3 chicken tenders or mac &amp; cheese bites. includes kids fries and a 16 oz. soft drink.</description>
+                        <sizes>
+                                            <size name=" ">4.5</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884848">
+                        <name>Desserts</name>
+                        <description> </description>
+                                                    <item id="39680306">
+                        <name>Baklava</name>
+                        <description>this sensational greek pastry is made out of crisp filo dough, nuts, and honey. it taste so good when it touches your lips! but you can only have one if you finish your dinner.</description>
+                        <sizes>
+                                            <size name=" ">1.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680313">
+                        <name>Rice Pudding</name>
+                        <description>this wonderful greek classic that we make ourselves will leave you wanting more.</description>
+                        <sizes>
+                                            <size name=" ">2.5</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5884852">
+                        <name>Drinks</name>
+                        <description> </description>
+                                                    <item id="39680323">
+                        <name>Fountain Drinks</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name="(Regular)">1.65</size>
+                                                                                                                                                                                                                <size name="(Large)">1.99</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680333">
+                        <name>Bottled Water</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39680336">
+                        <name>Iced Tea</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.99</size>
+                                                                                                                                                                        </sizes>
+                </item>
+            </category>
+        </group>
+</menu>
+<menu id="298105">
+                            <group id="2">
+                    <name>Lunch</name>
+                                            <category id="5893738">
+                        <name>Appetizers</name>
+                        <description> </description>
+                                                    <item id="39733599">
+                        <name>Shrimp Cocktail</name>
+                        <description>Six large gulf shrimp served with our housemade cocktail sauce.</description>
+                        <sizes>
+                                            <size name=" ">9.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733606">
+                        <name>Spinach &amp; Artichoke Dip</name>
+                        <description>A thick, rich dip made with lots of cheese and served with tortilla chips</description>
+                        <sizes>
+                                            <size name=" ">7.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733612">
+                        <name>Brie Cheese</name>
+                        <description>Golden fried brie served with grape and crackers. </description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733618">
+                        <name>Onion Rings</name>
+                        <description>A mound of sweet breaded rings.</description>
+                        <sizes>
+                                            <size name=" ">6.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733624">
+                        <name>Cheese Stix</name>
+                        <description>Breaded real wisconsin mozzarella cheese, fried golden brown. </description>
+                        <sizes>
+                                            <size name=" ">5.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5893749">
+                        <name>Salads</name>
+                        <description>Dressings: french, 1000 Island, creamy garlic, smokey pepper parmesan, bleu cheese, ranch, raspberry vinaigrette,and balsamic vinaigrette</description>
+                                                    <item id="39733681">
+                        <name>Small House Deluxe</name>
+                        <description>Fresh baby greens, romaine, tomato, onions, cucumber &amp; croutons.</description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733689">
+                        <name>Large House Deluxe </name>
+                        <description>Fresh baby greens, romaine, tomato, onions, cucumber &amp; croutons. </description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733696">
+                        <name>Soup &amp; Salad</name>
+                        <description>Bowl of soup of the day and a small house deluxe.</description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733702">
+                        <name>Grilled Chicken Salad</name>
+                        <description>Grilled breast atop fresh baby greens &amp; romaine lettuce with tomato, cheddar, cheese &amp; eggs. You choose the dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733710">
+                        <name>Blackened Chicken Salad</name>
+                        <description>Spicy chicken breast atop fresh baby greens, romaine lettuce with tomato, cucumber &amp; black olives. You choose the dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733724">
+                        <name>Chicken Caesar Salad</name>
+                        <description>Fresh romaine lettuce, hand tossed with caesar dressing, fresh parmesan cheese &amp; croutons. Finished with a grilled chicken breast, tomato &amp; egg. Make it an atkins without the croutons.</description>
+                        <sizes>
+                                            <size name=" ">9.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733728">
+                        <name>Oriental Chicken Salad</name>
+                        <description>Grilled chicken breast, baby greens, artichoke hearts, mandarin oranges, crispy noodles with a wonderful warm sesame seed ginger dressing.</description>
+                        <sizes>
+                                            <size name=" ">9.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733732">
+                        <name>Grilled Balsamic Tuna Salad</name>
+                        <description>Fresh baby greens, romaine lettuce, tomato, onions and mushrooms. Finished with a glazed grilled balsamic tuna filet. Served with balsamic vinaigrette dressing.</description>
+                        <sizes>
+                                            <size name=" ">9.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733738">
+                        <name>Southwestern Steak Salad</name>
+                        <description>Cajun grilled steak topping fresh romaine lettuce, baby greens, tomato, onions &amp; cheddar cheese. Served with Southwestern dressing.</description>
+                        <sizes>
+                                            <size name=" ">9.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5893765">
+                        <name>Entrees</name>
+                        <description>Served with your choice of french fries, rice pilaf, or baked potato. these entrees are served with broccoli and garlic toast. you may substitute a small house salad for your potato choice for an extra $1.25.</description>
+                                                    <item id="39733773">
+                        <name>Top Sirloin </name>
+                        <description>Specialty of the house. top choice cut, open flame grilled the way you want</description>
+                        <sizes>
+                                            <size name=" ">10.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733777">
+                        <name>Chicken Tenders</name>
+                        <description>Strips of tender white breast meat, fried golden brown. served with honey mustard</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733779">
+                        <name>Grilled Balsamic Tuna Filet </name>
+                        <description>Tuna filet glazed with balsamic vinaigrette</description>
+                        <sizes>
+                                            <size name=" ">9.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733782">
+                        <name>Coconut Shrimp</name>
+                        <description>Shrimp fried golden brown. served with an orange horsey sauce. </description>
+                        <sizes>
+                                            <size name=" ">10.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39733783">
+                        <name>Grilled Salmon</name>
+                        <description>Salmon filet basted with a red bell pepper sauce.</description>
+                        <sizes>
+                                            <size name=" ">11.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5893766">
+                        <name>Pastas</name>
+                        <description> </description>
+                                                    <item id="39733789">
+                        <name>Penne Alfredo</name>
+                        <description>Penne in our homemade, creamy, alfredo sauce. served with garlic bread. Add chicken $2.00, add portabella mushrooms. $2.00 </description>
+                        <sizes>
+                                            <size name=" ">7.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39747020">
+                        <name>Penne Marinara</name>
+                        <description>Penne in homemade marinara sauce, topped with fresh parmesan cheese &amp; served with garlic bread. Add meatballs $1.00 each. Add portabella mushrooms $2.00</description>
+                        <sizes>
+                                            <size name=" ">7.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39747022">
+                        <name>Garlic Herb Shrimp</name>
+                        <description>Shrimp in a creamy white wine garlic sauce served over pasta with garlic bread</description>
+                        <sizes>
+                                            <size name=" ">10.45</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897241">
+                        <name>Sandwiches</name>
+                        <description>Served with your choice of french fries, potato chips or baked potato. Substitute a small house salad for your potato choice for an extra $1.25.</description>
+                                                    <item id="39748879">
+                        <name>Turkey Reuben</name>
+                        <description>Hot turkey on grilled marble rye, with mild sauerkraut, swiss cheese &amp; 1000 island dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748883">
+                        <name>Flannigans Reuben</name>
+                        <description>Corned beef on grilled marble rye, with mild sauerkraut, swiss cheese &amp; 1000 island dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748887">
+                        <name>French Dip</name>
+                        <description>A pile of thinly sliced prime rib with grilled onions and jack cheese on a hoagie bun, served au jus.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748908">
+                        <name>Homemade Pork Tenderloin</name>
+                        <description>Large, hand breaded &amp; deep fried golden brown. Served with lettuce, tomato, onion &amp; pickle, or grilled with no breading $7.50</description>
+                        <sizes>
+                                            <size name=" ">7.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748913">
+                        <name>Philly Cheese Steak</name>
+                        <description>Thinly sliced prime rib grilled with mushrooms, green peppers, onions &amp; topped with pepper jack cheese. add marinara if you like. served on a hoagie bun.</description>
+                        <sizes>
+                                            <size name=" ">9.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748916">
+                        <name>Club Sandwich</name>
+                        <description>Double decker with ham, smoked turkey, bacon, lettuce, tomato &amp; mayo served on the side.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748919">
+                        <name>Black Bean Burger</name>
+                        <description>For a taste of the old southwest. have a vegetarian black bean burger with a little salsa.</description>
+                        <sizes>
+                                            <size name=" ">7.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748922">
+                        <name>Charbroiled Chicken Breast </name>
+                        <description>Lettuce, tomato &amp; honey mustard on the side.</description>
+                        <sizes>
+                                            <size name=" ">7.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748928">
+                        <name>Chicken Cordon Bleu</name>
+                        <description>Grilled chicken breast topped with shaved ham &amp; swiss cheese. </description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748934">
+                        <name>Patty Melt </name>
+                        <description>½ lb. Grilled beef patty on rye with cheddar cheese, mushrooms &amp; grilled onion.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748942">
+                        <name>Grilled Chicken Parmesan </name>
+                        <description>Grilled chicken breast topped with mozzarella cheese &amp; marinara sauce.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748949">
+                        <name>BBQ Pork Sandwich</name>
+                        <description>Juicy pulled pork with our bbq sauce.</description>
+                        <sizes>
+                                            <size name=" ">7.45</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897256">
+                        <name>½ Pound Burgers</name>
+                        <description>Served with your choice of french fries, potato chips or baked potato. Substitute a small house salad for your potato choice for an extra $1.25.</description>
+                                                    <item id="39748977">
+                        <name>Flanburger</name>
+                        <description>Burger open flame grilled the way you want. Add cheese $.75, add bacon $.75</description>
+                        <sizes>
+                                            <size name=" ">7.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748983">
+                        <name>Smothered Burger</name>
+                        <description>Flame grilled burger smothered in mushrooms, onions &amp; sour cream.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748987">
+                        <name>Kansas City Burger </name>
+                        <description>Flame grilled burger covered with ham, cheddar cheese &amp; bbq sauce.</description>
+                        <sizes>
+                                            <size name=" ">8.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39748991">
+                        <name>Bleu Burger</name>
+                        <description>Flame grilled burger topped with bleu cheese &amp; bacon.</description>
+                        <sizes>
+                                            <size name=" ">8.75</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897260">
+                        <name>Wraps</name>
+                        <description>All served with fresh fruit</description>
+                                                    <item id="39749015">
+                        <name>Stuffed Chicken Wrap</name>
+                        <description>Choice of grilled or breaded chicken breast wrapped with lettuce, tomato, cheddar cheese &amp; black olives. Sided with southwestern dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749018">
+                        <name>Vegetarian Portabella Wrap</name>
+                        <description>Roasted red bell peppers, portabella mushrooms, lettuce, tomato &amp; cheddar cheese. sided with southwestern dressing.</description>
+                        <sizes>
+                                            <size name=" ">8.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897265">
+                        <name>Ala Carte</name>
+                        <description> </description>
+                                                    <item id="39749035">
+                        <name>Soup of the Day</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749050">
+                        <name>French Fries</name>
+                        <description>Large mound of Fries. Add cheese $1.00</description>
+                        <sizes>
+                                            <size name=" ">2.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749053">
+                        <name>Baked Potato</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749056">
+                        <name>Broccoli</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.5</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749063">
+                        <name>Cottage Cheese or Guacamole</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">1.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749068">
+                        <name>Sauteed Onions</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749072">
+                        <name>Sauteed Mushrooms</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749074">
+                        <name>Cheese</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749080">
+                        <name>Bacon or Garlic Toast</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">0.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897277">
+                        <name>Kids Menu</name>
+                        <description> </description>
+                                                    <item id="39749096">
+                        <name>Hamburger</name>
+                        <description>With cheese add $.75</description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749107">
+                        <name>Chicken Tenders</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749110">
+                        <name>Grilled Cheese Sandwich</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749113">
+                        <name>Penne Marinara</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897281">
+                        <name>Juices</name>
+                        <description> </description>
+                                                    <item id="39749143">
+                        <name>Cranberry Juice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749145">
+                        <name>Orange Juice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749147">
+                        <name>Grapefruit Juice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749149">
+                        <name>Grape Juice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749151">
+                        <name>Pineapple Juice</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897286">
+                        <name>Beverages</name>
+                        <description> </description>
+                                                    <item id="39749163">
+                        <name>Pepsi</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749225">
+                        <name>Sierra Mist</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749228">
+                        <name>Mountain Dew</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749229">
+                        <name>Diet Mountain Dew</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749232">
+                        <name>Root Beer</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749235">
+                        <name>Coffee (Regular &amp; Decaf)</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749236">
+                        <name>Fresh Brewed Iced Tea</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749238">
+                        <name>Lemonade</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749241">
+                        <name>Diet Pepsi</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749242">
+                        <name>Hot Tea</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.25</size>
+                                                                                                                                                        </sizes></item></category></group>                <group id="3">
+                    <name>Dinner</name>
+                                            <category id="5897346">
+                        <name>Appetizers</name>
+                        <description> </description>
+                                                    <item id="39749539">
+                        <name>Shrimp Cocktail</name>
+                        <description>6 Large gulf shrimp served with housemade cocktail sauce.</description>
+                        <sizes>
+                                            <size name=" ">9.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749553">
+                        <name>Spinach and Artichoke Dip</name>
+                        <description>A thick and rich dip made of spinach, artichoke hearts and lots of cheese.</description>
+                        <sizes>
+                                            <size name=" ">7.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749566">
+                        <name>Skillet of Mushrooms</name>
+                        <description>Fresh mushrooms sauteed in chablis and butter.</description>
+                        <sizes>
+                                            <size name=" ">6.25</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749577">
+                        <name>Potato Skins</name>
+                        <description>Topped with cheddar, scallions, bacon and a touch of garlic. Sided with sour cream and salsa.</description>
+                        <sizes>
+                                            <size name=" ">6.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749586">
+                        <name>Onion Rings</name>
+                        <description>A mound of sweet golden fried rings sided with creamy garlic sauce.</description>
+                        <sizes>
+                                            <size name=" ">6.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749597">
+                        <name>Calamari Rings</name>
+                        <description>Lightly breaded with italian seasonings and fried golden. Served with our seafood sauce.</description>
+                        <sizes>
+                                            <size name=" ">7.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749611">
+                        <name>Buffalo Wings</name>
+                        <description>A classic fried chicken wing. Served with bleu cheese and celery.</description>
+                        <sizes>
+                                            <size name=" ">8.75</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749627">
+                        <name>Crab Puffs</name>
+                        <description>5 Pastries filled with crab meat and blended cream cheese. Fried golden brown and served with horsey orange sauce.</description>
+                        <sizes>
+                                            <size name=" ">6.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749635">
+                        <name>Stuffed Mushrooms</name>
+                        <description>Sauteed mushroom caps filled with crab meat stuffing and topped with monterey jack cheese.</description>
+                        <sizes>
+                                            <size name=" ">7.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897363">
+                        <name>Entrees</name>
+                        <description>All entrees include: warm bread with honey butter and seasonal vegetable. Choice of rice pilaf, fries, seasoned new potatoes, or baked potato. Choice of house salad, spinach salad, hand tossed caesar salad or soup du jour.</description>
+                                                    <item id="39749697">
+                        <name>8oz. Top Sirloin</name>
+                        <description>Choice cut, char broiled to your liking.</description>
+                        <sizes>
+                                            <size name=" ">18.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749704">
+                        <name>12oz. Top Sirloin</name>
+                        <description>Choice cut, char broiled to your liking. </description>
+                        <sizes>
+                                            <size name=" ">22.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749707">
+                        <name>New York Strip</name>
+                        <description>14 oz Strip loin topped with garlic and herb butter.</description>
+                        <sizes>
+                                            <size name=" ">26.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749711">
+                        <name>Apple Smoked Chop</name>
+                        <description>Thick and juicy grilled center cut pork chop.</description>
+                        <sizes>
+                                            <size name=" ">16.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749717">
+                        <name>Ribeye</name>
+                        <description>A 14 oz. choice cut of an old time classic.</description>
+                        <sizes>
+                                            <size name=" ">25.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749723">
+                        <name>Steak Oscar</name>
+                        <description>Choice filet medallions of beef topped with crab meat, asparagus and bearnaise sauce.</description>
+                        <sizes>
+                                            <size name=" ">33.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749733">
+                        <name>8oz Teriyaki Sirloin</name>
+                        <description>Top sirloin marinated to create a juicy and flavorful steak.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749737">
+                        <name>12oz Teriyaki Sirloin</name>
+                        <description>Top sirloin marinated to create a juicy and flavorful steak. </description>
+                        <sizes>
+                                            <size name=" ">23.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749754">
+                        <name>Small Prime Rib </name>
+                        <description>Served au jus or with horseradish sauce</description>
+                        <sizes>
+                                            <size name=" ">20.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749763">
+                        <name>Full Prime Rib  </name>
+                        <description>Served au jus or with horseradish sauce. </description>
+                        <sizes>
+                                            <size name=" ">26.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749767">
+                        <name>Standard Prime Rib  </name>
+                        <description>Served au jus or with horseradish sauce.</description>
+                        <sizes>
+                                            <size name=" ">23.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749789">
+                        <name>8oz Filet of Beef</name>
+                        <description>USDA choice tenderloin. Grilled to your liking. Sided with a bordelaise sauce and sauteed mushrooms.</description>
+                        <sizes>
+                                            <size name=" ">29.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897378">
+                        <name>Pasta and Vegetarian entrees</name>
+                        <description>All entrees include: warm bread with honey butter plus choice of house salad, spinach salad, hand tossed caesar salad or soup du jour</description>
+                                                    <item id="39749819">
+                        <name>Pasta Primavera</name>
+                        <description>A medA medley of fresh vegetables topped with a cream sauce, served over pasta</description>
+                        <sizes>
+                                            <size name=" ">16.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749826">
+                        <name>Salmon Penne</name>
+                        <description>Grilled salmon filet finished with a rose cream sauce.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749829">
+                        <name>Vodka Shrimp</name>
+                        <description>Sauteed shrimp served with vodka cream pesto penne and asparagus.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749836">
+                        <name>Seafood Newberg</name>
+                        <description>A blend of shrimp, scallops &amp; crab meat in a cream sherry sauce. Served over linguini.</description>
+                        <sizes>
+                                            <size name=" ">20.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749844">
+                        <name>Sicilian Garlic Shrimp</name>
+                        <description>6 Succulent gulf shrimp sauteed in a garlic wine sauce and served a top a mound of linguini.</description>
+                        <sizes>
+                                            <size name=" ">18.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897385">
+                        <name>Ala Carte</name>
+                        <description> </description>
+                                                    <item id="39749860">
+                        <name>French Onion Soup Au Gratin</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749867">
+                        <name>Soup Du Jour (Bowl)</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749870">
+                        <name>Twice Baked Potato</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749873">
+                        <name>Broccoli with Hollandaise</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749923">
+                        <name>House Salad</name>
+                        <description>A blend of baby greens and romaine. Served with your choice of our housemade dressings. Creamy garlic, smokey pepper parmesan, french,1000 island, bleu cheese, white ranch, balsamic vinaigrette, fat free raspberry vinaigrette and fat free lemon honey popp</description>
+                        <sizes>
+                                            <size name=" ">2.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749926">
+                        <name>Caesar Salad</name>
+                        <description>Hand tossed with fresh shredded parmesan</description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749935">
+                        <name>Spinach Salad</name>
+                        <description>Fresh spinach served with our warm brandied bacon vinaigrette.</description>
+                        <sizes>
+                                            <size name=" ">3.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897400">
+                        <name>Surf &amp; Turf Combinations</name>
+                        <description> </description>
+                                                    <item id="39749959">
+                        <name>Prime Rib &amp; Monterey Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">26.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749963">
+                        <name>Prime Rib &amp; Stuffed Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">27.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749968">
+                        <name>Prime Rib &amp; Battered Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">25.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749971">
+                        <name>Prime Rib &amp; Lobster</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">49.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749978">
+                        <name>Filet &amp; Monterey Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">38.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749982">
+                        <name>Filet &amp; Stuffed Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">39.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749984">
+                        <name>Filet &amp; Battered Shrimp</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">37.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749988">
+                        <name>Filet &amp; Lobster Tail</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">61.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897408">
+                        <name>Seafood</name>
+                        <description> </description>
+                                                    <item id="39750017">
+                        <name>Monterey Shrimp</name>
+                        <description>6 Gulf shrimp wrapped in smoked bacon and broiled. Topped with monterey jack cheese.</description>
+                        <sizes>
+                                            <size name=" ">21.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750029">
+                        <name>Pan seared Sea Scallops</name>
+                        <description>Sauteed in butter and garlic served on a bed of our special blended rice.</description>
+                        <sizes>
+                                            <size name=" ">20.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750042">
+                        <name>Battered Shrimp</name>
+                        <description>6 Gulf shrimp hand dipped and fried golden brown. Served with our housemade cocktail sauce.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750051">
+                        <name>Stuffed Shrimp</name>
+                        <description>6 Gulf shrimp butterflied and filled with crab stuffing. Finished off gratinee.</description>
+                        <sizes>
+                                            <size name=" ">22.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750064">
+                        <name>Filet of Salmon</name>
+                        <description>Fresh north atlantic salmon grilled and served with hollandaise sauce.</description>
+                        <sizes>
+                                            <size name=" ">20.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750073">
+                        <name>Grilled Fresh Tuna</name>
+                        <description>Seasoned and grilled medium. Finished off with a pineapple salsa.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750075">
+                        <name>Mahi-Mahi</name>
+                        <description>Pan seared &amp; served with a lemon dill sauce.</description>
+                        <sizes>
+                                            <size name=" ">19.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750080">
+                        <name>Lobster Tail</name>
+                        <description>12 oz of ucculent broiled lobster tail, crowned filled with a cognac stuffing.</description>
+                        <sizes>
+                                            <size name=" ">37.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897417">
+                        <name>Poultry</name>
+                        <description> </description>
+                                                    <item id="39750093">
+                        <name>Duck</name>
+                        <description>Boned breast of grilled duck topped with crispy cracklings and served with a raspberry sauce. Normally prepared medium rare by our chef.</description>
+                        <sizes>
+                                            <size name=" ">20.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750101">
+                        <name>Chicken Parmesan</name>
+                        <description>This is a classic from the parma region in italy. Sauteed and topped with marinara and toasted mozzarella. Served over a bed of pasta.</description>
+                        <sizes>
+                                            <size name=" ">18.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750105">
+                        <name>Sesame Chicken</name>
+                        <description>Sauteed breast encrusted with sesame seeds, topped with mushrooms and sided with an orange sauce with a hint of horseradish.</description>
+                        <sizes>
+                                            <size name=" ">18.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750111">
+                        <name>Stuffed Chicken</name>
+                        <description>Breast of chicken lightly breaded, stuffed with mushrooms, onions and monterey jack cheese. Served with a white supreme sauce.</description>
+                        <sizes>
+                                            <size name=" ">18.95</size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897466">
+                        <name>Kids Menu</name>
+                        <description> </description>
+                                                    <item id="39750432">
+                        <name>Hamburger</name>
+                        <description>With cheese add $.75</description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750438">
+                        <name>Chicken Tenders</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750441">
+                        <name>Grilled Cheese</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39750444">
+                        <name>Spaghetti</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=" ">4.95</size>
+                                                                                                                                                        </sizes></item></category></group>                <group id="4">
+                    <name>Brunch</name>
+                                            <category id="5897307">
+                        <name>Carving Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95</description>
+                                                    <item id="39749294">
+                        <name>Prime Rib</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749296">
+                        <name>Smoked Salmon</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749300">
+                        <name>Honey Ham</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897311">
+                        <name>Hot Belgium Waffle Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95 </description>
+                                                    <item id="39749319">
+                        <name>Maple Syrup</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749321">
+                        <name>Sweeten Strawberries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749325">
+                        <name>Sweeten Raspberries petites fours and chocolate Butter</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749326">
+                        <name>Whip Cream</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897314">
+                        <name>Center Food Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95</description>
+                                                    <item id="39749334">
+                        <name>Scramble Eggs</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749346">
+                        <name>Scramble Eggs w/onion, green peppers and cheese</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749347">
+                        <name>Bacon</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749348">
+                        <name>Sausage</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749350">
+                        <name>OBrien Potato</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749352">
+                        <name>Mashed Potato and Gravy</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749357">
+                        <name>Steamed Vegetable Medley</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749359">
+                        <name>Chicken Marsalla</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749362">
+                        <name>Biscuits &amp; Gravy</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749364">
+                        <name>Vegetarian Pasta</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749367">
+                        <name>Caesar Salad w/grilled chicken</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749382">
+                        <name>Spinach Salad w/Brandy Bacon Vinaigrette</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749383">
+                        <name>Coleslaw</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749386">
+                        <name>Three Bean Salad</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897324">
+                        <name>Bread Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95 </description>
+                                                    <item id="39749395">
+                        <name>Assorted Dinner Rolls</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749396">
+                        <name>Assorted Bagels</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749398">
+                        <name>Cinnamon Rolls</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749400">
+                        <name>Pastries</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749402">
+                        <name>Cinnamon Palmiers</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749405">
+                        <name>Cream Cheese</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749407">
+                        <name>Butter</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897328">
+                        <name>Fruit and Vegetable Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95  </description>
+                                                    <item id="39749432">
+                        <name>Fresh Fruit Platter</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                    </sizes></item></category>                    <category id="5897331">
+                        <name>Dessert Topping Station</name>
+                        <description>Prices: 11yrs &amp; above $16.95, 5 to 10 yrs $8.95  </description>
+                                                    <item id="39749452">
+                        <name>Cakes</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749455">
+                        <name>Tortes</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749466">
+                        <name>Cheese Cakes</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                                    </sizes></item>                    <item id="39749479">
+                        <name>Strawberries in Season Cream Puffs</name>
+                        <description> </description>
+                        <sizes>
+                                            <size name=""></size>
+                                                                                                                                                                        </sizes>
+                </item>
+            </category>
+        </group>
+</menu>
+</Menu>

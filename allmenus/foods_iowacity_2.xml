@@ -1,0 +1,322 @@
+<Name>Small House Salad</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, and fresh cucumber served with your choice of salad dressing.</Desc>
+<Name>Small Greek Salad</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing.</Desc>
+<Name>Small Caesar Salad</Name>
+<Desc>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing.</Desc>
+<Name>House Salad</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, and fresh cucumber served with your choice of salad dressing.</Desc>
+<Name>Greek Salad With Pita</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread.</Desc>
+<Name>Caesar Salad With Pita</Name>
+<Desc>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing and handmade pita bread.</Desc>
+<Name>Greek Salad With Chicken</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread, topped off with our succulent chicken breast.</Desc>
+<Name>Caesar Salad With Chicken</Name>
+<Desc>crisp romaine lettuce, ripe tomato, croutons, and fresh grated parmesan cheese served with our delicious caesar dressing and handmade pita bread, topped off with our succulent chicken breast.</Desc>
+<Name>Greek Salad With Gyro</Name>
+<Desc>crisp romaine lettuce, ripe tomato, fresh cut onion, peperoncini pepper, kalamata olives, and imported feta cheese served with our homemade greek salad dressing and handmade pita bread, topped off with our famous gyro meat and renown tzatziki sauce.</Desc>
+<Name>Beef And Sausage Combo</Name>
+<Desc>cant decide which one you want how about both an entire beef sandwich on top of our italian sausage hope you have a big mouth.</Desc>
+<Name>Big Beef And Sausage Combo</Name>
+<Desc>got an appetite well, were here to help a bigger version of our beef and sausage combo.</Desc>
+<Name>Pork Chop Sandwich</Name>
+<Desc> </Desc>
+<Name>Pork Chops Plate</Name>
+<Desc>two pork chops, fries and a french bread.</Desc>
+<Name>Lamb Chops Plate</Name>
+<Desc>eat like a spartan king and have our succulent greek-style lamb chops served with fries and french bread. so good youll be licking the bones.</Desc>
+<Name>Blt Pita</Name>
+<Desc>five strips of fresh bacon served on a handmade pita served with crisp lettuce, ripe tomato, and creamy mayo. mmmmm bacon yeah, that line just never gets old.</Desc>
+<Name>Greek Veggie Pita</Name>
+<Desc>a vegetarian delight crisp lettuce, ripe tomato, fresh cut onion, hummus, pepperoncini peppers, smothered in feta a cheese served on a handmade pita. the only thing that could make this sandwich better is bacon.</Desc>
+<Name>Chicken Breast Pita</Name>
+<Desc>our succulent chicken breast served on a handmade pita with crisp lettuce, ripe tomato, and our renown homemade tzatziki sauce. what can we say chicken is delicious.</Desc>
+<Name>Breaded Chicken Pita</Name>
+<Desc>pieces of juicy crispy breaded chicken served on a handmade pita with crisp lettuce, ripe tomato, and creamy mayo. making life a little crispier.</Desc>
+<Name>Chicken Caesar Pita</Name>
+<Desc>our succulent chicken breast served on handmade pita with crisp lettuce, ripe tomato, delicious caesar dressing and fresh grated parmesan cheese. this sandwich would do augustus proud.</Desc>
+<Name>Greek Chicken Pita</Name>
+<Desc>our succulent chicken breast served on a handmade pita with crisp lettuce, ripe tomato, fresh cut onion, smothered in feta cheese, and topped off with our homemade greek dressing. la, la, la, life is wonderful.</Desc>
+<Name>Chicken Philly Pita</Name>
+<Desc>our succulent chicken breast served on a handmade pita with mozzarella cheese, sauteed grilled green peppers and onions, and creamy mayo. borrowing this classic sandwich from the city of brotherly love.</Desc>
+<Name>Chicken Club Pita</Name>
+<Desc>our succulent chicken breast served on a handmade pita with american cheese, crisp lettuce, ripe tomato, fresh bacon, and creamy mayo. arent you glad we didnt say mmmmmm bacon.</Desc>
+<Name>1/3 Lb. Hamburger</Name>
+<Desc>a thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, and pickle. every mouth watering bite is packed with an explosion of flavor.</Desc>
+<Name>1/3 Lb. Cheeseburger</Name>
+<Desc>a thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese. what doesnt taste better smothered in cheese.</Desc>
+<Name>1/3 Lb. Bacon Cheeseburger</Name>
+<Desc>thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, american cheese, and two strips of fresh bacon. mmmmm bacon.</Desc>
+<Name>2/3 Lb. Double Burger</Name>
+<Desc>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, and pickle. who said having a big mouth was a bad thing.</Desc>
+<Name>2/3 Lb. Double Cheese Burger</Name>
+<Desc>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese. there is only on thing that could make this perfect sandwich better.</Desc>
+<Name>2/3 Lb. Bacon Double Cheese Burger</Name>
+<Desc>two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, american cheese, and fresh bacon bacon.</Desc>
+<Name>1/3 Lb. Western Burger</Name>
+<Desc>a thick juicy 100% beef burger char-grilled served on a toasted bun smothered in barbecue sauce, sauteed grilled onions, american cheese, and fresh bacon. a truly zesty sensation.</Desc>
+<Name>1/3 Lb. Spartis Burger</Name>
+<Desc>our one of a kind creation! a two of our thick juicy 100% beef burger char-gilled served on a toasted bun with ketchup, creamy mayo, crisp lettuce, ripe tomato, fresh cut onion, pickle, and american cheese topped with our famous gyro meat and renown tzatz</Desc>
+<Name>1 Lb. Nikki Burger</Name>
+<Desc>strap on your seat belts for this one. not one, or two, but three 100% beef burger patties stacked on a toasted bun served with all the trimmings. its called the nikki burger because we told nikki if she could eat one then we would name it after her. wel</Desc>
+<Name>Chicago Style Hot Dog</Name>
+<Desc>an authentic chicago classic! 100% beef hot dog served on a poppy seed bun with mustard, hand chopped onions, green relish, ripe tomato, crisp pickle spear, spicy sport pepper and a splash of celery salt the real deal, and its so good you cant only just</Desc>
+<Name>Cheese Dog</Name>
+<Desc>our amazing hot dog smothered in a creamy cheese sauce. this dog is cheesier than our jokes.</Desc>
+<Name>Chili Dog</Name>
+<Desc>our amazing hot dog smothered in our chicago style chili. dont eat this with white gloves.</Desc>
+<Name>Chili Cheese Dog</Name>
+<Desc>our amazing hot dog smothered in our creamy cheese sauce and our chicago style chili. so messy, but so so good.</Desc>
+<Name>Trevor Dog</Name>
+<Desc>our amazing hot dog served with sliced onion, ripe tomato, our famous gyro meat, and our renown tzatziki sauce. why is it called the trevor dog well, youre going to have to ask trevor.</Desc>
+<Name>Chicago Style Polish Sausage</Name>
+<Desc>a bone fide chicago style 100% beef polish sausage served on a poppy seed bun with mustard, hand chopped onions, green relish, ripe tomato, crisp pickle spear, spicy sport pepper and a splash of celery salta marvelous combination of flavor.</Desc>
+<Name>Maxwell Street Polish Sausage</Name>
+<Desc>a bone fide chicago style 100% beef polish sausage served on a poppy seed bun with mustard, sauteed grilled onions, and spicy sport pepper. with taste so good youll think youre on maxwell street.</Desc>
+<Name>Grilled Chicken Breast Sandwich</Name>
+<Desc>our succulent chicken breast char-grilled served on a toasted sesame seed bun with creamy mayo, ripe tomato, and crisp lettuce.</Desc>
+<Name>Italian Beef Sandwich</Name>
+<Desc>genuine chicago style italian beef seasoned to perfection, stacked high on french bread. the meaty sensation that is so wonderful youll be left wondering if you died and gone to heaven.</Desc>
+<Name>Cheesy Italian Beef Sandwich</Name>
+<Desc>our wonderful italian beef sandwich with mozzarella cheese on it to make meaty cheesy phenomenon.</Desc>
+<Name>Big Italian Beef</Name>
+<Desc>the same extraordinary sandwich just served on a larger piece of french bread and more of the tasty meat.</Desc>
+<Name>Big Cheesy Italian Beef Sandwich</Name>
+<Desc>does this need explanation more beef. its cheesy. on a larger piece of french bread.</Desc>
+<Name>Sweet Or Hot Peppers</Name>
+<Desc>add some of our homemade sweet peppers or our chicago style spicy giardinerra peppers to our italian beef and add a sweet or spicy flavor.</Desc>
+<Name>Gyro Sandwich</Name>
+<Desc>thinly sliced authentic gyro meat stacked high on a handmade pita bread, served with ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce. after one bite you will be hooked.</Desc>
+<Name>Gyro Plate</Name>
+<Desc>mounds and mounds of our delicious gyro meat served open face with our handmade pita bread, ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce all on the side, served with fries. so big an iowa football player will be asking for </Desc>
+<Name>Chicken Breast Plate</Name>
+<Desc>two pieces of our succulent chicken breast marinated in our secret greek recipe, char-grilled to perfection, served with crisp lettuce, ripe tomato, world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. chicken that truly m</Desc>
+<Name>Souvlaki Sandwich</Name>
+<Desc>a traditional greek classic! hand cut select pork pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on a hand made pita, ripe tomato, fresh cut onion, and our world renowned homemade tzatziki sauce. its like a pa</Desc>
+<Name>Souvlaki Plate</Name>
+<Desc>two of our mouth-watering souvlaki skewers grilled to perfection served with ripe tomato, fresh cut onion, our world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. theres always room for more at this party.</Desc>
+<Name>Chicken Souvlaki Sandwich</Name>
+<Desc>hand cut chicken breast pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on handmade pita bread with ripe tomato, crisp lettuce, and our world renowned homemade tzatziki sauce. who knew chicken could be so delici</Desc>
+<Name>Chicken Souvlaki Plate</Name>
+<Desc>two of our succulent chicken skewers grilled to perfection served with ripe tomato, crisp lettuce, our world renowned homemade tzatziki sauce, hand made pita, and grecian style white rice. why settlefor one when you can have two.</Desc>
+<Name>Souvlaki Combo Plate</Name>
+<Desc>one skewer of pork and one of chicken served like our other souvlaki plates. this way you wont drive your self crazy choosing between pork or chicken. choose both.</Desc>
+<Name>Gyro/ Souvlaki Combo Plate</Name>
+<Desc>your choice between one of our delicious souvlakis and our famous gyro meat served with ripe tomato, fresh cut onion, our world renowned tzatziki sauce, handmade pita, and fries. one of the toughest choices anyone has to make is between gyro and souvlaki </Desc>
+<Name>Greek Feast Plate</Name>
+<Desc>both of our celebrated souvlakis and our famous gyro meat served with ripe tomato, fresh cut onion, crisp lettuce, our renowned tzatziki sauce, handmade pita, and fries. the trick to eating this feast is to not eat for at least a week, then maybe you migh</Desc>
+<Name>Saganaki</Name>
+<Desc>the opa cheese! a traditional greek cheese called kefalotiri that we grill and soak in lemon juice. a truly unique appetizer that you wont regret trying.</Desc>
+<Name>Spankopita</Name>
+<Desc>greek filo dough stuffed with spinach and imported feta cheese. a cheesy, spinachy delight you wont want to miss. (spinach cheese pie).</Desc>
+<Name>Hummus With Pita</Name>
+<Desc>a delicious appetizer spread made of tahini and chickpeas. a mediterranean favorite that will leave you wanting more.</Desc>
+<Name>Tzatziki</Name>
+<Desc>our world renowned tzatziki is homemade with greek yogurt, fresh cucumbers, and fresh pressed garlic cloves. this is the magic sauce that makes everything better. if your wondering how to pronounce tzatziki, its just like its spelled tza tziki its as s</Desc>
+<Name>Gyro Chili</Name>
+<Desc>tasty chili the greek way, with gyro.</Desc>
+<Name>Avgolemono</Name>
+<Desc>a classic greek soup. the translation is egg lemon soup. we like to describe it as a cream of chicken with rice and lemon. a home recipe soon to be famous. add soup or chili to any meal $1.99.</Desc>
+<Name>Turkey Burger</Name>
+<Desc>a mouthwatering ground turkey patty served on a toasted bun with crisp lettuce, ripe tomato, fresh cut onion, and pickle. taste so good youll forget its turkey.</Desc>
+<Name>Wheat Chicken Souvlaki Sandwich</Name>
+<Desc>hand cut chicken breast pieces marinated in our secret greek recipe skewered and char-grilled to perfection, served on wheat pita bread with ripe tomato, crisp lettuce, and our world renowned homemade tzatziki sauce. already a very healthy option made a l</Desc>
+<Name>1/2 Chicken Souvlaki Plate</Name>
+<Desc>one of our succulent chicken skewers grilled to perfection served with ripe tomato, crisp lettuce, our world renowned homemade tzatziki sauce, wheat pita, and grecian style white rice. youll still have a hard time finishing all of this spectacularly deli</Desc>
+<Name>Wheat Chicken Pita Sandwich</Name>
+<Desc>our succulent chicken breast served on a wheat pita with crisp lettuce, ripe tomato, and our renowned homemade tzatziki sauce. you cant go wrong with chicken.</Desc>
+<Name>1/2 Chicken Breast Plate</Name>
+<Desc>one piece of our succulent chicken breast marinated in our secret greek recipe, char-grilled to perfection, served with crisp lettuce, ripe tomato, world renowned homemade tzatziki sauce, wheat pita, and grecian style white rice.</Desc>
+<Name>Hummus With Wheat Pita</Name>
+<Desc>same great spread, served with wheat pita.</Desc>
+<Name>Greek Veggie Wheat Pita</Name>
+<Desc>for people who just dont like eating. put some meat on it.</Desc>
+<Name>Fries</Name>
+<Desc> </Desc>
+<Name>Cheese Fries</Name>
+<Desc> </Desc>
+<Name>Chili Fries</Name>
+<Desc> </Desc>
+<Name>Chili Cheese Fries</Name>
+<Desc> </Desc>
+<Name>Greek Fries</Name>
+<Desc> </Desc>
+<Name>Cheese Sauce</Name>
+<Desc> </Desc>
+<Name>Cheese Curds</Name>
+<Desc> </Desc>
+<Name>Onion Rings</Name>
+<Desc> </Desc>
+<Name>Breaded Mushrooms</Name>
+<Desc> </Desc>
+<Name>Pizza Puff</Name>
+<Desc> </Desc>
+<Name>Jalapeno Poppers</Name>
+<Desc>(cream cheese).</Desc>
+<Name>Mozzarella Sticks (5)</Name>
+<Desc> </Desc>
+<Name>Mac N Cheese Bites</Name>
+<Desc> </Desc>
+<Name>Chicken Strip Basket</Name>
+<Desc> </Desc>
+<Name>Rice</Name>
+<Desc> </Desc>
+<Name>Side Feta Cheese</Name>
+<Desc> </Desc>
+<Name>Pita Bread</Name>
+<Desc> </Desc>
+<Name>Extra Salad Dressing</Name>
+<Desc> </Desc>
+<Name>Tzatziki Sauce</Name>
+<Desc> </Desc>
+<Name>Sweet Or Hot Peppers</Name>
+<Desc> </Desc>
+<Name>Kids Meal</Name>
+<Desc>(kids 12 & under only) comes with your choice of a hot dog, grilled cheese pita, pizza puff, 3 chicken tenders or mac & cheese bites. includes kids fries and a 16 oz. soft drink.</Desc>
+<Name>Baklava</Name>
+<Desc>this sensational greek pastry is made out of crisp filo dough, nuts, and honey. it taste so good when it touches your lips! but you can only have one if you finish your dinner.</Desc>
+<Name>Rice Pudding</Name>
+<Desc>this wonderful greek classic that we make ourselves will leave you wanting more.</Desc>
+<Name>Fountain Drinks</Name>
+<Desc> </Desc>
+<Name>Bottled Water</Name>
+<Desc> </Desc>
+<Name>Iced Tea</Name>
+<Desc> </Desc>
+<Name>Shrimp Cocktail</Name>
+<Desc>Six large gulf shrimp served with our housemade cocktail sauce.</Desc>
+<Name>Spinach & Artichoke Dip</Name>
+<Desc>A thick, rich dip made with lots of cheese and served with tortilla chips</Desc>
+<Name>Brie Cheese</Name>
+<Desc>Golden fried brie served with grape and crackers. </Desc>
+<Name>Onion Rings</Name>
+<Desc>A mound of sweet breaded rings.</Desc>
+<Name>Cheese Stix</Name>
+<Desc>Breaded real wisconsin mozzarella cheese, fried golden brown. </Desc>
+<Name>Small House Deluxe</Name>
+<Desc>Fresh baby greens, romaine, tomato, onions, cucumber & croutons.</Desc>
+<Name>Large House Deluxe </Name>
+<Desc>Fresh baby greens, romaine, tomato, onions, cucumber & croutons. </Desc>
+<Name>Soup & Salad</Name>
+<Desc>Bowl of soup of the day and a small house deluxe.</Desc>
+<Name>Grilled Chicken Salad</Name>
+<Desc>Grilled breast atop fresh baby greens & romaine lettuce with tomato, cheddar, cheese & eggs. You choose the dressing.</Desc>
+<Name>Blackened Chicken Salad</Name>
+<Desc>Spicy chicken breast atop fresh baby greens, romaine lettuce with tomato, cucumber & black olives. You choose the dressing.</Desc>
+<Name>Chicken Caesar Salad</Name>
+<Desc>Fresh romaine lettuce, hand tossed with caesar dressing, fresh parmesan cheese & croutons. Finished with a grilled chicken breast, tomato & egg. Make it an atkins without the croutons.</Desc>
+<Name>Oriental Chicken Salad</Name>
+<Desc>Grilled chicken breast, baby greens, artichoke hearts, mandarin oranges, crispy noodles with a wonderful warm sesame seed ginger dressing.</Desc>
+<Name>Grilled Balsamic Tuna Salad</Name>
+<Desc>Fresh baby greens, romaine lettuce, tomato, onions and mushrooms. Finished with a glazed grilled balsamic tuna filet. Served with balsamic vinaigrette dressing.</Desc>
+<Name>Southwestern Steak Salad</Name>
+<Desc>Cajun grilled steak topping fresh romaine lettuce, baby greens, tomato, onions & cheddar cheese. Served with Southwestern dressing.</Desc>
+<Name>Top Sirloin </Name>
+<Desc>Specialty of the house. top choice cut, open flame grilled the way you want</Desc>
+<Name>Chicken Tenders</Name>
+<Desc>Strips of tender white breast meat, fried golden brown. served with honey mustard</Desc>
+<Name>Grilled Balsamic Tuna Filet </Name>
+<Desc>Tuna filet glazed with balsamic vinaigrette</Desc>
+<Name>Coconut Shrimp</Name>
+<Desc>Shrimp fried golden brown. served with an orange horsey sauce. </Desc>
+<Name>Grilled Salmon</Name>
+<Desc>Salmon filet basted with a red bell pepper sauce.</Desc>
+<Name>Penne Alfredo</Name>
+<Desc>Penne in our homemade, creamy, alfredo sauce. served with garlic bread. Add chicken $2.00, add portabella mushrooms. $2.00 </Desc>
+<Name>Penne Marinara</Name>
+<Desc>Penne in homemade marinara sauce, topped with fresh parmesan cheese & served with garlic bread. Add meatballs $1.00 each. Add portabella mushrooms $2.00</Desc>
+<Name>Garlic Herb Shrimp</Name>
+<Desc>Shrimp in a creamy white wine garlic sauce served over pasta with garlic bread</Desc>
+<Name>Turkey Reuben</Name>
+<Desc>Hot turkey on grilled marble rye, with mild sauerkraut, swiss cheese & 1000 island dressing.</Desc>
+<Name>Flannigans Reuben</Name>
+<Desc>Corned beef on grilled marble rye, with mild sauerkraut, swiss cheese & 1000 island dressing.</Desc>
+<Name>French Dip</Name>
+<Desc>A pile of thinly sliced prime rib with grilled onions and jack cheese on a hoagie bun, served au jus.</Desc>
+<Name>Homemade Pork Tenderloin</Name>
+<Desc>Large, hand breaded & deep fried golden brown. Served with lettuce, tomato, onion & pickle, or grilled with no breading $7.50</Desc>
+<Name>Philly Cheese Steak</Name>
+<Desc>Thinly sliced prime rib grilled with mushrooms, green peppers, onions & topped with pepper jack cheese. add marinara if you like. served on a hoagie bun.</Desc>
+<Name>Club Sandwich</Name>
+<Desc>Double decker with ham, smoked turkey, bacon, lettuce, tomato & mayo served on the side.</Desc>
+<Name>Black Bean Burger</Name>
+<Desc>For a taste of the old southwest. have a vegetarian black bean burger with a little salsa.</Desc>
+<Name>Charbroiled Chicken Breast </Name>
+<Desc>Lettuce, tomato & honey mustard on the side.</Desc>
+<Name>Chicken Cordon Bleu</Name>
+<Desc>Grilled chicken breast topped with shaved ham & swiss cheese. </Desc>
+<Name>Patty Melt </Name>
+<Desc>½ lb. Grilled beef patty on rye with cheddar cheese, mushrooms & grilled onion.</Desc>
+<Name>Grilled Chicken Parmesan </Name>
+<Desc>Grilled chicken breast topped with mozzarella cheese & marinara sauce.</Desc>
+<Name>BBQ Pork Sandwich</Name>
+<Desc>Juicy pulled pork with our bbq sauce.</Desc>
+<Name>Flanburger</Name>
+<Desc>Burger open flame grilled the way you want. Add cheese $.75, add bacon $.75</Desc>
+<Name>Smothered Burger</Name>
+<Desc>Flame grilled burger smothered in mushrooms, onions & sour cream.</Desc>
+<Name>Kansas City Burger </Name>
+<Desc>Flame grilled burger covered with ham, cheddar cheese & bbq sauce.</Desc>
+<Name>Bleu Burger</Name>
+<Desc>Flame grilled burger topped with bleu cheese & bacon.</Desc>
+<Name>Stuffed Chicken Wrap</Name>
+<Desc>Choice of grilled or breaded chicken breast wrapped with lettuce, tomato, cheddar cheese & black olives. Sided with southwestern dressing.</Desc>
+<Name>Vegetarian Portabella Wrap</Name>
+<Desc>Roasted red bell peppers, portabella mushrooms, lettuce, tomato & cheddar cheese. sided with southwestern dressing.</Desc>
+<Name>Soup of the Day</Name>
+<Desc> </Desc>
+<Name>French Fries</Name>
+<Desc>Large mound of Fries. Add cheese $1.00</Desc>
+<Name>Baked Potato</Name>
+<Desc> </Desc>
+<Name>Broccoli</Name>
+<Desc> </Desc>
+<Name>Cottage Cheese or Guacamole</Name>
+<Desc> </Desc>
+<Name>Sauteed Onions</Name>
+<Desc> </Desc>
+<Name>Sauteed Mushrooms</Name>
+<Desc> </Desc>
+<Name>Cheese</Name>
+<Desc> </Desc>
+<Name>Bacon or Garlic Toast</Name>
+<Desc> </Desc>
+<Name>Hamburger</Name>
+<Desc>With cheese add $.75</Desc>
+<Name>Chicken Tenders</Name>
+<Desc> </Desc>
+<Name>Grilled Cheese Sandwich</Name>
+<Desc> </Desc>
+<Name>Penne Marinara</Name>
+<Desc> </Desc>
+<Name>Cranberry Juice</Name>
+<Desc> </Desc>
+<Name>Orange Juice</Name>
+<Desc> </Desc>
+<Name>Grapefruit Juice</Name>
+<Desc> </Desc>
+<Name>Grape Juice</Name>
+<Desc> </Desc>
+<Name>Pineapple Juice</Name>
+<Desc> </Desc>
+<Name>Pepsi</Name>
+<Desc> </Desc>
+<Name>Sierra Mist</Name>
+<Desc> </Desc>
+<Name>Mountain Dew</Name>
+<Desc> </Desc>
+<Name>Diet Mountain Dew</Name>
+<Desc> </Desc>
+<Name>Root Beer</Name>
+<Desc> </Desc>
+<Name>Coffee (Regular & Decaf)</Name>
+<Desc> </Desc>
+<Name>Fresh Brewed Iced Tea</Name>
+<Desc> </Desc>
+<Name>Lemonade</Name>
+<Desc> </Desc>
+<Name>Diet Pepsi</Name>
+<Desc> </Desc>
+<Name>Hot Tea</Name>
+<Desc> </Desc>
