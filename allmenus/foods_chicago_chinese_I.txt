@@ -1,0 +1,4885 @@
+<ENName>Double Stuffed Potato Spring Rolls</ENName>
+<ZHName>双酿土豆春卷</ZHName>
+<Desc>带着淡淡的绿色的洋葱，奶油土豆泥推出在香脆的亚洲包装，芝士、 烟熏烟熏培根和葱，配上酸奶油</Desc>
+<ENName>Vietnamese Chicken Summer Rolls</ENName>
+<ZHName>越南鸡夏季卷</ZHName>
+<Desc>鸡、 芦笋、 红色和黄色的辣椒、 胡萝卜和米粉卷在一个包装，凉拌花生辣酱</Desc>
+<ENName>Buffalo Chicken Rolls</ENName>
+<ZHName>水牛城鸡卷</ZHName>
+<Desc>鸡胸肉、 奶酪和我们很辣美味的布法罗酱都在翻辣的包装，油煎，直到脆，送达芹菜根和蓝奶酪调味</Desc>
+<ENName>Chicken Lettuce Wraps</ENName>
+<ZHName>鸡肉生菜包</ZHName>
+<Desc>炒的鸡胸肉和蔬菜在美味的亚洲酱，配上酷生菜包</Desc>
+<ENName>Crispy Thai Shrimp and Chicken Spring Rolls</ENName>
+<ZHName>脆皮泰国虾和鸡肉春卷</ZHName>
+<Desc>配泰式甜辣酱辣椒</Desc>
+<ENName>Spicy Santa Fe Rolls</ENName>
+<ZHName>辣 Santa Fe 卷</ZHName>
+<Desc>脆皮包装充满特别的鸡肉、 玉米、 黑豆、 洋葱、 辣椒和奶酪</Desc>
+<ENName>Crispy Flautas</ENName>
+<ZHName>脆皮冰糕</ZHName>
+<Desc>充满了鸡，椒辣椒、 香菜和辣椒杰克奶酪，面粉玉米饼炸脆皮和配鳄梨酱</Desc>
+<ENName>Stacked Chicken Quesadilla</ENName>
+<ZHName>堆叠式的鸡肉玉米饼</ZHName>
+<Desc>玉米粉圆饼分层与奶酪融化、 鸡肉、 番茄、 黑豆和绿色的辣椒，配上牛油果玉米莎莎</Desc>
+<ENName>Creamy Spinach and Cheese Dip</ENName>
+<ZHName>奶油菠菜和干酪倾角</ZHName>
+<Desc>与朝鲜蓟心相结合，配脆玉米片和沙拉</Desc>
+<ENName>Dim Sum</ENName>
+<ZHName>点心</ZHName>
+<Desc>两人最低的开胃菜收藏夹组合，岛上釉肋骨天妇罗岩虾、 生菜杯、 夏季卷、 可可 mac 鸡嗲和水牛城鸡卷</Desc>
+<ENName>Duck Potstickers</ENName>
+<ZHName>鸭锅贴</ZHName>
+<Desc>鸭胸、 香菇和脆皮的蔬菜在辣的海鲜酱，蒸然后直到酥嫩煎</Desc>
+<ENName>Coco Mac Chicken Satay</ENName>
+<ZHName>可可 Mac 鸡肉沙爹</ZHName>
+<Desc>椰子和澳洲坚果涂层带神奇岛屿风格调味汁的鸡肉串</Desc>
+<ENName>Asian Nachos</ENName>
+<ZHName>亚洲玉米片</ZHName>
+<Desc>脆皮炸云吞满热花生酱鸡，上面加芥末奶油和融化的奶酪</Desc>
+<ENName>Tempura Rock Shrimp</ENName>
+<ZHName>天妇罗岩虾</ZHName>
+<Desc>炸脆，浇上甜芥末酱</Desc>
+<ENName>Island Glazed Ribs</ENName>
+<ZHName>岛上釉的肋骨</ZHName>
+<Desc>烤和甜酱油姜烧烤酱釉面</Desc>
+<ENName>Crispy Ahi Sushi Roll</ENName>
+<ZHName>脆皮 Ahi 寿司卷</ZHName>
+<Desc>寿司米饭裹在紫菜充满 ahi、 鳄梨、 姜、 葱和辣的辣椒酱闪存炸的酥</Desc>
+<ENName>Fried Calamari, Rock Shrimp and Vegetables</ENName>
+<ZHName>炸鱿鱼、 岩虾和蔬菜</ZHName>
+<Desc>不够两个人分，配上柠檬鞑靼酱</Desc>
+<ENName>Crabcakes</ENName>
+<ZHName>蟹肉蛋糕还要好</ZHName>
+<Desc>香辣芥末酱</Desc>
+<ENName>Seared Rare Ahi</ENName>
+<ZHName>香煎罕见 Ahi</ZHName>
+<Desc>海苔裹 ahi 金枪鱼切片烙罕见，点缀着三份沙拉、 酱油的缘故 dip 和芥末奶油</Desc>
+<ENName>The Grand Appetizer Platter</ENName>
+<ZHName>盛大的开胃菜拼盘</ZHName>
+<Desc>服务四个或更多一大堆各式各样的包括菠菜朝鲜蓟沾酱、 香酥泰国虾和鸡肉春卷、 鸭锅贴、 水牛城鸡卷、 可可 mac 鸡肉沙爹和越南鸡夏天我们最受欢迎的开胃菜卷，添加 se</Desc>
+<ENName>Edamame</ENName>
+<ZHName>毛豆</ZHName>
+<Desc>在他们的豆荚四川辣酱炒大豆</Desc>
+<ENName>Today's Soups</ENName>
+<ZHName>今天的汤</ZHName>
+<Desc></Desc>
+<ENName>House Green Salad</ENName>
+<ZHName>房子绿色沙拉</ZHName>
+<Desc>扔进了我们烤番茄焦糖碎戈尔贡佐拉奶酪 1.00 附加洋葱油醋汁</Desc>
+<ENName>Blue Cheese Salad</ENName>
+<ZHName>蓝纹奶酪沙拉</ZHName>
+<Desc>新鲜蔬菜拌上蓝奶酪调味和配培根、 番茄、 油煎面包块和更多的蓝奶酪碎</Desc>
+<ENName>Iceberg Lettuce Wedge</ENName>
+<ZHName>卷心莴苣楔</ZHName>
+<Desc>与千岛、 培根、 番茄和磨碎的鸡蛋</Desc>
+<ENName>Beet and Goat Cheese Salad</ENName>
+<ZHName>甜菜和山羊奶酪沙拉</ZHName>
+<Desc>混合蔬菜、 烤的甜菜、 轻度山羊奶酪和 candred 核桃</Desc>
+<ENName>Greek Salad</ENName>
+<ZHName>希腊沙拉</ZHName>
+<Desc>发达芝士、 樱桃西红柿、 黄瓜、 红洋葱、 卡拉马塔橄榄和生菜，扔在我们房子的香醋</Desc>
+<ENName>Spicy Calamari Salad</ENName>
+<ZHName>香辣鱿鱼沙拉</ZHName>
+<Desc>香酥鱿鱼，混合蔬菜、 胡萝卜、 黄瓜和大葱扔与美味的辣油醋汁</Desc>
+<ENName>Caprese Salad</ENName>
+<ZHName>意大利番茄沙拉</ZHName>
+<Desc>切片腌制的新鲜罗勒芝士、 番茄和干酪配菠菜和 arugala 沙拉</Desc>
+<ENName>Chopped Salad</ENName>
+<ZHName>切碎的沙拉</ZHName>
+<Desc>烤鸡、 培根、 番茄、 蓝纹奶酪、 牛油果、 蛋和混合的蔬菜扔在我们的香醋</Desc>
+<ENName>Caesar Salad</ENName>
+<ZHName>凯撒沙拉</ZHName>
+<Desc>整个长叶莴苣叶与干酪炸薯片</Desc>
+<ENName>Margherita</ENName>
+<ZHName>玛格丽塔</ZHName>
+<Desc>与新鲜的番茄、 罗勒、 马苏里拉</Desc>
+<ENName>Pepperoni</ENName>
+<ZHName>意大利辣香肠</ZHName>
+<Desc></Desc>
+<ENName>B.B.Q. Chicken</ENName>
+<ZHName>烧烤鸡</ZHName>
+<Desc></Desc>
+<ENName>Thai Chicken</ENName>
+<ZHName>泰国鸡</ZHName>
+<Desc>烤的鸡、 花生辣酱、 豆芽、 胡萝卜、 葱、 罗勒、 胡荽叶和马苏里拉</Desc>
+<ENName>Fresh Mozzarella</ENName>
+<ZHName>新鲜奶酪</ZHName>
+<Desc>与烤的西红柿、 菠菜、 朝鲜蓟和大蒜</Desc>
+<ENName>The Chop House Burger</ENName>
+<ZHName>扒房子汉堡</ZHName>
+<Desc>认证的安格斯牛肉，配上炸薯条，您所选择的奶酪，培根，鳄梨或炒蘑菇每个 1.00 元</Desc>
+<ENName>Grand Lux Burger Melt</ENName>
+<ZHName>盛大 Lux 汉堡熔体</ZHName>
+<Desc>上有很多的车打芝士、 烤的洋葱和千岛酱烤干酪奶酪面包，炸鱼配薯条</Desc>
+<ENName>Cafe Burger</ENName>
+<ZHName>咖啡厅汉堡</ZHName>
+<Desc>顶上有融化了的巫女和模糊的奶酪，脆培根和甜甜的焦糖的洋葱，送达一号种子法国卷配薯条</Desc>
+<ENName>The Max Burger</ENName>
+<ZHName>最大汉堡</ZHName>
+<Desc>我们最大的汉堡包创作，认证的安格斯牛肉配上切达干酪、 脆馥郁熏制腊肉、 炒洋葱、 的蘑菇、 洋葱和烤的排骨，炸鱼配薯条</Desc>
+<ENName>Santa Barbara Chicken Sandwich</ENName>
+<ZHName>圣塔芭芭拉分校鸡肉三明治</ZHName>
+<Desc>鸡培根、 鳄梨和奶酪融化在我们奶油蛋卷小圆面包烤的乳房炸鱼配薯条</Desc>
+<ENName>Spicy Flat Bread Chicken Sandwich</ENName>
+<ZHName>辣扁面包鸡肉三明治</ZHName>
+<Desc>烤的鸡胸肉配上辣椒杰克奶酪、 牛油果玉米莎莎、 红洋葱、 生菜、 西红柿和梅奥对我们烤大饼，炸鱼配薯条</Desc>
+<ENName>Spicy Buffalo Chicken Sandwich</ENName>
+<ZHName>水牛城辣鸡肉三明治</ZHName>
+<Desc>与我们的水牛城辣调味汁和融化了的奶酪脆涂层的鸡胸肉送达的奶油蛋糕面包配薯条</Desc>
+<ENName>Carolina B.B.Q Pork Sandwich</ENName>
+<ZHName>卡罗莱纳州烧烤猪肉三明治</ZHName>
+<Desc>烤的里脊，我们亲爱的辣烧烤酱和凉拌卷心菜都高高地堆在一号种子卷配炸薯条和花生凉拌</Desc>
+<ENName>BLT Sandwich</ENName>
+<ZHName>BLT 三明治</ZHName>
+<Desc>脆烟熏烟熏培根、 番茄、 比伯生菜和蛋黄酱，烤过的国家的小麦面包，配薯条</Desc>
+<ENName>Chicken Salad Sandwich</ENName>
+<ZHName>鸡肉色拉三明治</ZHName>
+<Desc>大块的鸡肉与芹菜、 葱和蛋黄酱，生菜、 西红柿和蛋黄酱，全麦面包炸鱼配薯条</Desc>
+<ENName>Wild Mushroom 'Burger'</ENName>
+<ZHName>野生蘑菇 '汉堡包'</ZHName>
+<Desc>褐菇、 香菇、 菇和对于蘑菇的混合制成一个无肉汉堡掺一点大蒜、 奶酪和新鲜百里香，ona 包子配炸薯条</Desc>
+<ENName>Tuna 'Nicoise' Melt</ENName>
+<ZHName>'沙拉' 金枪鱼</ZHName>
+<Desc>长鳍金枪鱼、 芹菜、 洋葱、 鸡蛋、 青豆、 番茄、 甜椒和蛋黄酱，送达开放面临融化的 havarti 奶酪脆皮小麦面包和蔬菜沙拉</Desc>
+<ENName>Grand Club Sandwich</ENName>
+<ZHName>大俱乐部三明治</ZHName>
+<Desc>新鲜烤的火鸡，脆烟熏烟熏培根、 芝麻菜、 西红柿和蛋黄酱，烤面包炸鱼配薯条</Desc>
+<ENName>Warm Pot Roast Sandwich</ENName>
+<ZHName>暖锅烤三明治</ZHName>
+<Desc>三尖慢烤到嫩，生菜、 番茄和辣根酱，炸鱼配薯条的一侧</Desc>
+<ENName>Grilled Ahi Tuna Burger</ENName>
+<ZHName>烤的 Ahi 金枪鱼汉堡</ZHName>
+<Desc>烤 '出现' 风格的奶油蛋糕面包炸鱼配薯条</Desc>
+<ENName>Steak Mushroom and Cheese Sandwich</ENName>
+<ZHName>牛排蘑菇和奶酪三明治</ZHName>
+<Desc>烤认证的安格斯牛排、 蘑菇、 洋葱和上一个种子的法式面包，奶酪融化炸鱼配薯条</Desc>
+<ENName>Asian Chicken Salad</ENName>
+<ZHName>亚洲鸡肉沙拉</ZHName>
+<Desc>切成薄片的鸡胸肉，酥馄饨，米饭面条、 莴苣、 卷心菜、 葱和烤的杏仁，扔进了我们亚洲的调味</Desc>
+<ENName>Southwestern Salad</ENName>
+<ZHName>西南沙拉</ZHName>
+<Desc>鸡胸肉、 鲜玉米、 黑豆、 玉米饼带、 鳄梨和胡椒杰克奶酪扔进蜂蜜石灰油醋汁</Desc>
+<ENName>Portofino Chicken Salad</ENName>
+<ZHName>波托菲诺鸡肉沙拉</ZHName>
+<Desc>鸡胸肉、 橙、 釉面的核桃、 红洋葱、 戈尔贡佐拉奶酪和混合的生菜所有扔与我们家香醋</Desc>
+<ENName>Polynesian Salad</ENName>
+<ZHName>玻利尼西亚人沙拉</ZHName>
+<Desc>烤的鸡胸肉拌混合的蔬菜、 红色和黄色的辣椒、 红洋葱、 豆薯、 豆、 黄瓜、 芒果、 坚果、 香菜和杏菠萝油醋汁</Desc>
+<ENName>California Salad</ENName>
+<ZHName>加州沙拉</ZHName>
+<Desc>新鲜烤的火鸡、 培根、 番茄、 戈尔贡佐拉奶酪，蛋和切碎的青菜扔在或房子油醋汁</Desc>
+<ENName>Seafood Salad</ENName>
+<ZHName>海鲜沙拉</ZHName>
+<Desc>在一张床的脆生菜拌上我们 '路易' 一次性螃蟹、 虾、 牛油果、 番茄、 烤的辣椒、 玉米、 青豆、 鸡蛋、 芹菜和葱酱</Desc>
+<ENName>Seared Rare Ahi Tuna Salad</ENName>
+<ZHName>罕见的烤的 Ahi 金枪鱼沙拉</ZHName>
+<Desc>与长叶莴苣，菊苣、 熊犬和鳄梨抛在我们的香醋</Desc>
+<ENName>Manhattan Salad</ENName>
+<ZHName>曼哈顿沙拉</ZHName>
+<Desc>切碎的沙拉配长叶莴苣生菜、 芦笋、 番茄、 白豆、 甜菜根、 红洋葱、 扁豆和什锦的蔬菜全部扔进了我们家的香醋和您所选择的</Desc>
+<ENName>Pasta Pomodoro</ENName>
+<ZHName>面食番茄</ZHName>
+<Desc>用我们的西红柿酱、 罗勒、 大蒜天使头发</Desc>
+<ENName>Zen Noodles</ENName>
+<ZHName>禅宗面条</ZHName>
+<Desc>柠檬草鸡汤，一大碗米饭面条和切成薄片的鸡胸肉配上绿色的洋葱，配上新鲜的豆芽、 菠菜、 泰国罗勒叶在边</Desc>
+<ENName>Pasta Carbonara</ENName>
+<ZHName>面食 Carbonara</ZHName>
+<Desc>进口的 spaghettini 通心粉拌熏的咸肉、 豌豆、 大蒜和干酪奶油酱，一个典型的组合</Desc>
+<ENName>Pasta Fresca</ENName>
+<ZHName>意大利面佛瑞斯</ZHName>
+<Desc>螺旋通心粉拌烤茄子、 樱桃番茄、 芦笋、 西兰花、 辣椒、 番茄干、 卡拉马塔橄榄、 大蒜、 橄榄油和干酪</Desc>
+<ENName>Pasta Telephono</ENName>
+<ZHName>面食脚板</ZHName>
+<Desc>丰富番茄汁和少许奶油和融化了的马苏里拉芝士，烤，配上烤的面包糠</Desc>
+<ENName>Pasta with Chicken in Garlic Cream Sauce</ENName>
+<ZHName>大蒜奶油酱汁鸡意面</ZHName>
+<Desc>拌晒干番茄、 新鲜的蘑菇和巴马臣芝士</Desc>
+<ENName>Pasta with Grilled Chicken, Tomato, Basil and Mozzarella</ENName>
+<ZHName>意大利面烤的鸡肉、 番茄、 罗勒和马苏里拉</ZHName>
+<Desc>光和新鲜，配上烤的西红柿和大蒜</Desc>
+<ENName>Rustic Lasagna</ENName>
+<ZHName>乡村烤宽面条</ZHName>
+<Desc>意大利面分层与新鲜的蘑菇、 鸡、 菠菜和干酪、 奶油烤的番茄汁全覆盖</Desc>
+<ENName>Sunday Night Pasta</ENName>
+<ZHName>周日晚上面食</ZHName>
+<Desc>作新鲜每一天，丰富慢炖的肉蘸着大块的牛肉排骨、 牛排、 鲜蘑菇、 洋葱、 大蒜和帕尔玛奶酪服务在 spaghettini</Desc>
+<ENName>Spaghettini with Fresh Clams</ENName>
+<ZHName>Spaghettini 与新鲜的蛤</ZHName>
+<Desc>婴儿蛤、 橄榄油、 大蒜炒的岩虾 $3.00 附加一点白葡萄酒</Desc>
+<ENName>Pasta with Jumbo Shrimp[</ENName>
+<ZHName>大虾 [意面</ZHName>
+<Desc>扔与烤箱干西红柿、 洋蓟和我们自己的番茄或柠檬奶油奶酪</Desc>
+<ENName>Salisbury Chopped Steak</ENName>
+<ZHName>索尔兹伯里切碎的牛排</ZHName>
+<Desc>与洋葱、 蘑菇、 大蒜、 相结合的老式切碎的牛腩配土豆泥、 褐色肉汁和新鲜蔬菜</Desc>
+<ENName>Pan Roasted Chicken Breast</ENName>
+<ZHName>平底锅烤鸡胸肉</ZHName>
+<Desc>腌制与草药和配土豆泥和新鲜的蔬菜</Desc>
+<ENName>Jamaican Pork Tenderloin</ENName>
+<ZHName>牙买加里脊</ZHName>
+<Desc>用黑豆、 甜土豆泥、 水稻和很辣牙买加黑胡椒酱汁，淋上酷芒果酱</Desc>
+<ENName>Braised Yankee Pot Roast</ENName>
+<ZHName>红烧的洋基锅烤</ZHName>
+<Desc>三尖慢烤直到嫩，配的土豆泥、 蔬菜和肉汁</Desc>
+<ENName>Grilled Pork Chop</ENName>
+<ZHName>香烤的猪排</ZHName>
+<Desc>等腰切，釉面和配土豆泥的甘薯、 蔬菜、 我们自己酸辣酱</Desc>
+<ENName>Mongolian Steak</ENName>
+<ZHName>蒙古牛排</ZHName>
+<Desc>腌制的牛排和烤的洋葱配上新鲜的烤扁面包、 亚洲的酱汁和米饭</Desc>
+<ENName>Slow Roasted Short Ribs of Beef</ENName>
+<ZHName>慢烤的排骨的牛肉</ZHName>
+<Desc>红烧美味的红酒肉汁，配土豆泥、 蔬菜、 辣根酱的一侧</Desc>
+<ENName>Steak Frite 'Bistro Style'</ENName>
+<ZHName>牛排 Frite 的小酒馆风格</ZHName>
+<Desc>老年人认证的安格斯牛排衣架、 炭烤和顶部加香草黄油，配上蒜炸薯条</Desc>
+<ENName>Filet Mignon</ENName>
+<ZHName>菲力牛排</ZHName>
+<Desc></Desc>
+<ENName>Petite Filet</ENName>
+<ZHName>身材娇小的菲力</ZHName>
+<Desc></Desc>
+<ENName>Rib Eye Steak</ENName>
+<ZHName>肋眼牛排</ZHName>
+<Desc></Desc>
+<ENName>Cajun Rib Eye Steak</ENName>
+<ZHName>醇香的肋眼牛排</ZHName>
+<Desc>用醇香香料腌制后</Desc>
+<ENName>Steak Frite 'Bistro Style' and Shrimp Scampi</ENName>
+<ZHName>牛排 Frite '小酒馆风格' 和虾</ZHName>
+<Desc>配育空地区黄金土豆泥</Desc>
+<ENName>Steak Frite 'Bistro Style' and Slow Roasted Short Ribs of Beef</ENName>
+<ZHName>牛排 Frite 的小酒馆风格和慢烤的排骨的牛肉</ZHName>
+<Desc>配土豆泥和奶油辣根汁</Desc>
+<ENName>Slow Roasted Short Ribs of Beef and Shrimp Scampi</ENName>
+<ZHName>慢烤的排骨牛肉和虾的</ZHName>
+<Desc>配育空地区黄金土豆泥</Desc>
+<ENName>Vegetables As a Meal</ENName>
+<ZHName>蔬菜作为一顿饭</ZHName>
+<Desc>配上白米饭和一品酒会的任何四种蔬菜的伴奏下</Desc>
+<ENName>French Fries</ENName>
+<ZHName>法式炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Mashed Potatoes</ENName>
+<ZHName>土豆泥</ZHName>
+<Desc></Desc>
+<ENName>Parmesan Potato Cakes</ENName>
+<ZHName>巴马马铃薯饼</ZHName>
+<Desc></Desc>
+<ENName>Glazed Carrots</ENName>
+<ZHName>釉面的胡萝卜</ZHName>
+<Desc></Desc>
+<ENName>Mashed Sweet Potatoes</ENName>
+<ZHName>甜土豆泥</ZHName>
+<Desc></Desc>
+<ENName>Fresh Spinach</ENName>
+<ZHName>新鲜菠菜</ZHName>
+<Desc></Desc>
+<ENName>Braised Red Cabbage</ENName>
+<ZHName>红扒的白菜</ZHName>
+<Desc></Desc>
+<ENName>Broccoli</ENName>
+<ZHName>西兰花</ZHName>
+<Desc></Desc>
+<ENName>Asparagus</ENName>
+<ZHName>芦笋</ZHName>
+<Desc></Desc>
+<ENName>Green Beans</ENName>
+<ZHName>青刀豆</ZHName>
+<Desc></Desc>
+<ENName>Szechuan Green Beans</ENName>
+<ZHName>四川青刀豆</ZHName>
+<Desc></Desc>
+<ENName>Snap Peas</ENName>
+<ZHName>对齐豌豆</ZHName>
+<Desc></Desc>
+<ENName>Sauteed Wild Mushrooms</ENName>
+<ZHName>清炒野生蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Steamed White Rice</ENName>
+<ZHName>蒸白米饭</ZHName>
+<Desc></Desc>
+<ENName>Fried Chicken</ENName>
+<ZHName>炒鸡</ZHName>
+<Desc>香脆鸡配土豆泥和蔬菜</Desc>
+<ENName>Crispy Fish and Chips</ENName>
+<ZHName>脆皮鱼和薯条</ZHName>
+<Desc>总是新鲜 ！天妇罗风格酱花生凉拌卷心菜，法式炸薯条与我们自己鞑靼酱</Desc>
+<ENName>Crispy Caramel Chicken</ENName>
+<ZHName>焦糖脆皮鸡</ZHName>
+<Desc>脆皮受虐的碎片的鸡胸肉中辛辣的泰国焦糖酱蘑菇、 洋葱、 红辣椒、 大蒜和生姜，烩饭</Desc>
+<ENName>Chicken Parmesan</ENName>
+<ZHName>鸡巴马</ZHName>
+<Desc>鸡胸肉涂有干酪面包糠和覆盖着番茄汁和马苏里拉奶酪，配上意大利面</Desc>
+<ENName>Madeira Chicken</ENName>
+<ZHName>马德拉岛鸡</ZHName>
+<Desc>炒的鸡胸肉，配芦笋，马苏里拉和我们新鲜的蘑菇马德拉酱，配土豆泥</Desc>
+<ENName>Cajun Shrimp and Chicken Jambalaya</ENName>
+<ZHName>醇香虾和鸡肉什锦饭</ZHName>
+<Desc>炒用辣椒，洋葱和 tasso 在美味的麻辣酱，配上白米饭</Desc>
+<ENName>Shaking Beef</ENName>
+<ZHName>摇晃牛肉</ZHName>
+<Desc>东南亚的启发 ！牛里脊片，红色和绿色的洋葱炒与轻度辣腌料，配上蒸白米饭</Desc>
+<ENName>Crispy Sesame Tofu</ENName>
+<ZHName>脆皮芝麻豆腐</ZHName>
+<Desc>在我们的辣四川桔子汁和蒸的米饭炒蔬菜送达</Desc>
+<ENName>Lemon Chicken Piccata</ENName>
+<ZHName>柠檬鸡溜</ZHName>
+<Desc>嫩煎的鸡胸配奶油柠檬酱汁、 蘑菇、 洋蓟和水瓜榴，配上意大利面</Desc>
+<ENName>Chicken Venetian</ENName>
+<ZHName>鸡百叶</ZHName>
+<Desc>鸡胸肉炒什锦的新鲜蘑菇，青葱、 草药、 白葡萄酒和淡淡的奶油，配帕尔马干酪马铃薯饼</Desc>
+<ENName>Wiener Schnitzel</ENName>
+<ZHName>维纳炸肉排</ZHName>
+<Desc>奥地利风格薄香脆涂层小牛肉大奖章配土豆泥和红烧红甘蓝</Desc>
+<ENName>Jumbo Fried Shrimp</ENName>
+<ZHName>巨无霸炸虾</ZHName>
+<Desc>配花生凉拌卷心菜和薯条</Desc>
+<ENName>Miso Glazed Salmon</ENName>
+<ZHName>味噌釉面三文鱼</ZHName>
+<Desc>配米饭和炒的蔬菜</Desc>
+<ENName>Cedar Planked B.B.Q Salmon</ENName>
+<ZHName>雪松爽快地烧烤三文鱼</ZHName>
+<Desc>烤上一个雪松木板和釉面配甜和辣的烧烤汁，配土豆泥，玉米豆和香酥洋葱圈</Desc>
+<ENName>Indochine Shrimp and Chicken</ENName>
+<ZHName>印度支那虾和鸡肉</ZHName>
+<Desc>中国和印度风味、 虾、 鸡肉、 洋葱和甜姜所有炒咖喱、 梅酒和一个小奶油配上晒干樱桃、 杏，配上白米饭好吃辣汁中的融合菜</Desc>
+<ENName>Shrimp Scampi</ENName>
+<ZHName>虾</ZHName>
+<Desc>炒用白色的好酒，柠檬、 大蒜、 番茄、 罗勒、 欧芹、 淡淡的奶油，配上意大利面</Desc>
+<ENName>Chocolate Tower</ENName>
+<ZHName>巧克力塔</ZHName>
+<Desc>一层脆脆巧克力杏仁及光滑牛奶巧克力慕斯，淋上生奶油，神奇 ！</Desc>
+<ENName>Banana Cream Pie</ENName>
+<ZHName>香蕉奶油馅饼</ZHName>
+<Desc>嘎吱嘎吱的山核桃格雷厄姆地壳充满了美味香蕉奶油蛋羹和很多的新鲜香蕉，配上新鲜的奶油</Desc>
+<ENName>Warm Banana Chocolate Chip Bread Pudding</ENName>
+<ZHName>温暖的香蕉巧克力面包布丁</ZHName>
+<Desc>温暖和美味 ！威士忌酒酱</Desc>
+<ENName>Warm Apple or Cherry Crisp</ENName>
+<ZHName>温暖的苹果或樱桃脆</ZHName>
+<Desc>配上香脆坚果紧缩和香草冰淇凌</Desc>
+<ENName>Fresh Strawberry Shortcake</ENName>
+<ZHName>新鲜的草莓蛋糕</ZHName>
+<Desc>温暖的糖榜首脆饼充满了新鲜的草莓和香草冰淇淋，配上鲜奶油</Desc>
+<ENName>Key Lime Pie</ENName>
+<ZHName>酸橙派</ZHName>
+<Desc>与格雷厄姆山核桃壳，配上新鲜的奶油烤的鲜</Desc>
+<ENName>'The Best' Carrot Cake</ENName>
+<ZHName>最好的' 胡萝卜蛋糕</ZHName>
+<Desc>柑橘的奶油乳酪糖霜</Desc>
+<ENName>Deep Dark Fudge Cake</ENName>
+<ZHName>深暗软糖蛋糕</ZHName>
+<Desc>支巧克力糖霜</Desc>
+<ENName>Triple Chocolate Almond Ice Cream Cookie Sandwich</ENName>
+<ZHName>三倍巧克力杏仁冰淇淋饼干三明治</ZHName>
+<Desc>新鲜出炉 ！充满焦糖冰淇淋、 自制的棉花糖、 热巧克力、 焦糖色素</Desc>
+<ENName>A Box of Warm Homemade Chocolate Chip Pecan Cookies</ENName>
+<ZHName>温暖自制巧克力核桃饼干一盒</ZHName>
+<Desc>十几个新鲜出炉</Desc>
+<ENName>Original</ENName>
+<ZHName>源语言</ZHName>
+<Desc></Desc>
+<ENName>Fresh Strawberry</ENName>
+<ZHName>新鲜草莓</ZHName>
+<Desc></Desc>
+<ENName>Chocolate Coconut Cream Cheesecake</ENName>
+<ZHName>巧克力椰子奶油芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Oreo Cheesecake</ENName>
+<ZHName>奥利奥芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Dulce De Leche Caramel Cheesecake</ENName>
+<ZHName>杜尔塞德莱希焦糖芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>White Chocolate Raspberry Truffle Cheesecake</ENName>
+<ZHName>白松露巧克力覆盆子芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Freshly Brewed Coffee</ENName>
+<ZHName>刚煮好的咖啡</ZHName>
+<Desc>我们自己的深度烘焙的咖啡的美味混合</Desc>
+<ENName>Iced Tea</ENName>
+<ZHName>冰的茶</ZHName>
+<Desc></Desc>
+<ENName>Black and Herbal Teas</ENName>
+<ZHName>黑色、 花草茶</ZHName>
+<Desc></Desc>
+<ENName>San Pellegrino Sparkling Water</ENName>
+<ZHName>圣佩莱格里诺苏打水</ZHName>
+<Desc></Desc>
+<ENName>Evian Natural Spring Water</ENName>
+<ZHName>依云天然山泉水</ZHName>
+<Desc></Desc>
+<ENName>Fresh Orange or Grapefruit Juice</ENName>
+<ZHName>鲜橙色或葡萄柚汁</ZHName>
+<Desc></Desc>
+<ENName>Tomato, Cranberry or Apple Juice</ENName>
+<ZHName>番茄、 蔓越莓或苹果汁</ZHName>
+<Desc></Desc>
+<ENName>Fresh Lemonade</ENName>
+<ZHName>新鲜的柠檬汁</ZHName>
+<Desc>自制一加糖环</Desc>
+<ENName>Strawberry pr Raspberry Lemonade</ENName>
+<ZHName>草莓 pr 覆盆子柠檬水</ZHName>
+<Desc></Desc>
+<ENName>Special Grand Lux Hot Chocolate Cappuccino, Cafe Latte or Espresso</ENName>
+<ZHName>特别盛大 Lux 热巧克力卡布奇诺、 拿铁咖啡厅或浓缩咖啡</ZHName>
+<Desc></Desc>
+<ENName>Coke</ENName>
+<ZHName>焦炭</ZHName>
+<Desc></Desc>
+<ENName>Diet Coke</ENName>
+<ZHName>健怡可乐</ZHName>
+<Desc></Desc>
+<ENName>Sprite</ENName>
+<ZHName>雪碧</ZHName>
+<Desc></Desc>
+<ENName>Fresca</ENName>
+<ZHName>佛瑞斯</ZHName>
+<Desc></Desc>
+<ENName>Barq's Root Beer</ENName>
+<ZHName>特制啤酒</ZHName>
+<Desc></Desc>
+<ENName>Strawberry Fruit Smoothie</ENName>
+<ZHName>草莓水果冰沙</ZHName>
+<Desc>草莓、 橙、 菠萝汁、 椰子和香蕉搅滑冰</Desc>
+<ENName>Hawaiian Smoothie</ENName>
+<ZHName>夏威夷思慕雪</ZHName>
+<Desc>加冰混合，芒果、 百香果、 菠萝和椰子</Desc>
+<ENName>Mango Ice Swirl</ENName>
+<ZHName>芒果冰旋流</ZHName>
+<Desc>芒果，热带果汁和淡淡的椰子，混合，加冰和与覆盆子众说纷纭</Desc>
+<ENName>Citrus Flip</ENName>
+<ZHName>柑橘翻转</ZHName>
+<Desc>很清新的组合的动摇与雪碧和苏打水的飞溅的新鲜柑橘类果汁</Desc>
+<ENName>Berry Fizz</ENName>
+<ZHName>浆果嘶嘶响</ZHName>
+<Desc>草莓、 蓝莓、 覆盆子混合和飞溅的雪碧和苏打水加冰送达</Desc>
+<ENName>Island Cooler</ENName>
+<ZHName>岛屿冷却器</ZHName>
+<Desc>芒果、 激情和菠萝汁与新鲜的柠檬和飞溅的雪碧和苏打水</Desc>
+<ENName>Dip Duo with Tortilla Chips</ENName>
+<ZHName>墨西哥玉米片倾角二重奏</ZHName>
+<Desc></Desc>
+<ENName>Grilled Jumbo Artichoke</ENName>
+<ZHName>烤巨型朝鲜蓟</ZHName>
+<Desc></Desc>
+<ENName>Spinach & Artichoke Dip</ENName>
+<ZHName>菠菜 &amp; 朝鲜蓟倾角</ZHName>
+<Desc></Desc>
+<ENName>Todays Soup</ENName>
+<ZHName>今天的汤</ZHName>
+<Desc></Desc>
+<ENName>Classic Caesar Salad</ENName>
+<ZHName>经典的凯撒沙拉</ZHName>
+<Desc>同里和玉米面包面包丁。我们凯撒酱是用农场新鲜生鸡蛋</Desc>
+<ENName>Macho Salad</ENName>
+<ZHName>猛男沙拉</ZHName>
+<Desc>与烤的鸡、 牛油果、 日期、 杏仁和山羊奶酪</Desc>
+<ENName>Seared Sashimi Tuna Salad</ENName>
+<ZHName>香煎的生鱼片金枪鱼沙拉</ZHName>
+<Desc>与混合的蔬菜，牛油果和芒果</Desc>
+<ENName>Grilled Chicken Salad</ENName>
+<ZHName>烤的鸡肉沙拉</ZHName>
+<Desc>用蜂蜜-石灰油醋汁和花生汁</Desc>
+<ENName>Todays Fresh Fish</ENName>
+<ZHName>今天 s 新鲜的鱼</ZHName>
+<Desc>配土豆泥和清炒的菠菜</Desc>
+<ENName>Jumbo Lump Crab Cakes Pommery</ENName>
+<ZHName>巨型的蟹肉蛋糕以</ZHName>
+<Desc>芥末酱、 凉拌卷心菜 &amp; 周三-手切薯条坐</Desc>
+<ENName>Pan Roasted Scottish Salmon</ENName>
+<ZHName>平底锅烤苏格兰三文鱼</ZHName>
+<Desc>配菠菜和土豆泥</Desc>
+<ENName>Rotisserie Chicken</ENName>
+<ZHName>烤鸡</ZHName>
+<Desc>烤的荷兰国家绿色鸡饭</Desc>
+<ENName>Butternut and White Cheddar Enchilada</ENName>
+<ZHName>白胡桃和白切达干酪辣酱玉米饼馅</ZHName>
+<Desc>与绿色水稻、 黄瓜沙拉</Desc>
+<ENName>Barbecue Beef Back Ribs</ENName>
+<ZHName>烧烤牛肉回来的肋骨</ZHName>
+<Desc>配手-切薯条和烤花生凉拌卷心菜</Desc>
+<ENName>Wagyu Tri-Tip & Enchilada Platter</ENName>
+<ZHName>和牛三尖 &amp; 辣酱玉米饼馅拼盘</ZHName>
+<Desc>用黄瓜沙拉有限的可用性</Desc>
+<ENName>Prime Rib</ENName>
+<ZHName>排骨</ZHName>
+<Desc>慢烤土豆泥一起吃骨头上</Desc>
+<ENName>Center-Cut Prime Filet</ENName>
+<ZHName>中心切素菲力</ZHName>
+<Desc>土豆泥和蒸的菠菜</Desc>
+<ENName>Prime New York Strip</ENName>
+<ZHName>纽约黄金地带</ZHName>
+<Desc>配上手工切薯条和豆瓣菜沙拉</Desc>
+<ENName>Cheeseburger</ENName>
+<ZHName>吉士汉堡</ZHName>
+<Desc>新鲜地面在房子里，用凉拌卷心菜或手-切薯条</Desc>
+<ENName>Veggie Burger</ENName>
+<ZHName>蔬菜汉堡</ZHName>
+<Desc>与蒙特里杰克和烤花生凉拌卷心菜</Desc>
+<ENName>Rotisserie Lamb Sandwich</ENName>
+<ZHName>烤羊肉三明治</ZHName>
+<Desc>与烤的辣椒、 芝麻菜和凉拌卷心菜</Desc>
+<ENName>Famous Prime Rib French Dip Sandwich</ENName>
+<ZHName>著名的上肋法语蘸三明治</ZHName>
+<Desc>用一只手-切薯条</Desc>
+<ENName>Nice Little House Salad</ENName>
+<ZHName>漂亮的小房子沙拉</ZHName>
+<Desc></Desc>
+<ENName>Small Caesar Salad</ENName>
+<ZHName>小凯撒沙拉</ZHName>
+<Desc></Desc>
+<ENName>Cornbread & Focaccia</ENName>
+<ZHName>玉米面包玉米面包 &amp; 意式薄饼</ZHName>
+<Desc></Desc>
+<ENName>Hand-Cut French Fries</ENName>
+<ZHName>手切薯条</ZHName>
+<Desc></Desc>
+<ENName>Cucumber Salad</ENName>
+<ZHName>黄瓜沙拉</ZHName>
+<Desc></Desc>
+<ENName>Roasted Peanut Coleslaw</ENName>
+<ZHName>烤花生凉拌卷心菜</ZHName>
+<Desc></Desc>
+<ENName>Green Rice</ENName>
+<ZHName>绿色大米</ZHName>
+<Desc></Desc>
+<ENName>Mashed Potatoes</ENName>
+<ZHName>土豆泥</ZHName>
+<Desc></Desc>
+<ENName>Todays Vegetable</ENName>
+<ZHName>今天的蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Enchilada a la Carte</ENName>
+<ZHName>辣酱玉米饼馅点菜</ZHName>
+<Desc></Desc>
+<ENName>Whole Chicken</ENName>
+<ZHName>整只鸡</ZHName>
+<Desc></Desc>
+<ENName>Banana Cream Pie</ENName>
+<ZHName>香蕉奶油馅饼</ZHName>
+<Desc>焦糖和碎的巧克力</Desc>
+<ENName>House-Made Oreo Ice Cream Sandwiches</ENName>
+<ZHName>房子做奥利奥冰淇淋三明治</ZHName>
+<Desc>与黑巧克力酱汁</Desc>
+<ENName>Rib Tips</ENName>
+<ZHName>肋骨小贴士</ZHName>
+<Desc></Desc>
+<ENName>Ribs</ENName>
+<ZHName>肋骨</ZHName>
+<Desc></Desc>
+<ENName>Hotlinks</ENName>
+<ZHName>在流程图</ZHName>
+<Desc></Desc>
+<ENName>Hotlinks with A Link</ENName>
+<ZHName>热点链接与链接</ZHName>
+<Desc></Desc>
+<ENName>Fried Chicken</ENName>
+<ZHName>炒鸡</ZHName>
+<Desc></Desc>
+<ENName>Wing - Tip</ENName>
+<ZHName>翼-提示</ZHName>
+<Desc></Desc>
+<ENName>Tip Link</ENName>
+<ZHName>提示链接</ZHName>
+<Desc></Desc>
+<ENName>Tip Link Bucket</ENName>
+<ZHName>提示链接斗</ZHName>
+<Desc></Desc>
+<ENName>Catfish</ENName>
+<ZHName>鲶鱼</ZHName>
+<Desc></Desc>
+<ENName>Bucket of Catfish</ENName>
+<ZHName>桶里的鲶鱼</ZHName>
+<Desc></Desc>
+<ENName>Shrimp Baskets</ENName>
+<ZHName>虾篮子</ZHName>
+<Desc></Desc>
+<ENName>1/2 Pound Jumbo Shrimp</ENName>
+<ZHName>1/2 磅大虾</ZHName>
+<Desc></Desc>
+<ENName>1 Pound Jumbo Shrimp</ENName>
+<ZHName>1 磅大虾</ZHName>
+<Desc></Desc>
+<ENName>1/2 Chicken</ENName>
+<ZHName>1/2 鸡</ZHName>
+<Desc></Desc>
+<ENName>Whole Chicken</ENName>
+<ZHName>整只鸡</ZHName>
+<Desc></Desc>
+<ENName>Mini Rib Tip</ENName>
+<ZHName>迷你肋骨尖</ZHName>
+<Desc></Desc>
+<ENName>Mini Tib Link</ENName>
+<ZHName>迷你 Tib 链接</ZHName>
+<Desc></Desc>
+<ENName>Small Hot Link</ENName>
+<ZHName>小热链接</ZHName>
+<Desc></Desc>
+<ENName>4 Wings</ENName>
+<ZHName>4 翅膀</ZHName>
+<Desc></Desc>
+<ENName>Baked Beans and Coleslaw</ENName>
+<ZHName>烤的豆和凉拌卷心菜</ZHName>
+<Desc></Desc>
+<ENName>French Fries and Okra</ENName>
+<ZHName>法式炸薯条和黄秋葵</ZHName>
+<Desc></Desc>
+<ENName>Extra Sauce</ENName>
+<ZHName>额外的酱油</ZHName>
+<Desc></Desc>
+<ENName>Extra Bread</ENName>
+<ZHName>多余的面包</ZHName>
+<Desc></Desc>
+<ENName>Soda</ENName>
+<ZHName>苏打水</ZHName>
+<Desc></Desc>
+<ENName>Tiramisu</ENName>
+<ZHName>提拉米苏</ZHName>
+<Desc>（切片）</Desc>
+<ENName>Lemon Italian Ice</ENName>
+<ZHName>柠檬意大利冰</ZHName>
+<Desc></Desc>
+<ENName>Spumoni Ice Cream</ENName>
+<ZHName>Spumoni 冰激淋</ZHName>
+<Desc></Desc>
+<ENName>Coke</ENName>
+<ZHName>焦炭</ZHName>
+<Desc></Desc>
+<ENName>Diet Coke</ENName>
+<ZHName>健怡可乐</ZHName>
+<Desc></Desc>
+<ENName>Sprite</ENName>
+<ZHName>雪碧</ZHName>
+<Desc></Desc>
+<ENName>Coffee</ENName>
+<ZHName>咖啡</ZHName>
+<Desc>（注册或无咖啡因的咖啡）</Desc>
+<ENName>Bottled Water</ENName>
+<ZHName>瓶装的水</ZHName>
+<Desc></Desc>
+<ENName>French Fries</ENName>
+<ZHName>法式炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Cheese Sticks (6)</ENName>
+<ZHName>奶酪棒 （6）</ZHName>
+<Desc></Desc>
+<ENName>Onion Rings</ENName>
+<ZHName>洋葱圈</ZHName>
+<Desc></Desc>
+<ENName>Breaded Mushrooms</ENName>
+<ZHName>面包屑的蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Breaded Cauliflower</ENName>
+<ZHName>面包屑的菜花</ZHName>
+<Desc></Desc>
+<ENName>Breaded Zucchini</ENName>
+<ZHName>面包屑的西葫芦</ZHName>
+<Desc></Desc>
+<ENName>Breaded Combo</ENName>
+<ZHName>面包屑的组合</ZHName>
+<Desc>任何 3</Desc>
+<ENName>Chicken Strips (4)</ENName>
+<ZHName>鸡肉条 (4)</ZHName>
+<Desc></Desc>
+<ENName>Hot Wings (6)</ENName>
+<ZHName>辣鸡翅 （6）</ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName>蒜茸面包</ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread </ENName>
+<ZHName>蒜茸面包</ZHName>
+<Desc>与奶酪</Desc>
+<ENName>Pizza Bread</ENName>
+<ZHName>披萨面包</ZHName>
+<Desc>附加成分 $0.50</Desc>
+<ENName>Homemade Soup</ENName>
+<ZHName>自制的汤</ZHName>
+<Desc>意大利蔬菜汤或一天的汤</Desc>
+<ENName>Salad</ENName>
+<ZHName>沙拉</ZHName>
+<Desc>意大利，法国，牧场，大蒜，一千个岛</Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>Meatball</ENName>
+<ZHName>肉丸子</ZHName>
+<Desc></Desc>
+<ENName>Big Boy Sandwich</ENName>
+<ZHName>大男孩三明治</ZHName>
+<Desc></Desc>
+<ENName>Combo Sandwich</ENName>
+<ZHName>组合三明治</ZHName>
+<Desc></Desc>
+<ENName>Pepper Sandwich</ENName>
+<ZHName>辣椒三明治</ZHName>
+<Desc></Desc>
+<ENName>Eggplant Parmesan</ENName>
+<ZHName>茄子帕玛森</ZHName>
+<Desc></Desc>
+<ENName>Chicken Parmesan</ENName>
+<ZHName>鸡巴马</ZHName>
+<Desc></Desc>
+<ENName>Peppers</ENName>
+<ZHName>辣椒</ZHName>
+<Desc>甜甜的 pepperoncini，热 giardinera</Desc>
+<ENName>Mozzarella Cheese</ENName>
+<ZHName>马苏里拉奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sandwiches On Garlic Bread</ENName>
+<ZHName>香蒜面包三明治</ZHName>
+<Desc></Desc>
+<ENName>Extra Sauce On The Side</ENName>
+<ZHName>在一边的调味酱</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Extra Ingredient</ENName>
+<ZHName>额外的成分</ZHName>
+<Desc></Desc>
+<ENName>Rosangelas Special</ENName>
+<ZHName>Rosangelas 特别</ZHName>
+<Desc>香肠、 蘑菇、 青辣椒 &amp; 洋葱</Desc>
+<ENName>Friday Special</ENName>
+<ZHName>周五特别</ZHName>
+<Desc>蘑菇、 青椒 &amp; 洋葱</Desc>
+<ENName>Ingredients</ENName>
+<ZHName>成分</ZHName>
+<Desc>香肠、 蘑菇、 青椒、 洋葱、 意大利辣香肠、 大蒜、 黑色或绿色的橄榄，西红柿、 凤尾鱼、 giardiniera</Desc>
+<ENName>Spaghetti</ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc></Desc>
+<ENName>Spaghetti With Garlic & Oil</ENName>
+<ZHName>意大利面配大蒜 &amp; 油</ZHName>
+<Desc></Desc>
+<ENName>Spaghetti With Mushrooms</ENName>
+<ZHName>意大利面配蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Mostaccioli</ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc></Desc>
+<ENName>Baked Mostaccioli</ENName>
+<ZHName>烤的 Mostaccioli</ZHName>
+<Desc></Desc>
+<ENName>Ravioli</ENName>
+<ZHName>馄饨</ZHName>
+<Desc>（奶酪或肉）</Desc>
+<ENName>Spinach Ravioli</ENName>
+<ZHName>菠菜馄饨</ZHName>
+<Desc></Desc>
+<ENName>Lasagna</ENName>
+<ZHName>烤宽面条</ZHName>
+<Desc>（奶酪或肉） 包括沙拉</Desc>
+<ENName>Tortellini</ENName>
+<ZHName>饺子</ZHName>
+<Desc>（奶酪或肉）</Desc>
+<ENName>Gnocchi</ENName>
+<ZHName>汤团</ZHName>
+<Desc>（马铃薯饺子)</Desc>
+<ENName>Linguini</ENName>
+<ZHName>林贵尼</ZHName>
+<Desc>(红色或白色的蛤蜊酱）</Desc>
+<ENName>Garden Salad</ENName>
+<ZHName>花园沙拉</ZHName>
+<Desc>沙拉蔬菜、 番茄、 青椒 &amp; 黑橄榄。</Desc>
+<ENName>Grilled Chicken Breast Garden Salad</ENName>
+<ZHName>烤的鸡乳腺癌花园沙拉</ZHName>
+<Desc></Desc>
+<ENName>Caesar Salad</ENName>
+<ZHName>凯撒沙拉</ZHName>
+<Desc>长叶莴苣生菜、 油煎面包块 &amp; 帕尔玛奶酪。</Desc>
+<ENName>Grilled Chicken Breast Caesar Salad </ENName>
+<ZHName>烤的鸡乳腺癌凯撒沙拉</ZHName>
+<Desc></Desc>
+<ENName>Italian Beef </ENName>
+<ZHName>意大利牛肉</ZHName>
+<Desc>1/4 磅、 烤的洋葱 &amp; 甜辣椒。</Desc>
+<ENName>Cheesy Beef</ENName>
+<ZHName>俗气的牛肉</ZHName>
+<Desc>意大利牛肉配上干酪奶酪。</Desc>
+<ENName>Italian Sausage </ENName>
+<ZHName>意大利香肠</ZHName>
+<Desc>烤的洋葱 &amp; 甜辣椒。</Desc>
+<ENName>Combo</ENName>
+<ZHName>组合</ZHName>
+<Desc>（牛肉 &amp; 香肠) 烤洋葱 &amp; 甜辣椒。</Desc>
+<ENName>House-Made Meatballs</ENName>
+<ZHName>房子做肉丸子</ZHName>
+<Desc>红汁和干酪。</Desc>
+<ENName>The Philly Cheese Steak</ENName>
+<ZHName>费城奶酪牛排</ZHName>
+<Desc>烤的牛排、 青椒 &amp; 洋葱配上干酪。</Desc>
+<ENName>Chicken Cheese Steak Philly Style</ENName>
+<ZHName>鸡肉奶酪牛排费城风格</ZHName>
+<Desc>烤的鸡胸肉、 青椒 &amp; 洋葱配上干酪。</Desc>
+<ENName>Crispy Chicken Parmesan </ENName>
+<ZHName>脆皮鸡巴马</ZHName>
+<Desc>红汁和干酪。</Desc>
+<ENName>Grilled Chicken Breast Giardineria</ENName>
+<ZHName>烤的鸡乳腺癌 Giardineria</ZHName>
+<Desc>巴尼的最爱，配上干酪。</Desc>
+<ENName>Cheese - Barneys Special Blend</ENName>
+<ZHName>奶酪-巴尼 s 特别混合</ZHName>
+<Desc></Desc>
+<ENName>Sausage Or Pepperoni</ENName>
+<ZHName>香肠或意大利辣香肠</ZHName>
+<Desc></Desc>
+<ENName>Daily Special Toppings</ENName>
+<ZHName>每日特别浇头</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Extra Toppings</ENName>
+<ZHName>配料加量</ZHName>
+<Desc></Desc>
+<ENName>Tempting Toppings</ENName>
+<ZHName>诱人的浇头</ZHName>
+<Desc>意大利香肠、 意大利辣香肠、 加拿大培根、 意大利牛肉、 真正培根、 绞碎的牛肉、 烤的鸡、 蘑菇、 番茄、 黑橄榄、 洋葱、 菠菜、 大蒜、 青椒、 giardineria、 墨西哥胡椒。</Desc>
+<ENName>Buffalo Wings</ENName>
+<ZHName>水牛城的翅膀</ZHName>
+<Desc></Desc>
+<ENName>Rib Tips</ENName>
+<ZHName>肋骨小贴士</ZHName>
+<Desc>迷你 1/2 磅，定期 1 磅 &amp; 大 1 和 1/2 磅。</Desc>
+<ENName>Original Fries</ENName>
+<ZHName>原始的炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Cheese Fries</ENName>
+<ZHName>奶酪薯条</ZHName>
+<Desc>（大）。</Desc>
+<ENName>Onion Rings</ENName>
+<ZHName>洋葱圈</ZHName>
+<Desc>（1/2 磅）。</Desc>
+<ENName>Mozzarella Sticks - 6 Pcs</ENName>
+<ZHName>马苏里拉棍棒-6 Pc</ZHName>
+<Desc>（6 pcs，9 pc）。</Desc>
+<ENName>Sweet Peppers</ENName>
+<ZHName>甜辣椒</ZHName>
+<Desc>giardineria 或墨西哥胡椒。</Desc>
+<ENName>Grilled Onions</ENName>
+<ZHName>烤的洋葱</ZHName>
+<Desc></Desc>
+<ENName>Extra Dressing</ENName>
+<ZHName>额外敷料</ZHName>
+<Desc></Desc>
+<ENName>Garlic Toast</ENName>
+<ZHName>蒜茸土司面包</ZHName>
+<Desc></Desc>
+<ENName>Elis Famous Cheesecake</ENName>
+<ZHName>Eli s 著名芝士蛋糕</ZHName>
+<Desc>普通的巧克力芯片，士力架。</Desc>
+<ENName>Old-Fashioned Butter Cookies</ENName>
+<ZHName>老式黄油饼干</ZHName>
+<Desc></Desc>
+<ENName>Vanilla, Chocolate Or Strawberry - 16 Oz</ENName>
+<ZHName>香草、 巧克力或草莓-16 盎司</ZHName>
+<Desc></Desc>
+<ENName>Specialty Flavors - 16 Oz</ENName>
+<ZHName>特产风味-16 盎司</ZHName>
+<Desc></Desc>
+<ENName>Can Of Pop</ENName>
+<ZHName>流行音乐的可以</ZHName>
+<Desc></Desc>
+<ENName>16 Oz. Medium Fountain Soda</ENName>
+<ZHName>16 盎司中型喷泉苏打水</ZHName>
+<Desc></Desc>
+<ENName>Bottled Water</ENName>
+<ZHName>瓶装的水</ZHName>
+<Desc></Desc>
+<ENName>1-Liter Soda</ENName>
+<ZHName>1 升汽水</ZHName>
+<Desc></Desc>
+<ENName>Classic Caesar Salad</ENName>
+<ZHName>经典的凯撒沙拉</ZHName>
+<Desc>生菜脆皮床扔与我们凯撒酱。淋上番茄、 煮熟的鸡蛋、 油煎面包块和新鲜碎的帕尔玛奶酪。包括新鲜出炉的面包。</Desc>
+<ENName>Original Chicken Caesar Salad</ENName>
+<ZHName>原来鸡肉凯撒沙拉</ZHName>
+<Desc>生菜脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮熟的鸡蛋、 油煎面包块和新鲜的磨碎的干酪。包括新鲜出炉的面包。</Desc>
+<ENName>Grilled Chicken Caesar Salad</ENName>
+<ZHName>烤的鸡肉凯撒沙拉</ZHName>
+<Desc>生菜脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮鸡蛋、 面包丁和新鲜的磨碎的干酪。包括新鲜出炉的面包。</Desc>
+<ENName>Yellowfin Tuna Caesar Salad</ENName>
+<ZHName>黄鳍金枪鱼凯撒沙拉</ZHName>
+<Desc>生菜脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮熟的鸡蛋、 油煎面包块和新鲜的磨碎的干酪。包括新鲜出炉的面包。</Desc>
+<ENName>Side Caesar Salad</ENName>
+<ZHName>凯撒沙拉</ZHName>
+<Desc>生菜脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮鸡蛋、 面包丁和新鲜的磨碎的干酪。</Desc>
+<ENName>Gourmet Garden Salad</ENName>
+<ZHName>美食花园沙拉</ZHName>
+<Desc>长叶莴苣、 冰山、 红球甘蓝、 胡萝卜、 青椒、 红洋葱、 橄榄、 樱桃西红柿和切达干酪奶酪的多维数据集。您选择的敷料。包括新鲜出炉的面包。</Desc>
+<ENName>House Salad</ENName>
+<ZHName>房子沙拉</ZHName>
+<Desc>沙拉拌上我们自己的房子调味。</Desc>
+<ENName>Chopped Salad</ENName>
+<ZHName>切碎的沙拉</ZHName>
+<Desc>长叶莴苣、 冰山、 tubetti 面食、 鸡肉、 培根、 番茄、 戈尔贡佐拉，葱和红色卷心菜在房子修整。包括新鲜出炉的面包。</Desc>
+<ENName>Chicken Pecan Salad</ENName>
+<ZHName>鸡核桃沙拉</ZHName>
+<Desc>混合的蔬菜、 鸡肉、 奶酪、 西红柿、 培根和蜂蜜第戎酱烤的胡桃。包括新鲜的面包。</Desc>
+<ENName>Garbage Salad</ENName>
+<ZHName>垃圾沙拉</ZHName>
+<Desc>卷心莴苣、 红球甘蓝、 萨拉米香肠、 黄瓜，西红柿、 红洋葱、 胡萝卜、 立方切达干酪和青椒。敷料的选择。</Desc>
+<ENName>Southwest BBQ Chicken Salad</ENName>
+<ZHName>西南烧烤鸡肉沙拉</ZHName>
+<Desc></Desc>
+<ENName>Asian Chicken Won Ton Salad</ENName>
+<ZHName>亚洲鸡肉馄饨沙拉</ZHName>
+<Desc></Desc>
+<ENName>Poppyseed Fruit with Chicken Salad</ENName>
+<ZHName>可能用于制造水果与鸡肉沙拉</ZHName>
+<Desc></Desc>
+<ENName>Vegi Croissant</ENName>
+<ZHName>Vegi 牛角面包</ZHName>
+<Desc>黄油羊角面包与梅奥、 奶酪、 泡菜、 西红柿和生菜。</Desc>
+<ENName>Grilled Tuna Sandwich</ENName>
+<ZHName>烤的金枪鱼三明治</ZHName>
+<Desc>烤黄鳍金枪鱼、 生菜、 番茄、 红洋葱，和自制鞑靼汁芝麻籽小圆面包上。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Halibut Filet Sandwich</ENName>
+<ZHName>大比目鱼鱼柳夹心</ZHName>
+<Desc>轻轻地被殴打的手切大比目鱼柳深油炸的 100%植物油和配脆生菜和我们自制的鞑靼汁。</Desc>
+<ENName>Grilled Filet of Chicken Sandwich</ENName>
+<ZHName>烤菲力的鸡肉三明治</ZHName>
+<Desc>在敬酒小麦和燕麦麸皮小圆面包生菜、 番茄、 和帕尔玛梅奥。添加甜或辣椒额外费用。可用大蒜面包而不是额外费用的发髻。</Desc>
+<ENName>Meatball Sandwich</ENName>
+<ZHName>肉丸三明治</ZHName>
+<Desc>三个炆肉丸子和马苏里拉上法国面包。可与甜或辣椒额外费用。可用大蒜面包而不是额外费用的发髻。</Desc>
+<ENName>Grilled Tuna Sandwich</ENName>
+<ZHName>烤的金枪鱼三明治</ZHName>
+<Desc>烤黄鳍金枪鱼生菜、 番茄、 洋葱和酱，小麦和燕麦麸皮面包。可与甜或辣椒额外费用。可用大蒜面包而不是额外费用的发髻。</Desc>
+<ENName>Grilled Veggie Sandwich</ENName>
+<ZHName>烤的蔬菜三明治</ZHName>
+<Desc>选择烤的蔬菜、 红洋葱、 Fontinella 和特殊调料在烤面包上。可用大蒜面包而不是包子，产生额外费用。</Desc>
+<ENName>Chicken Caesar Pita</ENName>
+<ZHName>鸡肉凯撒皮塔饼</ZHName>
+<Desc>定期或鸡肉、 长叶莴苣、 西红柿，凯撒酱和干酪。添加热或甜辣椒额外费用。可用大蒜面包而不是额外费用的发髻。</Desc>
+<ENName>Chicken Parmesan Sandwich</ENName>
+<ZHName>鸡肉干酪三明治</ZHName>
+<Desc>轻裹面包屑的乳房上面包，配上酱，干酪和马苏里拉。添加甜或辣椒额外费用。可用大蒜面包而不是额外费用的发髻。</Desc>
+<ENName>Chicken Focaccia</ENName>
+<ZHName>鸡肉意式薄饼</ZHName>
+<Desc>面包屑的鸡乳房上烤的面包，配上生菜、 西红柿、 美国奶酪和 Barnelli 的特殊莳萝酱汁。添加甜或辣椒额外费用。</Desc>
+<ENName>Italian Sub</ENName>
+<ZHName>意大利亚</ZHName>
+<Desc>萨拉米香肠、 甜甜 capicola、 摩、 辣味香肠、 干酪、 法国卷、 烤得金黄，然后凉拌生菜、 番茄、 泡菜、 洋葱、 橄榄油、 芥末、 辣熟食店和梅奥。添加甜或辣椒额外费用。</Desc>
+<ENName>Monterey Turkey Club Sub</ENName>
+<ZHName>蒙特利土耳其俱乐部子</ZHName>
+<Desc>溢价火鸡胸，培根，烤西葫芦、 南瓜、 红辣椒、 大蒜、 胡椒杰克对法式面包，烤的金黄色，然后配上辣椒粉梅奥、 生菜和西红柿。添加甜或辣椒额外费用。</Desc>
+<ENName>Chicken Caprese Panini</ENName>
+<ZHName>鸡凯普莱斯帕尼尼</ZHName>
+<Desc>鸡用番茄、 芝士、 罗勒。</Desc>
+<ENName>Turkey Florentine Panini</ENName>
+<ZHName>土耳其佛罗伦萨帕尼尼</ZHName>
+<Desc>土耳其与菠菜。</Desc>
+<ENName>Buffalo Chicken Wrap</ENName>
+<ZHName>水牛城鸡换行</ZHName>
+<Desc>水牛炸鸡蓝纹奶酪和生菜。</Desc>
+<ENName>Chicken Caesar Wrap</ENName>
+<ZHName>鸡肉凯撒卷</ZHName>
+<Desc>鸡肉凯撒沙拉在玉米饼。</Desc>
+<ENName>Chicken Portabella Ciabatta</ENName>
+<ZHName>鸡褐菇饼子中间</ZHName>
+<Desc>鸡肉和烤波特比罗蘑菇。</Desc>
+<ENName>Spaghetti </ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Mostaccioli </ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Fettuccine </ENName>
+<ZHName>面条</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Angel Hair Pasta </ENName>
+<ZHName>天使头发面食</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Spaghetti</ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Mostaccioli</ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Fettuccine</ENName>
+<ZHName>面条</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Angel Hair Pasta</ENName>
+<ZHName>天使头发面食</ZHName>
+<Desc>选择从肉或大蒜酱。</Desc>
+<ENName>Fettuccine Alfredo</ENName>
+<ZHName>意大利细面条 Alfredo</ZHName>
+<Desc>奶酪情人的喜悦。我们丰富的奶油酱是用进口罗马诺和帕尔玛奶酪、 黄油和奶油。添加蔬菜或鸡额外费用。</Desc>
+<ENName>Double Stuffed Three Cheese Ravioli</ENName>
+<ZHName>双酿三个奶酪馄饨</ZHName>
+<Desc>一份丰盛的灌装，我们三个奶酪塞在一个枕头的面食。</Desc>
+<ENName>Spinach Lasagna</ENName>
+<ZHName>菠菜烤宽面条</ZHName>
+<Desc>一层又一层的意大利奶酪，新鲜菠菜和香料配上你选择的酱汁。选择从肉或大蒜酱。</Desc>
+<ENName>Baked Mostaccioli</ENName>
+<ZHName>烤的 Mostaccioli</ZHName>
+<Desc>进口的 mostaccioli 红酱烤相结合的新鲜碎的芝士和 Asiago 的奶酪。选择从肉或大蒜酱。</Desc>
+<ENName>Penne Al'arrabbiata</ENName>
+<ZHName>通心粉 Al'arrabbiata</ZHName>
+<Desc>通心粉配意大利香肠、 鸡、 或两者，麻辣酱。</Desc>
+<ENName>Chicken Siciliano</ENName>
+<ZHName>鸡西西利亚诺</ZHName>
+<Desc>嫩鸡胸块炒西兰花、 蘑菇、 洋葱、 和罗马诺奶酪在面条。</Desc>
+<ENName>Oven Baked Spaghetti</ENName>
+<ZHName>烤箱烤制的意大利面条</ZHName>
+<Desc>意大利面条用进口奶酪烤和您所选择的肉或大蒜酱淋上。</Desc>
+<ENName>Rigatoni ala Vodka</ENName>
+<ZHName>通心粉 ala 伏特加</ZHName>
+<Desc>炆番茄奶油拌通心粉。</Desc>
+<ENName>Chicken Parmesan (Pasta)</ENName>
+<ZHName>鸡帕尔玛 (意大利)</ZHName>
+<Desc>轻裹面包屑、 去皮的鸡胸肉，配上意大利干酪和干酪，配上一张床我们自己自制蒜酱意大利面。选择从肉或大蒜酱。</Desc>
+<ENName>Pesto Chicken and Mushrooms</ENName>
+<ZHName>香蒜酱鸡肉和蘑菇</ZHName>
+<Desc>Conchiglie 面食、 鸡胸肉、 蘑菇，以及我们自己的香蒜奶油酱，炒完上面放一块酱。</Desc>
+<ENName>Chicken Al' Diavolo</ENName>
+<ZHName>鸡基地 ' 军团</ZHName>
+<Desc>炒的鸡和太阳晒干的西红柿，扔进了我们的辣奶油酱和厨乐意大利面条，拌上新鲜菠菜。</Desc>
+<ENName>Peasant Pasta </ENName>
+<ZHName>农民面食</ZHName>
+<Desc>意大利香肠，鸡胸肉和咸肉，烙和混合用莴苣叶、 大蒜、 canolini 豆和通心粉，仔细在白色的酒肉汤中煮熟。</Desc>
+<ENName>Fettuccini Carbonara</ENName>
+<ZHName>蓉 Carbonara</ZHName>
+<Desc></Desc>
+<ENName>Grilled Vegetable Pizza</ENName>
+<ZHName>烤蔬菜比萨</ZHName>
+<Desc>西葫芦、 南瓜、 花椰菜、 蘑菇、 红洋葱和羊乳酪。用我们的手扔披萨面团，用最好的原料和最高质量的奶酪。您选择的九英寸或 14"。</Desc>
+<ENName>Southwestern BBQ Chicken Pizza</ENName>
+<ZHName>西南烧烤鸡肉披萨</ZHName>
+<Desc>鸡、 红辣椒、 大蒜、 红洋葱和烧烤酱。用我们的手扔披萨面团，用最好的原料和最高质量的奶酪。您选择的九英寸或 14"。</Desc>
+<ENName>Uncle Tony's Special Pizza</ENName>
+<ZHName>托尼叔叔的特别的披萨</ZHName>
+<Desc>香肠、 蘑菇、 洋葱和青椒。用我们的手扔披萨面团，用最好的原料和最高质量的奶酪。您选择的九英寸或 14"。</Desc>
+<ENName>Build Your Own Pizza</ENName>
+<ZHName>建立你自己的比萨饼</ZHName>
+<Desc>选择个人或大的比萨，我们手抛披萨面团，用最好的原料和最高质量的奶酪，，然后选择添加上 （每打顶成本） 的浇头。您选择的九英寸或 14"。</Desc>
+<ENName>Charbroiled Chicken Sandwich</ENName>
+<ZHName>炭火烤的鸡肉三明治</ZHName>
+<Desc>炭烤，经验丰富乳腺癌的鸡，送达芝麻籽小圆面包，与梅奥、 西红柿和生菜鲜嫩多汁。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Charbroiled Chicken Croissant</ENName>
+<ZHName>炭火烤的鸡牛角面包</ZHName>
+<Desc>炭烤鸡肉送达新鲜的烤、 黄油、 片状牛角包，与梅奥、 蕃茄与莴苣。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Breaded Chicken Sandwich</ENName>
+<ZHName>面包屑的鸡肉三明治</ZHName>
+<Desc>轻裹面包屑的鸡胸肉送达挽成发髻，用蛋黄酱、 蕃茄与莴苣。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Chicken Club Sandwich</ENName>
+<ZHName>鸡肉俱乐部三明治</ZHName>
+<Desc>所有白鸡胸肉酥脆，送达芝麻籽小圆面包，与梅奥、 培根、 蕃茄与莴苣。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Breaded Chicken Croissant </ENName>
+<ZHName>面包屑的鸡肉羊角面包</ZHName>
+<Desc>轻裹面包屑的乳腺癌送达一个片状的羊角面包，与梅奥、 蕃茄与莴苣。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Italian Beef Sandwich</ENName>
+<ZHName>意大利牛肉三明治</ZHName>
+<Desc>我们著名的牛肉送达新鲜的法式烤面包。添加您所选择的奶酪或额外费用的辣椒。</Desc>
+<ENName>Char-Grilled Italian Sausage Sandwich</ENName>
+<ZHName>炭烤意大利香肠三明治</ZHName>
+<Desc>美味五香和煮熟的完美。添加您所选择的奶酪或额外费用的辣椒。</Desc>
+<ENName>Combo Beef and Sausage Sandwich</ENName>
+<ZHName>组合牛肉和香肠三明治</ZHName>
+<Desc>我们的伟大的意大利牛肉和炭烤香肠在一起。添加您所选择的奶酪或额外费用的辣椒。</Desc>
+<ENName>Beef-n-Cheddar Croissant</ENName>
+<ZHName>牛肉-n-切达干酪牛角面包</ZHName>
+<Desc>我们著名的意大利牛肉分层与切达干酪，并送达新鲜的牛角包。</Desc>
+<ENName>Big Beef Sandwich</ENName>
+<ZHName>大块牛肉三明治</ZHName>
+<Desc>50%比我们原来的牛肉更大。添加您所选择的奶酪或额外费用的辣椒。</Desc>
+<ENName>Burger</ENName>
+<ZHName>汉堡</ZHName>
+<Desc>三分之一的一磅多汁牛肉与梅奥、 脆的莴苣、 红色成熟的西红柿切片、 红洋葱、 泡菜、 和番茄酱，送达的烤面包。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Double Burger</ENName>
+<ZHName>双汉堡</ZHName>
+<Desc>一磅的三分之二。与梅奥、 生菜、 西红柿、 红洋葱、 泡菜和番茄酱的烤面包。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Bacon Burger</ENName>
+<ZHName>培根汉堡</ZHName>
+<Desc>与梅奥、 生菜和西红柿。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Double Bacon Burger </ENName>
+<ZHName>双培根汉堡</ZHName>
+<Desc>与梅奥、 生菜和西红柿。添加您所选择的额外费用的奶酪。</Desc>
+<ENName>Bowl of Chili </ENName>
+<ZHName>碗辣椒</ZHName>
+<Desc></Desc>
+<ENName>Chicken Noodle Soup</ENName>
+<ZHName>鸡肉面条汤</ZHName>
+<Desc></Desc>
+<ENName>Beef Hot Dog</ENName>
+<ZHName>牛肉热狗</ZHName>
+<Desc>一个热狗的一切。包括芥子气、 津津有味、 切好的洋葱，一个完全蒸罂粟籽小圆面包来切片，西红柿，犹太洁食泡菜和辣椒。</Desc>
+<ENName>Chili Dog</ENName>
+<ZHName>辣椒狗</ZHName>
+<Desc>辣椒，洋葱和奶酪。</Desc>
+<ENName>Jumbo Hot Dog</ENName>
+<ZHName>大热狗</ZHName>
+<Desc>较厚的热狗与芥末、 津津有味、 刚切好的洋葱，切成薄片，成熟、 红番茄、 黄瓜、 犹太洁食泡菜和辣椒。</Desc>
+<ENName>Jumbo Chili Dog </ENName>
+<ZHName>巨型辣椒狗</ZHName>
+<Desc>辣椒、 洋葱、 奶酪。</Desc>
+<ENName>Barney's Ribs-Full Slab a la Carte</ENName>
+<ZHName>巴尼的肋骨全板点菜服务</ZHName>
+<Desc>回到我们投标的宝宝肋骨腌制在巴尼的特制的排骨酱和烤在露天烧烤。</Desc>
+<ENName>Barney's Ribs-Half Slab a la Carte</ENName>
+<ZHName>巴尼的肋骨半板坯点菜服务</ZHName>
+<Desc>回到我们投标的宝宝肋骨腌制在巴尼的特制的排骨酱和烤在露天烧烤。</Desc>
+<ENName>French Fries</ENName>
+<ZHName>法式炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Cheese Fries </ENName>
+<ZHName>奶酪薯条</ZHName>
+<Desc>奶酪是可用的一边。定期或大。</Desc>
+<ENName>Onion Rings </ENName>
+<ZHName>洋葱圈</ZHName>
+<Desc></Desc>
+<ENName>Chicken Tenders </ENName>
+<ZHName>鸡招标</ZHName>
+<Desc></Desc>
+<ENName>Giardinera</ENName>
+<ZHName>Giardinera</ZHName>
+<Desc>混合的辣椒。</Desc>
+<ENName>Loaf of Bread </ENName>
+<ZHName>一块面包</ZHName>
+<Desc></Desc>
+<ENName>French Bread (Slice) </ENName>
+<ZHName>法国面包 （切片）</ZHName>
+<Desc></Desc>
+<ENName>Side of Coleslaw </ENName>
+<ZHName>凉拌卷心菜一侧</ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName>蒜茸面包</ZHName>
+<Desc>用大蒜和黄油的意大利面包。</Desc>
+<ENName>Meatball (1 pcs.)</ENName>
+<ZHName>丸子 (1 枚)。</ZHName>
+<Desc></Desc>
+<ENName>Cup of Fruit</ENName>
+<ZHName>Cup 的水果</ZHName>
+<Desc></Desc>
+<ENName>Fresh Baked House Bread</ENName>
+<ZHName>新鲜出炉的房子面包</ZHName>
+<Desc></Desc>
+<ENName>Sweet Peppers</ENName>
+<ZHName>甜辣椒</ZHName>
+<Desc></Desc>
+<ENName>Hot Peppers</ENName>
+<ZHName>红辣椒</ZHName>
+<Desc></Desc>
+<ENName>Baked Potato</ENName>
+<ZHName>烤的土豆</ZHName>
+<Desc>配酸奶油和黄油。添加奶酪和熏肉额外费用。</Desc>
+<ENName>Side of Alfredo Sauce</ENName>
+<ZHName>阿尔弗雷多酱一侧</ZHName>
+<Desc></Desc>
+<ENName>Side of Meat Sauce</ENName>
+<ZHName>酱汁肉的一面</ZHName>
+<Desc></Desc>
+<ENName>Side of Marinara Sauce</ENName>
+<ZHName>侧的大蒜酱</ZHName>
+<Desc></Desc>
+<ENName>Minestrone Soup</ENName>
+<ZHName>意大利蔬菜汤</ZHName>
+<Desc></Desc>
+<ENName>Add Hot Grilled Chicken to Entree or Salad</ENName>
+<ZHName>主菜或沙拉中添加热的烤的鸡</ZHName>
+<Desc></Desc>
+<ENName>Add Cold Grilled Chicken to Salad</ENName>
+<ZHName>添加冷烤的鸡沙拉</ZHName>
+<Desc></Desc>
+<ENName>Add Cheese and Bacon to a Baked Potato</ENName>
+<ZHName>将奶酪和熏肉添加到一个烤土豆</ZHName>
+<Desc></Desc>
+<ENName>Add American Cheese to Salad</ENName>
+<ZHName>添加美国奶酪沙拉</ZHName>
+<Desc></Desc>
+<ENName>Add Extra Gorgonzola Cheese</ENName>
+<ZHName>添加额外的戈尔贡佐拉奶酪</ZHName>
+<Desc></Desc>
+<ENName>Add Spinach to Pasta</ENName>
+<ZHName>将菠菜添加到面食</ZHName>
+<Desc></Desc>
+<ENName>Add Extra Veggies to Pasta </ENName>
+<ZHName>添加额外的蔬菜到面食</ZHName>
+<Desc></Desc>
+<ENName>Add Bacon to Salad</ENName>
+<ZHName>添加到沙拉培根</ZHName>
+<Desc>仅用于沙拉。</Desc>
+<ENName>Add Cheese to Sandwich</ENName>
+<ZHName>将奶酪添加到三明治</ZHName>
+<Desc></Desc>
+<ENName>Add Extra Container of Melted Cheese Sauce</ENName>
+<ZHName>添加额外的容器的融化的乳酪酱</ZHName>
+<Desc>芝士</Desc>
+<ENName>Extra Breaded Chicken</ENName>
+<ZHName>额外面包屑的鸡</ZHName>
+<Desc></Desc>
+<ENName>Add Chicken to Pasta</ENName>
+<ZHName>添加鸡肉意大利面</ZHName>
+<Desc>将添加到只有意大利面食。</Desc>
+<ENName>Add Eggs (1/2 Egg)</ENName>
+<ZHName>添加鸡蛋 (鸡蛋 1/2)</ZHName>
+<Desc></Desc>
+<ENName>Add Cheese Cubes</ENName>
+<ZHName>添加奶酪的多维数据集</ZHName>
+<Desc></Desc>
+<ENName>Add Olives</ENName>
+<ZHName>添加橄榄</ZHName>
+<Desc></Desc>
+<ENName>Add Red Peppers</ENName>
+<ZHName>添加红辣椒</ZHName>
+<Desc></Desc>
+<ENName>Add Cheddar/Mozzarella</ENName>
+<ZHName>添加切达奶酪/马苏里拉</ZHName>
+<Desc></Desc>
+<ENName>Add Mandarin Oranges</ENName>
+<ZHName>添加的橘子</ZHName>
+<Desc></Desc>
+<ENName>Add Pineapple</ENName>
+<ZHName>添加菠萝</ZHName>
+<Desc></Desc>
+<ENName>Add Blueberries</ENName>
+<ZHName>添加蓝莓</ZHName>
+<Desc></Desc>
+<ENName>Add Strawberries</ENName>
+<ZHName>添加草莓</ZHName>
+<Desc></Desc>
+<ENName>Add Pecans</ENName>
+<ZHName>添加山核桃</ZHName>
+<Desc></Desc>
+<ENName>Add Walnuts</ENName>
+<ZHName>添加核桃</ZHName>
+<Desc></Desc>
+<ENName>Add Provolone</ENName>
+<ZHName>添加干酪</ZHName>
+<Desc></Desc>
+<ENName>Sub Hot Chicken For Cold</ENName>
+<ZHName>子热鸡感冒</ZHName>
+<Desc></Desc>
+<ENName>Add Salami</ENName>
+<ZHName>添加意大利腊肠</ZHName>
+<Desc></Desc>
+<ENName>Add Chicken Parm</ENName>
+<ZHName>添加鸡 Parm</ZHName>
+<Desc></Desc>
+<ENName>Sub Hot Tuna for Chicken</ENName>
+<ZHName>鸡子热金枪鱼</ZHName>
+<Desc></Desc>
+<ENName>Add Tuna</ENName>
+<ZHName>添加金枪鱼</ZHName>
+<Desc></Desc>
+<ENName>Add Extra Fruit</ENName>
+<ZHName>添加额外的水果</ZHName>
+<Desc></Desc>
+<ENName>Sweet Peppers</ENName>
+<ZHName>甜辣椒</ZHName>
+<Desc></Desc>
+<ENName>Hot Peppers </ENName>
+<ZHName>红辣椒</ZHName>
+<Desc></Desc>
+<ENName>Add Bacon to a Sandwich</ENName>
+<ZHName>添加一个三明治培根</ZHName>
+<Desc></Desc>
+<ENName>Heating Kit </ENName>
+<ZHName>加热工具包</ZHName>
+<Desc></Desc>
+<ENName>Add Cheese </ENName>
+<ZHName>添加奶酪</ZHName>
+<Desc></Desc>
+<ENName>Add Chili to Fries</ENName>
+<ZHName>添加辣椒炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Add Extra Italian Beef</ENName>
+<ZHName>添加额外意大利牛肉</ZHName>
+<Desc></Desc>
+<ENName>Add Marinara Sauce to a Sandwich</ENName>
+<ZHName>将大蒜酱添加到一个三明治</ZHName>
+<Desc></Desc>
+<ENName>Add Cheddar Cheese Sauce (on the side)</ENName>
+<ZHName>添加切达干酪奶酪酱 （对侧）</ZHName>
+<Desc></Desc>
+<ENName>Portillo's Milkshakes </ENName>
+<ZHName>波蒂略的奶昔</ZHName>
+<Desc>香草，草莓或巧克力的选择。定期或大的选择。</Desc>
+<ENName>Portillo's Malt Shakes</ENName>
+<ZHName>波蒂略的麦芽奶昔</ZHName>
+<Desc>香草，草莓或巧克力的选择。定期或大尺寸的选择。</Desc>
+<ENName>Portillo's Chocolate Cake Shake</ENName>
+<ZHName>波蒂略的巧克力蛋糕摇</ZHName>
+<Desc>定期或大尺寸。</Desc>
+<ENName>Portillo's Strawberry Smoothie </ENName>
+<ZHName>波蒂略的草莓奶昔</ZHName>
+<Desc></Desc>
+<ENName>Portillo's Banana Smoothie </ENName>
+<ZHName>波蒂略的香蕉奶昔</ZHName>
+<Desc></Desc>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>定期或大的选择。</Desc>
+<ENName>Piece of Portillo's Famous Chocolate Cake</ENName>
+<ZHName>一块波蒂略的著名巧克力蛋糕</ZHName>
+<Desc>丰富，味道鲜美。</Desc>
+<ENName>Chocolate Eclair Cake</ENName>
+<ZHName>巧克力 Eclair 蛋糕</ZHName>
+<Desc>酥充满奶油蛋羹，淋上巧克力。</Desc>
+<ENName>Tiramisu</ENName>
+<ZHName>提拉米苏</ZHName>
+<Desc>传统的意大利甜点。</Desc>
+<ENName>Strawberry Shortcake</ENName>
+<ZHName>草莓蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Dasani Bottled Water (16.9oz.)</ENName>
+<ZHName>Dasani 瓶装水 （16.9 盎司）。</ZHName>
+<Desc></Desc>
+<ENName>Seagrams Ginger Ale (12oz.Can) </ENName>
+<ZHName>施格兰姜汁啤酒 （12oz.Can）</ZHName>
+<Desc></Desc>
+<ENName>Coke (12oz. Cans)</ENName>
+<ZHName>可乐 （12 盎司罐）</ZHName>
+<Desc></Desc>
+<ENName>Diet Coke (12oz. Cans)</ENName>
+<ZHName>健怡可乐 （12 盎司罐）</ZHName>
+<Desc></Desc>
+<ENName>12 Cans of Coke </ENName>
+<ZHName>12 罐可乐</ZHName>
+<Desc></Desc>
+<ENName>12 Cans of Diet Coke </ENName>
+<ZHName>12 罐的健怡可乐</ZHName>
+<Desc></Desc>
+<ENName>6 + 6 (6 cans of Coke and 6 cans of Diet Coke) </ENName>
+<ZHName>6 + 6 （6 罐可乐） 和健怡可乐 6 罐</ZHName>
+<Desc></Desc>
+<ENName>6 Cans of Coke</ENName>
+<ZHName>6 罐可乐</ZHName>
+<Desc></Desc>
+<ENName>6 Cans of Diet Coke</ENName>
+<ZHName>6 罐的健怡可乐</ZHName>
+<Desc></Desc>
+<ENName>6 Cans of Ginger Ale</ENName>
+<ZHName>6 罐的姜汁汽水</ZHName>
+<Desc></Desc>
+<ENName>6 Bottles of Water</ENName>
+<ZHName>6 瓶水</ZHName>
+<Desc></Desc>
+<ENName>Catering - Beef Pack Meal (Serves 10) </ENName>
+<ZHName>餐饮-牛肉包餐 （餐 10）</ZHName>
+<Desc>两个和半磅的意大利牛肉、 肉汁、 两磅的凉拌卷心菜、 两磅的土豆沙拉，半品脱的辣椒，半品脱的甜辣椒和两条法国面包。</Desc>
+<ENName>Catering - Pasta Pack Meal (Serves 20-25)</ENName>
+<ZHName>餐饮-意面包餐 （可供 20-25)</ZHName>
+<Desc>Mostaccioli、 大型美食花园沙拉，和两条法国面包的满锅。</Desc>
+<ENName>Catering - Portillo's Best of Both (Serves 10-15)</ENName>
+<ZHName>餐饮-波蒂略的最好的两个 （可供 10-15)</ZHName>
+<Desc>两个和半磅的牛肉、 肉汁、 半盘的 mostaccioli、 小碗里的美食花园沙拉、 甜和辣椒的每个小容器和三个饼。</Desc>
+<ENName>Catering - House Salad </ENName>
+<ZHName>餐饮-房子沙拉</ZHName>
+<Desc>半碗 (为 6-8 人) 和充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Caesar Salad</ENName>
+<ZHName>餐饮-凯撒沙拉</ZHName>
+<Desc>长叶莴苣脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮鸡蛋、 面包丁和新鲜的、 磨碎的干酪。半碗 (为 6-8 人) 和充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Gourmet Garden Salad</ENName>
+<ZHName>餐饮-美食花园沙拉</ZHName>
+<Desc>长叶莴苣、 冰山、 红球甘蓝、 胡萝卜、 青椒、 红洋葱、 橄榄、 樱桃西红柿和切达干酪奶酪的多维数据集。半碗 (为 6-8 人） 或充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Chicken Caesar Salad </ENName>
+<ZHName>餐饮-鸡肉凯撒沙拉</ZHName>
+<Desc>长叶莴苣脆皮床扔与我们凯撒穿衣、 淋上番茄、 煮鸡蛋、 面包、 新鲜的磨碎干酪和鸡。半碗 (为 6-8 人) 和充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Chopped Salad</ENName>
+<ZHName>餐饮-切碎的沙拉</ZHName>
+<Desc>长叶莴苣、 冰山、 tubetti 面食、 鸡肉、 培根、 番茄、 戈尔贡佐拉，葱和红色卷心菜在房子修整。半碗 (为 6-8 人） 或充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Chicken Pecan Salad</ENName>
+<ZHName>餐饮-鸡核桃沙拉</ZHName>
+<Desc>混合的蔬菜、 鸡肉、 奶酪、 西红柿、 培根和蜂蜜第戎酱烤的胡桃。为 6-8 人的半碗） 或充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Garbage Salad </ENName>
+<ZHName>餐饮-垃圾沙拉</ZHName>
+<Desc>卷心莴苣、 红球甘蓝、 萨拉米香肠、 黄瓜，西红柿、 红洋葱、 胡萝卜、 立方切达干酪和青椒。敷料的选择。半碗 （6-8 人） 或充分的碗 （10-15 人）。面包是不包括在内。</Desc>
+<ENName>Catering - Whole Italian Strawberry Shortcake</ENName>
+<ZHName>餐饮-整个意大利的草莓蛋糕</ZHName>
+<Desc>（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Whole Chocolate Eclair Cake</ENName>
+<ZHName>餐饮-Eclair 整个巧克力蛋糕</ZHName>
+<Desc>全麦饼分层与香草布丁，淋上巧克力。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Chocolate Lover's Tray (20 pcs.)</ENName>
+<ZHName>餐饮-巧克力情人的托盘 (20 枚)。</ZHName>
+<Desc>美食核仁巧克力饼、 黄金蛋糕、 巧克力旋流酒吧和山核桃巧克力块酒吧。来自 Barnelli 的订单。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Mixed Treasure Tray (20 pcs.)</ENName>
+<ZHName>餐饮-混合宝托盘 (20 枚)。</ZHName>
+<Desc>柠檬棒、 焦糖苹果奶奶、 黄金蛋糕和花生黄油酒吧。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Gourmet Brownie Tray (20 pcs.)</ENName>
+<ZHName>餐饮-美食蛋糕托盘 (20 枚)。</ZHName>
+<Desc>核桃和浓郁的巧克力的完美结合使我们的"原始"巧克力坚果情人的喜悦。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - N.Y. Style Whole Cheesecake (Serves 16)</ENName>
+<ZHName>餐饮-纽约风格的整个芝士蛋糕 （服务 16）</ZHName>
+<Desc>必须是 ordred 提前 24 小时。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Whole Tiramisu</ENName>
+<ZHName>餐饮-整个提拉米苏</ZHName>
+<Desc>经典的意大利甜点，咖啡浸泡的 ladyfingers 和 marscapone 奶酪。（需要 3 天先进的通知）。</Desc>
+<ENName>Catering - Whole Portillo's Famous Chocolate Cake</ENName>
+<ZHName>餐饮-整个波蒂略著名巧克力蛋糕</ZHName>
+<Desc>波蒂略的著名巧克力蛋糕，巧克力糖霜。十片。</Desc>
+<ENName>Catering - Chicken Giambotta with Italian Sausage (Serves 12)</ENName>
+<ZHName>餐饮-鸡 Giambotta 与意大利香肠 （餐 12）</ZHName>
+<Desc>去骨去皮的鸡胸肉烤焦和钎焊用红、 黄、 绿辣椒、 洋葱、 茄子和意大利香肠，烤的鸡公司的股票。必须订购提前三天。</Desc>
+<ENName>Catering - Chicken in Mushroom Sauce (Serves 12)</ENName>
+<ZHName>餐饮-鸡肉蘑菇汁 （餐 12）</ZHName>
+<Desc>无骨去皮鸡胸肉烤和炖 cremini 和按钮的蘑菇，韭菜和培根，奶油烤的鸡 veloule，带着淡淡的玛萨拉酒中。必须订购提前三天。</Desc>
+<ENName>Catering - Hot BBQ Rib Slab</ENName>
+<ZHName>餐饮-热烧烤肋板</ZHName>
+<Desc>每板的价格。</Desc>
+<ENName>Catering - 3 Pack Cold BBQ Rib Slabs</ENName>
+<ZHName>餐饮-3 包冷烧烤肋板</ZHName>
+<Desc></Desc>
+<ENName>Catering - Chicken Siciliano (Serves 8-10)</ENName>
+<ZHName>餐饮-鸡西西利亚诺 （服务 8-10)</ZHName>
+<Desc>嫩鸡胸块炒西兰花、 蘑菇、 洋葱、 和罗马在面条。面包是不包括在内。</Desc>
+<ENName>Catering - Chicken Parmesan (Serves 8-10)</ENName>
+<ZHName>餐饮-鸡巴马 （服务 8-10)</ZHName>
+<Desc>在一张床的意大利面条或 mostaccioli，酱或肉送达。面包是不包括在内。</Desc>
+<ENName>Catering - Hot Wings</ENName>
+<ZHName>餐饮-辣鸡翅</ZHName>
+<Desc></Desc>
+<ENName>Catering - BBQ Glazed Wings</ENName>
+<ZHName>餐饮-烧烤釉的翅膀</ZHName>
+<Desc></Desc>
+<ENName>Catering - Chicken Tenders</ENName>
+<ZHName>餐饮-鸡招标</ZHName>
+<Desc></Desc>
+<ENName>Catering - Vegetable Tray (Serves 18-20)</ENName>
+<ZHName>餐饮-蔬菜托盘 （服务 18-20）</ZHName>
+<Desc>十六寸托盘。脆脆的小胡萝卜、 好吃的葡萄番茄、 黄瓜棍棒、 花椰菜、 芹菜、 红辣椒和花椰菜。您选择的牧场素食倾角或脂肪免费牧场素食倾角。必须订购提前四天。</Desc>
+<ENName>Catering - Cheese and Sausage Cube Tray (Serves 12-15)</ENName>
+<ZHName>餐饮-奶酪和香肠多维数据集托盘 （服务 12-15)</ZHName>
+<Desc>十二英寸托盘。奶油干酪、 瑞士和马苏里拉奶酪，再加上热那亚意大利腊肠、 库托萨拉米香肠和美味的香肠，第戎芥末蘸。必须订购提前四天。</Desc>
+<ENName>Catering - Cheese Cube Tray (Serves 12-15)</ENName>
+<ZHName>餐饮-奶酪多维数据集托盘 （服务 12-15)</ZHName>
+<Desc>十二英寸托盘。轻度切达干酪、 科尔比杰克、 瑞士、 意大利干酪、 胡椒杰克和蒙特利杰克奶酪、 奶油牧场蘸。必须订购提前四天。</Desc>
+<ENName>Catering - Fresh Fruit Tray (Serves 18-20)</ENName>
+<ZHName>餐饮-新鲜水果托盘 （服务 18-20）</ZHName>
+<Desc>十六寸托盘。我们选择最新鲜的时令水果，切成多维数据集或楔子。您的选择我们的焦糖苹果蘸或奶油奶酪倾角。必须订购提前四天。</Desc>
+<ENName>Catering - Sweet Peppers</ENName>
+<ZHName>餐饮-甜辣椒</ZHName>
+<Desc>选项的一半或全部品脱。</Desc>
+<ENName>Catering - Hot Peppers </ENName>
+<ZHName>餐饮-辣椒</ZHName>
+<Desc>半或全一品脱的选项。</Desc>
+<ENName>Catering - Loaf of French Bread </ENName>
+<ZHName>餐饮-法国面包</ZHName>
+<Desc>定价过高，面包。在每个大面包中的六块。</Desc>
+<ENName>Catering - French Fries </ENName>
+<ZHName>餐饮-炸薯条</ZHName>
+<Desc>在增量的 12 人中可用。</Desc>
+<ENName>Catering - Onion Rings </ENName>
+<ZHName>餐饮-洋葱圈</ZHName>
+<Desc>在增量的 12 人中可用。</Desc>
+<ENName>Catering - Cheese For Fries </ENName>
+<ZHName>餐饮-奶酪炸薯条</ZHName>
+<Desc>每人的价格。</Desc>
+<ENName>Catering - Broccoli & Cauliflower Bake (8-10 Side Portions)</ENName>
+<ZHName>餐饮-西兰花 &amp; 菜花烘烤 （8-10 侧部分）</ZHName>
+<Desc>西兰花和菜花 florettes 烤干酪和干酪奶酪酱汁。（需要提前三天通知）。</Desc>
+<ENName>Catering - Au Gratin Potatoes (8-10 Side Portions)</ENName>
+<ZHName>餐饮-焗土豆 (8-10 侧部分)</ZHName>
+<Desc>烤箱烤焗土豆切达干酪奶酪酱。（需要提前两天通知）。</Desc>
+<ENName>Catering - Fresh Baked House Bread</ENName>
+<ZHName>餐饮-新鲜的烤面包的房子</ZHName>
+<Desc>圆面包，六英寸。</Desc>
+<ENName>Catering - Extra Marinara or Meat Sauce</ENName>
+<ZHName>餐饮-额外大蒜或肉调味汁</ZHName>
+<Desc></Desc>
+<ENName>Catering - Cole Slaw </ENName>
+<ZHName>餐饮-凉拌卷心菜</ZHName>
+<Desc>凉拌卷心菜磅。</Desc>
+<ENName>Catering - Potato Salad</ENName>
+<ZHName>餐饮-土豆沙拉</ZHName>
+<Desc>磅的土豆沙拉。</Desc>
+<ENName>Catering - Extra House Salad Dressing</ENName>
+<ZHName>餐饮-额外房子沙拉酱</ZHName>
+<Desc>Jar。</Desc>
+<ENName>Catering - Mostaccioli</ENName>
+<ZHName>餐饮-Mostaccioli</ZHName>
+<Desc>您选择的一半或全潘。面包是不包括在内。</Desc>
+<ENName>Catering - Baked Mostaccioli (Serves 8-10)</ENName>
+<ZHName>餐饮-烤 Mostaccioli (服务 8-10)</ZHName>
+<Desc>半锅 （服务 8-10 人）。面包是不包括在内。（通心粉）。</Desc>
+<ENName>Catering - Baked Spaghetti (Serves 8-10)</ENName>
+<ZHName>餐饮-焗意粉 (服务 8-10)</ZHName>
+<Desc>面包是不包括在内。半锅 （服务 8-10 人）。</Desc>
+<ENName>Catering - Rigatoni a la Vodka (Serves 8-10)</ENName>
+<ZHName>餐饮-通心粉 la 伏特加 （服务 8-10)</ZHName>
+<Desc>炆番茄奶油拌通心粉。面包是不包括在内。添加鸡额外费用。</Desc>
+<ENName>Catering - Spinach Lasagna (Serves 6)</ENName>
+<ZHName>餐饮-菠菜千层面 (服务 6）</ZHName>
+<Desc>半锅。没有肉。面包是不包括在内。必须订购提前两个小时。</Desc>
+<ENName>Catering - Penne Al'arrabbiata  (Serves 8-10)</ENName>
+<ZHName>餐饮-通心粉 Al'arrabbiata (服务 8-10)</ZHName>
+<Desc>通心粉配鸡，意大利香肠，或鸡和意大利香肠，在麻辣酱。面包是不包括在内。</Desc>
+<ENName>Catering - Fettucine Alfredo (Full Pan)</ENName>
+<ZHName>餐饮-阿尔弗雷多 · Fettucine （完整 Pan）</ZHName>
+<Desc></Desc>
+<ENName>Full Heating Kit</ENName>
+<ZHName>完整的加热工具包</ZHName>
+<Desc></Desc>
+<ENName>Reusable Chafing Racks</ENName>
+<ZHName>可重用火锅晾衣架</ZHName>
+<Desc></Desc>
+<ENName>Single Use Canned Heat</ENName>
+<ZHName>一次性使用罐装热</ZHName>
+<Desc></Desc>
+<ENName>Tableware Set-Up (For 10)</ENName>
+<ZHName>(10) 餐具设置</ZHName>
+<Desc></Desc>
+<ENName>Appetizer Delight</ENName>
+<ZHName>开胃菜的喜悦</ZHName>
+<Desc>最低为 2，将添加一个人 $4.95，什锦的小吃为明智的包括排骨，蟹仰光、 鸡蛋卷、 虾烤面包、 炸受虐的虾和烧烤牛肉。</Desc>
+<ENName>Egg Roll (2)</ENName>
+<ZHName>鸡蛋卷 (2)</ZHName>
+<Desc>火腿、 虾和蔬菜用花生调味汁。</Desc>
+<ENName>Vegetable Egg Roll (2)</ENName>
+<ZHName>蔬菜鸡蛋卷 (2)</ZHName>
+<Desc>用花生调味汁的蔬菜。</Desc>
+<ENName>Kwoh  Te</ENName>
+<ZHName>万国 Te</ZHName>
+<Desc>（锅贴）（6） 锅煎的饺子与地面猪肉肉和蔬菜。</Desc>
+<ENName>BBQ Pork</ENName>
+<ZHName>烧烤猪肉</ZHName>
+<Desc>里脊肉猪肉片自制烧烤酱。</Desc>
+<ENName>Shrimp Toast (8)</ENName>
+<ZHName>吐司面包虾 (8)</ZHName>
+<Desc>美味黄金深油炸烤面包虾蓉和水栗子蛋面糊混合。</Desc>
+<ENName>Cantonese Fried Shrimp (6)</ENName>
+<ZHName>粤语炸虾 (6)</ZHName>
+<Desc>炸的虾。</Desc>
+<ENName>Fried Wonton (Meatless) (8)</ENName>
+<ZHName>煎馄饨 (素食) (8)</ZHName>
+<Desc></Desc>
+<ENName>Singapore BBQ Beef (6)</ENName>
+<ZHName>新加坡烧烤牛肉 (6)</ZHName>
+<Desc>在一根棍子上的牛肉。</Desc>
+<ENName>BBQ Ribs (6)</ENName>
+<ZHName>烧烤排骨 (6)</ZHName>
+<Desc></Desc>
+<ENName>Crab Rangoon (6)</ENName>
+<ZHName>蟹仰光 (6)</ZHName>
+<Desc>奶油奶酪和仿蟹肉炸的组合。</Desc>
+<ENName>Chicken In Soothing Lettuce Wraps</ENName>
+<ZHName>在舒缓的生菜包鸡</ZHName>
+<Desc>鸡肉炒绿豆、 洋葱和胡萝卜，配上新鲜的生菜。</Desc>
+<ENName>Vegetables In Soothing Lettuce Wraps</ENName>
+<ZHName>蔬菜中舒缓生菜包</ZHName>
+<Desc>炒的绿豆、 洋葱、 胡萝卜和豆腐配上新鲜的生菜。</Desc>
+<ENName>Sizzling Golden Rice Soup</ENName>
+<ZHName>铁板金稻米汤</ZHName>
+<Desc>虾、 鸡肉、 蔬菜和米饭蛋糕。</Desc>
+<ENName>Sliced Chicken Soup</ENName>
+<ZHName>鸡片汤</ZHName>
+<Desc>鸡和蔬菜。</Desc>
+<ENName>Hot & Sour Soup</ENName>
+<ZHName>热 &amp; 酸汤</ZHName>
+<Desc>豆腐、 肉丝、 鸡蛋 &amp; 蔬菜。</Desc>
+<ENName>Wonton Soup</ENName>
+<ZHName>馄饨汤</ZHName>
+<Desc>瓤馅的猪肉饺子清汤肉丝。</Desc>
+<ENName>Wonton Noodle Soup</ENName>
+<ZHName>馄饨汤面</ZHName>
+<Desc>瓤馅的猪肉水饺面条。</Desc>
+<ENName>Chicken Rice Or Noodle Soup</ENName>
+<ZHName>鸡肉米饭或面条汤</ZHName>
+<Desc></Desc>
+<ENName>Vegetable Soup</ENName>
+<ZHName>蔬菜汤</ZHName>
+<Desc>结合中国蔬菜。</Desc>
+<ENName>Egg Drop Soup</ENName>
+<ZHName>蛋花汤</ZHName>
+<Desc></Desc>
+<ENName>Mongolian Three</ENName>
+<ZHName>蒙古三</ZHName>
+<Desc>鲜虾肉、 鸡肉、 牛肉葱香酥酥米粉红烧。</Desc>
+<ENName>Orange Fish</ENName>
+<ZHName>橙色的鱼</ZHName>
+<Desc>轻轻地受虐的片鱼浸泡在香煎甜甜 &amp; 酸辣汁中的橙皮。</Desc>
+<ENName>Sizzling Seafood Combination</ENName>
+<ZHName>铁板海鲜组合</ZHName>
+<Desc>鲜虾，扇贝龙虾 &amp; 螃蟹肉炒与西兰花、 豌豆、 玉米笋、 香菇、 荸荠番茄大蒜调味汁。</Desc>
+<ENName>Orange Shrimp</ENName>
+<ZHName>橙色虾</ZHName>
+<Desc>轻轻地受虐的虾，快速炒和涂上可口的酱汁西兰花。</Desc>
+<ENName>Honey Glazed Walnut Shrimp</ENName>
+<ZHName>蜜汁核桃虾</ZHName>
+<Desc>酥脆奶油酱蜂蜜核桃虾。在覆盖西兰花美味酱。</Desc>
+<ENName>Sauteed Shrimp With Tomato Ginger Sauce</ENName>
+<ZHName>清炒鲜的虾番茄姜汁</ZHName>
+<Desc>与切碎的洋葱和红辣椒在酸又辣的酱汁的鲜虾。</Desc>
+<ENName>Shrimp With Cashew Nut</ENName>
+<ZHName>腰果虾仁</ZHName>
+<Desc>鲜虾炒荸荠、 竹笋、 胡椒粉酱。</Desc>
+<ENName>Szechwan Shrimp</ENName>
+<ZHName>四川虾</ZHName>
+<Desc>鲜虾炒花生和红辣椒在褐色的酱汁。</Desc>
+<ENName>Hunan Shrimp</ENName>
+<ZHName>湖南虾</ZHName>
+<Desc>虾炒西兰花、 柿子椒、 婴儿玉米、 豌豆、 竹笋、 胡萝卜、 荸荠、 用在非常特别的辣辣酱香菇和蘑菇切成薄片。</Desc>
+<ENName>Yu Shan Shrimp</ENName>
+<ZHName>榆山虾</ZHName>
+<Desc>鲜虾炒西兰花、 柿子椒、 婴儿玉米、 豌豆、 竹笋、 胡萝卜、 荸荠、 薄饼，用在甜和辣的酱汁香菇和蘑菇切成薄片。</Desc>
+<ENName>Kung Pao Three</ENName>
+<ZHName>宫保三</ZHName>
+<Desc>鲜虾、 牛肉和鸡肉炒花生、 辣椒在非常特殊的辣酱。</Desc>
+<ENName>Szechwan Scallops</ENName>
+<ZHName>四川扇贝</ZHName>
+<Desc>扇贝炒花生、 辣椒热酱。</Desc>
+<ENName>Scallops Chucking Style</ENName>
+<ZHName>扇贝夹紧的风格</ZHName>
+<Desc>扇贝炒柿子椒，竹笋和辣番茄汁的薄饼。</Desc>
+<ENName>Scallops With Broccoli</ENName>
+<ZHName>扇贝配西兰花</ZHName>
+<Desc>扇贝炒西兰花、 豌豆、 竹笋、 胡萝卜、 荸荠和蘑菇的大蒜酱。</Desc>
+<ENName>Sizzling Scallops</ENName>
+<ZHName>铁板扇贝</ZHName>
+<Desc>扇贝炒西兰花、 豆荚、 蘑菇、 竹笋、 胡萝卜和水栗子在番茄大蒜调味汁。</Desc>
+<ENName>Scallops In A Nest</ENName>
+<ZHName>扇贝在巢中</ZHName>
+<Desc>炒西兰花，豌豆、 玉米笋、 蘑菇、 竹笋、 胡萝卜和水栗子在清淡的酱汁扇贝土豆窝里。</Desc>
+<ENName>Seafood In A Nest</ENName>
+<ZHName>在鸟巢的海鲜</ZHName>
+<Desc>鲜虾、 扇贝、 螃蟹肉炒西兰花、 豌豆、 玉米笋、 蘑菇、 竹笋、 胡萝卜与和清淡的酱汁荸荠送达马铃薯巢中。</Desc>
+<ENName>Sizzling Sauteed Shrimp</ENName>
+<ZHName>铁板炒的虾</ZHName>
+<Desc>虾与西兰花、 豌豆、 玉米笋、 香菇、 笋片、 胡萝卜和番茄大蒜水栗子酱。</Desc>
+<ENName>Shrimp In A Nest</ENName>
+<ZHName>在巢中的虾</ZHName>
+<Desc>鲜虾炒西兰花，豌豆、 玉米笋、 蘑菇、 竹笋、 胡萝卜和清淡的酱汁荸荠送达马铃薯巢中。</Desc>
+<ENName>Shrimp With Sizzling Rice</ENName>
+<ZHName>锅巴虾仁</ZHName>
+<Desc>鲜虾炒中国蔬菜和锅巴在清淡的酱汁。</Desc>
+<ENName>Sauteed Crystal Shrimp</ENName>
+<ZHName>清炒鲜的水晶虾</ZHName>
+<Desc>葱炒白汁的鲜虾。</Desc>
+<ENName>Mongolian Shrimp</ENName>
+<ZHName>蒙古虾</ZHName>
+<Desc>鲜虾葱香酥酥米粉红烧。</Desc>
+<ENName>Shrimp With Broccoli</ENName>
+<ZHName>西兰花鲜虾</ZHName>
+<Desc>鲜虾炒西兰花、 豆荚、 竹笋、 胡萝卜、 荸荠、 蘑菇在清淡的酱汁。</Desc>
+<ENName>Shrimp With Peapods</ENName>
+<ZHName>豌豆虾仁</ZHName>
+<Desc>鲜虾炒豌豆、 竹笋、 胡萝卜、 荸荠、 蘑菇在清淡的酱汁。</Desc>
+<ENName>Shrimp With Fresh Mushrooms</ENName>
+<ZHName>鲜虾蘑菇</ZHName>
+<Desc>鲜虾炒鲜蘑菇、 竹笋、 胡萝卜和水栗子，豆荚的褐色酱油。</Desc>
+<ENName>Shrimp With Lobster Sauce</ENName>
+<ZHName>虾配龙虾汁</ZHName>
+<Desc>鲜虾炒碎猪肉肉和鸡蛋在黑的 bean 和大蒜调味汁。</Desc>
+<ENName>Shrimp With Garlic Sauce</ENName>
+<ZHName>蒜茸虾</ZHName>
+<Desc>与黑色的 bean 和大蒜酱洋葱炒鲜虾。</Desc>
+<ENName>Shrimp Kow</ENName>
+<ZHName>虾 Kow</ZHName>
+<Desc>与中国蔬菜在清淡的酱汁的鲜虾。</Desc>
+<ENName>Shrimp Hong Sue</ENName>
+<ZHName>虾香港苏</ZHName>
+<Desc>深炸的虾炒与中国蔬菜在褐色的酱汁。</Desc>
+<ENName>Sweet And Sour Shrimp</ENName>
+<ZHName>甜和酸虾</ZHName>
+<Desc>深炸的虾番茄、 黄瓜、 菠萝和自制的糖醋汁淋上。</Desc>
+<ENName>Moo Shu Shrimp</ENName>
+<ZHName>Moo 蜀虾</ZHName>
+<Desc>卷心菜、 薄饼、 绿洋葱、 笋片、 蛋虾仁裹梅汁煎饼。</Desc>
+<ENName>Sizzling Filet Of Chicken</ENName>
+<ZHName>铁板牛排鸡片</ZHName>
+<Desc>炒西兰花、 豌豆、 玉米笋、 蘑菇、 竹笋、 胡萝卜和大蒜番茄酱荸荠鸡片。</Desc>
+<ENName>Sliced Chicken</ENName>
+<ZHName>鸡片</ZHName>
+<Desc>与黄金锅巴炒中国蔬菜和脆皮金大米在清淡的酱汁。</Desc>
+<ENName>Orange Chicken</ENName>
+<ZHName>陈皮鸡</ZHName>
+<Desc>轻轻地遭到虐待，切片鸡浸泡在橙皮棕色甜的和酸辣汁中炒香。</Desc>
+<ENName>Shi Zhi Chicken</ENName>
+<ZHName>石芝鸡</ZHName>
+<Desc>轻轻地受虐的片鸡浸泡在橙皮棕色糖醋酱炒香。</Desc>
+<ENName>General Tsos Chicken</ENName>
+<ZHName>左宗棠的鸡</ZHName>
+<Desc>大块的香酥鸡青椒、 胡萝卜、 生姜和大蒜。</Desc>
+<ENName>Sesame Chicken</ENName>
+<ZHName>芝麻鸡</ZHName>
+<Desc>切鸡肉块深油炸光的面糊里，然后盖上芝麻。</Desc>
+<ENName>Szechwan Chicken</ENName>
+<ZHName>四川鸡</ZHName>
+<Desc>花生米和在非常特别的辣椒酱辣椒炒鸡片。</Desc>
+<ENName>Szechwan Chicken</ENName>
+<ZHName>四川鸡</ZHName>
+<Desc>与蔬菜、 花生和中国蔬菜在非常特殊的热酱炒鸡丁。</Desc>
+<ENName>Hunan Chicken</ENName>
+<ZHName>湖南鸡</ZHName>
+<Desc>与花椰菜、 甜椒、 玉米笋、 豆荚、 竹笋、 胡萝卜、 水栗子，在非常特殊的辣酱切片香菇和蘑菇炒鸡片。</Desc>
+<ENName>Yu Shan Chicken</ENName>
+<ZHName>榆山鸡肉</ZHName>
+<Desc>与花椰菜、 甜椒、 婴儿玉米、 豌豆、 竹笋、 胡萝卜、 薄饼、 水栗子，切片香菇和蘑菇在甜和辣的酱汁炒鸡片。</Desc>
+<ENName>Sliced Chicken</ENName>
+<ZHName>鸡片</ZHName>
+<Desc>尖椒、 青椒、 荸荠、 竹笋的麻辣酱炒鸡片。</Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc>用新鲜的香菇，鲜蘑菇、 豌豆、 竹笋、 胡萝卜 &amp; 荸荠鸡片在褐色的酱汁。</Desc>
+<ENName>Chicken With Garlic Sauce</ENName>
+<ZHName>蒜酱鸡</ZHName>
+<Desc>在黑色的 bean 和大蒜酱鸡用洋葱片。</Desc>
+<ENName>Sliced Chicken With Peapods</ENName>
+<ZHName>鸡丝豌豆</ZHName>
+<Desc>鸡丝豌豆、 蘑菇、 竹笋、 胡萝卜、 &amp; 水栗子在清淡的酱汁。</Desc>
+<ENName>Chicken Kow</ENName>
+<ZHName>鸡 Kow</ZHName>
+<Desc>与中国蔬菜在清淡的酱汁炒鸡片。</Desc>
+<ENName>Chicken Hung Sue</ENName>
+<ZHName>鸡洪苏</ZHName>
+<Desc>炸鸡的块与中国蔬菜在褐色的酱汁炒。</Desc>
+<ENName>Sweet And Sour Chicken</ENName>
+<ZHName>甜、 糖醋鸡</ZHName>
+<Desc>香酥的鸡黄瓜、 西红柿和菠萝配我们自制的糖醋酱。</Desc>
+<ENName>Sliced Chicken With Broccoli</ENName>
+<ZHName>西兰花鸡片</ZHName>
+<Desc>鸡炒花椰菜，豌豆、 竹笋、 胡萝卜和蘑菇在清淡的酱汁。</Desc>
+<ENName>Chicken With Cashew Nut</ENName>
+<ZHName>腰果鸡丁</ZHName>
+<Desc>炒腰果、 荸荠、 红烧笋。</Desc>
+<ENName>Moo Shu Chicken</ENName>
+<ZHName>Moo 蜀鸡</ZHName>
+<Desc>炒卷心菜、 笋片、 葱、 薄饼，用鸡和蛋裹在与梅子酱煎饼。</Desc>
+<ENName>Mongolian Chicken</ENName>
+<ZHName>蒙古鸡</ZHName>
+<Desc>鸡用大葱和锅巴面条酱。</Desc>
+<ENName>Chicken With Green Beans</ENName>
+<ZHName>青豆鸡</ZHName>
+<Desc>青豆和洋葱鸡片褐色的酱汁。</Desc>
+<ENName>Sliced Chicken</ENName>
+<ZHName>鸡片</ZHName>
+<Desc>w、 黑蘑菇 &amp; 笋片、 红烧。</Desc>
+<ENName>Chicken In Nest</ENName>
+<ZHName>鸡在窝里</ZHName>
+<Desc>嫩煎与新鲜的西兰花、 豌豆、 玉米笋、 香菇、 竹笋、 胡萝卜和清淡的酱汁荸荠送达马铃薯巢。</Desc>
+<ENName>Yu Shan Pork</ENName>
+<ZHName>榆山猪肉</ZHName>
+<Desc>肉片西兰花、 甜椒、 玉米笋、 豌豆、 竹笋、 胡萝卜、 薄饼、 水栗子，甜和辣的酱香菇和蘑菇切成薄片。</Desc>
+<ENName>Moo Shu Pork</ENName>
+<ZHName>木须肉</ZHName>
+<Desc>肉丝白菜、 蘑菇、 葱、 鸡蛋酱煎饼与李子酱。</Desc>
+<ENName>Shredded Pork</ENName>
+<ZHName>肉丝</ZHName>
+<Desc>w、 黑蘑菇 &amp; 笋片、 红烧。</Desc>
+<ENName>Szechwan Vegetables</ENName>
+<ZHName>四川蔬菜</ZHName>
+<Desc>西兰花、 豆荚、 荸荠、 蘑菇、 甜椒、 玉米笋、 竹笋、 胡萝卜和花生炒热的棕色酱。</Desc>
+<ENName>Vegetarians Delight</ENName>
+<ZHName>高兴的是素食主义者</ZHName>
+<Desc>西兰花、 豌豆、 竹笋、 胡萝卜、 荸荠、 蘑菇和婴儿玉米，在清淡的酱汁炒。</Desc>
+<ENName>Peapod Or Broccoli Sauteed</ENName>
+<ZHName>豆荚或炒西兰花</ZHName>
+<Desc></Desc>
+<ENName>Moo Shu Vegetables</ENName>
+<ZHName>Moo 蜀蔬菜</ZHName>
+<Desc>鲜蘑菇、 白菜、 葱、 豌豆、 玉米笋、 薄饼、 葱、 竹笋、 蛋裹梅汁煎饼。</Desc>
+<ENName>Black Mushrooms</ENName>
+<ZHName>黑蘑菇</ZHName>
+<Desc>冬笋炒。</Desc>
+<ENName>Hung Shao Bean Curd</ENName>
+<ZHName>洪邵豆腐</ZHName>
+<Desc>深油炸的豆腐 &amp; 烧烤猪肉与中国蔬菜产业的褐色酱油炒。</Desc>
+<ENName>Ma Po Bean Curd</ENName>
+<ZHName>马宝豆腐</ZHName>
+<Desc>鲜豆腐和地面猪肉炒葱。</Desc>
+<ENName>Chi Tung Special</ENName>
+<ZHName>志董特别</ZHName>
+<Desc>虾、 牛肉、 鸡肉。</Desc>
+<ENName>Shrimp</ENName>
+<ZHName>虾</ZHName>
+<Desc></Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc></Desc>
+<ENName>B-B-Q Pork</ENName>
+<ZHName>B-B-Q 猪肉</ZHName>
+<Desc></Desc>
+<ENName>Extra Fine Cut Pork</ENName>
+<ZHName>特细切的猪肉</ZHName>
+<Desc></Desc>
+<ENName>Vegetables</ENName>
+<ZHName>蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Shrimp Subgum</ENName>
+<ZHName>虾什锦</ZHName>
+<Desc></Desc>
+<ENName>Beef Subgum</ENName>
+<ZHName>牛肉什锦</ZHName>
+<Desc></Desc>
+<ENName>Chicken Subgum</ENName>
+<ZHName>鸡肉什锦</ZHName>
+<Desc></Desc>
+<ENName>Chi Tung Special</ENName>
+<ZHName>志董特别</ZHName>
+<Desc>虾、 牛肉、 鸡肉。</Desc>
+<ENName>Shrimp</ENName>
+<ZHName>虾</ZHName>
+<Desc></Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc></Desc>
+<ENName>B-B-Q Pork</ENName>
+<ZHName>B-B-Q 猪肉</ZHName>
+<Desc></Desc>
+<ENName>Ham</ENName>
+<ZHName>火腿</ZHName>
+<Desc></Desc>
+<ENName>Vegetables</ENName>
+<ZHName>蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Mushroom</ENName>
+<ZHName>蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Plain</ENName>
+<ZHName>平原</ZHName>
+<Desc></Desc>
+<ENName>Jumbo Shrimp</ENName>
+<ZHName>香辣大虾</ZHName>
+<Desc></Desc>
+<ENName>Chi Tung Special</ENName>
+<ZHName>志董特别</ZHName>
+<Desc>虾、 牛肉、 鸡肉</Desc>
+<ENName>Shrimp</ENName>
+<ZHName>虾</ZHName>
+<Desc></Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc></Desc>
+<ENName>B-B-Q Pork</ENName>
+<ZHName>B-B-Q 猪肉</ZHName>
+<Desc></Desc>
+<ENName>Vegetables</ENName>
+<ZHName>蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Mushroom</ENName>
+<ZHName>蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Plain</ENName>
+<ZHName>平原</ZHName>
+<Desc></Desc>
+<ENName>Chi Tung Special</ENName>
+<ZHName>志董特别</ZHName>
+<Desc>虾、 牛肉、 鸡肉。</Desc>
+<ENName>Shrimp</ENName>
+<ZHName>虾</ZHName>
+<Desc></Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc></Desc>
+<ENName>B-B-Q Pork</ENName>
+<ZHName>B-B-Q 猪肉</ZHName>
+<Desc></Desc>
+<ENName>Extra Fine Cut Pork</ENName>
+<ZHName>特细切的猪肉</ZHName>
+<Desc></Desc>
+<ENName>Vegetables</ENName>
+<ZHName>蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Black Mushroom</ENName>
+<ZHName>黑蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Chi Tung Special</ENName>
+<ZHName>志董特别</ZHName>
+<Desc>虾、 牛肉、 鸡肉。</Desc>
+<ENName>Shrimp</ENName>
+<ZHName>虾</ZHName>
+<Desc></Desc>
+<ENName>Beef</ENName>
+<ZHName>牛肉</ZHName>
+<Desc></Desc>
+<ENName>Chicken</ENName>
+<ZHName>鸡</ZHName>
+<Desc></Desc>
+<ENName>B-B-Q Pork</ENName>
+<ZHName>B-B-Q 猪肉</ZHName>
+<Desc></Desc>
+<ENName>Vegetables</ENName>
+<ZHName>蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Singapore Chow Mein Fun</ENName>
+<ZHName>新加坡周捞面芬</ZHName>
+<Desc>很薄的米粉炒虾仔，烧烤猪肉，洋葱，青椒咖喱酱。</Desc>
+<ENName>Mein Fun</ENName>
+<ZHName>捞面乐趣</ZHName>
+<Desc>很薄的米粉炒虾仔，烧烤猪肉，洋葱，青椒咖喱酱。</Desc>
+<ENName>Sizzling Beef</ENName>
+<ZHName>铁板牛肉</ZHName>
+<Desc>配黑胡椒汁牛柳配洋葱、 胡椒和青椒在棕色的黑胡椒酱汁。</Desc>
+<ENName>Sizzling Tenderloin Beef</ENName>
+<ZHName>铁板牛柳牛肉</ZHName>
+<Desc>牛柳配西兰花、 豌豆、 玉米笋、 蘑菇、 竹笋、 胡萝卜和水栗子在番茄大蒜调味汁。</Desc>
+<ENName>Orange Beef</ENName>
+<ZHName>橙色牛肉</ZHName>
+<Desc>轻轻地受虐的牛里脊肉，腌着橘子皮和快炒的和甜的和酸辣汁。</Desc>
+<ENName>Szechwan Beef</ENName>
+<ZHName>四川牛肉</ZHName>
+<Desc>牛肉炒花生和在非常特别的辣椒酱红辣椒片。</Desc>
+<ENName>Hunan Beef</ENName>
+<ZHName>湖南牛肉</ZHName>
+<Desc>与花椰菜、 甜椒、 玉米笋、 豆荚、 竹笋、 胡萝卜、 水栗子，在非常特殊的辣酱切片香菇和蘑菇炒牛肉片。</Desc>
+<ENName>Yu Shan Beef</ENName>
+<ZHName>榆山牛肉</ZHName>
+<Desc>炒与花椰菜、 甜椒、 婴儿玉米、 豌豆、 竹笋、 胡萝卜、 薄饼、 荸荠、 甜和辣的酱香菇和蘑菇切成薄片的牛肉片。</Desc>
+<ENName>Beef With Peapods</ENName>
+<ZHName>豌豆牛肉</ZHName>
+<Desc>牛肉炒豌豆、 胡萝卜、 竹笋水栗子酱。</Desc>
+<ENName>Beef With Fresh Mushrooms</ENName>
+<ZHName>用新鲜的香菇牛肉</ZHName>
+<Desc>鲜蘑菇、 豌豆、 竹笋、 胡萝卜 &amp; 水栗子牛肉片在褐色的酱汁。</Desc>
+<ENName>Beef With Green Pepper Or Tomato</ENName>
+<ZHName>与绿胡椒或番茄牛肉</ZHName>
+<Desc>黑豆与大蒜酱牛肉片。</Desc>
+<ENName>Beef With Oyster Sauce</ENName>
+<ZHName>蚝油牛肉</ZHName>
+<Desc>蚝油牛肉豌豆、 竹笋、 胡萝卜、 荸荠 &amp; 蘑菇。</Desc>
+<ENName>Beef Kow</ENName>
+<ZHName>牛肉 Kow</ZHName>
+<Desc>与中国蔬菜酱炒牛肉片。</Desc>
+<ENName>Beef With Garlic Sauce</ENName>
+<ZHName>蒜酱牛肉</ZHName>
+<Desc>洋葱牛肉片在黑色的 bean 和大蒜酱。</Desc>
+<ENName>Mongolian Beef</ENName>
+<ZHName>蒙古牛肉</ZHName>
+<Desc>牛柳配绿色的洋葱和锅巴面条在褐色的酱汁。</Desc>
+<ENName>Beef With Broccoli</ENName>
+<ZHName>西兰花炒牛肉</ZHName>
+<Desc>牛柳配西兰花、 豆荚和水栗子在褐色的酱汁。</Desc>
+<ENName>Beef With Black Mushroom</ENName>
+<ZHName>黑蘑菇牛肉</ZHName>
+<Desc>冬菇和笋片、 红烧。</Desc>
+<ENName>Beef With Green Beans</ENName>
+<ZHName>青豆牛肉粒</ZHName>
+<Desc>在褐色的酱卤牛肉青豆和洋葱。</Desc>
+<ENName>Beef With Baby Corn</ENName>
+<ZHName>玉米笋烧牛肉</ZHName>
+<Desc>在褐色的酱卤牛肉玉米笋、 香菇、 竹笋、 胡萝卜、 豌豆。</Desc>
+<ENName>Moo Shu Beef</ENName>
+<ZHName>Moo 蜀牛肉</ZHName>
+<Desc>牛肉丝卷心菜、 薄饼、 绿洋葱、 笋片、 包裹在梅汁煎饼。</Desc>
+<ENName>Beef And Rice</ENName>
+<ZHName>牛肉和大米</ZHName>
+<Desc>用在米饭上的洋葱炒牛肉片。</Desc>
+<ENName>Beef In A Nest</ENName>
+<ZHName>牛肉在巢中</ZHName>
+<Desc>切片牛肉里脊西兰花、 豌豆、 玉米笋、 香菇、 笋片、 胡萝卜和水栗子酱送达马铃薯巢。</Desc>
+<ENName>Dinner For 2</ENName>
+<ZHName>2 的晚餐</ZHName>
+<Desc>甜和酸的鸡肉、 牛肉和西兰花。</Desc>
+<ENName>Dinner For 3</ENName>
+<ZHName>3 的晚餐</ZHName>
+<Desc>甜和酸的鸡肉、 牛肉和西兰花，虾在巢里。</Desc>
+<ENName>Dinner For 4</ENName>
+<ZHName>4 的晚餐</ZHName>
+<Desc>甜的和酸的鸡鸡，与 cashewnut、 牛肉和西兰花，虾在巢里。</Desc>
+<ENName>Dinner For 5</ENName>
+<ZHName>5 的晚餐</ZHName>
+<Desc>糖醋鸡、 牛肉、 西兰花、 蒙古牛肉，虾在巢里，志董特别杂碎。</Desc>
+<ENName>Dinner For 6</ENName>
+<ZHName>6 的晚餐</ZHName>
+<Desc>甜的和酸的鸡肉，牛肉青椒 &amp; 番茄、 蜂蜜釉面核桃虾、 志董特别杂碎、 牛肉和西兰花，虾在巢里。</Desc>
+<ENName>Dinner For 2</ENName>
+<ZHName>2 的晚餐</ZHName>
+<Desc>豆荚，左宗棠将军 s 牛肉鸡肉 （辣）。</Desc>
+<ENName>Dinner For 3</ENName>
+<ZHName>3 的晚餐</ZHName>
+<Desc>牛肉豆荚，四川鸡 （辣），左宗棠将军 s 鸡肉 （辣）。</Desc>
+<ENName>Dinner For 4</ENName>
+<ZHName>4 的晚餐</ZHName>
+<Desc>牛肉与豆荚，左宗棠将军 s 鸡肉 （辣），咝咝作响牛肉瓦，黑胡椒酱汁 （辣），橙色虾 （辣）。</Desc>
+<ENName>Dinner For 5</ENName>
+<ZHName>5 的晚餐</ZHName>
+<Desc>牛肉豆荚，左宗棠将军 s 鸡 （辣），虾在巢 （辣），橙色虾 （辣）、 铁板牛肉瓦，黑胡椒酱汁 （辣）。</Desc>
+<ENName>Dinner For 6</ENName>
+<ZHName>6 的晚餐</ZHName>
+<Desc>牛肉与豆荚，左宗棠将军 s 鸡肉 （辣），四川鸡 （辣），橙色虾 （辣），虾在巢、 w 铁板牛肉、 黑胡椒酱汁 （辣）。</Desc>
+<ENName>Chili</ENName>
+<ZHName>红辣椒</ZHName>
+<Desc></Desc>
+<ENName>Fried Calamari</ENName>
+<ZHName>炸鱿鱼</ZHName>
+<Desc>樱桃辣椒辣，柠檬蒜泥蛋黄酱。</Desc>
+<ENName>Buffalo Chicken Tenders</ENName>
+<ZHName>水牛城鸡招标</ZHName>
+<Desc>蓝奶酪拌酱和芹菜。</Desc>
+<ENName>BBQ Pork Fries</ENName>
+<ZHName>烧烤猪肉炸薯条</ZHName>
+<Desc>杰克奶酪和烧烤猪肉。</Desc>
+<ENName>Bacon Bleu Cheese Fries</ENName>
+<ZHName>培根蓝纹奶酪薯条</ZHName>
+<Desc>培根和蓝纹奶酪碎。</Desc>
+<ENName>Fried Jalapeno Poppers</ENName>
+<ZHName>炒辣椒</ZHName>
+<Desc>奶油奶酪和香肠塞 poppers 墨西哥胡椒覆盆子果酱。</Desc>
+<ENName>PEI Mussels</ENName>
+<ZHName>裴贻贝</ZHName>
+<Desc>黄油、 大蒜、 韭葱、 压碎的红辣椒、 阿拉加什白啤酒。</Desc>
+<ENName>Pig Destroyer</ENName>
+<ZHName>猪驱逐舰</ZHName>
+<Desc>慢煮熟的猪肉，烧烤酱的椒盐卷饼卷。</Desc>
+<ENName>Hate Beak</ENName>
+<ZHName>讨厌的喙</ZHName>
+<Desc>水牛城鸡、 辣水牛酱、 蒙特雷杰克奶酪、 生菜、 西红柿和红洋葱椒盐卷饼有的卷的蓝奶酪拌酱一侧。</Desc>
+<ENName>Make Your Own Mac & Cheese</ENName>
+<ZHName>使你自己的 Mac &amp; 奶酪</ZHName>
+<Desc>选择从下列成分： 培根、 火腿、 秋葵、 鸡、 烤的红柿子椒、 焦糖的洋葱、 晒干西红柿、 西兰花、 豌豆、 蘑菇、 大葱、 甜玉米、 大蒜、 辣椒-2 成分，$2.00 额外每成分。</Desc>
+<ENName>Our Famous Kuma Burger</ENName>
+<ZHName>我们著名的库玛汉堡</ZHName>
+<Desc>培根，切达干酪，煎的鸡蛋。</Desc>
+<ENName>Kaijo</ENName>
+<ZHName>戒场</ZHName>
+<Desc>培根，蓝纹奶酪，花白的洋葱。</Desc>
+<ENName>Black Sabbath</ENName>
+<ZHName>黑色安息日</ZHName>
+<Desc>香料，辣椒，胡椒杰克，红洋葱，常温发黑。</Desc>
+<ENName>YOB</ENName>
+<ZHName>呀</ZHName>
+<Desc>熏制的干酪，培根，烤的辣椒，烤大蒜梅奥。</Desc>
+<ENName>Iron Maiden</ENName>
+<ZHName>铁娘子</ZHName>
+<Desc>牛油果，樱桃辣椒，辣椒杰克，血渍梅奥。</Desc>
+<ENName>Slayer</ENName>
+<ZHName>屠宰者</ZHName>
+<Desc>堆的薯条，淋上 10 盎司汉堡、 辣椒、 樱桃辣椒、 秋葵、 洋葱、 杰克奶酪和愤怒。</Desc>
+<ENName>Neurosis</ENName>
+<ZHName>神经症</ZHName>
+<Desc>切达干酪，瑞士，炒洋葱、 的蘑菇、 焦糖的洋葱，辣根梅奥。</Desc>
+<ENName>Metallica</ENName>
+<ZHName>金属乐队</ZHName>
+<Desc>水牛酱，培根，蓝芝士酱。</Desc>
+<ENName>Clutch</ENName>
+<ZHName>离合器</ZHName>
+<Desc>切达干酪，瑞士，杰克，熏的干酪。</Desc>
+<ENName>Mastodon</ENName>
+<ZHName>乳齿象</ZHName>
+<Desc>烧烤酱，切达奶酪，培根，花白的洋葱。</Desc>
+<ENName>Led Zeppelin</ENName>
+<ZHName>齐柏林</ZHName>
+<Desc>拉扯了猪肉，培根，切达干酪，泡菜。</Desc>
+<ENName>Pantera</ENName>
+<ZHName>惹火</ZHName>
+<Desc>烤的椒辣椒，培根，切达奶酪和蒙特利杰克、 做房子大牧场主酱汁，玉米饼的小条。</Desc>
+<ENName>Plague Bringer</ENName>
+<ZHName>瘟疫使者</ZHName>
+<Desc>烤的大蒜的梅奥，玉米饼的小条，房子热酱，新鲜大蒜，辣椒杰克，切片的墨西哥胡椒。</Desc>
+<ENName>High On Fire</ENName>
+<ZHName>高在火上</ZHName>
+<Desc>siracha 热辣椒酱、 熏火腿、 烤的红椒、 烤的菠萝、 甜辣椒酱。</Desc>
+<ENName>Lair Of The Minotaur</ENName>
+<ZHName>牛头怪巢穴</ZHName>
+<Desc>焦糖的洋葱、 培根、 法国布里乳酪、 波旁酒浸泡梨。</Desc>
+<ENName>Megadeth</ENName>
+<ZHName>Megadeth</ZHName>
+<Desc>香肠和红土豆哈希，pico de gallo，卡宴牛油果奶油、 玉米块。</Desc>
+<ENName>Brujeria</ENName>
+<ZHName>Brujeria</ZHName>
+<Desc>奶油奶酪和香肠馅墨西哥胡椒波普尔、 切达干酪和烧焦的番茄沙沙。</Desc>
+<ENName>Black Oak Arkansas</ENName>
+<ZHName>黑橡树阿肯色州</ZHName>
+<Desc>红酒烧烤酱、 培根、 老年白切达干酪和 alpha 国王重创炒香葱圈。</Desc>
+<ENName>Earthride</ENName>
+<ZHName>Earthride</ZHName>
+<Desc>10 盎司帕蒂，红洋葱果酱，培根果酱、 加拿大培根，培根，培根。</Desc>
+<ENName>Solace</ENName>
+<ZHName>慰藉</ZHName>
+<Desc>10 盎司帕蒂、 红烧甜洋葱、 培根、 格鲁耶尔、 烤的黑麦。</Desc>
+<ENName>Absu</ENName>
+<ZHName>承受</ZHName>
+<Desc>10 盎司帕蒂，辣蕃茄莎莎，pepperjack，红洋葱/鳄梨津津有味，queso 壁画，面包屑深油炸辣椒的三重奏。</Desc>
+<ENName>Dark Castle</ENName>
+<ZHName>黑暗城堡</ZHName>
+<Desc>4 2.5 盎司肉饼配上煮的焦糖洋葱切达干酪、 泡菜。</Desc>
+<ENName>Buffalo</ENName>
+<ZHName>水牛城</ZHName>
+<Desc>4 水牛拉差滑块与培根、 蓝纹奶酪，杰克和花白的洋葱。</Desc>
+<ENName>Mini Pig Destroyer</ENName>
+<ZHName>迷你猪驱逐舰</ZHName>
+<Desc>四个迷你猪驱逐舰慢熟的烧烤猪肉，烧烤酱。</Desc>
+<ENName>Italian Beef</ENName>
+<ZHName>意大利牛肉</ZHName>
+<Desc></Desc>
+<ENName>BBQ Beef</ENName>
+<ZHName>烧烤牛肉</ZHName>
+<Desc></Desc>
+<ENName>Italian Sausage</ENName>
+<ZHName>意大利香肠</ZHName>
+<Desc></Desc>
+<ENName>Italian Meatball</ENName>
+<ZHName>意大利肉丸</ZHName>
+<Desc></Desc>
+<ENName>Combo- Italian Beef & Sausage</ENName>
+<ZHName>组合-意大利牛肉 &amp; 香肠</ZHName>
+<Desc></Desc>
+<ENName>Philly Cheese Steak Sandwich</ENName>
+<ZHName>费城奶酪牛排三明治</ZHName>
+<Desc></Desc>
+<ENName>Pepper & Egg</ENName>
+<ZHName>胡椒 &amp; 蛋</ZHName>
+<Desc></Desc>
+<ENName>Chicken Breast Sandwich</ENName>
+<ZHName>鸡胸肉三明治</ZHName>
+<Desc></Desc>
+<ENName>Fish Filet</ENName>
+<ZHName>鱼柳</ZHName>
+<Desc></Desc>
+<ENName>Rib Tip Sandwich</ENName>
+<ZHName>肋骨尖三明治</ZHName>
+<Desc></Desc>
+<ENName>Hot Dog & Fries</ENName>
+<ZHName>热狗 &amp; 炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Cheese Dog & Fries</ENName>
+<ZHName>奶酪狗 &amp; 炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Chili Dog & Fries</ENName>
+<ZHName>辣椒狗 &amp; 炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Corn Dog</ENName>
+<ZHName>玉米狗</ZHName>
+<Desc></Desc>
+<ENName>Polish Sausage & Fries</ENName>
+<ZHName>波兰香肠 &amp; 炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Gyro</ENName>
+<ZHName>陀螺仪</ZHName>
+<Desc></Desc>
+<ENName>Submarine Sandwich</ENName>
+<ZHName>潜水艇三明治</ZHName>
+<Desc></Desc>
+<ENName>1/4 Lb. Burger</ENName>
+<ZHName>1/4 磅汉堡</ZHName>
+<Desc></Desc>
+<ENName>1/4 Lb. Cheeseburger</ENName>
+<ZHName>1/4 磅芝士汉堡</ZHName>
+<Desc></Desc>
+<ENName>1/2 Lb. Double Burger</ENName>
+<ZHName>1/2 磅双汉堡</ZHName>
+<Desc></Desc>
+<ENName>1/2 Lb. Double Cheeseburger</ENName>
+<ZHName>1/2 磅双层吉士堡</ZHName>
+<Desc></Desc>
+<ENName>1/4 Lb. Mushroom Burger</ENName>
+<ZHName>1/4 磅蘑菇汉堡</ZHName>
+<Desc></Desc>
+<ENName>Spaghetti</ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc></Desc>
+<ENName>Mostaccioli</ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc></Desc>
+<ENName>Baked Mostaccioli</ENName>
+<ZHName>烤的 Mostaccioli</ZHName>
+<Desc>（烤箱烤上面有马苏里拉奶酪）。</Desc>
+<ENName>Ravioli</ENName>
+<ZHName>馄饨</ZHName>
+<Desc>（奶酪或肉填充）。</Desc>
+<ENName>Lasagna</ENName>
+<ZHName>烤宽面条</ZHName>
+<Desc>（与混合 4 奶酪，分层与大蒜酱烤）。</Desc>
+<ENName>Chicken Parmigiana</ENName>
+<ZHName>鸡鸡胸</ZHName>
+<Desc>（在融化芝士通心粉烤）。</Desc>
+<ENName>Regular Crust Pizza - Cheese</ENName>
+<ZHName>定期的比萨-奶酪</ZHName>
+<Desc></Desc>
+<ENName>Regular Crust Pizza - Each 1/2 Topping</ENName>
+<ZHName>定期的比萨-每个 1/2 浇头</ZHName>
+<Desc></Desc>
+<ENName>Regular Crust Pizza - Each Extra Topping</ENName>
+<ZHName>定期的比萨-每个额外的浇头</ZHName>
+<Desc></Desc>
+<ENName>Ingredients</ENName>
+<ZHName>成分</ZHName>
+<Desc>意大利香肠、 新鲜的番茄、 菠菜、 意大利辣香肠、 新鲜大蒜、 西兰花、 火腿、 青椒、 菠萝、 绞碎的牛肉、 洋葱、 辣椒、 蘑菇、 香肠、 鳀鱼、 意大利牛肉、 黑橄榄、 鸡、 虾、 绿橄榄。</Desc>
+<ENName>Vegetarian Pizza</ENName>
+<ZHName>素食比萨饼</ZHName>
+<Desc>奶酪，青椒，蘑菇，洋葱，&amp; 黑橄榄。</Desc>
+<ENName>Pizza Nova Special</ENName>
+<ZHName>披萨 Nova 特别</ZHName>
+<Desc>香肠、 蘑菇、 青椒、 洋葱、 意大利辣香肠。</Desc>
+<ENName>Mexican Pizza</ENName>
+<ZHName>墨西哥披萨</ZHName>
+<Desc>奶酪、 香肠、 豆类、 洋葱、 墨西哥胡椒。</Desc>
+<ENName>Thick & Chewy Pan Pizza - Cheese</ENName>
+<ZHName>厚 &amp; 耐嚼铁盘匹萨-奶酪</ZHName>
+<Desc>美味锅比萨奶酪中覆盖。</Desc>
+<ENName>Thick & Chewy Pan Pizza - Each Extra Topping</ENName>
+<ZHName>厚 &amp; 耐嚼铁盘匹萨-每个额外的浇头</ZHName>
+<Desc></Desc>
+<ENName>BBQ Rib Tip Dinner (1Lb.)</ENName>
+<ZHName>烧烤肋尖晚餐 (1 磅)</ZHName>
+<Desc></Desc>
+<ENName>Bucket Of BBQ Rib Tips (3 1/2 Lbs)</ENName>
+<ZHName>铲斗的烧烤肋提示 （3 1/2 磅）</ZHName>
+<Desc></Desc>
+<ENName>Full Slab BBQ Baby Back Ribs</ENName>
+<ZHName>全板烧烤婴儿回排骨</ZHName>
+<Desc></Desc>
+<ENName>1/2 Slab BBQ Baby Back Ribs</ENName>
+<ZHName>回到了 1/2 板烧烤婴儿排骨</ZHName>
+<Desc></Desc>
+<ENName>1/2 Slab Ribs & 1/2 BBQ Chicken</ENName>
+<ZHName>1/2 板肋 &amp; 1/2 烧烤鸡</ZHName>
+<Desc></Desc>
+<ENName>1 Lb. BBQ Rib Tips & 1/2 BBQ Chicken</ENName>
+<ZHName>1 磅烧烤肋提示 &amp; 1/2 烧烤鸡</ZHName>
+<Desc></Desc>
+<ENName>1/2 BBQ Chicken</ENName>
+<ZHName>1/2 烧烤鸡</ZHName>
+<Desc></Desc>
+<ENName>Bucket Of BBQ Chicken</ENName>
+<ZHName>桶烧烤鸡肉</ZHName>
+<Desc></Desc>
+<ENName>Broasted Chicken</ENName>
+<ZHName>Broasted 鸡</ZHName>
+<Desc>4 pc-（1/2 鸡）、 8 pc-(鸡全) &amp; 12 pc 机 （1 1/2 鸡）。</Desc>
+<ENName>Perch Dinner</ENName>
+<ZHName>鲈鱼晚餐</ZHName>
+<Desc></Desc>
+<ENName>Shrimp Dinner</ENName>
+<ZHName>虾晚餐</ZHName>
+<Desc></Desc>
+<ENName>Catfish Dinner</ENName>
+<ZHName>鲶鱼晚餐</ZHName>
+<Desc></Desc>
+<ENName>21 Shrimp Basket</ENName>
+<ZHName>21 虾篮子</ZHName>
+<Desc></Desc>
+<ENName>Regular Fries</ENName>
+<ZHName>定期的炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName>蒜茸面包</ZHName>
+<Desc></Desc>
+<ENName>Onion Rings</ENName>
+<ZHName>洋葱圈</ZHName>
+<Desc></Desc>
+<ENName>Fried Mushrooms</ENName>
+<ZHName>香菇炒</ZHName>
+<Desc></Desc>
+<ENName>Mozzarella Sticks</ENName>
+<ZHName>干酪棍</ZHName>
+<Desc></Desc>
+<ENName>Pizza Bread</ENName>
+<ZHName>披萨面包</ZHName>
+<Desc></Desc>
+<ENName>Chicken Nuggets</ENName>
+<ZHName>鸡块</ZHName>
+<Desc></Desc>
+<ENName>Jalapeno Poppers</ENName>
+<ZHName>辣椒</ZHName>
+<Desc></Desc>
+<ENName>Cup Of Chili 12 Oz</ENName>
+<ZHName>辣椒杯 12 盎司</ZHName>
+<Desc></Desc>
+<ENName>Jumbo Fries</ENName>
+<ZHName>巨无霸炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Cheese Fries</ENName>
+<ZHName>奶酪薯条</ZHName>
+<Desc></Desc>
+<ENName>Nachos</ENName>
+<ZHName>墨西哥玉米片</ZHName>
+<Desc></Desc>
+<ENName>Gravy Bread</ENName>
+<ZHName>肉汁面包</ZHName>
+<Desc></Desc>
+<ENName>Pizza Puff</ENName>
+<ZHName>披萨泡芙</ZHName>
+<Desc></Desc>
+<ENName>Chicken Tenders</ENName>
+<ZHName>鸡招标</ZHName>
+<Desc></Desc>
+<ENName>Hot Inferno Wings (6)</ENName>
+<ZHName>热地狱翅膀 (6)</ZHName>
+<Desc></Desc>
+<ENName>Inferno Wings (10)</ENName>
+<ZHName>地狱的翅膀 (10)</ZHName>
+<Desc></Desc>
+<ENName>Quesadillas</ENName>
+<ZHName>玉米饼</ZHName>
+<Desc>(2) 软玉米饼满带奶酪融化、 鳄梨酱、 酸奶油和沙拉。</Desc>
+<ENName>Quesadillas (2) With Asada, Pollo</ENName>
+<ZHName>玉米饼 （2） 与浅田真央，多博罗</ZHName>
+<Desc></Desc>
+<ENName>Chimichanga De Asada, Pollo</ENName>
+<ZHName>春卷 De 浅田真央，多博罗</ZHName>
+<Desc>炸玉米饼填满带牛排或鸡 &amp; 奶酪融化，送达 （含鳄梨酱、 酸奶油 &amp; 沙拉。</Desc>
+<ENName>Nachos Zacatacos Style</ENName>
+<ZHName>墨西哥玉米片 Zacatacos 风格</ZHName>
+<Desc>家制玉米片配上纳乔奶酪、 豆类、 鳄梨酱、 酸奶油和胡椒。</Desc>
+<ENName>Nachos With Meat</ENName>
+<ZHName>墨西哥玉米片肉</ZHName>
+<Desc>额外的肉 $2.00，组合肉 $1.00。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>裙子炭火烤的牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>炭火烤的鸡胸肉。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤的 mar 判断猪肉。</Desc>
+<ENName>Cecina</ENName>
+<ZHName>切奇纳</ZHName>
+<Desc>烤牛排腌制一轮要。</Desc>
+<ENName>Lengua</ENName>
+<ZHName>虽则</ZHName>
+<Desc>牛舌。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>墨西哥香肠。</Desc>
+<ENName>Vegetarian</ENName>
+<ZHName>素食主义者</ZHName>
+<Desc>包括鳄梨。</Desc>
+<ENName>Picadillo</ENName>
+<ZHName>Picadillo</ZHName>
+<Desc>地面的牛肉。</Desc>
+<ENName>Barbacoa</ENName>
+<ZHName>烧烤</ZHName>
+<Desc>精益牛肉丝</Desc>
+<ENName>Papa</ENName>
+<ZHName>爸爸</ZHName>
+<Desc>土豆泥。</Desc>
+<ENName>Tinga</ENName>
+<ZHName>里的渣滓</ZHName>
+<Desc>鸡丝。</Desc>
+<ENName>Chile Relleno</ENName>
+<ZHName>智利 Relleno</ZHName>
+<Desc>椒辣椒带奶酪。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>裙子炭火烤的牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>炭火烤的鸡胸肉。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤腌的猪肉。</Desc>
+<ENName>Lengua</ENName>
+<ZHName>虽则</ZHName>
+<Desc>牛舌。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>Mexivan 香肠。</Desc>
+<ENName>Picadillo</ENName>
+<ZHName>Picadillo</ZHName>
+<Desc>地面的牛肉。</Desc>
+<ENName>Vegetarian</ENName>
+<ZHName>素食主义者</ZHName>
+<Desc>包括鳄梨 &amp; 水稻。</Desc>
+<ENName>Suizo</ENName>
+<ZHName>瑞士</ZHName>
+<Desc>带奶酪融化 1.00 美元的额外榜首。</Desc>
+<ENName>Barbacoa</ENName>
+<ZHName>烧烤</ZHName>
+<Desc>精益牛肉丝。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>裙子炭火烤的牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>炭火烤的鸡胸肉。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤腌的猪肉。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>墨西哥香肠。</Desc>
+<ENName>Lengua</ENName>
+<ZHName>虽则</ZHName>
+<Desc>牛舌。</Desc>
+<ENName>Rajas Con Queso</ENName>
+<ZHName>激质 Con 加索</ZHName>
+<Desc>椒辣椒 &amp; 奶酪。</Desc>
+<ENName>Chicharron </ENName>
+<ZHName>Chicharron</ZHName>
+<Desc>在我们智利佛得角的猪肉皮肤。(热)</Desc>
+<ENName>Frijol Y Queso</ENName>
+<ZHName>Frijol Y 加索</ZHName>
+<Desc>豆 &amp; 奶酪。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>Charbrolled 裙子牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>Charbrolled 的鸡胸肉。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤腌的猪肉。</Desc>
+<ENName>Milanesa</ENName>
+<ZHName>Milanesa</ZHName>
+<Desc>面包屑的侧翼牛排或面包屑的鸡胸肉。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>墨西哥香肠。</Desc>
+<ENName>Chorizo Y Huevo</ENName>
+<ZHName>西班牙香肠 Y Huevo</ZHName>
+<Desc>墨西哥香肠的蛋。</Desc>
+<ENName>Zacatecas</ENName>
+<ZHName>萨卡特卡斯</ZHName>
+<Desc>用融化的奶酪和 pico de gallo。</Desc>
+<ENName>Vegetarian</ENName>
+<ZHName>素食主义者</ZHName>
+<Desc>包括大米和豆类。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>裙子炭火烤的牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>炭火烤的鸡胸肉。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>墨西哥香肠。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤腌的猪肉。</Desc>
+<ENName>Picadillo</ENName>
+<ZHName>Picadillo</ZHName>
+<Desc>地面的牛肉。</Desc>
+<ENName>Lengua</ENName>
+<ZHName>虽则</ZHName>
+<Desc>牛舌。</Desc>
+<ENName>Tinga</ENName>
+<ZHName>里的渣滓</ZHName>
+<Desc>辣汁鸡丝。</Desc>
+<ENName>Vegetarian</ENName>
+<ZHName>素食主义者</ZHName>
+<Desc>包括鳄梨。</Desc>
+<ENName>Asada</ENName>
+<ZHName>浅田真央</ZHName>
+<Desc>裙子炭火烤的牛排。</Desc>
+<ENName>Pollo</ENName>
+<ZHName>多博罗</ZHName>
+<Desc>炭火烤的鸡胸肉。</Desc>
+<ENName>Al Pastor</ENName>
+<ZHName>Al 牧师</ZHName>
+<Desc>烤腌的猪肉。</Desc>
+<ENName>Chorizo</ENName>
+<ZHName>西班牙香肠</ZHName>
+<Desc>墨西哥香肠。</Desc>
+<ENName>Picadillo</ENName>
+<ZHName>Picadillo</ZHName>
+<Desc>地面的牛肉。</Desc>
+<ENName>Lengua</ENName>
+<ZHName>虽则</ZHName>
+<Desc>牛舌。</Desc>
+<ENName>Vegetarian</ENName>
+<ZHName>素食主义者</ZHName>
+<Desc>包括鳄梨。</Desc>
+<ENName>Estrellados</ENName>
+<ZHName>Estrellados</ZHName>
+<Desc>在容易或炒两个鸡蛋。</Desc>
+<ENName>A La Mexicana</ENName>
+<ZHName>La 墨西哥</ZHName>
+<Desc>用胡椒、 洋葱和番茄炒两个鸡蛋。</Desc>
+<ENName>Rancheros</ENName>
+<ZHName>牧场主人</ZHName>
+<Desc>与丁的洋葱番茄和辣胡椒炒两个鸡蛋。</Desc>
+<ENName>Con Jamon</ENName>
+<ZHName>Con Jamon</ZHName>
+<Desc>精益火腿炒两个鸡蛋。</Desc>
+<ENName>Con Chorizo</ENName>
+<ZHName>Con 香肠</ZHName>
+<Desc>自制墨西哥香肠炒两个鸡蛋。</Desc>
+<ENName>Chilaquiles (Rojos O Verdes)</ENName>
+<ZHName>锁 （Rojos O 维第斯)</ZHName>
+<Desc>家制玉米片在辣的绿色或红色的萨尔萨洒上融化的奶酪和酸奶油焖。</Desc>
+<ENName>Chilaquiles Con 2 Huevos</ENName>
+<ZHName>锁 Con 2 吃</ZHName>
+<Desc>锁与两个鸡蛋。</Desc>
+<ENName>Breakfast Burrito</ENName>
+<ZHName>早饭吃的煎饼</ZHName>
+<Desc>两个鸡蛋炒洋葱丁、 西红柿和胡椒。</Desc>
+<ENName>Carne Asada</ENName>
+<ZHName>Carne 浅田真央</ZHName>
+<Desc>炭火烤的裙子牛排配鳄梨酱和沙拉。三叠纪 / 条额外 1.00 美元。</Desc>
+<ENName>Pechuga Asada</ENName>
+<ZHName>Pechuga 浅田真央</ZHName>
+<Desc>炭火烤的鸡胸肉配鳄梨酱和沙拉。三叠纪 / 条额外 1.00 美元。</Desc>
+<ENName>Enchiladas De Mole (3)</ENName>
+<ZHName>辣酱德摩尔 (3)</ZHName>
+<Desc>在轻度 &amp; 甜红痣装满，鸡丝或奶酪 &amp; 配上奶酪融化 &amp; 酸奶油。</Desc>
+<ENName>Enchiladas Verdes (3)</ENName>
+<ZHName>辣酱玉米饼馅维第斯 (3)</ZHName>
+<Desc>在辣绿树蕃茄酱充满、 碎鸡肉或奶酪 &amp; 配上奶酪融化 &amp; 酸奶油。</Desc>
+<ENName>Milanesa De Pollo/ Res</ENName>
+<ZHName>Milanesa 德多博罗 / Res</ZHName>
+<Desc>面包屑的鸡胸肉或侧翼牛排配以法式炸薯条 &amp; 沙拉。</Desc>
+<ENName>Flautas De Res/ Pollo</ENName>
+<ZHName>冰糕 De Res / 多博罗</ZHName>
+<Desc>牛肉丝或带鳄梨酱、 酸奶油 &amp; 沙拉鸡肉。</Desc>
+<ENName>Flautas De Res/ Pollo</ENName>
+<ZHName>冰糕 De Res / 多博罗</ZHName>
+<Desc>烤的鸡或牛排炒青椒、 洋葱 &amp; 西红柿带。</Desc>
+<ENName>Chiles Rellenos (2)</ENName>
+<ZHName>Rellenos 辣椒辣椒 (2)</ZHName>
+<Desc>烤的椒辣椒酿奶酪被闷死在温和的西红柿酱。</Desc>
+<ENName>Chimichanga Asada/ Pollo</ENName>
+<ZHName>春卷浅田真央 / 多博罗</ZHName>
+<Desc>牛排或鸡肉、 奶酪、 洋葱、 芫荽叶和奶酪，深油炸玉米煎饼配鳄梨酱、 酸奶油和沙拉。</Desc>
+<ENName>Quesadilla (2) Dinner</ENName>
+<ZHName>玉米饼 （2） 晚餐</ZHName>
+<Desc>配鳄梨酱、 酸奶油和沙拉。</Desc>
+<ENName>Quesadilla (2) Dinner With Meat</ENName>
+<ZHName>与肉玉米饼 (2) 共进晚餐</ZHName>
+<Desc></Desc>
+<ENName>Caldo De Res</ENName>
+<ZHName>Caldo De Res</ZHName>
+<Desc>牛肉汤，用新鲜的蔬菜。</Desc>
+<ENName>Mole Con Pollo</ENName>
+<ZHName>鼹鼠 Con 多博罗</ZHName>
+<Desc>鸡带鼹鼠酱 （只有周末）。</Desc>
+<ENName>Combo Plate</ENName>
+<ZHName>组合板</ZHName>
+<Desc>玉米面豆卷，炸玉米粉圆饼，flauta、 辣酱玉米饼馅，玉米饼。</Desc>
+<ENName>Arroz, Rice</ENName>
+<ZHName>烧鸡水稻</ZHName>
+<Desc></Desc>
+<ENName>Frijoles, Beans</ENName>
+<ZHName>Frijoles、 豆</ZHName>
+<Desc></Desc>
+<ENName>Guacamole</ENName>
+<ZHName>鳄梨酱</ZHName>
+<Desc></Desc>
+<ENName>Pico De Gallo</ENName>
+<ZHName>Pico De Gallo</ZHName>
+<Desc></Desc>
+<ENName>Crema, Sour Cream</ENName>
+<ZHName>克丽玛，酸奶油</ZHName>
+<Desc></Desc>
+<ENName>Jalapenos</ENName>
+<ZHName>墨西哥胡椒</ZHName>
+<Desc></Desc>
+<ENName>Nacho Cheese</ENName>
+<ZHName>纳乔奶酪</ZHName>
+<Desc></Desc>
+<ENName>Queso Blanco</ENName>
+<ZHName>Queso 布兰科</ZHName>
+<Desc></Desc>
+<ENName>Quesadilla</ENName>
+<ZHName>玉米饼</ZHName>
+<Desc>带肉的平原。</Desc>
+<ENName>Flauta</ENName>
+<ZHName>Flauta</ZHName>
+<Desc>(平原)。</Desc>
+<ENName>French Fries</ENName>
+<ZHName>法式炸薯条</ZHName>
+<Desc>一种尺寸。</Desc>
+<ENName>Sopa De Pollo</ENName>
+<ZHName>Sopa De 多博罗</ZHName>
+<Desc>鸡肉汤，一种尺寸。</Desc>
+<ENName>Chipas & Salasa</ENName>
+<ZHName>恰帕斯 &amp; Salasa</ZHName>
+<Desc>（Roja / verde)。</Desc>
+<ENName>Flan</ENName>
+<ZHName>果馅饼</ZHName>
+<Desc></Desc>
+<ENName>Chocolate Cake</ENName>
+<ZHName>巧克力蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Lemon Cake</ENName>
+<ZHName>柠檬蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Cheese Cake</ENName>
+<ZHName>芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Horchata</ENName>
+<ZHName>奥查塔</ZHName>
+<Desc>甜米酒喝。</Desc>
+<ENName>Mexican Sodas</ENName>
+<ZHName>墨西哥苏打水</ZHName>
+<Desc>jarritos，桑格利亚汽酒或 sidral。</Desc>
+<ENName>Jamaica</ENName>
+<ZHName>牙买加</ZHName>
+<Desc>芙蓉花的饮料。(笔芯 1.00 美元）。</Desc>
+<ENName>Coca Cola</ENName>
+<ZHName>可口可乐</ZHName>
+<Desc></Desc>
+<ENName>Limonada</ENName>
+<ZHName>Limonada</ZHName>
+<Desc>柠檬水。(笔芯 $2.00）。</Desc>
+<ENName>Can Pop</ENName>
+<ZHName>可以弹出</ZHName>
+<Desc></Desc>
+<ENName>Bottled Water</ENName>
+<ZHName>瓶装的水</ZHName>
+<Desc></Desc>
+<ENName>Coffee/ Tea</ENName>
+<ZHName>咖啡 / 茶</ZHName>
+<Desc></Desc>
+<ENName>Naranja</ENName>
+<ZHName>纳兰贾</ZHName>
+<Desc>橙色。</Desc>
+<ENName>Zanahoria</ENName>
+<ZHName>家伙用</ZHName>
+<Desc>胡萝卜。</Desc>
+<ENName>Combinado</ENName>
+<ZHName>Combinado</ZHName>
+<Desc>橙色 &amp; 胡萝卜。</Desc>
+<ENName>Fresa</ENName>
+<ZHName>草莓</ZHName>
+<Desc>草莓</Desc>
+<ENName>Platano</ENName>
+<ZHName>普拉塔诺</ZHName>
+<Desc>香蕉。</Desc>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc></Desc>
+<ENName>Limonadas Y Naranjadas</ENName>
+<ZHName>Limonadas Y Naranjadas</ZHName>
+<Desc></Desc>
+<ENName>Aqua De Horchata</ENName>
+<ZHName>Aqua 德奥查塔</ZHName>
+<Desc></Desc>
+<ENName>Cafe</ENName>
+<ZHName>咖啡厅</ZHName>
+<Desc></Desc>
+<ENName>Botella De Agua</ENName>
+<ZHName>波特德阿瓜</ZHName>
+<Desc></Desc>
+<ENName>Refrescos Mexicanos</ENName>
+<ZHName>Refrescos 墨西哥</ZHName>
+<Desc>jarritos、 桑蚕、 翩、 利蒙、 塔玛琳多、 tutifruit</Desc>
+<ENName>Refrescos Domesticos</ENName>
+<ZHName>Refrescos Domesticos</ZHName>
+<Desc>百事可乐，可口可乐，喷</Desc>
+<ENName>Postres</ENName>
+<ZHName>Postres</ZHName>
+<Desc>馅饼 de nuez，馅饼 de 椰林飘香，hechos en 卡萨</Desc>
+<ENName>Ayer En El Oceano</ENName>
+<ZHName>艾耶尔 En El 欧神诺</ZHName>
+<Desc>霍伊 en el alcanze de 苏马诺</Desc>
+<ENName>Ayer En Las Olas</ENName>
+<ZHName>艾耶尔 En 拉斯维加斯 Ola</ZHName>
+<Desc>霍伊恩苏 cacerola</Desc>
+<ENName>Ayer En La Mar</ENName>
+<ZHName>艾耶尔 En La Mar</ZHName>
+<Desc>霍伊恩苏 paladar</Desc>
+<ENName>Ayer En Nayarit</ENName>
+<ZHName>艾耶尔恩纳亚里特</ZHName>
+<Desc>霍伊 lo encuentras 这里 en： 芝加哥</Desc>
+<ENName>Empanadas De Camaron (4)</ENName>
+<ZHName>德卡马龙肉馅卷饼 (4)</ZHName>
+<Desc></Desc>
+<ENName>Fish And Chips</ENName>
+<ZHName>鱼和薯条</ZHName>
+<Desc></Desc>
+<ENName>Ceviche De Camaron</ENName>
+<ZHName>腌德卡马龙</ZHName>
+<Desc></Desc>
+<ENName>Ceviche De Marlin</ENName>
+<ZHName>腌德马林</ZHName>
+<Desc></Desc>
+<ENName>Tostada De Camaron</ENName>
+<ZHName>炸玉米粉圆饼德卡马龙</ZHName>
+<Desc></Desc>
+<ENName>Tostada Mixta</ENName>
+<ZHName>炸玉米粉圆饼下落</ZHName>
+<Desc></Desc>
+<ENName>Tostada Al Gusto</ENName>
+<ZHName>炸玉米粉圆饼 Al 兴致勃勃</ZHName>
+<Desc></Desc>
+<ENName>Taco De Pescado</ENName>
+<ZHName>Taco De Pescado</ZHName>
+<Desc></Desc>
+<ENName>Taco De Camaron</ENName>
+<ZHName>塔德卡马龙</ZHName>
+<Desc></Desc>
+<ENName>1/2 Order De Ostiones En Su Concha</ENName>
+<ZHName>1/2 阶 De Ostiones En 苏中鼻甲</ZHName>
+<Desc></Desc>
+<ENName>Docena De Ostiones En Su Concha</ENName>
+<ZHName>Docena De Ostiones En 苏中鼻甲</ZHName>
+<Desc></Desc>
+<ENName>1/2 Order De Ostiones Gratinados</ENName>
+<ZHName>1/2 阶 De Ostiones Gratinados</ZHName>
+<Desc></Desc>
+<ENName>Docena De Ostiones Gratinados</ENName>
+<ZHName>Docena De Ostiones Gratinados</ZHName>
+<Desc></Desc>
+<ENName>1/2 Order De Ostiones Especiales</ENName>
+<ZHName>1/2 阶 De Ostiones 特区</ZHName>
+<Desc></Desc>
+<ENName>Docena De Ostiones Especiales</ENName>
+<ZHName>Docena De Ostiones 特区</ZHName>
+<Desc></Desc>
+<ENName>Pico De Gallo</ENName>
+<ZHName>Pico De Gallo</ZHName>
+<Desc></Desc>
+<ENName>Guacamole</ENName>
+<ZHName>鳄梨酱</ZHName>
+<Desc></Desc>
+<ENName>orden De Pan</ENName>
+<ZHName>奥顿德潘</ZHName>
+<Desc></Desc>
+<ENName>Orden De Arroz</ENName>
+<ZHName>奥顿德烧鸡</ZHName>
+<Desc></Desc>
+<ENName>Orden De Papas</ENName>
+<ZHName>奥顿德帕帕斯</ZHName>
+<Desc></Desc>
+<ENName>Cocktel De Camaron</ENName>
+<ZHName>Cocktel 德卡马龙</ZHName>
+<Desc>frio o 克莱恩</Desc>
+<ENName>Cocktel De Camaron Y Pulpo</ENName>
+<ZHName>德卡马龙 Cocktel Y Pulpo</ZHName>
+<Desc>frio o 克莱恩</Desc>
+<ENName>La Copa Veneno</ENName>
+<ZHName>La Copa Veneno</ZHName>
+<Desc>frio o 克莱恩，viene con 卡马龙、 pulpo、 理性、 almeja、 jaiba y ceviche 德马林</Desc>
+<ENName>Camarones</ENName>
+<ZHName>对虾</ZHName>
+<Desc></Desc>
+<ENName>Pulpo</ENName>
+<ZHName>Pulpo</ZHName>
+<Desc></Desc>
+<ENName>Jaiba</ENName>
+<ZHName>Jaiba</ZHName>
+<Desc></Desc>
+<ENName>Langostino</ENName>
+<ZHName>Langostino</ZHName>
+<Desc></Desc>
+<ENName>Pescado</ENName>
+<ZHName>Pescado</ZHName>
+<Desc></Desc>
+<ENName>7 Mares</ENName>
+<ZHName>7 匹母马</ZHName>
+<Desc></Desc>
+<ENName>Ensalada El Veneno</ENName>
+<ZHName>Ensalada El Veneno</ZHName>
+<Desc></Desc>
+<ENName>Aguachiles Elija Rojos O Verdes</ENName>
+<ZHName>Aguachiles Elija Rojos O 维第斯</ZHName>
+<Desc></Desc>
+<ENName>Camarones Ahogados Rojos O Verdes</ENName>
+<ZHName>对虾 Ahogados Rojos O 维第斯</ZHName>
+<Desc></Desc>
+<ENName>Camarones Al Vapor Elija Con Su Cascara O Sin</ENName>
+<ZHName>对虾基地蒸气 Elija Con 苏鼠 O 罪</ZHName>
+<Desc></Desc>
+<ENName>Camarones Huicholes Con Su Cascara O Sin</ENName>
+<ZHName>对虾 Huicholes Con 苏鼠 O 罪</ZHName>
+<Desc></Desc>
+<ENName>Camaron Cucaracha</ENName>
+<ZHName>卡马龙蟑螂</ZHName>
+<Desc></Desc>
+<ENName>Langostinos Estilo Nayarit</ENName>
+<ZHName>Langostinos 节能纳亚里特</ZHName>
+<Desc></Desc>
+<ENName>Patas De Jaiba Al Estilo Nayarit</ENName>
+<ZHName>Patas De Jaiba Al 节能纳亚里特</ZHName>
+<Desc></Desc>
+<ENName>Chapuzon Del Mar</ENName>
+<ZHName>Chapuzon Del Mar</ZHName>
+<Desc>（pulpo，ostion，卡马龙)</Desc>
+<ENName>Botanas Al Gusto Estilo En Mantequilla</ENName>
+<ZHName>Botanas Al 兴致勃勃节能 En Mantequilla</ZHName>
+<Desc>铝烛台，如 diabla</Desc>
+<ENName>Famosa Mariscada</ENName>
+<ZHName>Famosa 享用</ZHName>
+<Desc>段 6 人物角色、 con una 选择德海鲜</Desc>
+<ENName>Langosta Reliena Al Estilo </ENName>
+<ZHName>兰哥斯达 Reliena Al 节能</ZHName>
+<Desc>bucearlas 纳亚里特一样可贵德梅尔卡多</Desc>
+<ENName>Huachinango Sarandiado Estilo Nayarit </ENName>
+<ZHName>Huachinango Sarandiado 节能纳亚里特</ZHName>
+<Desc></Desc>
+<ENName>Camarones Elija El Estilo</ENName>
+<ZHName>对虾 Elija El 节能</ZHName>
+<Desc>al ajillo、 牧场主人、 mantequillados、 diabla empanizados al mojo 德烛台拉 o</Desc>
+<ENName>Filet Elija El Estilo</ENName>
+<ZHName>菲力 Elija El 节能</ZHName>
+<Desc>al ajillo、 mantequillados、 diabla、 empanizados、 al mojo 德烛台式 o</Desc>
+<ENName>Mojara Frita Elija El Estilo</ENName>
+<ZHName>Mojara Frita Elija El 节能</ZHName>
+<Desc>al ajillo，像 acompnado con 玉米饼 o al 节能、 纳亚里特 diabla</Desc>
+<ENName>Huachinango Frito</ENName>
+<ZHName>Huachinango 菲多利</ZHName>
+<Desc>铝烛台，像 acompanado con 玉米饼 al，斯蒂纳亚里特 diablabo</Desc>
+<ENName>Camerones Momias</ENName>
+<ZHName>Camerones Momias</ZHName>
+<Desc></Desc>
+<ENName>Filete Relieno</ENName>
+<ZHName>Filete Relieno</ZHName>
+<Desc></Desc>
+<ENName>Fajitas De Camaron</ENName>
+<ZHName>法加它德卡马龙</ZHName>
+<Desc></Desc>
+<ENName>Fried Breaded Mushrooms</ENName>
+<ZHName>炸面包蘑菇</ZHName>
+<Desc></Desc>
+<ENName>Fried Onion Rings</ENName>
+<ZHName>炸洋葱圈</ZHName>
+<Desc></Desc>
+<ENName>Fried Zucchini</ENName>
+<ZHName>炒西葫芦</ZHName>
+<Desc></Desc>
+<ENName>Fried Combo Platter Of Above</ENName>
+<ZHName>炒一盘套餐以上的</ZHName>
+<Desc></Desc>
+<ENName>Fried Calamari Rings</ENName>
+<ZHName>炸鱿鱼圈</ZHName>
+<Desc></Desc>
+<ENName>Breaded Potato Wedges</ENName>
+<ZHName>面包屑的薯角</ZHName>
+<Desc>与酸奶油。</Desc>
+<ENName>French Fries</ENName>
+<ZHName>法式炸薯条</ZHName>
+<Desc>大 （1 磅），小 （1/2 磅）。</Desc>
+<ENName>Fried Chicken Tenders</ENName>
+<ZHName>油炸鸡块</ZHName>
+<Desc></Desc>
+<ENName>Tomato Bread</ENName>
+<ZHName>番茄面包</ZHName>
+<Desc>新鲜的西红柿。</Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName>蒜茸面包</ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread With Cheese</ENName>
+<ZHName>蒜茸面包和奶酪</ZHName>
+<Desc></Desc>
+<ENName>Fried Cheese Sticks</ENName>
+<ZHName>炸奶酪棒</ZHName>
+<Desc></Desc>
+<ENName>Baked Potato</ENName>
+<ZHName>烤的土豆</ZHName>
+<Desc>与酸奶油。</Desc>
+<ENName>Pizza Bread</ENName>
+<ZHName>披萨面包</ZHName>
+<Desc>奶酪。</Desc>
+<ENName>Pizza Bread Toppings</ENName>
+<ZHName>面包比萨饼</ZHName>
+<Desc>每个。</Desc>
+<ENName>Hot Jalapeno Poppers</ENName>
+<ZHName>热辣椒</ZHName>
+<Desc>切达奶酪</Desc>
+<ENName>Cole Slaw</ENName>
+<ZHName>凉拌卷心菜</ZHName>
+<Desc>服务杯。</Desc>
+<ENName>Tossed Salad</ENName>
+<ZHName>蔬菜沙拉</ZHName>
+<Desc></Desc>
+<ENName>Italian Salad</ENName>
+<ZHName>意大利沙拉</ZHName>
+<Desc>生菜、 西红柿、 香肠、 洋葱、 绿 &amp; 黑橄榄和您所选择的敷料。</Desc>
+<ENName>Antipasto Salad</ENName>
+<ZHName>开胃菜沙拉</ZHName>
+<Desc>生菜、 西红柿、 意大利辣香肠、 萨拉米香肠、 绿色 &amp; 黑橄榄、 干酪奶酪，鸡蛋和您所选择的敷料。供应 1-2，服务 3-4。</Desc>
+<ENName>Stromboli Sandwich</ENName>
+<ZHName>斯特龙博利火山三明治</ZHName>
+<Desc>意大利香肠、 奶酪、 酱红、 青辣椒和洋葱。</Desc>
+<ENName>BBQ Beef Sandwich</ENName>
+<ZHName>烧烤牛肉三明治</ZHName>
+<Desc></Desc>
+<ENName>Poor Boy Sandwich</ENName>
+<ZHName>可怜的男孩三明治</ZHName>
+<Desc>意大利牛肉、 奶酪、 酱红、 青辣椒和洋葱。</Desc>
+<ENName>Freddie Sandwich</ENName>
+<ZHName>房地美三明治</ZHName>
+<Desc>配上红色的肉汁、 奶酪和青椒。</Desc>
+<ENName>Ham And Cheese Sandwich</ENName>
+<ZHName>火腿和奶酪三明治</ZHName>
+<Desc>热或冷。</Desc>
+<ENName>Italian Beef Sandwich & Green Peppers</ENName>
+<ZHName>意大利牛肉三明治 &amp; 青椒</ZHName>
+<Desc></Desc>
+<ENName>Italian Sausage Sandwich & Green Peppers</ENName>
+<ZHName>意大利香肠三明治 &amp; 青椒</ZHName>
+<Desc></Desc>
+<ENName>Combination Sandwich</ENName>
+<ZHName>组合三明治</ZHName>
+<Desc>意大利香肠、 意大利牛肉、 青椒、 奶酪和酱红色。</Desc>
+<ENName>Italian Meatball Sandwich</ENName>
+<ZHName>意大利肉丸三明治</ZHName>
+<Desc></Desc>
+<ENName>Above Sandwiches</ENName>
+<ZHName>上面的三明治</ZHName>
+<Desc>芝士融化了。额外。</Desc>
+<ENName>Sandwiches On Garlic Bread</ENName>
+<ZHName>香蒜面包三明治</ZHName>
+<Desc></Desc>
+<ENName>Granddaddy Sub</ENName>
+<ZHName>祖父子</ZHName>
+<Desc>火腿、 香肠、 马苏里拉和美国乳酪、 蕃茄与莴苣传播我们著名的房子调味。</Desc>
+<ENName>Broiled Chicken Breast</ENName>
+<ZHName>烤的鸡胸肉</ZHName>
+<Desc>配上生菜、 洋葱、 番茄和梅奥。</Desc>
+<ENName>Chicken Vesuvio</ENName>
+<ZHName>鸡维苏威</ZHName>
+<Desc>面包香蒜面包与生菜洋葱、 番茄和梅奥的鸡胸肉。</Desc>
+<ENName>Breaded Chicken Breast Parmesan</ENName>
+<ZHName>面包屑的鸡胸肉干酪</ZHName>
+<Desc>配酱红色，青椒和融化了的马苏里拉奶酪。</Desc>
+<ENName>Ribeye Steak Sandwich</ENName>
+<ZHName>肋眼牛排三明治</ZHName>
+<Desc>生菜、 西红柿和洋葱。</Desc>
+<ENName>Breaded Italian Steak Sandwich</ENName>
+<ZHName>面包屑意大利牛排三明治</ZHName>
+<Desc>红色的酱和甜辣椒。</Desc>
+<ENName>Deluxe Sandwich</ENName>
+<ZHName>豪华的三明治</ZHName>
+<Desc>配有薯条和凉拌卷心菜。附加。</Desc>
+<ENName>Pub Beef Burger</ENName>
+<ZHName>酒馆牛肉汉堡</ZHName>
+<Desc></Desc>
+<ENName>Pub Burger With Bacon</ENName>
+<ZHName>酒馆与培根汉堡</ZHName>
+<Desc></Desc>
+<ENName>Cheese Pub Burger</ENName>
+<ZHName>奶酪酒吧汉堡</ZHName>
+<Desc></Desc>
+<ENName>Cheese Pub Burger With Bacon</ENName>
+<ZHName>与培根奶酪酒吧汉堡</ZHName>
+<Desc></Desc>
+<ENName>Hamburger</ENName>
+<ZHName>汉堡</ZHName>
+<Desc></Desc>
+<ENName>Hamburger With Bacon</ENName>
+<ZHName>培根汉堡</ZHName>
+<Desc></Desc>
+<ENName>Cheeseburger</ENName>
+<ZHName>吉士汉堡</ZHName>
+<Desc></Desc>
+<ENName>Cheeseburger With Bacon</ENName>
+<ZHName>培根芝士汉堡</ZHName>
+<Desc></Desc>
+<ENName>Spaghetti</ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc></Desc>
+<ENName>Mostaccioli</ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc></Desc>
+<ENName>Ravioli</ENName>
+<ZHName>馄饨</ZHName>
+<Desc>肉或奶酪。</Desc>
+<ENName>Lasagna</ENName>
+<ZHName>烤宽面条</ZHName>
+<Desc>与马苏里拉奶酪的面层。</Desc>
+<ENName>Above Dishes Topped</ENName>
+<ZHName>以上菜榜首</ZHName>
+<Desc>用烤马苏里拉奶酪。</Desc>
+<ENName>Above Dishes A La Carte</ENName>
+<ZHName>以上菜点菜</ZHName>
+<Desc>较少。</Desc>
+<ENName>Meatball</ENName>
+<ZHName>肉丸子</ZHName>
+<Desc>每个。</Desc>
+<ENName>Italian Sausage</ENName>
+<ZHName>意大利香肠</ZHName>
+<Desc>每个链接。</Desc>
+<ENName>Our Famous Homemade Italian Dressing</ENName>
+<ZHName>我们著名的自制意大利调味酱</ZHName>
+<Desc>油 &amp; 醋。</Desc>
+<ENName>Spaghetti</ENName>
+<ZHName>意大利细面条</ZHName>
+<Desc>服务两至三。服务四至六个。</Desc>
+<ENName>Mostaccioli</ENName>
+<ZHName>Mostaccioli</ZHName>
+<Desc>服务两至三。服务四至六个。</Desc>
+<ENName>Ravioli</ENName>
+<ZHName>馄饨</ZHName>
+<Desc>肉或奶酪，16 块。</Desc>
+<ENName>Meatballs</ENName>
+<ZHName>肉丸子</ZHName>
+<Desc>每个。</Desc>
+<ENName>Italian Sausage</ENName>
+<ZHName>意大利香肠</ZHName>
+<Desc>每个链接。</Desc>
+<ENName>Meat Or Marinara Sauce</ENName>
+<ZHName>肉或大蒜酱</ZHName>
+<Desc></Desc>
+<ENName>Wing Ding Three Fried</ENName>
+<ZHName>翼丁三种炸</ZHName>
+<Desc>鸡翅膀 (法国炸薯条 &amp; 面包）。</Desc>
+<ENName>Four Fried</ENName>
+<ZHName>四个炒</ZHName>
+<Desc>面包屑的鸡翅膀。</Desc>
+<ENName>Eight Fried</ENName>
+<ZHName>八个炒</ZHName>
+<Desc>面包屑的鸡翅膀。</Desc>
+<ENName>Breaded, Fried Chicken Wings</ENName>
+<ZHName>面包、 炸鸡翅</ZHName>
+<Desc>每个。</Desc>
+<ENName>Two Piece Dinner</ENName>
+<ZHName>两件套餐</ZHName>
+<Desc>腿 &amp; 大腿。</Desc>
+<ENName>Half Chicken</ENName>
+<ZHName>半只鸡</ZHName>
+<Desc>腿、 大腿、 乳房，&amp; 翼。</Desc>
+<ENName>Fried Breaded Breast Dinner</ENName>
+<ZHName>油炸裹面包屑乳腺癌晚餐</ZHName>
+<Desc></Desc>
+<ENName>One Breast</ENName>
+<ZHName>一个乳腺癌</ZHName>
+<Desc></Desc>
+<ENName>Thigh</ENName>
+<ZHName>大腿</ZHName>
+<Desc></Desc>
+<ENName>Leg</ENName>
+<ZHName>腿部</ZHName>
+<Desc></Desc>
+<ENName>Wing</ENName>
+<ZHName>翼</ZHName>
+<Desc></Desc>
+<ENName>4 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>4 pc.面包、 炸鸡</ZHName>
+<Desc>半只鸡。</Desc>
+<ENName>8 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>8 pc.面包、 炸鸡</ZHName>
+<Desc>整只鸡。</Desc>
+<ENName>12 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>12 pc.面包、 炸鸡</ZHName>
+<Desc>一个半只鸡。</Desc>
+<ENName>16 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>16 pc.面包、 炸鸡</ZHName>
+<Desc>两个整只鸡。</Desc>
+<ENName>20 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>20 pc.面包、 炸鸡</ZHName>
+<Desc>两个半只鸡。</Desc>
+<ENName>60 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>60 pc.面包、 炸鸡</ZHName>
+<Desc>送达和半鸡。</Desc>
+<ENName>100 Pc. Breaded, Fried Chicken</ENName>
+<ZHName>100 pc.面包、 炸鸡</ZHName>
+<Desc>十二个半鸡。</Desc>
+<ENName>Breaded, Large, Golden Texas Shrimp</ENName>
+<ZHName>面包屑，大，金色的德克萨斯州虾</ZHName>
+<Desc></Desc>
+<ENName>21 Breaded Bite-Sized Shrimp</ENName>
+<ZHName>21 一口大小的面包的虾</ZHName>
+<Desc></Desc>
+<ENName>Breaded, Large, Golden Texas Shrimp</ENName>
+<ZHName>面包屑，大，金色的德克萨斯州虾</ZHName>
+<Desc></Desc>
+<ENName>Italian Minestrone</ENName>
+<ZHName>意大利通心粉</ZHName>
+<Desc></Desc>
+<ENName>Soup Of The Day</ENName>
+<ZHName>今天的汤</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>1/2 Cheese, 1/2 Sausage</ENName>
+<ZHName>1/2 的奶酪，1/2 香肠</ZHName>
+<Desc></Desc>
+<ENName>Nino's Special (Sicilian)</ENName>
+<ZHName>尼诺的特别 （西西里）</ZHName>
+<Desc>厚厚的生面团、 香肠、 蕃茄酱、 切片的西红柿、 磨碎的奶酪、 大蒜和洋葱。</Desc>
+<ENName>South Side Special</ENName>
+<ZHName>南侧的特别</ZHName>
+<Desc>火腿、 香肠、 青椒、 蘑菇、 香肠、 奶酪。</Desc>
+<ENName>Extra Thick Dough</ENName>
+<ZHName>超厚面团</ZHName>
+<Desc></Desc>
+<ENName>Each Additional Topping</ENName>
+<ZHName>每个额外的浇头</ZHName>
+<Desc>热墨西哥胡椒、 辣椒、 加拿大培根或平培根，新鲜切片番茄，凤尾鱼，青椒，蘑菇，碎牛肉香肠。意大利牛肉、 菠菜、 洋葱、 giardinera （热或轻度），新鲜的大蒜、 西兰花、 火腿、 香肠、 橄榄色 （黑色 / 绿色）</Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>Each Additional Topping</ENName>
+<ZHName>每个额外的浇头</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>Each Additional Topping</ENName>
+<ZHName>每个额外的浇头</ZHName>
+<Desc></Desc>
+<ENName>A Serving</ENName>
+<ZHName>一位任职</ZHName>
+<Desc></Desc>
+<ENName>Each Added Ingredient</ENName>
+<ZHName>每个添加的配料</ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName>奶酪</ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName>香肠</ZHName>
+<Desc></Desc>
+<ENName>Additional Toppings</ENName>
+<ZHName>额外的浇头</ZHName>
+<Desc>每个。</Desc>
+<ENName>Can Of Pop</ENName>
+<ZHName>流行音乐的可以</ZHName>
+<Desc></Desc>
+<ENName>Six-Pack Of Pop</ENName>
+<ZHName>流行音乐的六块腹肌</ZHName>
+<Desc></Desc>
+<ENName>Royal Crown Or Diet Cola</ENName>
+<ZHName>皇家皇冠或健怡可乐</ZHName>
+<Desc>每一升。</Desc>
+<ENName>Shrimp & Crab Bisque</ENName>
+<ZHName>虾 &amp; 蟹浓汤</ZHName>
+<Desc>玉米 &amp; 红辣椒</Desc>
+<ENName>Baked French Onion Soup</ENName>
+<ZHName>烤法式洋葱汤</ZHName>
+<Desc>金棕色、 瑞士 &amp; asiago 奶酪</Desc>
+<ENName>Wood Oven-Baked Pretzels</ENName>
+<ZHName>木烤椒盐脆饼</ZHName>
+<Desc>锋利的切达干酪啤酒 &amp; 蜂蜜芥末酱汁</Desc>
+<ENName>Tasty Bison Meatballs</ENName>
+<ZHName>美味野牛肉丸</ZHName>
+<Desc>番茄汁</Desc>
+<ENName>Chicken & Portobello Mushroom Skewers</ENName>
+<ZHName>鸡 &amp; 褐蘑菇烤串</ZHName>
+<Desc>杏酱</Desc>
+<ENName>Baked Goat Cheese</ENName>
+<ZHName>烤的山羊奶酪</ZHName>
+<Desc>番茄罗勒酱，意式薄饼</Desc>
+<ENName>Spinach & Artichoke Fondue</ENName>
+<ZHName>菠菜 &amp; 朝鲜蓟火锅</ZHName>
+<Desc>大蒜吐司点</Desc>
+<ENName>Crispy Fried Fresh Calamari</ENName>
+<ZHName>脆皮炸鲜鱿鱼</ZHName>
+<Desc>鸡尾酒 &amp; 牧场酱汁</Desc>
+<ENName>Wildfire Mussels</ENName>
+<ZHName>野火贻贝</ZHName>
+<Desc>两种方式经典锅烤或番茄大蒜液中</Desc>
+<ENName>Oven-Roasted Crab Cakes</ENName>
+<ZHName>烤箱烤蟹饼</ZHName>
+<Desc>芥末蛋黄酱</Desc>
+<ENName>Jumbo Shrimp Cocktail</ENName>
+<ZHName>虾鸡尾酒</ZHName>
+<Desc>炆鸡尾酒汁</Desc>
+<ENName>Lobster-Crusted Rack of Shrimp</ENName>
+<ZHName>龙虾结痂机架的虾</ZHName>
+<Desc>新鲜缅因州龙虾壳</Desc>
+<ENName>Roasted Sea Scallop Skewers</ENName>
+<ZHName>烤的海扇贝烤串</ZHName>
+<Desc>培根卷，杏酱</Desc>
+<ENName>House Salad Bowl</ENName>
+<ZHName>房子沙拉碗</ZHName>
+<Desc>朝鲜蓟、 胡萝卜、 鸡蛋、 西红柿、 黄瓜、 芹菜、 油煎面包块 ；牧场，1000年岛，红酒醋汁，意大利黑醋或蓝芝士酱</Desc>
+<ENName>Caesar Salad</ENName>
+<ZHName>凯撒沙拉</ZHName>
+<Desc>长叶莴苣，帕玛森芝士，蒜味烤面包片。添加烤的鸡 $3.00，乌贼 $3.00，三文鱼 $4.00</Desc>
+<ENName>Spinach Salad</ENName>
+<ZHName>菠菜沙拉</ZHName>
+<Desc>培根、 蘑菇、 萝卜、 鸡蛋、 温暖的芥末酱</Desc>
+<ENName>Greek Salad</ENName>
+<ZHName>希腊沙拉</ZHName>
+<Desc>青菜、 西红柿、 黄瓜、 鹰嘴豆、 芹菜、 卡拉马塔橄榄、 羊乳酪、 红洋葱、 莳萝、 红酒醋油沙司</Desc>
+<ENName>Roasted Beet & Goat Cheese Salad</ENName>
+<ZHName>烤的甜菜 &amp; 山羊奶酪沙拉</ZHName>
+<Desc>外地蔬菜、 红 &amp; 金甜菜、 科纳杏仁、 黑醋汁</Desc>
+<ENName>The Wildfire Chopped Salad</ENName>
+<ZHName>野火切碎的沙拉</ZHName>
+<Desc>烤的鸡、 牛油果、 西红柿、 蓝纹奶酪，培根、 大葱、 玉米、 玉米粉圆饼切丝 ；被摇撼柑橘石灰油醋汁</Desc>
+<ENName>Home a Bottle of Our Citrus Lime Vinaigrette</ENName>
+<ZHName>首页我们的柑橘石灰香醋一瓶</ZHName>
+<Desc></Desc>
+<ENName>Wildorf Salad</ENName>
+<ZHName>Wildorf 沙拉</ZHName>
+<Desc>长叶莴苣、 菠菜、 小红莓、 葡萄干、 胡桃、 芹菜、 苹果、 sunower 种子、 油煎面包块、 苹果沙拉酱。添加烤的鸡 $3.00</Desc>
+<ENName>Grilled Steak & Blue Cheese Salad</ENName>
+<ZHName>烤的牛排 &amp; 蓝纹奶酪沙拉</ZHName>
+<Desc>里脊肉切片，西红柿，洋葱，黑醋汁</Desc>
+<ENName>Fresh Mozzarella</ENName>
+<ZHName>新鲜奶酪</ZHName>
+<Desc>新鲜的番茄、 罗勒</Desc>
+<ENName>Classic Mushroom</ENName>
+<ZHName>经典蘑菇</ZHName>
+<Desc>野生蘑菇、 瑞士、 asiago</Desc>
+<ENName>Chicken Sausage</ENName>
+<ZHName>鸡肉香肠</ZHName>
+<Desc>烤的辣椒、 焦糖的洋葱、 墨西哥胡椒杰克</Desc>
+<ENName>Grilled Pepperoni</ENName>
+<ZHName>烤的香肠</ZHName>
+<Desc>番茄、 新鲜奶酪</Desc>
+<ENName>Thick Prime Angus Burger</ENName>
+<ZHName>厚总理安格斯汉堡</ZHName>
+<Desc>芝麻或杂粮面包。添加选择的奶酪 $1.00</Desc>
+<ENName>Handmade Black Bean Burger</ENName>
+<ZHName>手工制作黑豆汉堡</ZHName>
+<Desc>鳄梨，墨西哥胡椒杰克，番茄，大蒜蒜泥蛋黄酱</Desc>
+<ENName>All-Natural Turkey Burger</ENName>
+<ZHName>所有自然土耳其汉堡</ZHName>
+<Desc>白切达干酪、 烤的洋葱、 芥末、 蛋黄酱</Desc>
+<ENName>Grilled Chicken Club</ENName>
+<ZHName>烤的鸡肉俱乐部</ZHName>
+<Desc>培根、 鳄梨油、 墨西哥胡椒杰克，芥末蛋黄酱</Desc>
+<ENName>Stuffed Burger of the Day</ENName>
+<ZHName>这一天各种毛绒夹饼</ZHName>
+<Desc></Desc>
+<ENName>Tavern Fish Sandwich</ENName>
+<ZHName>小酒馆鱼三明治</ZHName>
+<Desc>野火啤酒重创新鲜的鱼、 鞑靼汁</Desc>
+<ENName>Mini Bison Burger Trio</ENName>
+<ZHName>迷你野牛汉堡三重奏</ZHName>
+<Desc>切达干酪、 干酪 &amp; 蓝纹奶酪结壳</Desc>
+<ENName>Prime Rib French Dip</ENName>
+<ZHName>肋法语蘸</ZHName>
+<Desc>融化了的奶酪汁烤</Desc>
+<ENName>High Plains Bison Burger Deluxe</ENName>
+<ZHName>高平原野牛汉堡豪华</ZHName>
+<Desc>格鲁耶尔奶酪、 芝麻菜、 洋葱酱</Desc>
+<ENName>Tenderloin Steak Sandwich</ENName>
+<ZHName>里脊肉牛排三明治</ZHName>
+<Desc>芝麻菜、 红洋葱、 番茄、 芝士、 香蒜酱</Desc>
+<ENName>Redskin Mashed Potatoes</ENName>
+<ZHName>印第安人土豆泥</ZHName>
+<Desc></Desc>
+<ENName>Wild Rice</ENName>
+<ZHName>野生稻</ZHName>
+<Desc></Desc>
+<ENName>Au Gratin Potatoes</ENName>
+<ZHName>焗土豆</ZHName>
+<Desc></Desc>
+<ENName>Creamed Spinach</ENName>
+<ZHName>奶油的菠菜</ZHName>
+<Desc></Desc>
+<ENName>Roasted Vegetables</ENName>
+<ZHName>烤的蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Fresh-Cut French Fries</ENName>
+<ZHName>鲜切薯条</ZHName>
+<Desc></Desc>
+<ENName>Fresh Broccoli</ENName>
+<ZHName>新鲜的西兰花</ZHName>
+<Desc>柠檬油醋汁</Desc>
+<ENName>Petite Filet Mignon</ENName>
+<ZHName>身材娇小的菲力牛排</ZHName>
+<Desc>更轻的胃口</Desc>
+<ENName>Filet Mignon</ENName>
+<ZHName>菲力牛排</ZHName>
+<Desc>最投标书的所有牛排</Desc>
+<ENName>High Plains Bison Filet</ENName>
+<ZHName>高平原野牛菲力</ZHName>
+<Desc>推荐的中罕见的与我们的咖啡磨</Desc>
+<ENName>Horseradish Crusted Filet</ENName>
+<ZHName>辣根结痂菲力</ZHName>
+<Desc>馥郁熏培根的招牌</Desc>
+<ENName>Wildfire Bone-in Filet</ENName>
+<ZHName>野火骨中菲力</ZHName>
+<Desc>很特别的切</Desc>
+<ENName>Mushroom-Crusted Fancy Pork Chops</ENName>
+<ZHName>蘑菇结痂花式猪排</ZHName>
+<Desc>两个都是全天然厚厚的中心切排骨</Desc>
+<ENName>Broiled Prime Sirloin Steak</ENName>
+<ZHName>烤黄金沙朗牛排</ZHName>
+<Desc>葱香醋酱汁，鲜切大蒜炸薯条</Desc>
+<ENName>Basil Hayden's Bourbon Tenderloin Tips</ENName>
+<ZHName>罗勒海登的波旁威士忌里脊肉小贴士</ZHName>
+<Desc>烤红洋葱</Desc>
+<ENName>Ribeye Medallions al Forno</ENName>
+<ZHName>眼扒纪念章 al Forno</ZHName>
+<Desc>巴马地壳，蘑菇帽</Desc>
+<ENName>Roumanian Skirt Steak</ENName>
+<ZHName>罗马尼亚的裙子牛排</ZHName>
+<Desc>特别的酱汁，我们的最爱之一</Desc>
+<ENName>New York Strip Steak</ENName>
+<ZHName>纽约牛排</ZHName>
+<Desc>烤到最充分的味道</Desc>
+<ENName>Lamb Porterhouse Chops</ENName>
+<ZHName>等腰羊肉</ZHName>
+<Desc>科罗拉多州 s 的三个巢羊排</Desc>
+<ENName>Char Crusted Bone-in Rib Eye</ENName>
+<ZHName>Char 结痂的骨中肋眼</ZHName>
+<Desc>很好大理石的印章</Desc>
+<ENName>Porterhouse</ENName>
+<ZHName>等腰</ZHName>
+<Desc>两个最喜欢的削减，char 结痂纽约脱衣舞 &amp; 让在一个单一的牛排牛排</Desc>
+<ENName>Prime Rib 10 oz. Regular Cut</ENName>
+<ZHName>肋 10 盎司定期切</ZHName>
+<Desc></Desc>
+<ENName>Prime Rib 16 oz. Queen Cut</ENName>
+<ZHName>排骨 16 盎司女王切</ZHName>
+<Desc></Desc>
+<ENName>Prime Rib 22 oz. King Cut</ENName>
+<ZHName>排骨 22 盎司国王切</ZHName>
+<Desc></Desc>
+<ENName>Shrimp & Penne Pasta</ENName>
+<ZHName>虾 &amp; 通心粉</ZHName>
+<Desc>玉米、 火烤西红柿、 大蒜紫苏汤</Desc>
+<ENName>Coconut Shrimp</ENName>
+<ZHName>椰子虾</ZHName>
+<Desc>我们烧木头的炉子，姜椰子酱烤</Desc>
+<ENName>Cedar-Planked Salmon</ENName>
+<ZHName>雪松爽快地三文鱼</ZHName>
+<Desc>棕糖大豆釉</Desc>
+<ENName>Potato-Crusted East Coast Sea Scallops</ENName>
+<ZHName>马铃薯结痂东海岸海扇贝</ZHName>
+<Desc>新鲜大蒜菠菜、 辣椒黄油汁</Desc>
+<ENName>Swordfish London Broil</ENName>
+<ZHName>箭鱼伦敦烤</ZHName>
+<Desc>烤箱烤西红柿和红洋葱</Desc>
+<ENName>Tuna Steak Teriyaki</ENName>
+<ZHName>金枪鱼牛排红烧</ZHName>
+<Desc>香橙酱和芥末奶油</Desc>
+<ENName>Whole-Roasted Sea Bass</ENName>
+<ZHName>整个烤海鲈鱼</ZHName>
+<Desc>塞满了新鲜的香草，大蒜，柠檬，烧焦的番茄津津有味送达</Desc>
+<ENName>Wood-Roasted Seafood Trio</ENName>
+<ZHName>木材烤海鲜三重奏</ZHName>
+<Desc>蟹饼、 培根卷扇贝、 雪松爽快地三文鱼</Desc>
+<ENName>Wildfire Mixed Grill</ENName>
+<ZHName>野火什锦烤肉</ZHName>
+<Desc>羊排、 结痂蘑菇猪排、 选择的地壳的菲力纪念章</Desc>
+<ENName>Parmesan-Crusted Petite New York Strip & Garlic Shrimp</ENName>
+<ZHName>巴马结痂娇小纽约地带 &amp; 大蒜虾</ZHName>
+<Desc>简单的美味与大蒜黄油</Desc>
+<ENName>Petite Filet & Potato-Crusted Sea Scallops</ENName>
+<ZHName>身材娇小的菲力 &amp; 马铃薯结痂海扇贝</ZHName>
+<Desc>墨西哥辣肉卷黄油汁</Desc>
+<ENName>Classic Surf & Turf (A.Q)</ENName>
+<ZHName>经典的冲浪 &amp; 草坪 (A.Q)</ZHName>
+<Desc>菲力牛排，帕尔玛结痂龙虾尾</Desc>
+<ENName>Spit-Roasted Half Chicken</ENName>
+<ZHName>烤半鸡</ZHName>
+<Desc>所有自然自由鸟鸡肉、 大蒜 &amp; 草药</Desc>
+<ENName>Barbecued Chicken</ENName>
+<ZHName>烤的鸡</ZHName>
+<Desc>所有自然自由的鸟半只鸡，与我们炆烧烤酱烤制而成</Desc>
+<ENName>Lemon-Pepper Chicken Breasts</ENName>
+<ZHName>柠檬胡椒鸡胸脯肉</ZHName>
+<Desc>与天然果汁我们燃烧木头的烤炉中烘烤</Desc>
+<ENName>Chicken Moreno</ENName>
+<ZHName>鸡肉莫雷诺</ZHName>
+<Desc>烤鸡胸肉、 朝鲜蓟、 西红柿、 芝麻菜、 光大蒜汤</Desc>
+<ENName>Barbecued Baby Back Ribs</ENName>
+<ZHName>回到了烧烤的婴儿排骨</ZHName>
+<Desc>完整的、 多肉的板坯，柠烧烤酱，凉拌卷心菜，苹果酱</Desc>
+<ENName>Chicken & Baby Back Ribs Combo</ENName>
+<ZHName>鸡 &amp; 婴儿背肋组合</ZHName>
+<Desc>半烤的鸡和一半板坯婴儿回排骨、 凉拌卷心菜、 苹果酱</Desc>
+<ENName>Redskin Mashed Potatoes</ENName>
+<ZHName>印第安人土豆泥</ZHName>
+<Desc></Desc>
+<ENName>Fresh Broccoli</ENName>
+<ZHName>新鲜的西兰花</ZHName>
+<Desc>柠檬油醋汁</Desc>
+<ENName>Five Grain Wild Rice</ENName>
+<ZHName>五粒野生稻</ZHName>
+<Desc></Desc>
+<ENName>Au Gratin Potatoes</ENName>
+<ZHName>焗土豆</ZHName>
+<Desc></Desc>
+<ENName>Creamed Spinach</ENName>
+<ZHName>奶油的菠菜</ZHName>
+<Desc></Desc>
+<ENName>Fresh-Cut Garlic French Fries</ENName>
+<ZHName>鲜切大蒜炸薯条</ZHName>
+<Desc></Desc>
+<ENName>Balsamic-Roasted Vegetables</ENName>
+<ZHName>黑醋烤蔬菜</ZHName>
+<Desc></Desc>
+<ENName>Giant Baked Idaho Potato</ENName>
+<ZHName>巨人烤爱达荷土豆</ZHName>
+<Desc></Desc>
+<ENName>BBQ-Rubbed Sweet Potato</ENName>
+<ZHName>烧烤擦红薯</ZHName>
+<Desc></Desc>
+<ENName>Cottage Fries</ENName>
+<ZHName>山寨炸薯条</ZHName>
+<Desc>牧场敷料</Desc>
+<ENName>Macaroni & Cheese</ENName>
+<ZHName>&amp; 干酪通心粉</ZHName>
+<Desc></Desc>
+<ENName>Wood-Roasted Mushroom Caps</ENName>
+<ZHName>木材烤蘑菇帽</ZHName>
+<Desc></Desc>
+<ENName>Cheddar Double-Stuffed Potato</ENName>
+<ZHName>切达奶酪双酿马铃薯</ZHName>
+<Desc></Desc>
+<ENName>Hollywood Bowl</ENName>
+<ZHName>好莱坞碗</ZHName>
+<Desc>脆花园新鲜青菜拌切丝火腿、 土耳其、 瑞士、 切达干酪、 青椒和美国奶酪</Desc>
+<ENName>Chicken Breast Salad</ENName>
+<ZHName>鸡胸肉沙拉</ZHName>
+<Desc>Char 分层在卷心莴苣、 西红柿、 洋葱和青椒鸡烤乳房。胡椒调味</Desc>
+<ENName>Greek Salad</ENName>
+<ZHName>希腊沙拉</ZHName>
+<Desc>山莴苣覆盖发达芝士、 希腊橄榄、 洋葱、 青椒和凤尾鱼。撒了牛至和服务与我们的房子甜醋汁</Desc>
+<ENName>Tuna or Turkey Salad Platter</ENName>
+<ZHName>金枪鱼或火鸡沙拉拼盘</ZHName>
+<Desc>白色的长鳍金枪鱼 （或土耳其沙拉） 顶脆生菜、 西红柿、 洋葱、 青椒和硬煮鸡蛋</Desc>
+<ENName>Tossed Garden Salad</ENName>
+<ZHName>抛出的花园沙拉</ZHName>
+<Desc>用煮鸡蛋</Desc>
+<ENName>Ceasar Salad</ENName>
+<ZHName>恺撒色拉</ZHName>
+<Desc>长叶莴苣和新鲜面包丁的心扔与我们自己凯撒酱，再洒上芝士，与鸡</Desc>
+<ENName>Slenderella</ENName>
+<ZHName>Slenderella</ZHName>
+<Desc>新鲜白长鳍金枪鱼沙拉、 新鲜的水果和奶油干酪</Desc>
+<ENName>Salmon Plate</ENName>
+<ZHName>三文鱼板</ZHName>
+<Desc>红鲑包围着生菜、 奶酪、 西红柿片和煮的蛋</Desc>
+<ENName>Spinach Salad</ENName>
+<ZHName>菠菜沙拉</ZHName>
+<Desc>吨的新鲜菠菜拌碎条培根，切成片的蘑菇和煮的蛋</Desc>
+<ENName>Stuffed Avocado</ENName>
+<ZHName>酿牛油果</ZHName>
+<Desc>开放面临的鳄梨挤满了白色的长鳍金枪鱼或土耳其沙拉。配上奶酪和新鲜水果，蟹肉</Desc>
+<ENName>Greek Chicken</ENName>
+<ZHName>希腊鸡</ZHName>
+<Desc>1/2 有扎营，用新鲜的柠檬 &amp; 牛至烤的鲜鸡。允许 30 分钟烹饪时间</Desc>
+<ENName>Chicken Livers Dinner</ENName>
+<ZHName>鸡肝晚餐</ZHName>
+<Desc>在新鲜的蘑菇和洋葱炒</Desc>
+<ENName>Chicken Kebab Plate</ENName>
+<ZHName>鸡烤肉串板</ZHName>
+<Desc>腌好的鸡肉煮熟的新鲜青椒、 蘑菇、 洋葱和番茄串完美。配饭</Desc>
+<ENName>Gold Coast Omelette</ENName>
+<ZHName>金海岸煎蛋</ZHName>
+<Desc>蘑菇、 番茄、 菠菜、 洋葱</Desc>
+<ENName>Spinach & Feta</ENName>
+<ZHName>菠菜 &amp; 羊乳酪</ZHName>
+<Desc></Desc>
+<ENName>Turkey & Swiss</ENName>
+<ZHName>土耳其 &amp; 瑞士</ZHName>
+<Desc></Desc>
+<ENName>State St.</ENName>
+<ZHName>州的 St。</ZHName>
+<Desc>西兰花、 火腿、 蘑菇、 西红柿</Desc>
+<ENName>Florentine</ENName>
+<ZHName>佛罗伦萨</ZHName>
+<Desc>菠菜、 火腿、 瑞士</Desc>
+<ENName>Spinach Omelette</ENName>
+<ZHName>菠菜煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Jamaican</ENName>
+<ZHName>牙买加</ZHName>
+<Desc>香蕉、 核桃、 蜂蜜</Desc>
+<ENName>Zucchini & Tomato</ENName>
+<ZHName>西葫芦 &amp; 番茄</ZHName>
+<Desc></Desc>
+<ENName>Greek Omelette</ENName>
+<ZHName>希腊煎蛋</ZHName>
+<Desc>发达芝士、 番茄、 洋葱</Desc>
+<ENName>Crabmeat Omelette</ENName>
+<ZHName>蟹肉煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Omni</ENName>
+<ZHName>泛光灯</ZHName>
+<Desc>火腿，青椒，瑞士，洋葱，切达干酪</Desc>
+<ENName>Turkey Omelette</ENName>
+<ZHName>土耳其煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Turkey Omelette</ENName>
+<ZHName>土耳其煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Asparagus Omelette</ENName>
+<ZHName>芦笋煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Ham Omelette</ENName>
+<ZHName>火腿煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Cream Cheese</ENName>
+<ZHName>奶油奶酪</ZHName>
+<Desc></Desc>
+<ENName>Denver</ENName>
+<ZHName>丹佛</ZHName>
+<Desc>青椒、 洋葱、 火腿</Desc>
+<ENName>Broccoli Omelette</ENName>
+<ZHName>西兰花煎蛋</ZHName>
+<Desc></Desc>
+<ENName>Artemis Omelette</ENName>
+<ZHName>阿尔忒弥斯的煎蛋</ZHName>
+<Desc>朝鲜蓟、 番茄、 瑞士</Desc>
+<ENName>Asparagus & Cheddar</ENName>
+<ZHName>芦笋 &amp; 切达干酪</ZHName>
+<Desc></Desc>
+<ENName>Veggie Omelette</ENName>
+<ZHName>蔬菜煎蛋</ZHName>
+<Desc>南瓜，菠菜西兰花</Desc>
+<ENName>Broccoli & Cheddar</ENName>
+<ZHName>西兰花 &amp; 切达干酪</ZHName>
+<Desc></Desc>
+<ENName>Michigan</ENName>
+<ZHName>密歇根州</ZHName>
+<Desc>苹果，切达干酪</Desc>
+<ENName>Feta Cheese Omelette</ENName>
+<ZHName>羊乳酪奶酪煎蛋饼</ZHName>
+<Desc></Desc>
+<ENName>Mushroom & Swiss</ENName>
+<ZHName>蘑菇 &amp; 瑞士</ZHName>
+<Desc></Desc>
+<ENName>Cheddar Omelette</ENName>
+<ZHName>切达奶酪煎蛋饼</ZHName>
+<Desc></Desc>
+<ENName>Mexican</ENName>
+<ZHName>墨西哥</ZHName>
+<Desc>洋葱、 辣椒、 番茄、 西葫芦</Desc>
+<ENName>Swiss Omelette</ENName>
+<ZHName>瑞士煎蛋</ZHName>
+<Desc></Desc>
+<ENName>3 Eggs (any style)</ENName>
+<ZHName>3 个鸡蛋 （任何样式）</ZHName>
+<Desc>与土耳其香肠、 猪肉香肠、 培根、 加拿大培根或弗吉尼亚火腿</Desc>
+<ENName>Huevos Rancheros</ENName>
+<ZHName>吃</ZHName>
+<Desc>3 个鸡蛋任何风格配上自制的莎莎</Desc>
+<ENName>The Continental</ENName>
+<ZHName>大陆</ZHName>
+<Desc>鸡肝和鸡蛋炒炒洋葱、 的蘑菇、 新鲜的洋葱、 青椒</Desc>
+<ENName>Steak & Eggs "over 13 ounce steaks"</ENName>
+<ZHName>牛排 &amp; 鸡蛋"超过 13 盎司牛排"</ZHName>
+<Desc>烤牛排的裙子和三个鸡蛋的任何样式</Desc>
+<ENName>Corned Beef Hash & Eggs</ENName>
+<ZHName>哈希 &amp; 鸡蛋腌的牛肉</ZHName>
+<Desc>配备了鸡蛋和你喜欢的方式</Desc>
+<ENName>Eggs Florentine</ENName>
+<ZHName>鸡蛋佛罗伦萨</ZHName>
+<Desc>煮的鸡蛋和英式松饼蒙着面纱下辣酱蒸的菠菜</Desc>
+<ENName>Eggs Benedict</ENName>
+<ZHName>班尼迪克蛋</ZHName>
+<Desc>加拿大培根、 煮的鸡蛋和辣酱所涵盖的英式松饼</Desc>
+<ENName>Poor Man's Skillet</ENName>
+<ZHName>穷人的煎锅</ZHName>
+<Desc>锅中充满了薯饼、 火腿、 青椒、 洋葱、 首次登顶与融化了美国、 意大利干酪、 切达干酪和瑞士再配上你的风格的三个鸡蛋</Desc>
+<ENName>Veggie Poor Man's Skillet</ENName>
+<ZHName>素食穷人的煎锅</ZHName>
+<Desc>完整的土豆煎饼、 西兰花、 番茄、 蘑菇、 青辣椒和洋葱首次登顶与融化了美国、 意大利干酪、 chedder 和瑞士再配上你的风格的三个鸡蛋煎锅</Desc>
+<ENName>Pancakes</ENName>
+<ZHName>薄煎饼</ZHName>
+<Desc></Desc>
+<ENName>Short Stack</ENName>
+<ZHName>短堆栈</ZHName>
+<Desc></Desc>
+<ENName>Fresh Strawberry Pancakes</ENName>
+<ZHName>新鲜的草莓煎饼</ZHName>
+<Desc></Desc>
+<ENName>Fresh Blueberry Pancakes</ENName>
+<ZHName>新鲜的蓝莓煎饼</ZHName>
+<Desc></Desc>
+<ENName>Fresh Raspberry Pancakes</ENName>
+<ZHName>新鲜树莓煎饼</ZHName>
+<Desc></Desc>
+<ENName>Fresh Banana Nut Pancakes</ENName>
+<ZHName>新鲜香蕉坚果薄煎饼</ZHName>
+<Desc></Desc>
+<ENName>Fresh Banana Nut Buckwheat Pancakes</ENName>
+<ZHName>新鲜香蕉坚果荞麦煎饼</ZHName>
+<Desc></Desc>
+<ENName>Buckwheat Pancakes</ENName>
+<ZHName>荞麦煎饼</ZHName>
+<Desc></Desc>
+<ENName>Chocolate Chip Pancakes</ENName>
+<ZHName>巧克力烤饼</ZHName>
+<Desc></Desc>
+<ENName>Golden Brown Waffle</ENName>
+<ZHName>金棕色华夫格</ZHName>
+<Desc></Desc>
+<ENName>Fresh Strawberry Waffle</ENName>
+<ZHName>新鲜草莓华夫格</ZHName>
+<Desc></Desc>
+<ENName>Fresh Blueberry Waffle</ENName>
+<ZHName>新鲜的蓝莓松饼</ZHName>
+<Desc></Desc>
+<ENName>Fresh Raspberry Waffle</ENName>
+<ZHName>新鲜树莓华夫格</ZHName>
+<Desc></Desc>
+<ENName>Buckwheat Waffle</ENName>
+<ZHName>荞麦华夫格</ZHName>
+<Desc></Desc>
+<ENName>Banana Nut Waffle</ENName>
+<ZHName>香蕉坚果华夫饼干</ZHName>
+<Desc></Desc>
+<ENName>Banana Nut Buckwheat Waffle</ENName>
+<ZHName>香蕉坚果荞麦华夫格</ZHName>
+<Desc></Desc>
+<ENName>Fresh Strawberry French Toast</ENName>
+<ZHName>新鲜草莓法式吐司</ZHName>
+<Desc></Desc>
+<ENName>Fresh Blueberry French Toast</ENName>
+<ZHName>新鲜的蓝莓法式吐司</ZHName>
+<Desc></Desc>
+<ENName>Fresh Raspberry French Toast</ENName>
+<ZHName>新鲜覆盆子法式吐司</ZHName>
+<Desc></Desc>
+<ENName>Egg-White French Toast</ENName>
+<ZHName>鸡蛋白法式吐司</ZHName>
+<Desc></Desc>
+<ENName>Raisin French Toast</ENName>
+<ZHName>葡萄干的法式烤面包</ZHName>
+<Desc></Desc>
+<ENName>Egg-White Raisin French Toast</ENName>
+<ZHName>鸡蛋白葡萄干法国吐司</ZHName>
+<Desc></Desc>
+<ENName>Bacon or Sausages</ENName>
+<ZHName>培根或香肠</ZHName>
+<Desc></Desc>
+<ENName>Turkey Sausages</ENName>
+<ZHName>土耳其香肠</ZHName>
+<Desc></Desc>
+<ENName>Virginia Ham or Canadian Bacon</ENName>
+<ZHName>弗吉尼亚火腿或加拿大培根</ZHName>
+<Desc></Desc>
+<ENName>Homemade Mexican Salsa</ENName>
+<ZHName>自制墨西哥沙拉</ZHName>
+<Desc></Desc>
+<ENName>Oatmeal</ENName>
+<ZHName>燕麦粥</ZHName>
+<Desc>6 &amp; 10 上午之间提供</Desc>
+<ENName>Steak Stir Fry</ENName>
+<ZHName>牛排翻炒</ZHName>
+<Desc>与蘑菇、 青椒、 洋葱和西兰花配上饭</Desc>
+<ENName>Chicken Stir Fry</ENName>
+<ZHName>鸡肉翻炒</ZHName>
+<Desc>与蘑菇、 青椒、 洋葱和西兰花配上饭</Desc>
+<ENName>Vegetable Stir Fry</ENName>
+<ZHName>蔬菜翻炒</ZHName>
+<Desc>与蘑菇、 青椒、 洋葱和西兰花配上饭</Desc>
+<ENName>Sliced Turkey</ENName>
+<ZHName>片的火鸡</ZHName>
+<Desc></Desc>
+<ENName>BLT</ENName>
+<ZHName>BLT</ZHName>
+<Desc></Desc>
+<ENName>Tuna Salad</ENName>
+<ZHName>金枪鱼沙拉</ZHName>
+<Desc>白色长鳍金枪鱼</Desc>
+<ENName>Turkey Salad</ENName>
+<ZHName>土耳其沙拉</ZHName>
+<Desc></Desc>
+<ENName>Grilled Cheese</ENName>
+<ZHName>烤的奶酪</ZHName>
+<Desc></Desc>
+<ENName>Fried Ham & Egg</ENName>
+<ZHName>煎火腿 &amp; 蛋</ZHName>
+<Desc>打开的脸</Desc>
+<ENName>Bacon & Egg</ENName>
+<ZHName>培根 &amp; 蛋</ZHName>
+<Desc>打开的脸</Desc>
+<ENName>Baked Sugar Cured Ham</ENName>
+<ZHName>烤的糖腌火腿</ZHName>
+<Desc>添加奶酪</Desc>
+<ENName>side of Frech Fries</ENName>
+<ZHName>侧的薯条</ZHName>
+<Desc></Desc>
+<ENName>1/2 lb. Pure Beef Burger</ENName>
+<ZHName>1/2 磅纯牛肉汉堡</ZHName>
+<Desc></Desc>
+<ENName>1/2 lb. Cheese Burger</ENName>
+<ZHName>1/2 磅奶酪汉堡</ZHName>
+<Desc></Desc>
+<ENName>Turkey Burger</ENName>
+<ZHName>土耳其汉堡</ZHName>
+<Desc>1/2 磅 PERDUE 土耳其的孔小麦面包配番茄和生菜</Desc>
+<ENName>Royal Burger</ENName>
+<ZHName>皇家汉堡</ZHName>
+<Desc>1/2 磅纯牛肉烤与新鲜的蘑菇、 青椒和洋葱</Desc>
+<ENName>Patty Melt</ENName>
+<ZHName>帕蒂熔体</ZHName>
+<Desc>1/2 磅的纯牛肉盖两侧与旧英语芝士和烤的洋葱。烤黑麦面包</Desc>
+<ENName>Chicken Breast Sandwich</ENName>
+<ZHName>鸡胸肉三明治</ZHName>
+<Desc>新鲜乳房的腌制和炭烤鸡。小圆</Desc>
+<ENName>Chicken a La Louie</ENName>
+<ZHName>鸡拉路易</ZHName>
+<Desc>腌制和炭烤鸡的乳房顶上有成熟的鳄梨、 脆培根，融化瑞士奶酪</Desc>
+<ENName>BBQ Beef</ENName>
+<ZHName>烧烤牛肉</ZHName>
+<Desc>烤高丽菜覆盖在烧烤酱和烤小圆</Desc>
+<ENName>Reuben</ENName>
+<ZHName>鲁本</ZHName>
+<Desc>腌的牛肉、 酸菜和瑞士奶酪融化送达烤的黑麦面包</Desc>
+<ENName>Turkey Reuben</ENName>
+<ZHName>土耳其鲁本</ZHName>
+<Desc></Desc>
+<ENName>Tuna Volcano (open-faced)</ENName>
+<ZHName>金枪鱼火山 （面包）</ZHName>
+<Desc>烘烤的英国松饼喷发与金枪鱼和熔炼切达干酪</Desc>
+<ENName>Bayou Delight</ENName>
+<ZHName>密西西比河的喜悦</ZHName>
+<Desc>休息的土耳其沙拉和老英语芝士的荷载作用下的金色褐色吐司面包</Desc>
+<ENName>Tempo Club House</ENName>
+<ZHName>节奏俱乐部房子</ZHName>
+<Desc>土耳其，培根，生菜，番茄上三层甲板的白吐司</Desc>
+<ENName>Jr. Club</ENName>
+<ZHName>小俱乐部</ZHName>
+<Desc></Desc>
+<ENName>Ham Club House</ENName>
+<ZHName>火腿俱乐部房子</ZHName>
+<Desc>美国奶酪，火腿，生菜，番茄堆高上三片白吐司面包</Desc>
+<ENName>BLT Club House</ENName>
+<ZHName>BLT 俱乐部房子</ZHName>
+<Desc></Desc>
+<ENName>Corned Beef Sandwich</ENName>
+<ZHName>腌的牛肉三明治</ZHName>
+<Desc>黑麦面包</Desc>
+<ENName>La Conga</ENName>
+<ZHName>康茄舞</ZHName>
+<Desc>老英语芝士、 培根和番茄烤白面包有福特嘉年华</Desc>
+<ENName>Monte Cristo</ENName>
+<ZHName>基督山伯爵</ZHName>
+<Desc>瑞士奶酪、 火腿和片的火鸡烤与我们著名的厚法式土司</Desc>
+<ENName>Pork Chop Sandwich</ENName>
+<ZHName>猪排三明治</ZHName>
+<Desc>中心线割猪扒炭烤。配上金色棕色烤面包</Desc>
+<ENName>French Dip</ENName>
+<ZHName>法式蘸</ZHName>
+<Desc>送达的法式面包和湿透在非盟 Jus</Desc>
+<ENName>"Cold" Roast Beef Sandwich</ENName>
+<ZHName>"冷"的烤牛肉三明治</ZHName>
+<Desc>先得的半生熟</Desc>
+<ENName>Hot Roast Beef (open-faced)</ENName>
+<ZHName>热烤牛肉 （面包）</ZHName>
+<Desc>配土豆泥 &amp; 肉汁</Desc>
+<ENName>Hot Turkey (open-faced)</ENName>
+<ZHName>热土耳其 （面包）</ZHName>
+<Desc>配土豆泥 &amp; 肉汁</Desc>
+<ENName>Hot Ham (open-faced)</ENName>
+<ZHName>热火腿 （面包）</ZHName>
+<Desc>配土豆泥 &amp; 肉汁</Desc>
+<ENName>New York Strip Steak</ENName>
+<ZHName>纽约牛排</ZHName>
+<Desc>纽约地带牛腩炭烤根据自己的喜好和供应法式炸薯条</Desc>
+<ENName>Chopped Sirloin</ENName>
+<ZHName>切碎的牛腩</ZHName>
+<Desc>炭烤和配炒洋葱和蘑菇</Desc>
+<ENName>Mediterranean Skirt Steak</ENName>
+<ZHName>地中海的裙子牛排</ZHName>
+<Desc>炭烤与新鲜的柠檬和牛至</Desc>
+<ENName>Pork Chop Dinner</ENName>
+<ZHName>猪排晚餐</ZHName>
+<Desc>中心切猪肉薯片炭烤和送达黄金烤面包和苹果酱的一侧</Desc>
+<ENName>Golden French Fried Shrimp</ENName>
+<ZHName>金色法式炸虾</ZHName>
+<Desc>送达的鸡尾酒和调味汁的烤土司</Desc>
+<ENName>Fresh Whitefish</ENName>
+<ZHName>新鲜白鱼</ZHName>
+<Desc>烤制而成，覆盖在柠檬黄油汁</Desc>
+<ENName>Seafood Platter</ENName>
+<ZHName>海鲜拼盘</ZHName>
+<Desc>海扇贝，菲力的鲈鱼和虾。服务与鸡尾酒和调味汁</Desc>
+<ENName>Deep Sea Scallops</ENName>
+<ZHName>深海扇贝</ZHName>
+<Desc>炒金棕色和送达鞑靼汁</Desc>
+<ENName>Orange Roughy</ENName>
+<ZHName>鲷</ZHName>
+<Desc></Desc>
+<ENName>Filet of Perch</ENName>
+<ZHName>菲力的鲈鱼</ZHName>
+<Desc>炒金棕色和送达鞑靼汁</Desc>
+<ENName>Tempo DeLite</ENName>
+<ZHName>节奏 DeLite</ZHName>
+<Desc>1/2 哈密瓜塞满了火鸡沙拉 （或金枪鱼）。此外担任着各式各样的新鲜水果</Desc>
+<ENName>Farmers Fresh Creamy Cottage Cheese or Sherbet</ENName>
+<ZHName>农民新鲜奶油干酪或果子露</ZHName>
+<Desc>配上水果拼盘</Desc>
+<ENName>Imperial Platter</ENName>
+<ZHName>帝国拼盘</ZHName>
+<Desc>一大堆金枪鱼 （白色长鳍) 冠上一个葡萄熟透的西红柿。配上奶酪、 希腊橄榄、 黄瓜、 硬煮的鸡蛋一半和青椒。</Desc>
+<ENName>Fresh fruit</ENName>
+<ZHName>新鲜水果</ZHName>
+<Desc>干酪和 cliced 番茄围绕着您所选择的烤的 100%纯高丽菜帕蒂、 新鲜 100%纯土耳其帕蒂或新鲜的鸡胸肉</Desc>
+<ENName>Plain Cheesecake</ENName>
+<ZHName>纯芝士蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Strawberry Cheesecake</ENName>
+<ZHName>草莓起司蛋糕</ZHName>
+<Desc></Desc>
+<ENName>Fresh Fruit Pies</ENName>
+<ZHName>新鲜水果馅饼</ZHName>
+<Desc>拉模式</Desc>
+<ENName>Rice Pudding</ENName>
+<ZHName>米饭布丁</ZHName>
+<Desc>奶油</Desc>
+<ENName>Ice Cream</ENName>
+<ZHName>冰激淋</ZHName>
+<Desc></Desc>
+<ENName>Banana Split</ENName>
+<ZHName>香蕉船</ZHName>
+<Desc></Desc>
+<ENName>Sundae</ENName>
+<ZHName>圣代</ZHName>
+<Desc>巧克力，草莓或菠萝糖浆。上面有打好的奶油和撒上的坚果。</Desc>
+<ENName>Jello</ENName>
+<ZHName>果冻</ZHName>
+<Desc>用鞭子奶油</Desc>
+<ENName>Espresso</ENName>
+<ZHName>特浓咖啡</ZHName>
+<Desc></Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc></Desc>
+<ENName>Latte</ENName>
+<ZHName>拿铁咖啡</ZHName>
+<Desc></Desc>
+<ENName>Iced Latte</ENName>
+<ZHName>冰拿铁</ZHName>
+<Desc></Desc>
+<ENName>Americano</ENName>
+<ZHName>美式咖啡</ZHName>
+<Desc></Desc>
+<ENName>Orange Juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc></Desc>
+<ENName>Grapefruit Juice</ENName>
+<ZHName>葡萄柚汁</ZHName>
+<Desc>卡萨布兰卡 ~ 草莓、 哈密瓜 &amp; 橙色</Desc>
+<ENName>Carrot Juice</ENName>
+<ZHName>胡萝卜汁</ZHName>
+<Desc></Desc>
+<ENName>Apple & Carrot</ENName>
+<ZHName>苹果 &amp; 胡萝卜</ZHName>
+<Desc></Desc>
+<ENName>Celery & Carrot</ENName>
+<ZHName>芹菜 &amp; 胡萝卜</ZHName>
+<Desc></Desc>
+<ENName>Apple, Celery & Carrot</ENName>
+<ZHName>苹果、 芹菜 &amp; 胡萝卜</ZHName>
+<Desc></Desc>
+<ENName>Fresh Ground Coffee</ENName>
+<ZHName>现磨咖啡</ZHName>
+<Desc></Desc>
+<ENName>Soft Drinks</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc></Desc>
+<ENName>Chocolate Milk</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Milk Shake or Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cranberry Juice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tomato Juice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Apple Juice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lemonade</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Herbal Tea</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Iced Tea</ENName>
+<ZHName>冰的茶</ZHName>
+<Desc></Desc>
+<ENName>Banana Milk Shake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Can Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>6-Pack of Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>1-Liter of Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>2-Liter of Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Flavored Iced Tea</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bottled Water</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>12 oz. Bottled Root Beer</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>12 oz. Bottled Pepsi</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Appetizer Plate</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mac 'n Cheese Bites</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fried Artichoke Hearts</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Toasted Cheese Ravioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Brasciole</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Fries</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp DeJonghe</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tomato Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pizza Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bread Plate</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bruschetta</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Stuffed Artichoke</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Onion Rings</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Breaded Mushrooms</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Jalapeno Poppers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheezy Cheese Sticks</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Filled Bread Sticks</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fried Cauliflower</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fried Zucchini with Garlic</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Fingers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Blackened Chicken Fingers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Chicken Fingers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Buffalo Chicken Fingers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Buffalo Wings</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fried Calamari</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fresh Pan-Fried Lake Perch</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Jumbo Shrimp </ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Clams</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Calamari</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Cocktail</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Kettle Chips</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Cubes</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pickle Chips</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Poblano Bites</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tossed Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chef Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Chicken Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Caesar Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Caesar Salad with Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Caesar Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chopped Salad "Garbage Salad"</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spinach Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cobb Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BLT Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Caprese Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mediterranean Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fresh Fruit Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bean Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pasta Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Antipasto Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Thin Crust Cheese Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Thin Crust Nicky's Special Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Thin Crust Around the World Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Thin Crust Veggie Special Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Thin Crust Meat Special Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Deep Dish Cheese Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sicilian Style Cheese Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Stuffed Cheese Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mama Barraco Stuffed Pizza</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Pizza Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sausage Pizza Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pepperoni Pizza Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Freddy Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Sausage Sandwich </ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Beef Sandwich </ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Meatball Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hamburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Double Hamburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheeseburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Double Cheeseburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Barraco Burger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Belt Buster Burger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Filet of Fish Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Beef and Sausage Combo Sandwich </ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Steak Pizzaola Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Veal Parmigiana Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>B.L.T. Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hot Ham Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pepper and Egg Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Eggplant Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Chipotle Wrap</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Caesar Wrap</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Parmigiana Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Salitimbocca Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Chicken Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled B.B.Q. Chicken Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Cheese Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>American Sub Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Sub Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Turkey Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pork Chop Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>New York Strip Steak Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>New York Steak Wrap</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Breaded Chicken Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Beef Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>B.B.Q. Chicken Bucket</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Broasted Chicken Bucket</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>8 Pieces of Broasted Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>12 Pieces of Broasted Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>16 Pieces of Broasted Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>20 Pieces of Broasted Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Stuffed Cheese Shells Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Veal Parmigiana Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Parmigiana Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Eggplant Parmigiana Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Mostaccioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Homemade Lasagna Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lasagna Rolendine Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sausage and Pepper Platter</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Penne Pasta with Tomato Alfredo and Mozzarella Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Healthy Pasta Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pasta Creation Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pasta Bianco Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Tetrazzini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Tetrazzini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Daniela Special Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mac-n-Cheese Specialty Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spaghetti Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mostaccioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Angel Hair Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fettuccini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Gnocchi Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Linguini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Gluten-Free Pasta Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Whole Wheat Pasta Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Manicotti Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Tortellini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Meatl Tortellini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Ravioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Meat Ravioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mushroom Ravioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lobster Ravioli Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Alfredo Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Alfredo Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Linguini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp and Broccoli Linguini Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Brasciole Entree</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Mostaccioli Florentine</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Spaghetti</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Mostaccioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Fettuccini Alfredo</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Mac-N-Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Cheese Ravioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Meat Ravioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bucket of Baked Mostaccioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Chicken Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Chicken Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Broasted Chicken Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Francaise Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Piccata Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Kiev Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Fingers Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Vesuvio Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Cacciatore Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Stuffed Chicken Breast Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Marsala Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Center Grilled Pork Chops Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>NY Strip Steak Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Surf and Turf Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baby Back Ribs Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Combo Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Rib and Shrimp Combo Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Salmon Rockefeller Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Seafood Kabobs Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Meat Kabobs Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Golden Shrimp Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lake Perch Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Orange Roughy Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grilled Salmon Steak Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fish Combo Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Tilapia Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Blue Cheese Crusted NY Strip Steak Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Petite Filet Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Large French Fries</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Baked Potato with Sour Cream and Butter</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Steamed Broccoli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Steamed Mixed Vegetables</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Coleslaw</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pint of Coleslaw</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cream of Chicken Soup</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Minestrone Soup</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Side Spaghetti</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Side Mostaccioli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mashed Potatoes</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Side of Alfredo Fettuccini</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mac-n-Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Homemade Cannoli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Grasshopper Pie Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Turtle Pie Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Whole Turtle Pie</ENName>
+<ZHName>整个龟派</ZHName>
+<Desc></Desc>
+<ENName>Whole Grasshopper Pie</ENName>
+<ZHName>整个蝗虫馅饼</ZHName>
+<Desc></Desc>
+<ENName>Snickers Pie Slice</ENName>
+<ZHName>士力架饼图扇区</ZHName>
+<Desc></Desc>
+<ENName>Whole Snickers Pie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheesecake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tiramisu</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chocolate Cake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lemon Cake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Strawberry Cake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Carrot Cake</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Brownie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chocolate Chip Cookie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sugar Cookie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Oatmeal Cookie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>M&M Cookie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Macadamia Cookie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tiger Brownie</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pint of Ice Cream</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Gelato</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spumoni</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Flavored Italian Ice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>16 oz. Shakes (Not available after 2 AM)</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>36" French Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cookie Tray</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chips</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Gallon of Oil</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Calavita Balsamic</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Capers</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Giardiniera</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>American Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mozzarella Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Swiss Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Provolone Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fresh Mozzarella Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ricotta Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shredded Parmesan Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bleu Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Volpi Salami</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hard Salami</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Genoa Salami</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pepperoni</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pizza Dough</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ham</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Parma Ham</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Turkey</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Capicolla</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Beef Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Beef Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Italian Sausage Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Meatball Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Fish Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hamburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheeseburger</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Breast Sandwich</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken B. Parmigiana Sandwiches</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Gyros</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sausage</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mushroom</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Onion</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pepperoni</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Olive (B Or G)</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ground Beef</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hot Pepper</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Green Pepper</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bacon</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>1/2 Cheese, 1/2 Choice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ingredients 3</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ingredients 4</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ingredients 5</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ingredients 6</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ingredients 7</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tomato</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Broccoli</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spinach</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Parmigiana</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Shrimp Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>21 Pc. Shrimp Basket</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spaghetti Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Mostaccioli Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Lasagna Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>BBQ Rib Dinner</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chef Salads  Vegetables</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Benny's Salads</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Breast Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>5 Beef Sandwiches</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>2 Pizzas</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pizza By The Slice</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hot Dog</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>French Fries</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Onion Rings</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Nuggets</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Sticks</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Breaded Mushrooms</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pizza Puff</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Garlic Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pizza Bread</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hot Chicken Wings</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cheese Fries</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>12 Oz. Can Soda</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Bottled Water</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>2 Liters Of Coke</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Brushetta Con Jamon</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Goat Cheese Crostini</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Hongos Rellenos</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Quesadillas</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Potato Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>House Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Feta Chicken</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Spinach Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Tortilla Salad</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Albacore Tuna</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Caesar's</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sunny California</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Veggie Cabra</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>El Parisino</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Todo Italiano</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Ham And Cheese</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Turkey, Turkey</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>The Popular</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Super Panes</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Oaxacan Pork</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Roasted Beef</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Pollo Diablo</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Sloppy Pollo</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Portabella</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Our Spicy Philly</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Chicken Club</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Turkey Club</ENName>
