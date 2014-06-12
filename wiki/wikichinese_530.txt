@@ -1,0 +1,1509 @@
+<ENName>Baked beans</ENName>
+<ZHName>烤的豆子</ZHName>
+<Desc>烤的豆子是包含豆，有时烤菜但，尽管名字，通常红烧，。[4] 大多数商业罐头烤的豆子是由扁豆豆，也称为海军豆 — — 各式各样的菜豆的酱。在爱尔兰和英国，一个番茄和糖调味汁最常用的和他们通常被吃吐司或作为全套英式早餐的一部分。</Desc>
+<ENName>Baked bean sandwich</ENName>
+<ZHName>烤的豆三明治</ZHName>
+<Desc>烤的豆三明治是烤的豆子和黄油组成的一顿饭之间两片面包。</Desc>
+<ENName>Boston baked beans</ENName>
+<ZHName>波士顿烘豆</ZHName>
+<Desc>波士顿烤的豆子是各式各样的烘豆、 通常与糖蜜或枫叶糖浆变甜和咸猪肉或培根特色风味。</Desc>
+<ENName>Baked beans</ENName>
+<ZHName>烤的豆子</ZHName>
+<Desc>烤的豆子是包含豆，有时烤菜但，尽管名字，通常红烧，。[4] 大多数商业罐头烤的豆子是由扁豆豆，也称为海军豆 — — 各式各样的菜豆的酱。在爱尔兰和英国，一个番茄和糖调味汁最常用的和他们通常被吃吐司或作为全套英式早餐的一部分。</Desc>
+<ENName>Bacon</ENName>
+<ZHName>培根</ZHName>
+<Desc>培根是准备从一只猪和通常治愈的肉类产品。[] 1[2] 它是第一次治好了在盐水或干燥包装 ； 用大量的盐，[2]其结果是新鲜培根 （也称为绿色培根）。[3] 新鲜培根可以然后进一步擦干为几周或几个月在寒冷的空气，或它可能煮或熏制。[1] 新鲜和晒干培根通常煮熟方可进食。水煮的培根是准备吃，是一些烟熏的培根，但可能煮熟，进一步在吃之前。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Pork and beans</ENName>
+<ZHName>猪肉和豆子</ZHName>
+<ENName>Baked beans</ENName>
+<ZHName>烤的豆子</ZHName>
+<Desc>烤的豆子是包含豆，有时烤菜但，尽管名字，通常红烧，。[4] 大多数商业罐头烤的豆子是由扁豆豆，也称为海军豆 — — 各式各样的菜豆的酱。在爱尔兰和英国，一个番茄和糖调味汁最常用的和他们通常被吃吐司或作为全套英式早餐的一部分。</Desc>
+<ENName>Boston baked beans</ENName>
+<ZHName>波士顿烘豆</ZHName>
+<Desc>波士顿烤的豆子是各式各样的烘豆、 通常与糖蜜或枫叶糖浆变甜和咸猪肉或培根特色风味。</Desc>
+<ENName>Ferrara Candy Company</ENName>
+<ZHName>费拉拉糖果公司</ZHName>
+<Desc>费拉拉糖果公司 （正式费拉拉泛糖果公司） 是芝加哥和森林公园，伊利诺伊州，以使各种糖果的糖果公司。他们的甜点包括柠檬、 下巴的主力部队 （"原始的下巴断路器"）、 原子火球、 耐嚼的火球、 Peanuthead 原波士顿烤豆、 Grapeheads （以前亚历山大葡萄)、 苹果头 (以前约翰尼苹果对待）、 冲头、 橙元首、 樱桃元首 (原樱桃氏族)、 耐嚼柠檬头 &amp;amp; 朋友、 热带耐嚼柠檬头 &amp;amp; 朋友和红色迷恋。</Desc>
+<ENName>Baked beans</ENName>
+<ZHName>烤的豆子</ZHName>
+<Desc>烤的豆子是包含豆，有时烤菜但，尽管名字，通常红烧，。[4] 大多数商业罐头烤的豆子是由扁豆豆，也称为海军豆 — — 各式各样的菜豆的酱。在爱尔兰和英国，一个番茄和糖调味汁最常用的和他们通常被吃吐司或作为全套英式早餐的一部分。</Desc>
+<ENName>Low sodium diet</ENName>
+<ZHName>低钠饮食</ZHName>
+<Desc>低钠饮食是钠的一个包含不超过 1,500 到 2,400 毫克每日的饮食。[1] （一茶匙的盐有约 2,300 毫克钠。遵循积极或适度锻炼时间表的人通常建议限制其到每日 3000 毫克的钠摄入量和那些有中度至严重的心脏衰竭通常建议限制其钠摄入量为 2,000 毫克每一天。[引证需要]。人被诊断患有 Ménière 的疾病，以及，需要遵循低钠饮食。</Desc>
+<ENName>Vicia faba</ENName>
+<ZHName>蚕豆</ZHName>
+<Desc>蚕豆苜蓿芒什。</Desc>
+<ENName>Navy bean</ENName>
+<ZHName>海军豆</ZHName>
+<Desc>海军 bean 或扁豆是各种常见豆 （菜豆）。它是特别普遍在联合王国和美国 (在它可能也被称作豌豆 bean[1])。它为特色在这类菜肴作为烤的豆子和甚至馅饼，以及在参议院豆汤等各种汤。[2] 的烤豆子的消费已被证明对降低总胆固醇水平和低密度脂蛋白胆固醇。[] 3[4] 这可能至少部分原因是高皂素含量的海军豆。总皂甙还陈列抗菌和抗真菌活性和已发现抑制癌细胞生长。[5] 此外，海军 bean 是最富有的阿魏酸和香豆酸之间共同的菜豆品种来源。[6] 它是俗称为"海军豆"由于它的用途作为主食的 19 世纪美国海军口粮。</Desc>
+<ENName>Green bean</ENName>
+<ZHName>绿豆</ZHName>
+<Desc>青豆，也称为四季豆、 豆角在美国东北部和西部或 ejotes 在墨西哥，有各种品种的普通菜豆 (菜豆) 的未成熟果实。[] 1[2] 绿豆品种已选定尤其是为其后、 风味或其荚的甜蜜。</Desc>
+<ENName>Organic beans</ENName>
+<ZHName>有机黄豆</ZHName>
+<Desc>有机黄豆生产并没有合成化肥和农药的使用处理。2008 年，2,600,000 英亩 (11,000 km2) 退耕还林是有机认证在美国。[1] 干豆、 豆角、 和大豆分别种植在 16,000 英亩 (65 km2）、 5,200 英亩 (21 km2) 和 98,000 英亩 (400 km2）。[] 2</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Baked beans</ENName>
+<ZHName>烤的豆子</ZHName>
+<Desc>烤的豆子是包含豆，有时烤菜但，尽管名字，通常红烧，。[4] 大多数商业罐头烤的豆子是由扁豆豆，也称为海军豆 — — 各式各样的菜豆的酱。在爱尔兰和英国，一个番茄和糖调味汁最常用的和他们通常被吃吐司或作为全套英式早餐的一部分。</Desc>
+<ENName>Baked bean sandwich</ENName>
+<ZHName>烤的豆三明治</ZHName>
+<Desc>烤的豆三明治是烤的豆子和黄油组成的一顿饭之间两片面包。</Desc>
+<ENName>Boston baked beans</ENName>
+<ZHName>波士顿烘豆</ZHName>
+<Desc>波士顿烤的豆子是各式各样的烘豆、 通常与糖蜜或枫叶糖浆变甜和咸猪肉或培根特色风味。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Frijoles negros</ENName>
+<ZHName>Frijoles 内格罗斯</ZHName>
+<Desc>Frijoles 内格罗斯 (逐字地"黑豆"在西班牙文中） 是有营养的菜用黑豆，准备在古巴、 波多黎各、 墨西哥和拉丁美洲的其他几个国家。黑豆、 菜豆、 物种的一种豆类植物通常以罐装或干形式购买。1 杯干豆产量约 2 杯煮熟的豆。黑豆汤 (内格罗斯所帕 de frijoles) 是另一个常用准备古巴喜爱。</Desc>
+<ENName>Pinto bean</ENName>
+<ZHName>平托豆</ZHName>
+<Desc>平托 bean 是各种常见豆 （菜豆）。这是最常见的 bean 在墨西哥西北部与美国 [1] [2] 并且是最经常吃整个的肉汤或捣碎和 refried。整个或捣碎，它是共同馅的面卷饼。也可能收获年轻豆荚和将其作为绿色斑豆煮熟。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Shaved ice</ENName>
+<ZHName>刨冰</ZHName>
+<Desc>刨冰是基于冰甜点做的细屑的冰或精巧碎的冰和甜调味品或糖浆的一个大家族。通常，糖浆加冰冻结剃光后 — — 通常在销售终端。但是，也可以在冻结前添加调味。甜品是消耗的世界范围内的各种形式和礼仪。刨冰还可以与大量的液体产生的刨冰饮料混合了。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Frijoles negros</ENName>
+<ZHName>Frijoles 内格罗斯</ZHName>
+<Desc>Frijoles 内格罗斯 (逐字地"黑豆"在西班牙文中） 是有营养的菜用黑豆，准备在古巴、 波多黎各、 墨西哥和拉丁美洲的其他几个国家。黑豆、 菜豆、 物种的一种豆类植物通常以罐装或干形式购买。1 杯干豆产量约 2 杯煮熟的豆。黑豆汤 (内格罗斯所帕 de frijoles) 是另一个常用准备古巴喜爱。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Castanospermum</ENName>
+<ZHName>Castanospermum</ZHName>
+<ENName>Mung bean</ENName>
+<ZHName>绿豆</ZHName>
+<Desc>绿豆茯苓。</Desc>
+<ENName>Salting the earth</ENName>
+<ZHName>盐渍土</ZHName>
+<ENName>Boiling-point elevation</ENName>
+<ZHName>沸点高程</ZHName>
+<Desc>沸点海拔描述，当复合添加另，意味着解决方案具有较高的沸点比纯溶剂 （溶剂型） 液体的沸点会更高的现象。每当非挥发性溶质，如一种盐，添加到纯溶剂，如水，将发生这种情况。沸点可以准确地用糖度计来衡量。总之，因此，沸点海拔意味着当溶质溶解在溶剂中，生成的解决方案的沸点比纯溶剂的高。</Desc>
+<ENName>Salt</ENName>
+<ZHName>盐</ZHName>
+<Desc>盐是氯化钠的一种矿物物质组成主要 (NaCl)，一种化合物属于较大类的离子盐 ；作为一种结晶的矿物称为盐岩或岩盐盐以其自然的形式。盐是哪里固体每公升，盐度为 3.5%的主要矿物成分，与大海有约 35 克 (1.2 盎司) 海中大量存在。盐是动物生命的根本，咸味是基本的人类口味之一。动物的组织包含较大数量的盐比做植物组织 ；因此典型的人以他们的羊群和牛群为生的游牧民族饮食要求很少或不加的盐，而谷物基础日粮需要补充。盐是最古老和最广泛的食品调味料之一和盐是一种重要的食品保存方法。</Desc>
+<ENName>Cooking</ENName>
+<ZHName>烹饪</ZHName>
+<Desc>烹煮或烹饪是艺术的制备与使用消费热的食物。烹饪技术和成分差异很大在整个世界，反映出独特的环境、 经济和文化传统和发展趋势。那烹饪发生的方式还取决于技能和培训个别厨师的类型都有。烹饪还可发生化学反应不在场的热量，最显著的是与腌鱼，鱼烹煮的柠檬汁或酸橙汁中的酸的传统美国南方菜。寿司也使用类似鱼和水稻上釉与醋的酸性内容之间的化学反应。</Desc>
+<ENName>Glossary of chess</ENName>
+<ZHName>象棋术语表</ZHName>
+<Desc>本页面说明常用的术语，在按字母顺序排列的棋。其中一些有他们自己的页面，像叉和 pin。非正统的棋子的列表，请参见童话棋子 ；国际象棋问题的专用术语的列表，请参见词汇表棋的问题;象棋相关游戏的列表，请参阅棋变形。</Desc>
+<ENName>Cooked mode</ENName>
+<ZHName>熟的模式</ZHName>
+<Desc>熟的模式正在给一个程序之前进行的数据预处理的 Unix 系统中是终端或伪终端字符设备的模式。在此模式下，系统将解释退格、 删除和控制 C 和控制 D.等其他控制字符等特殊字符什么构成一个煮熟的模式的精确定义是特定于操作系统。[1] 另一种模式是"原始模式"，也被称为 delimiterless 的输入，在其中的数据考虑作为-是到该程序，并在系统不解释任何特殊字符。</Desc>
+<ENName>Boiling</ENName>
+<ZHName>沸腾</ZHName>
+<Desc>沸腾是液体的液体，当一种液体被加热到它的沸点的蒸气压力等于受到压力，液体通过对周围环境的压力，温度时发生的快速蒸发。</Desc>
+<ENName>Boiled egg</ENName>
+<ZHName>水煮的蛋</ZHName>
+<Desc>水煮的蛋是鸡蛋 (通常鸡卵) 在与他们的炮弹不间断沸水中浸煮熟。(没有它们的壳水中煮熟的鸡蛋被称为煮鸡蛋，同时低于煮沸的温度，带或不带外壳，煮熟的鸡蛋被称为娇生惯养鸡蛋。)要么煮足够长的卵白，然后蛋黄凝固，或他们是剩热水，冷静下来，这将逐渐固化它们，同时一个半熟的鸡蛋蛋黄，有时甚至至少部分液体的白色，仍然是鸡蛋。</Desc>
+<ENName>Boiled leather</ENName>
+<ZHName>水煮的皮革</ZHName>
+<Desc>水煮的皮革，有时被称为皮色红烧肉是历史建设材料的盔甲。它包括厚皮革、 煮沸的水中。据一些消息来源，水煮油和蜡方面使用了，而其他人断定发酵动物尿液中氨的使用。沸腾导致皮革的但也更脆更难。水煮的皮可以做成跛脚或秤来使层状或缩放的盔甲。皮革灵活短时间后仍然沸腾，从而使其可以被制成较大的盘子。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Frijoles negros</ENName>
+<ZHName>Frijoles 内格罗斯</ZHName>
+<Desc>Frijoles 内格罗斯 (逐字地"黑豆"在西班牙文中） 是有营养的菜用黑豆，准备在古巴、 波多黎各、 墨西哥和拉丁美洲的其他几个国家。黑豆、 菜豆、 物种的一种豆类植物通常以罐装或干形式购买。1 杯干豆产量约 2 杯煮熟的豆。黑豆汤 (内格罗斯所帕 de frijoles) 是另一个常用准备古巴喜爱。</Desc>
+<ENName>Burrito</ENName>
+<ZHName>墨西哥卷饼</ZHName>
+<Desc>墨西哥卷饼 （美国英语/bəˈritoʊ/，buˈrito (help·info))，[1] 是一种类型的墨西哥裔美国食品。它包括包裹或折叠成一个圆柱形状完全括起填补小麦面粉玉米粉圆饼。（相比之下，玉米面豆卷通常被形成通过简单地在周围填充，在打开的半圆的周长的一半折叠玉米粉圆饼。)面粉玉米饼通常轻轻烤或蒸，软化它并使它更柔韧。在墨西哥，肉和炸豆子有时是唯一的馅料。</Desc>
+<ENName>Food Paradise</ENName>
+<ZHName>美食天堂</ZHName>
+<ENName>Vegetarian cuisine</ENName>
+<ZHName>素食菜</ZHName>
+<Desc>素食菜是指满足素食主义者的标准，它不包括肉类和动物组织产品的食品。为 lacto ovo 素食主义 (素食主义在西方世界中的最常见类型），鸡蛋和牛奶和奶酪等奶制品被允许。奶素食主义，为已知最早的素食主义 (在印度录制)、 牛奶、 奶酪等乳制品类型被允许。[1] 的严格形式的素食主义素食主义和 fruitarianism，排除所有的动物产品，包括乳制品，以及蜂蜜，，甚至一些精制糖如果筛选和美白与骨炭。</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Gram flour</ENName>
+<ZHName>克面粉</ZHName>
+<Desc>克面粉，也称为鹰嘴豆面粉、 鹰嘴豆面粉或 besan，是脉冲粉的地面鹰嘴豆。在许多国家中使用，是在印度、 巴基斯坦、 尼泊尔和孟加拉美食主食成分。克面粉可从原始的鹰嘴豆或烤鹰嘴豆。烤的品种就更加美味，在原料品种有略有苦涩味。[] 1</Desc>
+<ENName>Arab cuisine</ENName>
+<ZHName>阿拉伯菜</ZHName>
+<Desc>阿拉伯菜被定义为不同区域的菜式跨越阿拉伯世界，从美索不达米亚到沙特阿拉伯，并纳入岩画、 埃及人和其他传统。</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Lysine</ENName>
+<ZHName>赖氨酸</ZHName>
+<Desc>赖氨酸 (简称 Lys 或 K） [1] 是与化学公式 HO2CCH(NH2) (CH2) 4NH2 α-氨基酸。它是一种基本的氨基酸为人。AAA 和 AAG 赖氨酸的密码子。</Desc>
+<ENName>Poppy seed</ENName>
+<ZHName>罂粟种子</ZHName>
+<Desc>罂粟籽是从鸦片罂粟 (罂粟) 获得油料。微小的肾形种子收获后从干的种子荚各种文明几千年。使用种子，整个或地面，作为一种在许多食物成分和他们按产量 poppyseed 油。</Desc>
+<ENName>Canned</ENName>
+<ZHName>罐头</ZHName>
+<Desc>罐头一词可以参考：</Desc>
+<ENName>Canning</ENName>
+<ZHName>福康宁</ZHName>
+<Desc>福康宁是保存的食物处理和密封在密闭容器中的食物内容的方法。福康宁提供货架期通常从一到五年，虽然在特定情况下它可以更长的时间。冻干的罐头的产品，如罐头干小扁豆，在食用的状态可能会持续长达 30 年。1974 年，由全国食品加工者协会测试是从伯特兰在 1865 年，下沉了汽船击毁的罐头食品样品。虽然外观、 气味和维生素含量已经恶化，没有发现微生物的生长和食物被确定为仍安全食用。[] 1</Desc>
+<ENName>Canned fish</ENName>
+<ZHName>鱼罐头</ZHName>
+<Desc>罐头的鱼就是鱼，处理，在密闭容器里密封罐头，如密封并受到热。福康宁是一种保存食物的方法，并提供典型货架期从一年至五年不等。</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Bangladeshi cuisine</ENName>
+<ZHName>孟加拉国的烹调</ZHName>
+<Desc>学问</Desc>
+<ENName>List of Burmese dishes</ENName>
+<ZHName>缅甸菜的列表</ZHName>
+<Desc>以下是的菜肴在缅甸菜中找到的列表。</Desc>
+<ENName>Falafel</ENName>
+<ZHName>沙拉三明治</ZHName>
+<Desc>沙拉三明治 （/fəˈlɑːfəl/；阿拉伯语： [fæˈlæːfɪl] （倾听） فلافل） 是一种油炸的球或帕蒂从地面鹰嘴豆、 蚕豆、 或两者都作。沙拉三明治是一种传统的中东食品，通常在皮塔饼，其中充当一个口袋或包在面包称为拉法 ； 服务"三明治"还经常指的以这种方式编写一个包装三明治。沙拉三明治球沙拉、 泡菜、 辣椒酱，淋上和下毛毛雨用芝麻酱基础的酱汁。沙拉三明治球也可能吃了单独作为小吃或担任美泽 （开胃菜） 的一部分。</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Israeli cuisine</ENName>
+<ZHName>以色列美食</ZHName>
+<Desc>以色列美食 （希伯来语： המטבח הישראלי 公顷 mitbach 公顷-yisra'eli) 包括由本机向以色列人的本地菜和菜带给以色列的犹太人散居地从。自从成立之前的以色列国于 1948 年，和特别是自上世纪 70 年代末以来，以色列犹太融合菜已经发展了。[] 1</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Gram flour</ENName>
+<ZHName>克面粉</ZHName>
+<Desc>克面粉，也称为鹰嘴豆面粉、 鹰嘴豆面粉或 besan，是脉冲粉的地面鹰嘴豆。在许多国家中使用，是在印度、 巴基斯坦、 尼泊尔和孟加拉美食主食成分。克面粉可从原始的鹰嘴豆或烤鹰嘴豆。烤的品种就更加美味，在原料品种有略有苦涩味。[] 1</Desc>
+<ENName>Bean salad</ENName>
+<ZHName>豆类沙拉</ZHName>
+<Desc>豆类沙拉是一个共同的沙拉盘组成的各种豆子 — — (青豆和黄色蜡豆)，煮熟鹰嘴豆豆，煮芸豆和通常洋葱，辣椒或其他蔬菜，醋汁发酵液中的有时砂糖。一些 bean 沙拉包含大麦、 面食面条或米饭。</Desc>
+<ENName>Chickpea</ENName>
+<ZHName>鹰嘴豆</ZHName>
+<Desc>(鹰嘴豆) 鹰嘴豆是豆科豆科，亚科 Faboideae 的家庭。它的种子很高的蛋白质。它是最早的种植豆科牧草之一： 7,500 岁遗骸被发现在中东地区。[] 1</Desc>
+<ENName>Gram flour</ENName>
+<ZHName>克面粉</ZHName>
+<Desc>克面粉，也称为鹰嘴豆面粉、 鹰嘴豆面粉或 besan，是脉冲粉的地面鹰嘴豆。在许多国家中使用，是在印度、 巴基斯坦、 尼泊尔和孟加拉美食主食成分。克面粉可从原始的鹰嘴豆或烤鹰嘴豆。烤的品种就更加美味，在原料品种有略有苦涩味。[] 1</Desc>
+<ENName>Arab cuisine</ENName>
+<ZHName>阿拉伯菜</ZHName>
+<Desc>阿拉伯菜被定义为不同区域的菜式跨越阿拉伯世界，从美索不达米亚到沙特阿拉伯，并纳入岩画、 埃及人和其他传统。</Desc>
+<ENName>Salt</ENName>
+<ZHName>盐</ZHName>
+<Desc>盐是氯化钠的一种矿物物质组成主要 (NaCl)，一种化合物属于较大类的离子盐 ；作为一种结晶的矿物称为盐岩或岩盐盐以其自然的形式。盐是哪里固体每公升，盐度为 3.5%的主要矿物成分，与大海有约 35 克 (1.2 盎司) 海中大量存在。盐是动物生命的根本，咸味是基本的人类口味之一。动物的组织包含较大数量的盐比做植物组织 ；因此典型的人以他们的羊群和牛群为生的游牧民族饮食要求很少或不加的盐，而谷物基础日粮需要补充。盐是最古老和最广泛的食品调味料之一和盐是一种重要的食品保存方法。</Desc>
+<ENName>Beta-Carotene</ENName>
+<ZHName>Β-胡萝卜素</ZHName>
+<Desc>Β-胡萝卜素 （β-carotine) 是一种丰富的植物和水果的强烈色的橘红色色素。它是一种有机化合物，化学被分类作为烃类和具体反映其派生从异戊二烯单位的萜类 (油页岩)。Β-胡萝卜素是从香叶焦磷酸的合成。[6] 它是胡萝卜素，是 tetraterpenes，由八个异戊二烯单位生化合成，因此也 40 炭的成员。之间这一般类胡萝卜素，β-胡萝卜素被区别有 β-环在分子的两端。胡萝卜素是脂溶性的 β-胡萝卜素的吸收被增强如果用油脂，吃。</Desc>
+<ENName>Marinos Antypas</ENName>
+<ZHName>Marinos Antypas</ZHName>
+<Desc>Marinos Antypas (希腊语： Μαρίνος Αντύπας，1872年 — — 3 月 8，1907年） 是希腊的律师和记者，和该国的第一次社会主义者之一。他生于 Ferentinata，Antypata Pylarou，在入，附近村庄的长子斯皮罗斯 · Antypas 和 Angelin Klada。他有两个兄弟姐妹，Mpampis 和 Adelais。</Desc>
+<ENName>Green bean</ENName>
+<ZHName>绿豆</ZHName>
+<Desc>青豆，也称为四季豆、 豆角在美国东北部和西部或 ejotes 在墨西哥，有各种品种的普通菜豆 (菜豆) 的未成熟果实。[] 1[2] 绿豆品种已选定尤其是为其后、 风味或其荚的甜蜜。</Desc>
+<ENName>Supplemental Nutrition Assistance Program</ENName>
+<ZHName>补充营养援助计划</ZHName>
+<Desc>补充营养援助计划 （SNAP），[1] 原名食品券计划，采购食品的人士提供帮助低收入和无收入生活在美国它是一个联邦援助程序，由美国农业部食品和营养服务 (FNS) 下虽然好处分配每个美国国家社会服务司或儿童和家庭服务。</Desc>
+<ENName>List of Chopped episodes</ENName>
+<ZHName>短切剧集列表</ZHName>
+<Desc>这是食物网络竞争现实系列碎情节的列表。新的情节是在 9 下午和 10 P.M 周二播出。</Desc>
+<ENName>Green bean</ENName>
+<ZHName>绿豆</ZHName>
+<Desc>青豆，也称为四季豆、 豆角在美国东北部和西部或 ejotes 在墨西哥，有各种品种的普通菜豆 (菜豆) 的未成熟果实。[] 1[2] 绿豆品种已选定尤其是为其后、 风味或其荚的甜蜜。</Desc>
+<ENName>Stringbean</ENName>
+<ZHName>青豆</ZHName>
+<Desc>青豆可以参考</Desc>
+<ENName>Poriyal</ENName>
+<ZHName>Poriyal</ZHName>
+<Desc>Poṟiyal (泰米尔语： பொரியல்） 是泰米尔词为油炸或有时炒素菜。卡纳达语单词为同一道菜是 Palya 和泰卢固语，其 Porutu。它通常是由浅层油炸丝或丁的蔬菜和香料。制备通常涉及油炸芥末籽、 乌拉特 dal、 洋葱和主要蔬菜、 和最后添加姜黄，香料、 干红椒糖醋鱼卷和香菜。在泰米尔纳德邦，将作为敷料添加椰丝。</Desc>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc>巧克力我 / ˈtʃɒk (ə) lət 与香草一样，是通常甜，通常棕色，配制食物体系的构建可可树种子，烤和地面，往往味。它是作形式的液体、 糊状或块中或用作调味成分在其他甜的食物。可可树已经种植了许多文化的至少三个几千年来在墨西哥和中美洲。到 Mokaya，使用痕迹可以追溯到公元前 1900 年的巧克力饮料的证据的最早证据。[1] 事实上，大多数中美洲人民作巧克力饮料，其中包括玛雅人和阿兹台克人，[2] 谁把它做成一个称为 xocolātl [ʃoˈkolaːt͡ɬ] 纳瓦特尔语词含义"苦涩水"的饮料。可可树的种子有强烈的苦味，必须发酵开发风味。</Desc>
+<ENName>Glossary of nautical terms</ENName>
+<ZHName>航海术语词汇表</ZHName>
+<Desc>这是航海术语 ； 部分术语表一些保持当前，同时从 17-19 世纪的许多日期。维基词典的航海术语、 类别： 海里条款和航海隐喻在英语中的，请参阅也。请参阅延伸阅读附加的单词和引用的部分。</Desc>
+<ENName>List of Dance Dance Revolution songs</ENName>
+<ZHName>劲舞革命歌曲列表</ZHName>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc>巧克力我 / ˈtʃɒk (ə) lət 与香草一样，是通常甜，通常棕色，配制食物体系的构建可可树种子，烤和地面，往往味。它是作形式的液体、 糊状或块中或用作调味成分在其他甜的食物。可可树已经种植了许多文化的至少三个几千年来在墨西哥和中美洲。到 Mokaya，使用痕迹可以追溯到公元前 1900 年的巧克力饮料的证据的最早证据。[1] 事实上，大多数中美洲人民作巧克力饮料，其中包括玛雅人和阿兹台克人，[2] 谁把它做成一个称为 xocolātl [ʃoˈkolaːt͡ɬ] 纳瓦特尔语词含义"苦涩水"的饮料。可可树的种子有强烈的苦味，必须发酵开发风味。</Desc>
+<ENName>List of Indonesian dishes</ENName>
+<ZHName>印尼菜的列表</ZHName>
+<Desc>这是在印尼菜中找到所选菜的列表。</Desc>
+<ENName>List of snack foods</ENName>
+<ZHName>快餐食品的列表</ZHName>
+<Desc>这是按类型和名称的字母顺序列表的快餐食品。小吃是食物的一小部分的两顿饭之间吃。食物可能是小吃的食物 — — 商品如薯片或小胡萝卜，但可能也只是很少量的食物的任何项目。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Pinto bean</ENName>
+<ZHName>平托豆</ZHName>
+<Desc>平托 bean 是各种常见豆 （菜豆）。这是最常见的 bean 在墨西哥西北部与美国 [1] [2] 并且是最经常吃整个的肉汤或捣碎和 refried。整个或捣碎，它是共同馅的面卷饼。也可能收获年轻豆荚和将其作为绿色斑豆煮熟。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Vegan nutrition</ENName>
+<ZHName>素食营养</ZHName>
+<ENName>Choline</ENName>
+<ZHName>胆碱</ZHName>
+<Desc>胆碱是水溶性必需的营养素。[] 1[] 2[] 3[] 4[5] 它通常分组内复合 B 维生素。胆碱一般指含有 N，N，N-trimethylethanolammonium 阳离子各季铵盐。（在右边 x − 表示未定义的 counteranion）。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Kidney</ENName>
+<ZHName>肾</ZHName>
+<Desc>肾脏的豆形的各机关的服务在脊椎动物中的几个重要的调控作用。他们删除多余的有机分子 （如葡萄糖） 和它通过这一行动是其最著名的函数的执行： 去除代谢的废物产品 (如尿素，虽然 90%的这沿肾单位吸收。)他们在泌尿系统中至关重要，也有助于恒久职能如电解质的规管、 维持 — — 酸碱平衡和调节血压 （通过维持水盐平衡）。他们身体作为天然的筛选器的血液，并删除水可溶性的废物，被转到膀胱。生产尿，肾脏排泄废物如尿素和铵，并且他们也负责水、 葡萄糖和氨基酸的重吸收。肾脏也产生激素，包括骨化三醇、 促红细胞生成素和酶肾素，后者，其中间接行为对肾脏的负面反馈。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Chili con carne</ENName>
+<ZHName>辣子</ZHName>
+<Desc>辣子 ("辣椒用肉"），在美国英语作为只是"红辣椒"，俗称是含辣椒、 肉类 (通常牛肉)、 西红柿和经常豆香辣炖煮的食物。其他调味料可能包括大蒜、 洋葱、 孜然。变异，地理和个人，涉及不同类型的肉和成分。食谱挑起的爱好者，其中一些人坚持认为"红辣椒"一词仅适用于基本盘之间的争端。辣椒是一种常见菜烹饪比赛，并用作其他菜的一个组成部分。</Desc>
+<ENName>Food Paradise</ENName>
+<ZHName>美食天堂</ZHName>
+<ENName>Mujaddara</ENName>
+<ZHName>Mujaddara</ZHName>
+<Desc>Mujaddara (阿拉伯语： مجدرة mujadarah，替代拼法在英语 mejadra、 moujadara、 mudardara、 megadarra) 包括与银币熟扁豆、 一般水稻和上缀着煎洋葱。</Desc>
+<ENName>Iraqi cuisine</ENName>
+<ZHName>伊拉克菜</ZHName>
+<Desc>伊拉克菜或美索不达米亚菜有悠久的历史，回到一些一万年 — — 苏美尔人、 巴比伦人、 亚述人和古代波斯人。[1] 在伊拉克的古代遗址中发现的片显示期间宗教节日 — — 世界第一食谱在寺庙中编写的食谱。[1] 古代伊拉克或美索不达米亚，是复杂和高度发达的文明，在所有领域的知识，包括烹饪艺术的家园。[1] 然而，它是在伊斯兰教的黄金时代时巴格达是资本的阿拔斯王朝哈里发 （750 – 1258) 伊拉克厨房里达到了顶峰。[1] 今天，伊拉克的菜反映了这个富有的继承以及从邻近的波斯、 土耳其和叙利亚地区地区的烹饪传统的强的影响。[] 1</Desc>
+<ENName>List of German dishes</ENName>
+<ZHName>德国菜的列表</ZHName>
+<Desc>下面是菜肴在德国菜中找到的列表。</Desc>
+<ENName>Lentil</ENName>
+<ZHName>小扁豆</ZHName>
+<Desc>小扁豆 (小扁豆） 是一种可食用的脉冲。它是豆科的浓密的年度植物，其透镜形种子种植。它是约 40 公分 (16 英寸) 和种子长在豆荚里，通常与每年的两个种子。</Desc>
+<ENName>Lentil soup</ENName>
+<ZHName>扁豆汤</ZHName>
+<Desc>扁豆汤是指各式各样的素食主义者和肉类汤用扁豆。汤可由绿色、 棕色、 红色、 黄色或黑色小扁豆，有无外壳组成。脱皮的黄色和红色小扁豆瓦解在做饭、 做羹。</Desc>
+<ENName>Lens (genus)</ENName>
+<ZHName>镜头 (属)</ZHName>
+<ENName>Lentil</ENName>
+<ZHName>小扁豆</ZHName>
+<Desc>小扁豆 (小扁豆） 是一种可食用的脉冲。它是豆科的浓密的年度植物，其透镜形种子种植。它是约 40 公分 (16 英寸) 和种子长在豆荚里，通常与每年的两个种子。</Desc>
+<ENName>Cysteine</ENName>
+<ZHName>半胱氨酸</ZHName>
+<ENName>Sprouted bread</ENName>
+<ZHName>发芽的面包</ZHName>
+<Desc>发芽的面包是面包的由获准萌芽，这就是面包的，要发芽的全谷类制成的类型。有几种不同类型的发芽的谷物面包。有些是用添加面粉、 有些由添加面筋、 和等教派的面包，一些用很少的附加成分。</Desc>
+<ENName>Lentil</ENName>
+<ZHName>小扁豆</ZHName>
+<Desc>小扁豆 (小扁豆） 是一种可食用的脉冲。它是豆科的浓密的年度植物，其透镜形种子种植。它是约 40 公分 (16 英寸) 和种子长在豆荚里，通常与每年的两个种子。</Desc>
+<ENName>Low-protein diet</ENName>
+<ZHName>低蛋白饮食</ZHName>
+<Desc>低蛋白饮食是一种饮食的人减少蛋白质的摄入量。低蛋白饮食，医生常常向人民与肾脏或肝脏疾病，或为那些与继承的代谢性疾病，如苯丙酮尿症和高胱氨酸尿症。低蛋白消费似乎改变骨破损，大概是通过钙稳态的变化的风险。[1] 因此，有没有统一的定义构成低蛋白，因为个别患有苯丙酮尿症的蛋白质的量将会极大地从一个不同肾脏疾病的痛苦。</Desc>
+<ENName>Lysine</ENName>
+<ZHName>赖氨酸</ZHName>
+<Desc>赖氨酸 (简称 Lys 或 K） [1] 是与化学公式 HO2CCH(NH2) (CH2) 4NH2 α-氨基酸。它是一种基本的氨基酸为人。AAA 和 AAG 赖氨酸的密码子。</Desc>
+<ENName>Agriculture in Saskatchewan</ENName>
+<ZHName>农业在萨斯喀彻温</ZHName>
+<Desc>萨斯喀彻省农业是生产的各类食品、 饲料、 或纤维商品，以满足国内和国际人类和动物的生存需要。最新的农业经济开发可再生生物燃料的生产或农业生物质，作为乙醇或生物柴油销售中。[1] 植物种植和畜牧业生产已经放弃了自给农业做法而密集技术养殖造成的萨斯喀彻温经济作出贡献的经济作物。生产的特定商品是取决于其特定的生物地理学或萨斯喀彻温地理生态区。多年来已发展的农业技术和活动。第一民族游牧狩猎和采集生活方式和他季部分的土地在没有办法证明了早期移民牛和犁农夫类似于目前农民经营庞大的土地或其助理技术机械化牲畜。[2] 萨斯喀彻温农业的未来所面临的挑战包括制订可持续水资源管理战略，为周期性干旱易受气候的南西部萨斯喀彻温，更新旱作农业技术、 稳定有机定义或协议和决定的增长，或不以成长基因转基因食品。国内和国际上一些大宗商品面临着来自疾病和随后的市场营销问题越来越严格的审查。</Desc>
+<ENName>Biodynamic agriculture</ENName>
+<ZHName>生物动力农业</ZHName>
+<ENName>Low-protein diet</ENName>
+<ZHName>低蛋白饮食</ZHName>
+<Desc>低蛋白饮食是一种饮食的人减少蛋白质的摄入量。低蛋白饮食，医生常常向人民与肾脏或肝脏疾病，或为那些与继承的代谢性疾病，如苯丙酮尿症和高胱氨酸尿症。低蛋白消费似乎改变骨破损，大概是通过钙稳态的变化的风险。[1] 因此，有没有统一的定义构成低蛋白，因为个别患有苯丙酮尿症的蛋白质的量将会极大地从一个不同肾脏疾病的痛苦。</Desc>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>West Cape May, New Jersey</ENName>
+<ZHName>西部海角，新泽西</ZHName>
+<Desc>西角可能是沃尔什法在海角 5 月县，新泽西，美国自治市镇。它是海洋城大都市统计区的一部分。2010 美国人口普查，该市的人口是 1,024，[7] [8] [9] 反映下降了 71 (-6.5%) 从 1,095 在 2000 年的普查计数，这反过来增加了 69 (+6.7%) 从计数在 1990 年人口普查的 1,026.[] 17</Desc>
+<ENName>Monoptilota</ENName>
+<ZHName>Monoptilota</ZHName>
+<Desc>Monoptilota 是一属鼻子飞蛾。它是在 1900 年由 Hulst 描述您的问题。它包含只有一个物种，利马豆藤螟蛾 (Monoptilota pergratialis)，[1]，在美国的中部和南部东部部分中找到。[] 3</Desc>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>Bean</ENName>
+<ZHName>豆</ZHName>
+<Desc>豆/ˈbiːn/是大型植物种子用于人类的食物或动物饲料的几个属豆科 (交替豆科) 家庭的共同名称。</Desc>
+<ENName>Pachyrhizus</ENName>
+<ZHName>红薯</ZHName>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>List of dried foods</ENName>
+<ZHName>干燥食品的列表</ZHName>
+<Desc>干燥是一种除水从食物，抑制细菌的生长，已自古代保存食品世界各地实践的工作原理的食品保鲜的方法。何时何地脱水食品保鲜技术的发明已丢失的时间，但是已知最早的粮食干燥实践是公元前 1.2年万年的现代中东和亚洲地区的居民。[] 1</Desc>
+<ENName>Low-protein diet</ENName>
+<ZHName>低蛋白饮食</ZHName>
+<Desc>低蛋白饮食是一种饮食的人减少蛋白质的摄入量。低蛋白饮食，医生常常向人民与肾脏或肝脏疾病，或为那些与继承的代谢性疾病，如苯丙酮尿症和高胱氨酸尿症。低蛋白消费似乎改变骨破损，大概是通过钙稳态的变化的风险。[1] 因此，有没有统一的定义构成低蛋白，因为个别患有苯丙酮尿症的蛋白质的量将会极大地从一个不同肾脏疾病的痛苦。</Desc>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>Bean</ENName>
+<ZHName>豆</ZHName>
+<Desc>豆/ˈbiːn/是大型植物种子用于人类的食物或动物饲料的几个属豆科 (交替豆科) 家庭的共同名称。</Desc>
+<ENName>Pachyrhizus</ENName>
+<ZHName>红薯</ZHName>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>List of dried foods</ENName>
+<ZHName>干燥食品的列表</ZHName>
+<Desc>干燥是一种除水从食物，抑制细菌的生长，已自古代保存食品世界各地实践的工作原理的食品保鲜的方法。何时何地脱水食品保鲜技术的发明已丢失的时间，但是已知最早的粮食干燥实践是公元前 1.2年万年的现代中东和亚洲地区的居民。[] 1</Desc>
+<ENName>Low-protein diet</ENName>
+<ZHName>低蛋白饮食</ZHName>
+<Desc>低蛋白饮食是一种饮食的人减少蛋白质的摄入量。低蛋白饮食，医生常常向人民与肾脏或肝脏疾病，或为那些与继承的代谢性疾病，如苯丙酮尿症和高胱氨酸尿症。低蛋白消费似乎改变骨破损，大概是通过钙稳态的变化的风险。[1] 因此，有没有统一的定义构成低蛋白，因为个别患有苯丙酮尿症的蛋白质的量将会极大地从一个不同肾脏疾病的痛苦。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bean</ENName>
+<ZHName>豆</ZHName>
+<Desc>豆/ˈbiːn/是大型植物种子用于人类的食物或动物饲料的几个属豆科 (交替豆科) 家庭的共同名称。</Desc>
+<ENName>Organic beans</ENName>
+<ZHName>有机黄豆</ZHName>
+<Desc>有机黄豆生产并没有合成化肥和农药的使用处理。2008 年，2,600,000 英亩 (11,000 km2) 退耕还林是有机认证在美国。[1] 干豆、 豆角、 和大豆分别种植在 16,000 英亩 (65 km2）、 5,200 英亩 (21 km2) 和 98,000 英亩 (400 km2）。[] 2</Desc>
+<ENName>Dare to Be Stupid (song)</ENName>
+<ZHName>敢向是愚蠢 (歌曲)</ZHName>
+<Desc>"敢是愚蠢的"是一首由"怪蜀黍"的原创歌曲。它是 Devo 乐队音乐仿作 （） （或"样式模仿"）。[1] 在采访中对音乐 VH1 的背后，Devo 的标记 Mothersbaugh 所述对这首歌的反应是："在休克。这是我听过的最美的东西。他有点重新雕刻的那首歌变成别的和......我恨他为它，基本上"[] 2[] 3</Desc>
+<ENName>Soup beans</ENName>
+<ZHName>汤豆</ZHName>
+<ENName>Pinto bean</ENName>
+<ZHName>平托豆</ZHName>
+<Desc>平托 bean 是各种常见豆 （菜豆）。这是最常见的 bean 在墨西哥西北部与美国 [1] [2] 并且是最经常吃整个的肉汤或捣碎和 refried。整个或捣碎，它是共同馅的面卷饼。也可能收获年轻豆荚和将其作为绿色斑豆煮熟。</Desc>
+<ENName>Phaseolus lunatus</ENName>
+<ZHName>利马豆</ZHName>
+<ENName>History of Knott's Berry Farm</ENName>
+<ZHName>Knott 的莓果农场的历史</ZHName>
+<Desc>这是不完整的 Knott 的莓果农场游乐园历史直到 1997 年接管了雪松公平的娱乐公司。</Desc>
+<ENName>Knott's Berry Farm</ENName>
+<ZHName>Knott 的莓果农场</ZHName>
+<Desc>Knott 的莓果农场是 160 英亩 (65 公顷) 布纳维斯塔公园，加利福尼亚州雪松公平娱乐公司所拥有的主题公园。自主题公园采集由雪松公平，公园的年度出勤稳步增加。2012 年全球景点出勤报告国家 Knott 的莓果农场是在北美第 14 访问量最高的主题公园。[2] 主题公园内有大约 10000 名季节性/全职雇员。[3] 公园功能 40 项游乐项目包括过山车、 家庭游戏机、 儿童游乐、 水游乐项目和历史的游乐项目，并计划在未来扩大。该公园是可访问的公共交通。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bean</ENName>
+<ZHName>豆</ZHName>
+<Desc>豆/ˈbiːn/是大型植物种子用于人类的食物或动物饲料的几个属豆科 (交替豆科) 家庭的共同名称。</Desc>
+<ENName>Organic beans</ENName>
+<ZHName>有机黄豆</ZHName>
+<Desc>有机黄豆生产并没有合成化肥和农药的使用处理。2008 年，2,600,000 英亩 (11,000 km2) 退耕还林是有机认证在美国。[1] 干豆、 豆角、 和大豆分别种植在 16,000 英亩 (65 km2）、 5,200 英亩 (21 km2) 和 98,000 英亩 (400 km2）。[] 2</Desc>
+<ENName>Sprouting</ENName>
+<ZHName>发芽</ZHName>
+<Desc>发芽发芽种子将被吃生的或煮熟的做法是。发芽的食品有新鲜蔬菜沙拉、 或以其他方式，在任何季节的便捷途径可以在家里发芽或工业生产。他们是突出的生的食物饮食以及常见成分在东部的亚洲美食。发芽还应用于规模大到大麦制麦过程的一部分。消耗原料豆芽潜在缺点是种子萌发的过程也可以有利于有害细菌生长。</Desc>
+<ENName>Sprouted bread</ENName>
+<ZHName>发芽的面包</ZHName>
+<Desc>发芽的面包是面包的由获准萌芽，这就是面包的，要发芽的全谷类制成的类型。有几种不同类型的发芽的谷物面包。有些是用添加面粉、 有些由添加面筋、 和等教派的面包，一些用很少的附加成分。</Desc>
+<ENName>Germinated brown rice</ENName>
+<ZHName>发芽的糙米</ZHName>
+<Desc>发芽糙米 (日语： 発芽玄米 （hatsuga 玄?），朝鲜语： 발아현미 （朝鲜文），發芽玄米 （朝鲜文汉字），帕拉 hyeonmi) 是布朗糙米，主要用作粮食，获准发芽以改变味道，，增加营养物质如 γ-氨基丁酸 (GABA) 的水平。水稻用于日本料理、 韩国料理。</Desc>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Bean</ENName>
+<ZHName>豆</ZHName>
+<Desc>豆/ˈbiːn/是大型植物种子用于人类的食物或动物饲料的几个属豆科 (交替豆科) 家庭的共同名称。</Desc>
+<ENName>Organic beans</ENName>
+<ZHName>有机黄豆</ZHName>
+<Desc>有机黄豆生产并没有合成化肥和农药的使用处理。2008 年，2,600,000 英亩 (11,000 km2) 退耕还林是有机认证在美国。[1] 干豆、 豆角、 和大豆分别种植在 16,000 英亩 (65 km2）、 5,200 英亩 (21 km2) 和 98,000 英亩 (400 km2）。[] 2</Desc>
+<ENName>Organic beans</ENName>
+<ZHName>有机黄豆</ZHName>
+<Desc>有机黄豆生产并没有合成化肥和农药的使用处理。2008 年，2,600,000 英亩 (11,000 km2) 退耕还林是有机认证在美国。[1] 干豆、 豆角、 和大豆分别种植在 16,000 英亩 (65 km2）、 5,200 英亩 (21 km2) 和 98,000 英亩 (400 km2）。[] 2</Desc>
+<ENName>Lovebird</ENName>
+<ZHName>莱博</ZHName>
+<Desc>九-请参阅文本</Desc>
+<ENName>Coffee wastewater</ENName>
+<ZHName>咖啡废水</ZHName>
+<Desc>咖啡废水，也称为咖啡的污水，是咖啡加工的副产品。其处理和处置是污染的一个重要的环境考虑为咖啡加工废水一种形式的工业用水。[] 1</Desc>
+<ENName>Frozen</ENName>
+<ZHName>冻结</ZHName>
+<Desc>冻结 5 月是指：</Desc>
+<ENName>Frozen (2013 film)</ENName>
+<ZHName>冻结 (2013年影片)</ZHName>
+<Desc>冻结 2013年美国 3D 电脑动画音乐幻想-喜剧电影产生由沃尔特 · 迪斯尼动画工作室和释放由沃尔特 · 迪斯尼图片。[4] 它是沃尔特 · 迪斯尼动画经典系列中的第 53 动画的功能。安徒生的童话故事雪女王的启发，这部电影讲述一位设置上史诗般的旅程旁边一个崎岖山路男人他忠诚的宠物驯鹿和一个倒霉的雪人来找她疏远的妹妹，其冰冷的权力并无意中陷入永恒的冬天王国的无畏公主的故事。</Desc>
+<ENName>Frozen (Madonna song)</ENName>
+<ZHName>冻结 (麦当娜歌曲)</ZHName>
+<Desc>"冻结"是一首歌曲由美国歌手麦当娜，从她的第七届工作室专辑光雷 (1998 年)。它被发布了作为主角唯一从册页上 1998 年 2 月 23 日，由特立独行的记录。这首歌也被列入汇编专辑 GHV2 （2001 年） 和庆祝 （2009 年）。由麦当娜和帕特里克 · 莱纳德写的"冻结"，它被生产了威廉轨道与协作。"冻结"音乐构造作为中期节奏电子民谣，谈到冷和没有感情的人。2005 年，在比利时法官裁定"冻结"从一首歌抄袭的塞尔瓦托阿，并最终被禁止从该区域。然而，这项裁决被推翻在 2014 年，比利时解禁对这首歌。在 2009 年，麦当娜比利时 Werchter，在一个展唱起这首歌。</Desc>
+<ENName>Quinoa</ENName>
+<ZHName>藜</ZHName>
+<Desc>奎奴亚藜 (/ ˈkiːnwɑː/或 /kɨˈnoʊ.ə/，西班牙文： 昆诺阿藜，从克丘亚语： kinwa），藜蒿 (藜)，一种是主要为其可食用种子种植谷物作物。它是 pseudocereal，而不是真正的谷物，因为它不是真正的草家庭的成员。作为 chenopod 藜是与物种甜菜根植、 菠菜和野草等密切相关。</Desc>
+<ENName>Chenopodium</ENName>
+<ZHName>藜</ZHName>
+<Desc>请参阅文本</Desc>
+<ENName>Soft diet</ENName>
+<ZHName>软的饮食</ZHName>
+<Desc>机械软饮食建议在很多情况下，包括某些类型的吞咽障碍 （吞咽困难），手术涉及的下巴、 嘴或胃肠道和疼痛从新调整牙科大括号。这种饮食经常混淆软的饮食习惯，正常的饮食，但没有纤维、 五香的食品和高脂肪食品 (有些人可能会调用它轻饮食)。</Desc>
+<ENName>Quinoa</ENName>
+<ZHName>藜</ZHName>
+<Desc>奎奴亚藜 (/ ˈkiːnwɑː/或 /kɨˈnoʊ.ə/，西班牙文： 昆诺阿藜，从克丘亚语： kinwa），藜蒿 (藜)，一种是主要为其可食用种子种植谷物作物。它是 pseudocereal，而不是真正的谷物，因为它不是真正的草家庭的成员。作为 chenopod 藜是与物种甜菜根植、 菠菜和野草等密切相关。</Desc>
+<ENName>Quinoa (album)</ENName>
+<ZHName>奎奴亚藜 (册页)</ZHName>
+<ENName>Quinoa oil</ENName>
+<ZHName>藜油</ZHName>
+<Desc>藜油是从藜藜，安第斯谷类的胚芽中提取植物油和耕地以来至少 3000 B.C.[1] 藜本身作为蛋白质来源，吸引了相当大的兴趣，但从藜派生的油是在其自己的权利感兴趣。藜油是最类似于玉米油、 并具有丰富的必需脂肪酸 (亚油酸和亚麻酸)，亚油酸正在主导。[2] 虽然藜油含有更必需脂肪酸比玉米油。[3] 藜产量平均 5.8%油的重量，相比，玉米 (玉米)，这意味着它有潜在可能用来生产更多的石油比同等重量的玉米的数量为 3-4%。</Desc>
+<ENName>Corn flakes</ENName>
+<ZHName>玉米片</ZHName>
+<ENName>List of Chopped episodes</ENName>
+<ZHName>短切剧集列表</ZHName>
+<Desc>这是食物网络竞争现实系列碎情节的列表。新的情节是在 9 下午和 10 P.M 周二播出。</Desc>
+<ENName>Popcorn</ENName>
+<ZHName>爆米花</ZHName>
+<Desc>爆米花，也称为爆裂玉米是玉米 (玉米、 玉米爆玉米花研究)，从内核扩展并惟有加热时的类型。爆米花是能够流行音乐因为，像苋菜谷物、 高粱、 奎奴亚藜、 和小米，其内核有硬的水分密封船体和密集的淀粉类内政。在内核的迫近和小爆炸 （或"流行"） 是最终的结果。某些株玉米现在是专门作为膨化玉米栽培。</Desc>
+<ENName>Quinoa</ENName>
+<ZHName>藜</ZHName>
+<Desc>奎奴亚藜 (/ ˈkiːnwɑː/或 /kɨˈnoʊ.ə/，西班牙文： 昆诺阿藜，从克丘亚语： kinwa），藜蒿 (藜)，一种是主要为其可食用种子种植谷物作物。它是 pseudocereal，而不是真正的谷物，因为它不是真正的草家庭的成员。作为 chenopod 藜是与物种甜菜根植、 菠菜和野草等密切相关。</Desc>
+<ENName>Peruvian cuisine</ENName>
+<ZHName>秘鲁美食</ZHName>
+<ENName>Chicha de jora</ENName>
+<ZHName>Chicha 德焦拉</ZHName>
+<Desc>Chicha 德焦拉是玉米啤酒 chicha 发芽玉米、 提取麦芽糖、 沸腾，麦汁和其发酵到大型船只 (传统上巨大的陶器桶) 几天编写的。这一进程基本上是为普通啤酒的生产工艺相同。传统上，它是由与焦拉玉米，玉米从安第斯山的一个类型。一些添加藜或其他兼职教授给它的一致性，然后把水煮沸。Chancaca，硬形式的糖 （像甘蔗)，帮助的发酵过程。[] 1</Desc>
+<ENName>Pinto bean</ENName>
+<ZHName>平托豆</ZHName>
+<Desc>平托 bean 是各种常见豆 （菜豆）。这是最常见的 bean 在墨西哥西北部与美国 [1] [2] 并且是最经常吃整个的肉汤或捣碎和 refried。整个或捣碎，它是共同馅的面卷饼。也可能收获年轻豆荚和将其作为绿色斑豆煮熟。</Desc>
+<ENName>Bush Brothers and Company</ENName>
+<ZHName>布什的兄弟和公司</ZHName>
+<ENName>Phaseolus vulgaris</ENName>
+<ZHName>菜豆</ZHName>
+<Desc>菜豆、 菜豆，[2] 的字符串 bean，[3] 字段 bean，[3] 弗拉若莱豆、 [3] 法国豆、 [3] 花园豆、 [3] 扁豆，[3] pop 豆，[3] 或 [3] 豆角是全球为其果实可食用的干种子或未熟的果子，这两个被称为豆玉米种植面积的年度草本植物。叶偶尔地也使用作为一种蔬菜，和一根稻草可以用于饲料。与其他种类的豆属 (绿豆)，它分为植物学豆科 (豆科)，大多数成员获得氮气通过协会与根瘤菌、 固氮的一种细菌。</Desc>
+<ENName>Burrito</ENName>
+<ZHName>墨西哥卷饼</ZHName>
+<Desc>墨西哥卷饼 （美国英语/bəˈritoʊ/，buˈrito (help·info))，[1] 是一种类型的墨西哥裔美国食品。它包括包裹或折叠成一个圆柱形状完全括起填补小麦面粉玉米粉圆饼。（相比之下，玉米面豆卷通常被形成通过简单地在周围填充，在打开的半圆的周长的一半折叠玉米粉圆饼。)面粉玉米饼通常轻轻烤或蒸，软化它并使它更柔韧。在墨西哥，肉和炸豆子有时是唯一的馅料。</Desc>
+<ENName>Tlacoyo</ENName>
+<ZHName>Tlacoyo</ZHName>
+<Desc>Tlacoyo [t͡ɬaˈkoʝo] 是 masa 的椭圆形做油炸或烘烤蛋糕。有些鱼雷形的他们是比新鲜玉米粉圆饼胖和酿炸豆子、 奶酪、 蚕豆、 chicharron 或其他成分。Tlacoyos 通常都作为伴奏汤和炖菜或作为庆祝活动的开胃菜。最传统的 tlacoyos 没有猪油或盐在 masa，和如果不吃煮熟后，立即，他们变得非常艰难，干燥，即使加热。这道菜是类似于萨尔瓦多 pupusa。</Desc>
+<ENName>Sope</ENName>
+<ZHName>Sope</ZHName>
+<Desc>Sope (西班牙发音： [ˈsope]) 是原产于墨西哥，那里它有时第一次被称为 pellizcadas 的中部和南部地区的传统墨西哥菜。它是 antojito，乍一看上去像异常厚饼与蔬菜和肉浇头。该基地是由一圈的油炸马萨的地面玉米与捏边泡在石灰 （作为基础粉蒸肉和玉米饼也使用）。这再淋上 refried 黑豆和崩溃的奶酪、 生菜、 洋葱、 红色或绿色酱 (莎莎，分别作与奇利斯或取)，和酸化奶油。有时还添加其他成分 （主要是肉类） 以创建不同的品味和风格的 sopes。Sopes 大致的一个拳头大小。</Desc>
+<ENName>Burrito</ENName>
+<ZHName>墨西哥卷饼</ZHName>
+<Desc>墨西哥卷饼 （美国英语/bəˈritoʊ/，buˈrito (help·info))，[1] 是一种类型的墨西哥裔美国食品。它包括包裹或折叠成一个圆柱形状完全括起填补小麦面粉玉米粉圆饼。（相比之下，玉米面豆卷通常被形成通过简单地在周围填充，在打开的半圆的周长的一半折叠玉米粉圆饼。)面粉玉米饼通常轻轻烤或蒸，软化它并使它更柔韧。在墨西哥，肉和炸豆子有时是唯一的馅料。</Desc>
+<ENName>Corn burrito</ENName>
+<ZHName>玉米煎饼</ZHName>
+<Desc>玉米饼是墨西哥式菜组成的充满了炸豆子小汇总的玉米饼。填充的玉米粉圆饼是通常油炸，再淋上热酱和奶酪。玉米煎饼是本质上区别的墨西哥卷，一样是那种迷你卷通常充满肉 （牛肉或鸡肉），而玉米卷饼总是充满了炸豆子。虽然玉米卷饼是廉价和容易使，他们通常成本超过了我认为，和这部分要归功于可用性的煎炸油后制备。与不同的肉充 refried 的 bean 灌装容易掉下来热轧的玉米饼，迅速污染的油，然后需要经常清洗和相对频繁更改的其余部分的一侧。</Desc>
+<ENName>Pinto bean</ENName>
+<ZHName>平托豆</ZHName>
+<Desc>平托 bean 是各种常见豆 （菜豆）。这是最常见的 bean 在墨西哥西北部与美国 [1] [2] 并且是最经常吃整个的肉汤或捣碎和 refried。整个或捣碎，它是共同馅的面卷饼。也可能收获年轻豆荚和将其作为绿色斑豆煮熟。</Desc>
+<ENName>Burrito</ENName>
+<ZHName>墨西哥卷饼</ZHName>
+<Desc>墨西哥卷饼 （美国英语/bəˈritoʊ/，buˈrito (help·info))，[1] 是一种类型的墨西哥裔美国食品。它包括包裹或折叠成一个圆柱形状完全括起填补小麦面粉玉米粉圆饼。（相比之下，玉米面豆卷通常被形成通过简单地在周围填充，在打开的半圆的周长的一半折叠玉米粉圆饼。)面粉玉米饼通常轻轻烤或蒸，软化它并使它更柔韧。在墨西哥，肉和炸豆子有时是唯一的馅料。</Desc>
+<ENName>Food Paradise</ENName>
+<ZHName>美食天堂</ZHName>
+<ENName>Vegetarian cuisine</ENName>
+<ZHName>素食菜</ZHName>
+<Desc>素食菜是指满足素食主义者的标准，它不包括肉类和动物组织产品的食品。为 lacto ovo 素食主义 (素食主义在西方世界中的最常见类型），鸡蛋和牛奶和奶酪等奶制品被允许。奶素食主义，为已知最早的素食主义 (在印度录制)、 牛奶、 奶酪等乳制品类型被允许。[1] 的严格形式的素食主义素食主义和 fruitarianism，排除所有的动物产品，包括乳制品，以及蜂蜜，，甚至一些精制糖如果筛选和美白与骨炭。</Desc>
+<ENName>Food Paradise</ENName>
+<ZHName>美食天堂</ZHName>
+<ENName>Burrito</ENName>
+<ZHName>墨西哥卷饼</ZHName>
+<Desc>墨西哥卷饼 （美国英语/bəˈritoʊ/，buˈrito (help·info))，[1] 是一种类型的墨西哥裔美国食品。它包括包裹或折叠成一个圆柱形状完全括起填补小麦面粉玉米粉圆饼。（相比之下，玉米面豆卷通常被形成通过简单地在周围填充，在打开的半圆的周长的一半折叠玉米粉圆饼。)面粉玉米饼通常轻轻烤或蒸，软化它并使它更柔韧。在墨西哥，肉和炸豆子有时是唯一的馅料。</Desc>
+<ENName>List of Thai dishes</ENName>
+<ZHName>泰国菜的列表</ZHName>
+<Desc>这是在泰国菜中找到所选菜的列表。</Desc>
+<ENName>Tofu</ENName>
+<ZHName>豆腐</ZHName>
+<Desc>豆腐，也称为豆腐是凝固的豆浆和成软白块然后按结果酿三宝所作的一种食品。它是许多东亚和东南亚菜肴中的一个组件。[] 3[4] 有许多不同种类的豆腐，以某种方式包括鲜豆腐和已处理的豆腐。豆腐一微妙的风味，可以在咸味和甜味菜肴中使用。它往往是经验丰富或腌制适合这道菜。</Desc>
+<ENName>Agedashi tofu</ENName>
+<ZHName>Agedashi 豆腐</ZHName>
+<ENName>Vitasoy</ENName>
+<ZHName>维他奶</ZHName>
+<Desc>维他奶 (中文: 維他奶;Jyutping: wai4 taa1 naai5） （香港联交所： 0345年) 是一个品牌的饮料和点心在香港。公司成立于 1940 年，它现在下维他奶国际集团有限公司在香港的基础操作。</Desc>
+<ENName>Tofu</ENName>
+<ZHName>豆腐</ZHName>
+<Desc>豆腐，也称为豆腐是凝固的豆浆和成软白块然后按结果酿三宝所作的一种食品。它是许多东亚和东南亚菜肴中的一个组件。[] 3[4] 有许多不同种类的豆腐，以某种方式包括鲜豆腐和已处理的豆腐。豆腐一微妙的风味，可以在咸味和甜味菜肴中使用。它往往是经验丰富或腌制适合这道菜。</Desc>
+<ENName>Taho</ENName>
+<ZHName>Taho</ZHName>
+<ENName>Malaysian cuisine</ENName>
+<ZHName>马来西亚美食</ZHName>
+<Desc>马来西亚美食烹饪传统和做法在马来西亚，东南亚国家中发现由组成，反映了它的人口的多种族构成。[1] 绝大多数马来西亚的人口大致可以划分三个主要民族： 马来人、 华人和印度人。其余部分由土著人民的沙巴和沙捞越在东马来西亚、 马来西亚半岛的原住民、 土生华人和欧亚大陆的克里奥尔人社区，以及大量的外国工人和外籍人士组成。由于历史迁移、 外国列强的殖民化和它的地理位置及其更广泛的首页区域内，在今天的马来西亚的烹饪风格是主要从其马来语、 中国、 印度、 印度尼西亚和族裔婆罗洲的公民与重到轻的影响从泰国、 葡萄牙、 荷兰、 和英国美食-名称到传统的混杂着几个。这导致的口味，使马来西亚美食高度复杂和多样的交响乐。</Desc>
+<ENName>Tofu</ENName>
+<ZHName>豆腐</ZHName>
+<Desc>豆腐，也称为豆腐是凝固的豆浆和成软白块然后按结果酿三宝所作的一种食品。它是许多东亚和东南亚菜肴中的一个组件。[] 3[4] 有许多不同种类的豆腐，以某种方式包括鲜豆腐和已处理的豆腐。豆腐一微妙的风味，可以在咸味和甜味菜肴中使用。它往往是经验丰富或腌制适合这道菜。</Desc>
+<ENName>Aburaage</ENName>
+<ZHName>Aburaage</ZHName>
+<Desc>Aburaage （油揚げ、 油年龄或 aburage?） 是由大豆制成的日本食品产品。它由切割豆腐产生成薄片和深烤第一次在 110 ~ 120，然后又在 180 ~ 200 ° c。油年龄往往用来包装 inari 寿司 (稲荷寿司?)，并添加到味噌汤。它也会添加到乌冬面面条被称为狐乌冬因为狐狸 (狐) 像炸豆腐的传说。Aburaage 可以也被塞满如 nattō 再煎。有较厚的品种称为阿祖-(厚揚げ?) 或农产品市场准入-年龄 (生揚げ?)。</Desc>
+<ENName>Ganmodoki</ENName>
+<ZHName>Ganmodoki</ZHName>
+<Desc>Ganmodoki (がんもどき，雁擬き?) 是由蔬菜、 卵白和芝麻油炸的豆腐油条。Ganmodoki 是指伪鹅 (甘 (がん，雁?) + 伪 (もどき?))。这是因为 ganmodoki 说味道像鹅 ；比较模拟甲鱼汤。Ganmodoki 也称为光为短。[] 1</Desc>
+<ENName>Tofu</ENName>
+<ZHName>豆腐</ZHName>
+<Desc>豆腐，也称为豆腐是凝固的豆浆和成软白块然后按结果酿三宝所作的一种食品。它是许多东亚和东南亚菜肴中的一个组件。[] 3[4] 有许多不同种类的豆腐，以某种方式包括鲜豆腐和已处理的豆腐。豆腐一微妙的风味，可以在咸味和甜味菜肴中使用。它往往是经验丰富或腌制适合这道菜。</Desc>
+<ENName>Veganism</ENName>
+<ZHName>素食主义</ZHName>
+<Desc>素食主义/ˈviːɡənɪzəm/是弃权的动物产品，特别是在饮食，以及拒绝商品状态的众生动物相关哲学之后使用的做法。素食主义的追随者，被称为素食主义者。</Desc>
+<ENName>List of Chopped episodes</ENName>
+<ZHName>短切剧集列表</ZHName>
+<Desc>这是食物网络竞争现实系列碎情节的列表。新的情节是在 9 下午和 10 P.M 周二播出。</Desc>
+<ENName>Beer</ENName>
+<ZHName>啤酒</ZHName>
+<Desc>啤酒是糖的淀粉的含酒精的饮料糖化和由此产生发酵制作的。淀粉和糖化酶往往源自麦芽谷物，最常用麦芽大麦和麦芽小麦。[1] 多数啤酒还如日中天啤酒花，从而添加苦味，并且作为天然防腐剂的作用，虽然其他调味品等草药或水果偶尔可能会包括在内。啤酒的制备称为酿造。</Desc>
+<ENName>Psychostick</ENName>
+<ZHName>Psychostick</ZHName>
+<ENName>Host protected area</ENName>
+<ZHName>宿主保护区</ZHName>
+<ENName>Light beer</ENName>
+<ZHName>淡啤酒</ZHName>
+<ENName>Beer in Scotland</ENName>
+<ZHName>在苏格兰的啤酒</ZHName>
+<Desc>啤酒在苏格兰制作大约 5000 年。[1] 利用苦味草药的凯尔特传统仍然在苏格兰长比欧洲其他国家。大多数啤酒厂开发了在中央的平地，还载有人口的主要中心。爱丁堡和阿洛亚特别是成为了注意到的中心的出口在世界各地的啤酒。在二十世纪结束时，小啤酒厂，苏格兰各地出现了。</Desc>
+<ENName>Low-alcohol beer</ENName>
+<ZHName>低醇啤酒</ZHName>
+<Desc>低醇啤酒 （也称为淡啤酒、 无酒精啤酒、 小啤酒、 小麦芽酒或啤酒附近） 是啤酒的低酒精含量或没有酒精，目的是要重现没有败坏影响的标准酒精酿造啤酒的口味。大多数低醇啤酒是啤酒，但是有一些低酒精啤酒。</Desc>
+<ENName>Table wine</ENName>
+<ZHName>表酒</ZHName>
+<Desc>表酒是葡萄酒的术语，用两个不同的意思： 一种样式的葡萄酒和葡萄酒分类内的质量水平。</Desc>
+<ENName>Wine</ENName>
+<ZHName>红酒</ZHName>
+<Desc>酒是由发酵的葡萄或其他水果制成的酒精饮料。葡萄的天然化学平衡允许它们发酵不添加糖、 酸、 酶、 水或其它营养成分。[1] 酵母消耗葡萄中的糖分，将它们转换成酒精和二氧化碳。不同品种的葡萄和株酵母菌产生不同风格的红酒。知名的变化导致从之间的生化发展水果、 参与发酵、 风土和随后的称谓，并在整个过程中人为干预的反应十分复杂的相互作用。</Desc>
+<ENName>Wine table</ENName>
+<ZHName>酒表</ZHName>
+<Desc>酒-表是促进饭后喝一晚 15 世纪装置、 cabinetmakers 称之为"绅士的社会表"。它始终是狭隘和的半圆或马蹄形式和客人坐在圆形的外圆周。较早和较简单的形状中金属井瓶和冰沉没在表面的表 ；他们都配备黄铜盖子。</Desc>
+<ENName>Margarita</ENName>
+<ZHName>玛格丽塔</ZHName>
+<Desc>缘上盐、 石灰切片</Desc>
+<ENName>Isla Margarita</ENName>
+<ZHName>玛格丽塔岛</ZHName>
+<Desc>玛格丽塔岛 (Isla de 玛格丽塔西班牙发音： [marɣaˈɾita]) 是委内瑞拉州新埃斯帕塔，位于该国在加勒比海东北海岸的最大的岛屿。资本市的新埃斯帕塔，拉亚松森，坐落在岛上。主要产业是旅游业、 渔业和建筑业。</Desc>
+<ENName>Infanta Margarita, Duchess of Soria</ENName>
+<ZHName>公主玛格丽塔的索里亚公爵夫人</ZHName>
+<Desc>巴达霍斯的公爵夫人殿下</Desc>
+<ENName>Vodka</ENName>
+<ZHName>伏特加</ZHName>
+<Desc>伏特加 （波兰语： wódka，俄罗斯： водка） 蒸馏的饮料主要由组成水和乙醇，有时与杂质和香料的痕迹。传统上，伏特加是作蒸馏的酒的醅或土豆，虽然一些现代品牌使用其他物质，如水果或糖。</Desc>
+<ENName>Eric Harris and Dylan Klebold</ENName>
+<ZHName>艾瑞克 · 哈里斯和迪伦 Klebold</ZHName>
+<ENName>List of vodkas</ENName>
+<ZHName>伏特加酒的列表</ZHName>
+<Desc>这是一个列表的伏特加酒品牌。伏特加是蒸馏的饮料主要由组成水和乙醇，有时与杂质和香料的痕迹。伏特加是作如谷物、 土豆、 或有时水果或糖发酵物质的蒸馏。</Desc>
+<ENName>Apple juice</ENName>
+<ZHName>苹果汁</ZHName>
+<Desc>苹果汁是作出了果汁由浸渍和苹果的紧迫。酶法和离心澄清，以消除的淀粉和果胶，其中持有细颗粒悬浮，然后巴氏灭菌的包装的玻璃、 金属或无菌加工系统容器，或进一步治疗到精矿脱水过程可能进一步治疗结果被驱逐的汁。</Desc>
+<ENName>Apple Juice Kid</ENName>
+<ZHName>苹果汁的孩子</ZHName>
+<Desc>斯蒂芬 · 列维京 （aka 苹果汁孩子） 是一个音乐制作人和八次打败战冠军。IStandard NYC 野兽节拍的优胜者，孩子苹果汁的生产一直听到歌曲的 Mos Def，Azealia 银行 [1] [2] 甘文维、 营罗湖 [3] 和 MC Lyte。他已发布了几个爵士乐混音专辑从 Okayplayer 包括迈尔斯戴维斯混音和法兰克辛纳屈混音的支持。</Desc>
+<ENName>Cran-Apple juice</ENName>
+<ZHName>起重机上苹果汁</ZHName>
+<Desc>Cranapple 是一种混合酸果蔓汁和苹果汁由海洋喷雾合作社销售 [1] 的商标。果汁混合销售作为干果类蔓越橘的结合是脂肪饮料中苹果的甜味和胆固醇免费、 低钠和是一个来源的维生素 C.[2] 直到 1963 年，该产品是第一次什么时候开发、 蔓越莓蔓越莓汁和酸果蔓汁主要在感恩节和圣诞节的时间附近的形式在售出。Cranapple 混合帮助蔓越橘变成一个全年的产品。Cranapple 开始一种趋势，其次是其他果汁混合。[] 3</Desc>
+<ENName>Five Alive</ENName>
+<ZHName>五活着</ZHName>
+<Desc>（作为 5 活着程式化） 的五个活着是一线水果果汁混合创建的分钟女佣，可口可乐公司的一个品牌。每个品种包含五个果汁引用的名称。五个活着的口号是目前"感觉活着!"，有标记线的"活过来用 5 活着"在英国，和"五个活着就是清爽的柑橘饮料里，包含你整天都可以享受的五个柑桔类水果的汁液为家庭"在美国。在八十年代，它被促进了华伦鲜花和夫人。</Desc>
+<ENName>Cuisine of Carmarthenshire</ENName>
+<ZHName>菜式的 Carmarthenshire</ZHName>
+<ENName>Arizona Beverage Company</ENName>
+<ZHName>亚利桑那州饮料公司</ZHName>
+<Desc>美国亚利桑那饮料 （通常标记为亚利桑那州） 是各种风味的冰的茶、 果汁鸡尾酒和来自美国，基于在纽约伍德伯里的能量饮料生产商。[] 2</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Jungle juice</ENName>
+<ZHName>丛林果汁</ZHName>
+<Desc>丛林果汁是酒的给予通常服务为集团消费简易组合的名称。[] 1</Desc>
+<ENName>Seneca Foods</ENName>
+<ZHName>塞内卡食品</ZHName>
+<Desc>塞内卡食品公司是一个低成本的食物处理器和经销商总部设在马里恩，纽约，美国。公司主要生产罐头、 冷冻，和瓶装生产下私人标签，以及国家和区域的品牌，该公司拥有或许可。根据与通用磨坊的协议，公司生产的产品的绿巨人和勒苏甜豆标签下。该公司还生产速冻的蔬菜、 水果和芯片产品及钢罐，并运行空气宪章 》 业务。</Desc>
+<ENName>European bullhead</ENName>
+<ZHName>欧洲布尔海德</ZHName>
+<Desc>布尔海德 [1] [2] [3] （科蒂斯 gobio) 是广泛分布于欧洲，主要是在河流的淡水鱼类。它是 Cottidae 家族的一种类型的大头鱼的成员。它也被称为是米勒的拇指、 淡水大头鱼、 共同布尔海德和欧洲的 10 ％。[] 2[] 3</Desc>
+<ENName>Coregonus albula</ENName>
+<ZHName>高白鲑阿尔</ZHName>
+<Desc>高白鲑阿尔，已知 vendace 或作为欧洲思科公司，是一种淡水白鲑鲑科鱼类家族中。它在欧洲北部湖中发现特别是芬兰、 瑞典、 俄罗斯和爱沙尼亚，和联合王国、 北部的德国和波兰的一些湖泊中。它是在芬兰湾和海湾波的尼亚波罗的海的稀释咸淡水中也发现了。[] 2</Desc>
+<ENName>Sharbat</ENName>
+<ZHName>Sharbat</ZHName>
+<Desc>Sharbat 或冰霜 (阿拉伯语： شربات Sharbat ；波斯语/旁遮普语/乌尔都语： شربت Sharbat ；孟加拉文 শরবত Shorbot ；土耳其语： Şerbet ；Azerbaijani:Şərbət） 是最受欢迎的西部和南部亚洲饮料，准备从水果或花瓣。[1] 它是甜和冷冻后饮用。它可以以浓缩的形式送达和用勺子吃或用来创建喝的水稀释。</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>Monster Beverage</ENName>
+<ZHName>怪物饮料</ZHName>
+<Desc>怪物饮料公司生产的能量饮料、 天然饮料和果汁饮料包括怪物能源、 汉森的天然苏打水、 汉森的能源、 汉森的初级果汁、 休伯特的柠檬水，和平茶和蓝蓝的天空。</Desc>
+<ENName>Drink</ENName>
+<ZHName>喝</ZHName>
+<Desc>饮品或饮料，都是专门编写的供人类消费的液体。除了基本的需要，饮料的人类社会文化的一部分。尽管大多数饮料，包括果汁、 软性饮料和碳酸的饮料，在他们 ； 有某种形式的水水本身往往不归类为一种饮料，和 word 饮料已殃及定义为不指水。</Desc>
+<ENName>Pommeau</ENName>
+<ZHName>Pommeau</ZHName>
+<Desc>Pommeau 是由在法国北部卡尔瓦多斯 （苹果白兰地) 与混合苹果汁含酒精饮料。[] 1</Desc>
+<ENName>Apple cider</ENName>
+<ZHName>苹果酒</ZHName>
+<Desc>苹果酒 （也称为甜苹果汁或苹果汁软） 是用于过滤、 不加糖、 非酒精饮料的苹果在美国和加拿大的部分的名称。苹果酒是方便、 价格低廉的产品。[1] 它可能是由于苹果优良微粒悬浮在不透明，可能比常规筛选的苹果汁，根据使用的苹果丹吉尔。[] 2</Desc>
+<ENName>Budweiser (Anheuser-Busch)</ENName>
+<ZHName>百威啤酒 （安海斯-布希）</ZHName>
+<ENName>Miss Budweiser</ENName>
+<ZHName>百威啤酒小姐</ZHName>
+<Desc>小姐百威是由百威啤酒赞助 22 水上飞机。他们都拥有 （有些是租用的备份） 由伯尼小和 （之后他的死亡在 2003 年 4 月），他的小儿子，乔。安海斯-布希公司赞助在 1963 年，由于伯尼，和 (当时) A-B 主席 8 月 Busch 的友谊开始了第三。乔在 2004年赛季，当安海斯-布希领导的变化导致他们结束其 43 非常成功年的赞助后停止赛车。</Desc>
+<ENName>Whassup?</ENName>
+<ZHName>Whassup 吗？</ZHName>
+<Desc>Whassup 吗？是安海斯-布希啤酒从 1999 年到 2002 年的商业活动。[1] 第一现场播出期间 （星期一） 晚足球，1999 年 12 月 20 日。广告宣传运行全世界，并成为了一个流行文化口号。这个词本身是短语的口齿不清怎么回事吗？。</Desc>
+<ENName>Budweiser (Anheuser-Busch)</ENName>
+<ZHName>百威啤酒 （安海斯-布希）</ZHName>
+<ENName>Beer</ENName>
+<ZHName>啤酒</ZHName>
+<Desc>啤酒是糖的淀粉的含酒精的饮料糖化和由此产生发酵制作的。淀粉和糖化酶往往源自麦芽谷物，最常用麦芽大麦和麦芽小麦。[1] 多数啤酒还如日中天啤酒花，从而添加苦味，并且作为天然防腐剂的作用，虽然其他调味品等草药或水果偶尔可能会包括在内。啤酒的制备称为酿造。</Desc>
+<ENName>Anheuser-Busch brands</ENName>
+<ZHName>安海斯-布希品牌</ZHName>
+<ENName>Miller Brewing Company</ENName>
+<ZHName>米勒酿造公司</ZHName>
+<Desc>米勒酿造公司是美国啤酒酿造公司拥有由南非米勒啤酒公司。其区域总部设在威斯康星州密尔沃基市和公司拥有酿造设施在奥尔巴尼，格鲁吉亚 ；威斯康星州奇珀瓦瀑布市 ；伊甸园，北卡罗莱纳州 ；得克萨斯州沃斯堡 ；Irwindale，加利福尼亚;威斯康星州密尔沃基市 ；和特伦顿，俄亥俄州。在 2008 年 7 月 1 日，MillerCoors 公司是建制作为合资企业与竞争对手莫尔森库尔斯，巩固的生产和分销其产品在美国的每个母公司的公司业务和国际业务剩余的单独的和独立的合资企业。股票代号是 SAB.L。</Desc>
+<ENName>Draught beer</ENName>
+<ZHName>鲜啤酒</ZHName>
+<ENName>1992 NASCAR Winston Cup Series</ENName>
+<ZHName>1992 纳斯卡温斯顿杯系列</ZHName>
+<Desc>1992 年纳斯卡温斯顿杯系列赛始于 1992 年 2 月 9 日和 1992 年 11 月 15 日结束。独立所有者/司机 Alan Kulwicki 的 AK 赛车在 NASCAR 历史迄今在 (2011 年) 之后第二个最接近冠军战斗中的温斯顿杯冠军。</Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc>一杯卡布奇诺咖啡 （/ˌkæpəˈtʃiːnoʊ/；意大利语的发音： [kapputˈtʃiːno]) 是意大利咖啡饮料与咖啡、 热牛奶和蒸牛奶泡沫是传统上编写的。名字来自僧天主教方济会，指的他们习惯的颜色。[] 1</Desc>
+<ENName>Suzuki Cappuccino</ENName>
+<ZHName>铃木杯卡布奇诺咖啡</ZHName>
+<Desc>铃木杯卡布奇诺是 2 门、 2 座的小型可拆卸硬顶微型汽车生产的铃木汽车公司。该车辆被旨在满足基车规格为较低的税和保险在日本。只 725 公斤 (1,598 磅)，是由涡轮增压、 三缸、 657 cc DOHC 发动机 （只是在下 660 cc 最大位移允许的 Kei 车) 供电卡布奇诺。它的尺寸也符合长度和宽度，正在 3,295 毫米 (129.7) 长和 1,395 毫米 (54.9 英寸） 宽基汽车法规。</Desc>
+<ENName>Cappuccino (application development framework)</ENName>
+<ZHName>卡布奇诺 (应用程序开发框架)</ZHName>
+<Desc>卡布奇诺是开放源代码应用程序开发框架，为开发 web 应用程序的外观和感觉像上 Mac OS X.卡布奇诺的桌面应用程序由开发的南加利福尼亚大学毕业生旧金山 Tolmasky、 汤姆 · 鲁滨逊和罗斯鲍润石先生还创立了 280 北股份有限公司它主要被针对 web 应用程序开发人员。</Desc>
+<ENName>Balconi</ENName>
+<ZHName>Balconi</ZHName>
+<Desc>Balconi Dolciaria 是一家大型意大利公司专门在生产中取得与海绵蛋糕的蛋糕。作为一个简单手工糕点店，由面点厨师 Michele Balconi 创建成立于 1953 年。Balconi 现在有一家工厂，占地面积 20000 多平方米，拥有员工 120 人，每天生产超过 5,000,000 的产品。</Desc>
+<ENName>Dunkin' Donuts</ENName>
+<ZHName>邓肯甜甜圈</ZHName>
+<Desc>邓肯的甜甜圈是设在小行政区，马萨诸塞州美国全球甜甜圈公司和咖啡馆链。它始建于 1950 年由威廉 · 罗森伯格在昆西，马萨诸塞州。[1] 自成立以来，公司已发展成为一个最大的咖啡和烤商品链在世界 37 个不同国家的 15,000 餐厅。[3] 链已发展到包括超过 1000 多个项目在其菜单上，包括甜甜圈、 面包圈、 其他烘焙食品，和各式各样的热和冰镇饮料。[] 4[] 5</Desc>
+<ENName>Twix</ENName>
+<ZHName>Twix</ZHName>
+<Desc>Twix 是由火星，Inc.，组成的申请与其他糖果浇头和涂层饼干手指巧克力棒 (最频繁焦糖巧克力和牛奶巧克力）。[1] Twix 酒吧的包装内通常成对。</Desc>
+<ENName>Nescafé</ENName>
+<ZHName>雀巢咖啡</ZHName>
+<ENName>Maxwell House</ENName>
+<ZHName>麦斯威尔</ZHName>
+<Desc>麦斯威尔是咖啡的一个牌子由类似命名的卡夫食品公司分工制造的。乔尔脸颊介绍于 1892 年，命名为他新的咖啡混合"麦斯威尔"在麦克斯韦的房子酒店在田纳西州纳什维尔的荣誉。许多年，直到 1980 年代后期，它是在美国的最大卖咖啡。该公司的口号是"到最后一滴，好"，往往纳入他们的标志和在其标签上打印。</Desc>
+<ENName>Frappuccino</ENName>
+<ZHName>星冰乐</ZHName>
+<Desc>星冰乐是由星巴克卖的冰冻的咖啡饮料商标的线。它包括咖啡或加冰其他基成分 （例如，草莓和奶油) 和其他各种成分，通常上面加奶油。Frappuccinos 也是作为瓶装的咖啡饮料在商店和从自动贩卖机出售的。</Desc>
+<ENName>Folgers</ENName>
+<ZHName>点</ZHName>
+<Desc>点咖啡是咖啡的最受欢迎品牌在美国，食品和饮料的杰默公司司的一部分。</Desc>
+<ENName>Official test failures of the 2008 Chinese milk scandal</ENName>
+<ZHName>2008 中国牛奶丑闻的官方测试失败</ZHName>
+<ENName>Coffee</ENName>
+<ZHName>咖啡</ZHName>
+<Desc>咖啡是从烤或烤的几种小粒咖啡属常绿灌木种子准备酿造的饮料。咖啡豆的两个最常见来源是高度被看待的小粒咖啡和胆大的小粒咖啡 canephora 的"罗布斯塔"形式。后者是耐咖啡叶锈病 (Hemileia vastatrix)，但有更多苦涩的味道。在 70 多个国家，主要是在赤道拉丁美洲、 东南亚和非洲咖啡植物耕种。一旦成熟，咖啡"莓果"也会相应地挑选、 处理和干燥后，产量种子内。种子然后被不同程度，根据所需的味道之前正在地面和酿造创建咖啡, 烤。</Desc>
+<ENName>Instant</ENName>
+<ZHName>即时</ZHName>
+<Desc>瞬间是时间，其通道是瞬时时刻一个无穷小的时刻。</Desc>
+<ENName>Instant messaging</ENName>
+<ZHName>即时消息</ZHName>
+<Desc>即时消息 (IM) 是一种类型的在线聊天，在互联网上提供实时文本传输。局域网信使局域网的运作以类似的方式。两党之间，当每个用户选择完成思想，并选择"发送"时通常双向传输短消息。一些 IM 应用程序可以使用推送技术，提供实时文本，传输消息字符，因为它们是由组成。更高级的即时消息可以添加文件传输，可单击超链接，语音 IP 或视频聊天。</Desc>
+<ENName>Instant noodle</ENName>
+<ZHName>方便面</ZHName>
+<Desc>方便面是干或调理的面条块，通常卖用调味粉和/或调味油的数据包。挂面后通常是吃的煮或浸泡在沸水中，虽然可以加热或直接从该数据包吃调理的面条。方便面是由日本日清食品百福安藤发明的。[1] 他们发起了 1958 金拉面的品牌名称。1971 年，日清介绍了杯面，在聚苯乙烯杯子的挂面块。</Desc>
+<ENName>Morangos com Açúcar</ENName>
+<ZHName>Morangos com Açúcar</ZHName>
+<Desc>Morangos com Açúcar (用葡萄牙语，甜草莓作为国际上分发糖草莓） 是葡萄牙青年戏剧。它是于加拿大 tvi 集团之间 2003 年 8 月 30 日至 2012 年 9 月 15 日，葡萄牙电视台每日播出。它也是在安哥拉、 叙利亚、 巴西和罗马尼亚广播。</Desc>
+<ENName>Sugar</ENName>
+<ZHName>糖</ZHName>
+<Desc>糖是甜、 短链、 可溶性碳水化合物，其中许多在食品中使用的广义的名称。他们是碳水化合物，由碳、 氢和氧组成。有各种类型的不同来源的糖。单糖被称为单糖的组成，包括 (也称为葡萄糖) 葡萄糖、 果糖和半乳糖。表或作为食物最惯常使用的砂糖是蔗糖、 双糖。（在正文中，蔗糖酶入果糖和葡萄糖)。其他双糖包括麦芽糖和乳糖。较长的糖链称为低聚糖。不同化学物质也可能有清甜的味道，但不是作为糖分类。一些被用作描述为人工甜味剂的糖的热量较低食品替代品。</Desc>
+<ENName>Sucrose</ENName>
+<ZHName>蔗糖</ZHName>
+<Desc>Β-D-fructofuranosyl-(2→1)-α-D-glucopyranoside ；Β-(2S,3S,4S,5R)-fructofuranosyl-α-(1R,2R,3S,4S,5R)-glucopyranoside ；Α-(1R,2R,3S,4S,5R)-glucopyranosyl-β-(2S,3S,4S,5R)-fructofuranoside</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Balconi</ENName>
+<ZHName>Balconi</ZHName>
+<Desc>Balconi Dolciaria 是一家大型意大利公司专门在生产中取得与海绵蛋糕的蛋糕。作为一个简单手工糕点店，由面点厨师 Michele Balconi 创建成立于 1953 年。Balconi 现在有一家工厂，占地面积 20000 多平方米，拥有员工 120 人，每天生产超过 5,000,000 的产品。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc>巧克力我 / ˈtʃɒk (ə) lət 与香草一样，是通常甜，通常棕色，配制食物体系的构建可可树种子，烤和地面，往往味。它是作形式的液体、 糊状或块中或用作调味成分在其他甜的食物。可可树已经种植了许多文化的至少三个几千年来在墨西哥和中美洲。到 Mokaya，使用痕迹可以追溯到公元前 1900 年的巧克力饮料的证据的最早证据。[1] 事实上，大多数中美洲人民作巧克力饮料，其中包括玛雅人和阿兹台克人，[2] 谁把它做成一个称为 xocolātl [ʃoˈkolaːt͡ɬ] 纳瓦特尔语词含义"苦涩水"的饮料。可可树的种子有强烈的苦味，必须发酵开发风味。</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>List of chocolate bar brands</ENName>
+<ZHName>巧克力品牌列表</ZHName>
+<Desc>这是的巧克力品牌，列表按字母顺序排列。一条巧克力棒是甜点在酒吧形式组成的部分或全部由以下组件构成： 可可粉、 可可脂、 糖、 牛奶。这些组件相对存在形成黑巧克力、 牛奶巧克力和白巧克力的子类。除了这些主要的成分，它可能包含如大豆卵磷脂乳化剂和香料香草等。</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Bread</ENName>
+<ZHName>面包</ZHName>
+<Desc>面包是主食编写一个面团的面粉和水，从通常的烘烤。在历史记录整个已畅销世界各地，并是人类的最古老的食物，有一直以来的农业黎明重要的之一。</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Types of chocolate</ENName>
+<ZHName>类型的巧克力</ZHName>
+<Desc>巧克力是一系列的产品从可可 (可可) 与脂肪 （即，可可脂) 和糖精细粉生产固体糖果混合派生。有几种类型的按比例在某一具体提法中使用可可粉的巧克力。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Margarita</ENName>
+<ZHName>玛格丽塔</ZHName>
+<Desc>缘上盐、 石灰切片</Desc>
+<ENName>Isla Margarita</ENName>
+<ZHName>玛格丽塔岛</ZHName>
+<Desc>玛格丽塔岛 (Isla de 玛格丽塔西班牙发音： [marɣaˈɾita]) 是委内瑞拉州新埃斯帕塔，位于该国在加勒比海东北海岸的最大的岛屿。资本市的新埃斯帕塔，拉亚松森，坐落在岛上。主要产业是旅游业、 渔业和建筑业。</Desc>
+<ENName>Infanta Margarita, Duchess of Soria</ENName>
+<ZHName>公主玛格丽塔的索里亚公爵夫人</ZHName>
+<Desc>巴达霍斯的公爵夫人殿下</Desc>
+<ENName>Martini</ENName>
+<ZHName>马丁尼</ZHName>
+<Desc>马提尼酒可以参考：</Desc>
+<ENName>Mārtiņi</ENName>
+<ZHName>Mārtiņi</ZHName>
+<ENName>MARTINI</ENName>
+<ZHName>马丁尼</ZHName>
+<ENName>Mojito</ENName>
+<ZHName>莫吉托</ZHName>
+<Desc>鲜嫩的薄荷 (芳草地在原始配方)</Desc>
+<ENName>Fire OS</ENName>
+<ZHName>火 OS</ZHName>
+<Desc>火 OS 是其点燃火范围的平板电脑和其他内容交付设备，比如火电视生产的亚马逊的 Android 手机操作系统的叉子。火 OS 主要围绕内容消费，与一个自定义的界面和重关系到可用内容从亚马逊的店面和服务。</Desc>
+<ENName>Mojito (disambiguation)</ENName>
+<ZHName>莫吉托 (消歧)</ZHName>
+<Desc>古巴、 基于朗姆酒鸡尾酒杯鸡尾酒。</Desc>
+<ENName>Margarita</ENName>
+<ZHName>玛格丽塔</ZHName>
+<Desc>缘上盐、 石灰切片</Desc>
+<ENName>GrimGrimoire</ENName>
+<ZHName>GrimGrimoire</ZHName>
+<ENName>Golden Spoon</ENName>
+<ZHName>金勺</ZHName>
+<Desc>金勺是总部设在加利福尼亚与商店位于美国西部，主要在加州、 内华达州和亚利桑那州和国际地点在东京和日本仙台和地铁马尼拉，菲律宾圣玛格丽塔兰乔冷冻的酸奶零售链。[] 1</Desc>
+<ENName>Gin and tonic</ENName>
+<ZHName>杜松子</ZHName>
+<Desc>切片或石灰的楔形</Desc>
+<ENName>Tonic water</ENName>
+<ZHName>补水</ZHName>
+<Desc>奎宁水 (或印度奎宁水) 是碳酸的饮料，在其中溶解奎宁。奎宁水通常最初用作防治疟疾预防性应用，现在已显著较低的奎宁内容和消耗它独特的苦涩味道。它常用的混合饮料，特别是在杜松子。</Desc>
+<ENName>Gin</ENName>
+<ZHName>杜松子酒</ZHName>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc>巧克力我 / ˈtʃɒk (ə) lət 与香草一样，是通常甜，通常棕色，配制食物体系的构建可可树种子，烤和地面，往往味。它是作形式的液体、 糊状或块中或用作调味成分在其他甜的食物。可可树已经种植了许多文化的至少三个几千年来在墨西哥和中美洲。到 Mokaya，使用痕迹可以追溯到公元前 1900 年的巧克力饮料的证据的最早证据。[1] 事实上，大多数中美洲人民作巧克力饮料，其中包括玛雅人和阿兹台克人，[2] 谁把它做成一个称为 xocolātl [ʃoˈkolaːt͡ɬ] 纳瓦特尔语词含义"苦涩水"的饮料。可可树的种子有强烈的苦味，必须发酵开发风味。</Desc>
+<ENName>Melya</ENName>
+<ZHName>Melya</ZHName>
+<ENName>Kit Kat</ENName>
+<ZHName>奇巧</ZHName>
+<ENName>Nutella</ENName>
+<ZHName>Nutella</ZHName>
+<ENName>Philippine cuisine</ENName>
+<ZHName>菲律宾美食</ZHName>
+<Desc>菲律宾菜包括食物、 制备方法及在菲律宾发现的饮食风俗。烹饪风格和与它相关联的食物也形成了许多世纪从南岛起源到混合菜的马来语、 西班牙语、 汉语和美国，以及其他亚洲和拉丁美洲的影响，适应土著成分和本地佳肴。[] 1[] 2[] 3[] 4</Desc>
+<ENName>United States military chocolate</ENName>
+<ZHName>美国军事巧克力</ZHName>
+<Desc>1937 年的原始口粮 D 或 D 配给栏以来军事巧克力标准美国军用口粮的一部分。今天，军事巧克力被发给部队作为外地基本口粮和杂物包的一部分。巧克力口粮达到两个目的： 作为士气，以及高能、 袖珍的紧急口粮。军事巧克力口粮往往是在特别有很多军事规格重量、 大小和耐力。巧克力分发给军事人员绝大多数被生产的好时巧克力公司。</Desc>
+<ENName>Hot chocolate</ENName>
+<ZHName>热巧克力</ZHName>
+<Desc>热巧克力，也称为热可可，是通常由组成的刮的巧克力、 融化的巧克力或可可粉、 热的牛奶或水和糖加热的饮料。热巧克力的区别与熔化的巧克力与一些使粉状，调用前喝巧克力。喝巧克力还有一个特点是较少的甜味和较厚的一致性。[] 1</Desc>
+<ENName>Chocolate</ENName>
+<ZHName>巧克力</ZHName>
+<Desc>巧克力我 / ˈtʃɒk (ə) lət 与香草一样，是通常甜，通常棕色，配制食物体系的构建可可树种子，烤和地面，往往味。它是作形式的液体、 糊状或块中或用作调味成分在其他甜的食物。可可树已经种植了许多文化的至少三个几千年来在墨西哥和中美洲。到 Mokaya，使用痕迹可以追溯到公元前 1900 年的巧克力饮料的证据的最早证据。[1] 事实上，大多数中美洲人民作巧克力饮料，其中包括玛雅人和阿兹台克人，[2] 谁把它做成一个称为 xocolātl [ʃoˈkolaːt͡ɬ] 纳瓦特尔语词含义"苦涩水"的饮料。可可树的种子有强烈的苦味，必须发酵开发风味。</Desc>
+<ENName>Stephen's Gourmet</ENName>
+<ZHName>斯蒂芬的美食</ZHName>
+<Desc>斯蒂芬的美食/ˈstiːvənz/是纵容食品、 法明顿，犹他州的公司和品牌名称的热可可粉它制造，并且在美国各地的商店出售所拥有的美食食品品牌。它是被销售作为优质热可可。主要风味是牛奶巧克力，但斯蒂芬的美食市场中各种风味，包括薄荷、 法国香草、 树莓、 黑巧克力、 榛子、 爱尔兰奶油、 南瓜香料和橙粉。除了热可可，斯蒂芬的美食也卖粉，使即时热山前自有路和苹果酒。</Desc>
+<ENName>Cocoa bean</ENName>
+<ZHName>可可豆</ZHName>
+<Desc>可可豆，还可可豆 [1] 或只是可可 (/ ˈkoʊ.koʊ/) 或可可 (/ kəˈkaʊ/），是热带可可，从中提取可可粉和可可脂的干和全发酵的脂肪肝 bean。[2] 他们是巧克力，以及许多中美洲食品如痣调味汁和 tejate 的基础。</Desc>
+<ENName>Nestlé</ENName>
+<ZHName>雀巢</ZHName>
+<Desc>雀巢 S.A.（法语的发音： [nɛsle] ；英语/ˈnɛsleɪ/，/ˈnɛsli/） 是一家瑞士跨国食品和饮料公司总部设在瑞士的沃韦。它是以收入来衡量世界最大的食品公司。[] 3[] 4</Desc>
+<ENName>Chocolate milk</ENName>
+<ZHName>巧克力牛奶</ZHName>
+<ENName>Swedish cuisine</ENName>
+<ZHName>瑞典美食</ZHName>
+<Desc>由于瑞典的大北-南浩瀚向来有瑞典美食的区域差异。历史上，在遥远的北方，肉类，如驯鹿和其他 (半) 游戏的菜被吃掉，一些，其中有他们的根在萨米文化，而新鲜蔬菜在南方方面发挥更大的作用。许多传统菜肴雇用简单，对比味道，等传统菜肉丸子和尖刻、 辛辣越橘棕色奶油酱果酱 (略有相似的味道酸果蔓汁)。</Desc>
+<ENName>Lecithin</ENName>
+<ZHName>卵磷脂</ZHName>
+<Desc>卵磷脂是一个通用术语，指定任何一组黄色褐色脂肪物质发生在动物和植物组织的磷酸、 胆碱、 脂肪酸、 甘油、 糖脂、 甘油三脂和磷脂 (例如，磷脂酰胆碱、 磷脂酰乙醇胺、 磷脂酰肌醇) 组成。</Desc>
+<ENName>Turkish cuisine</ENName>
+<ZHName>土耳其菜</ZHName>
+<Desc>土耳其菜 （土耳其语： 蒂尔克 mutfağı） 是主要的奥斯曼美食，可以描述为一个融合和细化的中亚、 高加索、 中东、 地中海和巴尔干美食遗产。[] 1[2] 土耳其菜反过来影响了那些和其他邻国的佳肴美食，包括那些西欧。奥斯曼帝国融合与影响中东料理传统突厥元素从中亚地区 （如酸奶)，从其领土的各种烹饪传统创建大量的专长 — — 许多与强区域协会。</Desc>
+<ENName>Coffee</ENName>
+<ZHName>咖啡</ZHName>
+<Desc>咖啡是从烤或烤的几种小粒咖啡属常绿灌木种子准备酿造的饮料。咖啡豆的两个最常见来源是高度被看待的小粒咖啡和胆大的小粒咖啡 canephora 的"罗布斯塔"形式。后者是耐咖啡叶锈病 (Hemileia vastatrix)，但有更多苦涩的味道。在 70 多个国家，主要是在赤道拉丁美洲、 东南亚和非洲咖啡植物耕种。一旦成熟，咖啡"莓果"也会相应地挑选、 处理和干燥后，产量种子内。种子然后被不同程度，根据所需的味道之前正在地面和酿造创建咖啡, 烤。</Desc>
+<ENName>Generic top-level domain</ENName>
+<ZHName>通用顶级域名</ZHName>
+<Desc>通用顶级域名 （gTLD） 是维护由互联网分配编号机构 (IANA) 在互联网域名系统中使用的顶级域名 (Tld) 类别之一。它作为在结束了一个域名后缀是可见的互联网用户。</Desc>
+<ENName>COFFEE (Cinema 4D)</ENName>
+<ZHName>咖啡 (4 D 影院)</ZHName>
+<Desc>咖啡 （通常写为"C.O.F.F.E.E") 是计算机的脚本语言，电影 4 D、 一个专有的 3D 图形应用程序的一部分。虽然作为一个缩写词提出咖啡单词的字母似乎不站在任何东西，但对 Java，大大更著名的计算机语言而是漫画的引用。</Desc>
+<ENName>Coffeemaker</ENName>
+<ZHName>咖啡机</ZHName>
+<Desc>咖啡壶或咖啡机烹饪用具用来煮咖啡。虽然有许多不同类型的咖啡壶中最常见的设备，使用一系列不同的酿造原则，咖啡的理由都放在一个纸或金属过滤漏斗，设置在玻璃或陶瓷咖啡壶、 电水壶家庭中的烹饪锅内。冰冷的水倒进一个单独的房间，然后加热至沸点，并指挥入漏斗。这也称为自动滴灌酿造。</Desc>
+<ENName>Coffee</ENName>
+<ZHName>咖啡</ZHName>
+<Desc>咖啡是从烤或烤的几种小粒咖啡属常绿灌木种子准备酿造的饮料。咖啡豆的两个最常见来源是高度被看待的小粒咖啡和胆大的小粒咖啡 canephora 的"罗布斯塔"形式。后者是耐咖啡叶锈病 (Hemileia vastatrix)，但有更多苦涩的味道。在 70 多个国家，主要是在赤道拉丁美洲、 东南亚和非洲咖啡植物耕种。一旦成熟，咖啡"莓果"也会相应地挑选、 处理和干燥后，产量种子内。种子然后被不同程度，根据所需的味道之前正在地面和酿造创建咖啡, 烤。</Desc>
+<ENName>Coffee preparation</ENName>
+<ZHName>咖啡制备</ZHName>
+<Desc>咖啡制备是咖啡豆变成一种饮料的过程。虽然与咖啡的类型和原材料，会发生变化的具体步骤，该过程包括四个基本步骤 ；必须烘焙原料咖啡豆、 烤的咖啡豆然后必须地面、 地面咖啡必须然后混在一起用的热水 （酿造），一段时间和最后的液体咖啡必须分开使用的理由。</Desc>
+<ENName>Latte</ENName>
+<ZHName>拿铁咖啡</ZHName>
+<Desc>一杯拿铁 (/ ˈlɑːteɪ/或/ˈlæteɪ /) [1] [2] 是作蒸的牛奶和咖啡的咖啡饮料。在英语中使用的期限是一个缩短的意大利佛罗拿铁咖啡或 caffellatte (发音 [ˌkaffelˈlatte])，这意味着"牛奶咖啡"的形式。也有时不正确拼写鲜奶或英语与不同种类的口音，可以是 hyperforeignism lattè 或故意试图帮助客户实现单词不发音作为这种字母组合通常会被解释由母语。</Desc>
+<ENName>Latte art</ENName>
+<ZHName>拿铁咖啡艺术</ZHName>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Espresso</ENName>
+<ZHName>浓咖啡</ZHName>
+<ENName>Latte</ENName>
+<ZHName>拿铁咖啡</ZHName>
+<Desc>一杯拿铁 (/ ˈlɑːteɪ/或/ˈlæteɪ /) [1] [2] 是作蒸的牛奶和咖啡的咖啡饮料。在英语中使用的期限是一个缩短的意大利佛罗拿铁咖啡或 caffellatte (发音 [ˌkaffelˈlatte])，这意味着"牛奶咖啡"的形式。也有时不正确拼写鲜奶或英语与不同种类的口音，可以是 hyperforeignism lattè 或故意试图帮助客户实现单词不发音作为这种字母组合通常会被解释由母语。</Desc>
+<ENName>Espresso machine</ENName>
+<ZHName>咖啡机</ZHName>
+<Desc>咖啡机是一种通过强制压的水近沸点通过"顽童"的咖啡粉和筛选器以生产厚、 浓缩咖啡酿造咖啡称为是的基地，许多传统的意大利咖啡饮料的咖啡设备。</Desc>
+<ENName>Nescafé</ENName>
+<ZHName>雀巢咖啡</ZHName>
+<ENName>Coffee preparation</ENName>
+<ZHName>咖啡制备</ZHName>
+<Desc>咖啡制备是咖啡豆变成一种饮料的过程。虽然与咖啡的类型和原材料，会发生变化的具体步骤，该过程包括四个基本步骤 ；必须烘焙原料咖啡豆、 烤的咖啡豆然后必须地面、 地面咖啡必须然后混在一起用的热水 （酿造），一段时间和最后的液体咖啡必须分开使用的理由。</Desc>
+<ENName>Masala chai</ENName>
+<ZHName>Masala 柴</ZHName>
+<Desc>Masala 柴 (/tʃaɪ/ ；北印度语： मसाला चाय，字面上"混合香料茶"乌尔都语： مصالحہ چاےٴ 尼泊尔语： मसलेदार चिया) 是由酿造红茶与印度香料和药材的混合物作调味的茶饮料。原产于南亚、 饮料获得了世界范围内普及，成为很多的咖啡和茶屋中的一个功能。虽然传统上由汤的绿色小豆蔻荚编写，肉桂棒，地面丁香，地面姜，和黑胡椒和红茶茶叶，零售版本包括茶叶袋输液，即时粉状混合物和精矿。在许多地方，有一种误解"柴"本身是不经过小豆蔻、 姜和其他常用的香料。</Desc>
+<ENName>Cranberry juice</ENName>
+<ZHName>酸果蔓汁</ZHName>
+<Desc>蔓越莓汁是蔓越橘汁。使用它自己上, 一词，通常指一个甜的版本。记住，下面有关糖含量的信息仅适用于的酸果蔓汁甜版本。不加糖的果汁可在许多杂货店和包含每杯约 70 卡热量。</Desc>
+<ENName>Cranberry</ENName>
+<ZHName>小红莓</ZHName>
+<ENName>Cosmopolitan (cocktail)</ENName>
+<ZHName>大都会 (鸡尾酒)</ZHName>
+<Desc>柠檬片、 石灰楔</Desc>
+<ENName>Cranberry juice</ENName>
+<ZHName>酸果蔓汁</ZHName>
+<Desc>蔓越莓汁是蔓越橘汁。使用它自己上, 一词，通常指一个甜的版本。记住，下面有关糖含量的信息仅适用于的酸果蔓汁甜版本。不加糖的果汁可在许多杂货店和包含每杯约 70 卡热量。</Desc>
+<ENName>Drink mixer</ENName>
+<ZHName>饮料搅拌机</ZHName>
+<Desc>饮料搅拌机中混合饮料和鸡尾酒的非 — — 酒精成分。有很多原因使用搅拌机。他们改变或提高风味或添加新的喝一杯。搅拌机稀释的饮料，降低酒精的饮料中的卷。他们可能会使饮料更甜、 更酸，或更美味。一些搅拌机改变纹理或饮料，使它更厚或更稀的一致性。饮料搅拌机可能还严格用于装饰目的通过更改颜色或外观的饮料。</Desc>
+<ENName>List of Chopped episodes</ENName>
+<ZHName>短切剧集列表</ZHName>
+<Desc>这是食物网络竞争现实系列碎情节的列表。新的情节是在 9 下午和 10 P.M 周二播出。</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Cranberry</ENName>
+<ZHName>小红莓</ZHName>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>Baptism</ENName>
+<ZHName>洗礼</ZHName>
+<Desc>洗礼 （从希腊名词 βάπτισμα baptisma ； 见下文） 一般是的入场和通过，[1] 几乎总是使用的水，进基督教教会的基督教仪式 [2]，也是一个特定的教会。[3] 标准福音书报告主耶稣受洗 [4] — — 有高大的把握可以分配到的历史事件。[] 5[] 6[7] 洗礼已被称为圣礼和耶稣基督的条例。在某些宗教社团，洗礼也被称为洗礼，[8] [9]，但为他人"洗礼"一词预留的婴儿洗礼。[] 10</Desc>
+<ENName>Fasting</ENName>
+<ZHName>封斋</ZHName>
+<Desc>斋戒是主要的愿意禁欲或减少某些或所有的食物、 饮料，或从两者的一段时间的行为。为一个已定义，通常一天 （24 小时） 或几天绝对快速通常被定义为从所有的食物和液体禁欲。其他斋可能只有部分限制性，限制特别的食物或药物。快也可能是间歇性的。空腹做法可能妨碍性交和其他活动，以及食物。</Desc>
+<ENName>Anal cleansing</ENName>
+<ZHName>肛门清洗</ZHName>
+<Desc>肛门清洗是清洗肛门，特别是在排便后的卫生实践。</Desc>
+<ENName>Juice</ENName>
+<ZHName>果汁</ZHName>
+<Desc>汁是一种液体自然包含在水果和蔬菜中。它也可以指特色这些或其他生物的食物来源肉类和海鲜等风味的液体。它通常是作为一种饮料消费或用作成分或调味食品中。</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Cooking plantain</ENName>
+<ZHName>烹饪车前草</ZHName>
+<Desc>烹饪车前草或车前草 (/ ˈplæntɨn / [1] [2] 或/plænˈteɪn/； [3] [4] 偶尔美国/ˈplɑːntɨn /) [1] 属其果实打算只后烹煮或其他消耗的穆萨的栽培品种 (品种) 之一处理，而不被吃掉的原料。拍摄还用于使食物和汤在各种美食，还使用了树叶和纤维。</Desc>
+<ENName>Swedish cuisine</ENName>
+<ZHName>瑞典美食</ZHName>
+<Desc>由于瑞典的大北-南浩瀚向来有瑞典美食的区域差异。历史上，在遥远的北方，肉类，如驯鹿和其他 (半) 游戏的菜被吃掉，一些，其中有他们的根在萨米文化，而新鲜蔬菜在南方方面发挥更大的作用。许多传统菜肴雇用简单，对比味道，等传统菜肉丸子和尖刻、 辛辣越橘棕色奶油酱果酱 (略有相似的味道酸果蔓汁)。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Sugar</ENName>
+<ZHName>糖</ZHName>
+<Desc>糖是甜、 短链、 可溶性碳水化合物，其中许多在食品中使用的广义的名称。他们是碳水化合物，由碳、 氢和氧组成。有各种类型的不同来源的糖。单糖被称为单糖的组成，包括 (也称为葡萄糖) 葡萄糖、 果糖和半乳糖。表或作为食物最惯常使用的砂糖是蔗糖、 双糖。（在正文中，蔗糖酶入果糖和葡萄糖)。其他双糖包括麦芽糖和乳糖。较长的糖链称为低聚糖。不同化学物质也可能有清甜的味道，但不是作为糖分类。一些被用作描述为人工甜味剂的糖的热量较低食品替代品。</Desc>
+<ENName>Vitamin C</ENName>
+<ZHName>维生素 C</ZHName>
+<Desc>维生素 C 或 L-抗坏血酸或只是抗坏血酸 (抗坏血酸的阴离子），是为人和某些其他动物物种的重要营养素。维生素 C 是指数量的动物，包括抗坏血酸和及其盐中有维生素 C 活动的 vitamers 和一些氧化形式的像 dehydroascorbic 酸分子。抗坏血酸和抗坏血酸都在正文中自然存在时这些对象之一引入细胞，因为窗体 interconvert 根据 ph 值。</Desc>
+<ENName>Drink mix</ENName>
+<ZHName>喝混合</ZHName>
+<Desc>饮料混合或粉状的饮料混合是一种加工食品产品，旨在与水来生产类似果汁或在味汽水饮料通常混合粉。另一种类型的饮料混合代表必须混合成牛奶的产品。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Rakı</ENName>
+<ZHName>Rakı</ZHName>
+<Desc>Rakı （土耳其语： rakı，[1] 希腊： τσίπουρο，奥斯曼土耳其： راقى，发出音的 [ɾaˈkɯ]) 是不加糖、 茴香味含酒精的饮料，是流行在希腊、 土耳其和巴尔干国家作为开胃。它往往被服务与海鲜或小菜。它是类似于几个其他含酒精饮料可用周围地中海和中东地区，例如帕斯、 狮头、 茴香酒、 阿拉和 aguardiente。它被考虑作为国家含酒精的饮料和克里特岛的土耳其，[2]。</Desc>
+<ENName>Rice milk</ENName>
+<ZHName>大米牛奶</ZHName>
+<ENName>Brennivín</ENName>
+<ZHName>Brennivín</ZHName>
+<Desc>Brennivín (冰岛语的发音： [ˈprɛnːɪvin]) 是明确的、 不加糖的蒸馏酒，被认为是冰岛的签名蒸馏饮料。它是最受欢迎的冰岛酒和射击，特别场合酒精和 Þorrablót 的冬季中期盛宴的传统饮料。它是由发酵的谷物或马铃薯饲料和香菜、 小茴香、 当归和其他的植物成分特色风味。浸泡草药中创建杜松子酒的酒精是斯堪的纳维亚国家长期持有的民俗传统。Brennivín 味道独特的具有类似于伏特加或斯堪的纳维亚白兰地。这通常是在 80 证明瓶装的。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>柠檬水是砂糖的柠檬味饮料。在世界不同地区，有饮料和其名称的变化。此外编写了粉红色柠檬水和冷冻的柠檬水。柠檬替换出石灰的柠檬。</Desc>
+<ENName>Jell-O</ENName>
+<ZHName>果冻</ZHName>
+<Desc>果冻是属于基于伊利诺伊州卡夫食品品种的明胶的甜点，包括果实凝胶、 布丁和无烘烤奶油馅饼的品牌名称。该品牌的大众化导致"果冻"成为在美国和加拿大的明胶甜点的通用术语。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Kool-Aid</ENName>
+<ZHName>酷爱</ZHName>
+<Desc>酷爱是调味的饮料组合由卡夫食品公司拥有的品牌。</Desc>
+<ENName>Iced tea</ENName>
+<ZHName>冰的茶</ZHName>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Iced tea</ENName>
+<ZHName>冰的茶</ZHName>
+<ENName>Cooking plantain</ENName>
+<ZHName>烹饪车前草</ZHName>
+<Desc>烹饪车前草或车前草 (/ ˈplæntɨn / [1] [2] 或/plænˈteɪn/； [3] [4] 偶尔美国/ˈplɑːntɨn /) [1] 属其果实打算只后烹煮或其他消耗的穆萨的栽培品种 (品种) 之一处理，而不被吃掉的原料。拍摄还用于使食物和汤在各种美食，还使用了树叶和纤维。</Desc>
+<ENName>Orange drink</ENName>
+<ZHName>橙汁饮料</ZHName>
+<Desc>词橙饮料是指甜、 含糖、 有时碳酸、 橙味饮料。</Desc>
+<ENName>Ribena</ENName>
+<ZHName>前</ZHName>
+<Desc>前 (/ raɪˈbiːnə/ry-蜜蜂-nə) 是英语原产地品牌水果为基础的 uncarbonated、 碳酸饮料和水果饮料浓缩液，直到 2013 年由葛兰素史克公司制作。在 2013 年 9 月 9 日宣布前已经购买了由日本多国三得利。[] 1</Desc>
+<ENName>Nutritious fruits</ENName>
+<ZHName>营养丰富的水果</ZHName>
+<Desc>某些水果是比其他人更有营养。不同水果具有不同的营养素。例如，猕猴桃和桔子很高的维生素 C.甜菜根植有抗氧化剂，可以帮助防止癌症。</Desc>
+<ENName>Energy drink</ENName>
+<ZHName>能量饮料</ZHName>
+<Desc>能量饮料是一种类型的饮料含有刺激性药物，主要是咖啡因，作为提供心理和生理刺激销售。他们可能或不可能碳酸，许多人还包含糖或其他甜味剂、 草本精华和氨基酸。他们是一个大集团的能源产品，其中包括酒吧和凝胶的子集。有很多的品牌和品种的能量饮料。</Desc>
+<ENName>List of energy drinks</ENName>
+<ZHName>能量饮料的列表</ZHName>
+<Desc>以下是显著的能量饮料，与几个咖啡变形和一些软性饮料，如可口可乐、 山露水的列表和百事可乐所列进行比较，并以不同的颜色标记。咖啡、 茶叶中的咖啡因含量而异，如何被烘焙咖啡豆，除其他因素。</Desc>
+<ENName>Red Bull</ENName>
+<ZHName>红牛</ZHName>
+<Desc>红牛是由创建于 1987 年的奥地利公司红牛 GmbH，卖能量饮料。市场份额红牛是在世界上，在 2013 年售出 53 亿 8700 万罐与最高卖的能量饮料。[] 1[] 2[] 3[] 4</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Arizona Beverage Company</ENName>
+<ZHName>亚利桑那州饮料公司</ZHName>
+<Desc>美国亚利桑那饮料 （通常标记为亚利桑那州） 是各种风味的冰的茶、 果汁鸡尾酒和来自美国，基于在纽约伍德伯里的能量饮料生产商。[] 2</Desc>
+<ENName>Gatorade</ENName>
+<ZHName>佳得乐</ZHName>
+<ENName>Arizona Beverage Company</ENName>
+<ZHName>亚利桑那州饮料公司</ZHName>
+<Desc>美国亚利桑那饮料 （通常标记为亚利桑那州） 是各种风味的冰的茶、 果汁鸡尾酒和来自美国，基于在纽约伍德伯里的能量饮料生产商。[] 2</Desc>
+<ENName>The Coca-Cola Company</ENName>
+<ZHName>可口可乐公司</ZHName>
+<Desc>可口可乐公司是美国跨国饮料公司和制造商、 零售商和非酒精性饮料主剂和糖浆，营销总部位于乔治亚州的亚特兰大。[2] 本公司是最出名的是其旗舰产品可口可乐，由药剂师约翰 · 芙彭伯顿在哥伦布，格鲁吉亚于 1886 年发明的。[3] 的可口可乐配方和品牌是注册可口可乐公司成立于 1892 年由 Asa Griggs 坎德勒 (1851 年 12 月 30 日-1929 年 3 月 12 日），1889 年买的。公司经营专营的分销系统从 1889 年约会哪里可口可乐公司只生产糖浆浓缩，然后卖给各装瓶厂在世界各地持有一个专属的领土。可口可乐公司拥有其锚装瓶厂在北美，可口可乐茶点。</Desc>
+<ENName>Coca-Cola</ENName>
+<ZHName>可口可乐</ZHName>
+<Desc>可口可乐公司是在商店、 餐馆和在世界各地的自动售卖机出售的碳酸的饮料。[1] 它由乔治亚州亚特兰大市的可口可乐公司生产和通常简称为焦炭 (1944 年 3 月 27 日以来，美国可口可乐公司的注册商标）。当它由约翰 · 彭伯顿发明于 19 世纪后期的本意作为一种专利药，可口可乐是买下了由 Asa Griggs 坎德勒，其营销策略导致焦炭的整个 20 世纪的世界软性饮料市场支配地位的商人。</Desc>
+<ENName>Relentless (drink)</ENName>
+<ZHName>Relentless （饮料）</ZHName>
+<ENName>Full Throttle (drink)</ENName>
+<ZHName>全油门 （饮料）</ZHName>
+<Desc>全油门是 (通过其引信饮料子公司) 可口可乐公司生产的能量饮料品牌。它在美国和加拿大首次亮相在 2004 年年底。众所周知是为其赞助的全国热棒协比赛从 2008 年到 2012 年。</Desc>
+<ENName>Sparks (drink)</ENName>
+<ZHName>火花 (饮料)</ZHName>
+<Desc>"火花是革新者和创造者的能量啤酒。类别不真的存在之前的火花出来"。</Desc>
+<ENName>Monster Energy</ENName>
+<ZHName>怪物能源</ZHName>
+<Desc>常规： 定期 （绿色），罗湖 Carb、 古巴利马，绝对零、 Übermonster、 殴打，Khaos，M-80、 导入、 M3、 超： 超蓝、 超红、 零超、 Java 怪物： 失水当代艺术馆、 科纳卡布奇诺、 科纳混合、 香草光、 爱尔兰混合，意思是 Bean、 太妃糖、 肌肉怪物： 巧克力、 香草、 咖啡、 草莓、 额外的力量： 超级干燥、 反重力、 黑色的冰，康复中心： 绿茶，粉红色的柠檬水，Rojo、 茶 + 柠檬水，橘子水</Desc>
+<ENName>List of WordGirl characters</ENName>
+<ZHName>WordGirl 字符的列表</ZHName>
+<ENName>French motorcycle Grand Prix</ENName>
+<ZHName>法国摩托车格兰披治大赛车</ZHName>
+<Desc>大奖赛怪物能源法国是一个越野电单车的事件，是世界摩托车赛车季节的一部分。</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>List of Chopped episodes</ENName>
+<ZHName>短切剧集列表</ZHName>
+<Desc>这是食物网络竞争现实系列碎情节的列表。新的情节是在 9 下午和 10 P.M 周二播出。</Desc>
+<ENName>Punch (drink)</ENName>
+<ZHName>拳 (饮料)</ZHName>
+<Desc>通常果汁和其他饮料搅拌机、 （可选） 用酒精。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Jelly Belly</ENName>
+<ZHName>果冻的肚子</ZHName>
+<ENName>Persimmon</ENName>
+<ZHName>甜柿</ZHName>
+<Desc>请参阅文本</Desc>
+<ENName>Strawberry</ENName>
+<ZHName>草莓</ZHName>
+<Desc>花园草莓 （或只是草莓 /ˈstrɔːb (ə) ri /;草莓 × 草莓) 是草莓 （统称为草莓) 属广泛种植的杂交物种。它是世界各地栽培的它的果实。水果 （这不是一种植物的浆果，而聚合的配件水果) 是广泛赞赏其特征香气、 色泽红亮、 多汁的质感和甜蜜。它被消耗量大，新鲜或作为蜜饯、 果汁、 馅饼、 冰淇淋、 奶昔、 巧克力这种准备的食品中。人工草莓香气还广泛应用于许多工业食品产品。</Desc>
+<ENName>Juice Plus</ENName>
+<ZHName>果汁加</ZHName>
+<Desc>果汁加号 + 是品牌的线的膳食补充剂含有浓缩的水果和蔬菜汁提取物添加的维生素和营养物质。它是由天然替代品国际的圣马科斯，加利福尼亚州，产生为国家安全关联 (NSA ；科里尔维尔，田纳西）。1993 年，介绍了 [2] 补充剂由国家安全局分发通过多级营销。</Desc>
+<ENName>Punch (drink)</ENName>
+<ZHName>拳 (饮料)</ZHName>
+<Desc>通常果汁和其他饮料搅拌机、 （可选） 用酒精。</Desc>
+<ENName>List of Spanish dishes</ENName>
+<ZHName>西班牙菜的列表</ZHName>
+<Desc>这是在西班牙菜中找到的菜肴的列表。米色颜色中的条目指示泛型食品的种类。</Desc>
+<ENName>Service à la russe</ENName>
+<ZHName>服务 à la 罗素</ZHName>
+<Desc>服务 à la 罗素 (法国、"俄罗斯风格的服役") 是 a 方式的用餐，它涉及课程按顺序被带到表。</Desc>
+<ENName>Punch (drink)</ENName>
+<ZHName>拳 (饮料)</ZHName>
+<Desc>通常果汁和其他饮料搅拌机、 （可选） 用酒精。</Desc>
+<ENName>Jones Soda</ENName>
+<ZHName>琼斯苏打水</ZHName>
+<Desc>琼斯苏打水有限公司是一家饮料公司设在华盛顿州西雅图市先锋广场。它装瓶，并分发软性饮料、 非碳酸饮料、 能量饮料和糖果。琼斯苏打水是有许多不寻常的风味，不由其他软性饮料生产商提供的碳酸的饮料。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Ice cream</ENName>
+<ZHName>冰淇淋</ZHName>
+<Desc>冰淇淋 （从早些时候冰奶油或奶油 ice[1]) 派生是冰冻的甜点通常由乳制品，如牛奶和奶油，往往与水果或其他配料和口味相结合。品种最多包含糖，虽然有些由其他甜味剂。在某些情况下，人工香料和色素使用补充或取代的天然成分。空房成分的混合物是慢慢搅拌，冷却，将纳入空气并防止大冰晶体形成。其结果是顺利带纹理的半固体泡沫，具有可塑性，可以铲起。</Desc>
+<ENName>Sorbet</ENName>
+<ZHName>果汁冰糕</ZHName>
+<Desc>果汁冰糕/sɔrˈbeɪ/是冰冻的甜点： 由加糖调味水 （通常水果果汁或果泥、 酒，和/或利口酒）。</Desc>
+<ENName>Rainbow sherbet</ENName>
+<ZHName>彩虹果子露</ZHName>
+<Desc>彩虹果子露是冰冻的甜点，用在冰淇淋、 牛奶和糖 ； 基金会然而，果子露还混合了冷冻的加糖的果汁、 水，其中可能包含牛奶、 蛋清和/或明胶、 橙、 覆盆子、 石灰、 柠檬或菠萝风味。果子露经常被吃的一顿饭，课程之间作为它可以帮助清洁口感。</Desc>
+<ENName>Ice cream soda</ENName>
+<ZHName>冰淇淋苏打水</ZHName>
+<ENName>Ice cream</ENName>
+<ZHName>冰淇淋</ZHName>
+<Desc>冰淇淋 （从早些时候冰奶油或奶油 ice[1]) 派生是冰冻的甜点通常由乳制品，如牛奶和奶油，往往与水果或其他配料和口味相结合。品种最多包含糖，虽然有些由其他甜味剂。在某些情况下，人工香料和色素使用补充或取代的天然成分。空房成分的混合物是慢慢搅拌，冷却，将纳入空气并防止大冰晶体形成。其结果是顺利带纹理的半固体泡沫，具有可塑性，可以铲起。</Desc>
+<ENName>Sundae</ENName>
+<ZHName>圣代</ZHName>
+<ENName>Ice cream</ENName>
+<ZHName>冰淇淋</ZHName>
+<Desc>冰淇淋 （从早些时候冰奶油或奶油 ice[1]) 派生是冰冻的甜点通常由乳制品，如牛奶和奶油，往往与水果或其他配料和口味相结合。品种最多包含糖，虽然有些由其他甜味剂。在某些情况下，人工香料和色素使用补充或取代的天然成分。空房成分的混合物是慢慢搅拌，冷却，将纳入空气并防止大冰晶体形成。其结果是顺利带纹理的半固体泡沫，具有可塑性，可以铲起。</Desc>
+<ENName>Ice cream soda</ENName>
+<ZHName>冰淇淋苏打水</ZHName>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Coca-Cola Vanilla</ENName>
+<ZHName>可口可乐香草</ZHName>
+<Desc>可口可乐香草是在本世纪初推出的可口可乐软性饮料香草味的版本。2003 年百事可乐推出了其版百事可乐香草，香草可乐与竞争。这是 2002 年推出，但随后在 2006 年，在北美和英国停止但仍然可用作为喷泉饮料在那段时间。它重新推出了在美国在 2007 年和在英国在 2013 年。可口可乐公司宣布它将限量版在英国，然而由于强劲的销售，它现在住在英国饮料市场上内, 成为一个永久的味道。</Desc>
+<ENName>Diet soda</ENName>
+<ZHName>饮食苏打水</ZHName>
+<Desc>饮食苏打水 (或者销售作为无糖或零卡路里） 通常是无糖、 人工加糖和不含酒精的碳酸的饮料。他们一般销往健康意识的人、 糖尿病患者、 运动员和其他人想要减肥、 改善体质、 或减少糖分的摄入。</Desc>
+<ENName>Aja (album)</ENName>
+<ZHName>阿金 (册页)</ZHName>
+<Desc>阿金 (/ ˈeɪʒə/，像亚洲发音） 是第六届册页由爵士摇滚乐队存活。它最初发布在 1977 年对 ABC 的记录，成为了集团的畅销专辑。锐化在英国第 5 号和号 3 美国图表上，它是乐队的第一次的白金唱片，最终卖出超过 500 万份 [引证需要]。在 1978 年 7 月，专辑获得格莱美奖工程的最佳非古典录音。2003 年，专辑名列第 145 辗压石头"500 最伟大专辑的所有时间"列表上。有时认为是录音的高保真音响爱好者，由于其优良的生产。[引证需要]</Desc>
+<ENName>Coca-Cola Vanilla</ENName>
+<ZHName>可口可乐香草</ZHName>
+<Desc>可口可乐香草是在本世纪初推出的可口可乐软性饮料香草味的版本。2003 年百事可乐推出了其版百事可乐香草，香草可乐与竞争。这是 2002 年推出，但随后在 2006 年，在北美和英国停止但仍然可用作为喷泉饮料在那段时间。它重新推出了在美国在 2007 年和在英国在 2013 年。可口可乐公司宣布它将限量版在英国，然而由于强劲的销售，它现在住在英国饮料市场上内, 成为一个永久的味道。</Desc>
+<ENName>Dr Pepper</ENName>
+<ZHName>胡椒博士</ZHName>
+<Desc>Dr Pepper 是碳酸的软饮料销售作为具有独特的风味。饮料是在 1880 年由查尔斯 · 奥尔德顿在得克萨斯州韦科创建和先到先得大约 1885 年。胡椒博士被第一次全国性销售在美国在 1904 年，并且现在卖在欧洲、 亚洲、 加拿大、 墨西哥、 澳大利亚、 新西兰 （作为进口饮料）、 南非 （也作为进口饮料） 和南美洲。变种包括版本，不用高果糖玉米糖浆、 胡椒饮食博士，以及一线的额外的口味，在本世纪初首次推出。</Desc>
+<ENName>Smith Electric Vehicles</ENName>
+<ZHName>史密斯电动车辆</ZHName>
+<Desc>史密斯电动汽车 （也称为史密斯的） 是零排放的商业电动汽车的制造商。该公司成立于 1920 年在英格兰北部，但在 2011 年它的总部迁往堪萨斯城，密苏里州</Desc>
+<ENName>Coca-Cola Vanilla</ENName>
+<ZHName>可口可乐香草</ZHName>
+<Desc>可口可乐香草是在本世纪初推出的可口可乐软性饮料香草味的版本。2003 年百事可乐推出了其版百事可乐香草，香草可乐与竞争。这是 2002 年推出，但随后在 2006 年，在北美和英国停止但仍然可用作为喷泉饮料在那段时间。它重新推出了在美国在 2007 年和在英国在 2013 年。可口可乐公司宣布它将限量版在英国，然而由于强劲的销售，它现在住在英国饮料市场上内, 成为一个永久的味道。</Desc>
+<ENName>Will It Blend?</ENName>
+<ZHName>它会融吗？</ZHName>
+<ENName>Dr Pepper</ENName>
+<ZHName>胡椒博士</ZHName>
+<Desc>Dr Pepper 是碳酸的软饮料销售作为具有独特的风味。饮料是在 1880 年由查尔斯 · 奥尔德顿在得克萨斯州韦科创建和先到先得大约 1885 年。胡椒博士被第一次全国性销售在美国在 1904 年，并且现在卖在欧洲、 亚洲、 加拿大、 墨西哥、 澳大利亚、 新西兰 （作为进口饮料）、 南非 （也作为进口饮料） 和南美洲。变种包括版本，不用高果糖玉米糖浆、 胡椒饮食博士，以及一线的额外的口味，在本世纪初首次推出。</Desc>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc>一杯卡布奇诺咖啡 （/ˌkæpəˈtʃiːnoʊ/；意大利语的发音： [kapputˈtʃiːno]) 是意大利咖啡饮料与咖啡、 热牛奶和蒸牛奶泡沫是传统上编写的。名字来自僧天主教方济会，指的他们习惯的颜色。[] 1</Desc>
+<ENName>List of coffee beverages</ENName>
+<ZHName>咖啡饮料的列表</ZHName>
+<Desc>这是咖啡的饮料，列表，涵盖了各种类型的显著咖啡饮料。</Desc>
+<ENName>Vietnamese iced coffee</ENName>
+<ZHName>越南冰咖啡</ZHName>
+<Desc>越南冰咖啡，也称为 Ca phe da 或咖啡馆 da （越南语： cà phê đá，字面上"冰咖啡") 是一个传统的越南咖啡食谱。</Desc>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Farmers Union Iced Coffee</ENName>
+<ZHName>农民联盟冰咖啡</ZHName>
+<Desc>农民联盟冰咖啡是在澳大利亚，主要的南澳大利亚州最受欢迎的调味的牛奶饮料。它继续被卖"农民联盟"的旗帜下，最初南澳大利亚合作，国家食品，随后上市的公司，然后通过一系列的日本麒麟啤酒公司的子公司。当前制造商的公司名称是狮子乳制品及饮料。</Desc>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc>一杯卡布奇诺咖啡 （/ˌkæpəˈtʃiːnoʊ/；意大利语的发音： [kapputˈtʃiːno]) 是意大利咖啡饮料与咖啡、 热牛奶和蒸牛奶泡沫是传统上编写的。名字来自僧天主教方济会，指的他们习惯的颜色。[] 1</Desc>
+<ENName>Coffee cabinet</ENName>
+<ZHName>咖啡柜</ZHName>
+<Desc>咖啡内阁是发现在罗德岛和东南马萨诸塞州组成的咖啡冰淇淋、 咖啡糖浆和牛奶几乎完全基于冰淇淋饮料。在喝搅拌器或奶昔搅拌器的混合配料。[] 1</Desc>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc>一杯卡布奇诺咖啡 （/ˌkæpəˈtʃiːnoʊ/；意大利语的发音： [kapputˈtʃiːno]) 是意大利咖啡饮料与咖啡、 热牛奶和蒸牛奶泡沫是传统上编写的。名字来自僧天主教方济会，指的他们习惯的颜色。[] 1</Desc>
+<ENName>Farmers Union Iced Coffee</ENName>
+<ZHName>农民联盟冰咖啡</ZHName>
+<Desc>农民联盟冰咖啡是在澳大利亚，主要的南澳大利亚州最受欢迎的调味的牛奶饮料。它继续被卖"农民联盟"的旗帜下，最初南澳大利亚合作，国家食品，随后上市的公司，然后通过一系列的日本麒麟啤酒公司的子公司。当前制造商的公司名称是狮子乳制品及饮料。</Desc>
+<ENName>Cappuccino</ENName>
+<ZHName>卡布奇诺咖啡</ZHName>
+<Desc>一杯卡布奇诺咖啡 （/ˌkæpəˈtʃiːnoʊ/；意大利语的发音： [kapputˈtʃiːno]) 是意大利咖啡饮料与咖啡、 热牛奶和蒸牛奶泡沫是传统上编写的。名字来自僧天主教方济会，指的他们习惯的颜色。[] 1</Desc>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>List of coffee beverages</ENName>
+<ZHName>咖啡饮料的列表</ZHName>
+<Desc>这是咖啡的饮料，列表，涵盖了各种类型的显著咖啡饮料。</Desc>
+<ENName>Iced tea</ENName>
+<ZHName>冰的茶</ZHName>
+<ENName>Long Island Iced Tea</ENName>
+<ZHName>长岛冰茶</ZHName>
+<Desc>长岛冰茶是一种含酒精的混合饮料，用其他成分、 伏特加酒、 杜松子酒、 龙舌兰酒和朗姆酒。最受欢迎的版本与 1 零件酸混合和飞溅的可乐，给喝冰茶作为同一琥珀色相混合相等的部分伏特加、 杜松子酒、 龙舌兰酒、 朗姆酒、 三秒。大多数变种使用相等的酒，主要的部分，但包括较小的三秒 （或其他橙味利口酒） 量。接近的变形经常替换柠檬果汁酸混合、 替换实际的冰茶、 可乐或添加白色的悬念德人们致敬 ；然而，大多数变种不包括任何茶，尽管饮料的名称。一些餐馆用替代龙舌兰酒的白兰地。</Desc>
+<ENName>Iced tea (disambiguation)</ENName>
+<ZHName>冰的茶 (消歧)</ZHName>
+<Desc>冰的茶是凉茶饮料。</Desc>
+<ENName>Iced tea</ENName>
+<ZHName>冰的茶</ZHName>
+<ENName>Peace Iced Tea</ENName>
+<ZHName>和平冰茶</ZHName>
+<Desc>和平冰茶 （通常标记为和平茶） 是由怪物饮料公司生产的各式冰的茶饮料的品牌。在 2009 年 12 月 21 日推出的产品。和平茶不包含人工香料或着色，虽然它不会包含的人工甜味剂三氯蔗糖。唯一的味道，不来包括三氯蔗糖是不加糖的茶 （也作为高茶品牌），但它在 2012 年初停止了。和平茶在 23 盎司罐，早餐，分布在美国。</Desc>
+<ENName>American tea culture</ENName>
+<ZHName>美国茶文化</ZHName>
+<Desc>美国茶文化包含的制备方法和手段的茶文化的美国范围内消费。</Desc>
+<ENName>Iced tea</ENName>
+<ZHName>冰的茶</ZHName>
+<ENName>Arizona Beverage Company</ENName>
+<ZHName>亚利桑那州饮料公司</ZHName>
+<Desc>美国亚利桑那饮料 （通常标记为亚利桑那州） 是各种风味的冰的茶、 果汁鸡尾酒和来自美国，基于在纽约伍德伯里的能量饮料生产商。[] 2</Desc>
+<ENName>Arnold Palmer (drink)</ENName>
+<ZHName>阿诺德 · 帕尔默 (饮料)</ZHName>
+<ENName>Sweet Leaf Tea Company</ENName>
+<ZHName>甜叶茶叶公司</ZHName>
+<Desc>克莱顿克里斯托弗 ·</Desc>
+<ENName>Malaysian cuisine</ENName>
+<ZHName>马来西亚美食</ZHName>
+<Desc>马来西亚美食烹饪传统和做法在马来西亚，东南亚国家中发现由组成，反映了它的人口的多种族构成。[1] 绝大多数马来西亚的人口大致可以划分三个主要民族： 马来人、 华人和印度人。其余部分由土著人民的沙巴和沙捞越在东马来西亚、 马来西亚半岛的原住民、 土生华人和欧亚大陆的克里奥尔人社区，以及大量的外国工人和外籍人士组成。由于历史迁移、 外国列强的殖民化和它的地理位置及其更广泛的首页区域内，在今天的马来西亚的烹饪风格是主要从其马来语、 中国、 印度、 印度尼西亚和族裔婆罗洲的公民与重到轻的影响从泰国、 葡萄牙、 荷兰、 和英国美食-名称到传统的混杂着几个。这导致的口味，使马来西亚美食高度复杂和多样的交响乐。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>Orange juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是指的桔子汁。它是由由挤新鲜橙色，由干燥和稍后重新保湿汁，或浓度的果汁和水以后加入浓缩。它是已知其健康福利，特别是其高浓度的维生素 c。它在几个不同的品种，包括血橙中来。在美国英语俚语，橙汁可能也用于指的桔子汁。</Desc>
+<ENName>Orange juice (disambiguation)</ENName>
+<ZHName>橙汁 (消歧)</ZHName>
+<Desc>桔子汁通常指索取挤压橙色的果汁。</Desc>
+<ENName>The Orange Juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是由苏格兰后朋克乐队橙汁 1984年专辑。这是他们最后的工作室 LP。标题是天鹅绒地下同名的第三张专辑致敬。</Desc>
+<ENName>Cranberry juice</ENName>
+<ZHName>酸果蔓汁</ZHName>
+<Desc>蔓越莓汁是蔓越橘汁。使用它自己上, 一词，通常指一个甜的版本。记住，下面有关糖含量的信息仅适用于的酸果蔓汁甜版本。不加糖的果汁可在许多杂货店和包含每杯约 70 卡热量。</Desc>
+<ENName>Cranberry</ENName>
+<ZHName>小红莓</ZHName>
+<ENName>Cosmopolitan (cocktail)</ENName>
+<ZHName>大都会 (鸡尾酒)</ZHName>
+<Desc>柠檬片、 石灰楔</Desc>
+<ENName>Grape</ENName>
+<ZHName>葡萄</ZHName>
+<Desc>葡萄是落叶木本藤蔓植物属葡萄的果浆果。葡萄可以生吃，或者他们可以用于制酒、 果酱、 果汁、 果冻、 葡萄籽提取物、 葡萄干、 醋和葡萄籽油。葡萄是水果的一种非更年期类型，一般发生在群集中。</Desc>
+<ENName>Meier's Wine Cellars</ENName>
+<ZHName>Meier 的酒窖</ZHName>
+<ENName>Juice (The Grapes album)</ENName>
+<ZHName>果汁 (葡萄册页)</ZHName>
+<Desc>果汁是从乔治亚州的亚特兰大乐队葡萄的活册页。发布 1997 年 8 月 12 日，是集团的最终专辑。</Desc>
+<ENName>Grapefruit juice</ENName>
+<ZHName>葡萄柚汁</ZHName>
+<ENName>Grapefruit–drug interactions</ENName>
+<ZHName>葡萄柚-药物相互作用</ZHName>
+<ENName>CYP3A4</ENName>
+<ZHName>CYP3A4</ZHName>
+<Desc>1TQN、 1W0E、 1W0F、 1W0G、 2J0D、 2V0M、 3NXU</Desc>
+<ENName>Latte</ENName>
+<ZHName>拿铁咖啡</ZHName>
+<Desc>一杯拿铁 (/ ˈlɑːteɪ/或/ˈlæteɪ /) [1] [2] 是作蒸的牛奶和咖啡的咖啡饮料。在英语中使用的期限是一个缩短的意大利佛罗拿铁咖啡或 caffellatte (发音 [ˌkaffelˈlatte])，这意味着"牛奶咖啡"的形式。也有时不正确拼写鲜奶或英语与不同种类的口音，可以是 hyperforeignism lattè 或故意试图帮助客户实现单词不发音作为这种字母组合通常会被解释由母语。</Desc>
+<ENName>Latte art</ENName>
+<ZHName>拿铁咖啡艺术</ZHName>
+<ENName>Iced coffee</ENName>
+<ZHName>冰的咖啡</ZHName>
+<Desc>冰的咖啡是咖啡冷变形。冰拿铁咖啡和冰的摩卡是例子。</Desc>
+<ENName>Masala chai</ENName>
+<ZHName>Masala 柴</ZHName>
+<Desc>Masala 柴 (/tʃaɪ/ ；北印度语： मसाला चाय，字面上"混合香料茶"乌尔都语： مصالحہ چاےٴ 尼泊尔语： मसलेदार चिया) 是由酿造红茶与印度香料和药材的混合物作调味的茶饮料。原产于南亚、 饮料获得了世界范围内普及，成为很多的咖啡和茶屋中的一个功能。虽然传统上由汤的绿色小豆蔻荚编写，肉桂棒，地面丁香，地面姜，和黑胡椒和红茶茶叶，零售版本包括茶叶袋输液，即时粉状混合物和精矿。在许多地方，有一种误解"柴"本身是不经过小豆蔻、 姜和其他常用的香料。</Desc>
+<ENName>Kendall Hart</ENName>
+<ZHName>肯德尔哈特</ZHName>
+<Desc>肯德尔哈特 · 斯莱特 (以前 Lang） 是一个虚构人物从美国白天戏剧所有我的孩子。该字符被刻画莎拉米歇尔后盖从 1993 年至 1995 年，由和艾丽西娅 Minshew 从 2002 年起直到显示系列总决赛于 2011 年 9 月 23 日。2013 年 3 月 7 日，它宣布 Minshew 将特邀明星上展望公园继续进行的所有我的孩子。她出现在第二个 7 月 8 的情节，和退出的同一天。[] 1</Desc>
+<ENName>Balconi</ENName>
+<ZHName>Balconi</ZHName>
+<Desc>Balconi Dolciaria 是一家大型意大利公司专门在生产中取得与海绵蛋糕的蛋糕。作为一个简单手工糕点店，由面点厨师 Michele Balconi 创建成立于 1953 年。Balconi 现在有一家工厂，占地面积 20000 多平方米，拥有员工 120 人，每天生产超过 5,000,000 的产品。</Desc>
+<ENName>Weight management</ENName>
+<ZHName>体重管理</ZHName>
+<Desc>体重管理是一个长期的方法到健康的生活方式。它包括健康饮食和体育锻炼将等同于能量消耗与能量摄入的平衡。发展健康的饮食习惯，同时使用将会使我们更充分地时间更长的提示可以体重管理的有用工具。知道你的身体需要什么是重要的体重管理和可以控制过度消费和食品的消费。</Desc>
+<ENName>Dunkin' Donuts</ENName>
+<ZHName>邓肯甜甜圈</ZHName>
+<Desc>邓肯的甜甜圈是设在小行政区，马萨诸塞州美国全球甜甜圈公司和咖啡馆链。它始建于 1950 年由威廉 · 罗森伯格在昆西，马萨诸塞州。[1] 自成立以来，公司已发展成为一个最大的咖啡和烤商品链在世界 37 个不同国家的 15,000 餐厅。[3] 链已发展到包括超过 1000 多个项目在其菜单上，包括甜甜圈、 面包圈、 其他烘焙食品，和各式各样的热和冰镇饮料。[] 4[] 5</Desc>
+<ENName>List of coffee beverages</ENName>
+<ZHName>咖啡饮料的列表</ZHName>
+<Desc>这是咖啡的饮料，列表，涵盖了各种类型的显著咖啡饮料。</Desc>
+<ENName>New England Coffee</ENName>
+<ZHName>新英格兰咖啡</ZHName>
+<Desc>新英格兰咖啡是新英格兰的最大的独立专业咖啡焙烧炉。[1] 成立于 1916 年 [2] 由 Menelaos Kaloyanides、 乔治 · Kaloyanides 和 Megaklis 帕帕佐普洛斯马萨诸塞州波士顿市。业务被收购新奥尔良基于 Reily 食品公司 2013 年 12 月 30 日。[] 3</Desc>
+<ENName>Coffee</ENName>
+<ZHName>咖啡</ZHName>
+<Desc>咖啡是从烤或烤的几种小粒咖啡属常绿灌木种子准备酿造的饮料。咖啡豆的两个最常见来源是高度被看待的小粒咖啡和胆大的小粒咖啡 canephora 的"罗布斯塔"形式。后者是耐咖啡叶锈病 (Hemileia vastatrix)，但有更多苦涩的味道。在 70 多个国家，主要是在赤道拉丁美洲、 东南亚和非洲咖啡植物耕种。一旦成熟，咖啡"莓果"也会相应地挑选、 处理和干燥后，产量种子内。种子然后被不同程度，根据所需的味道之前正在地面和酿造创建咖啡, 烤。</Desc>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>柠檬水是砂糖的柠檬味饮料。在世界不同地区，有饮料和其名称的变化。此外编写了粉红色柠檬水和冷冻的柠檬水。柠檬替换出石灰的柠檬。</Desc>
+<ENName>Lemonade (Alexandra Stan song)</ENName>
+<ZHName>柠檬水 (亚历山德拉斯坦歌曲)</ZHName>
+<ENName>Lemonade (Gucci Mane song)</ENName>
+<ZHName>柠檬水 (Gucci 鬃毛歌曲)</ZHName>
+<Desc>"柠檬水"是由美国说唱歌手，Gucci Mane 从他的第二个工作室专辑 Radric 戴维斯 vs.国家的第三个官方单。单在 2009 年 12 月被发布了，和被制作的孟加拉国。这首歌的主题事项涉及非法出售可待因注入的柠檬水，艺术家为黄色或柠檬色描述所有的所得：</Desc>
+<ENName>Limeade</ENName>
+<ZHName>柠檬</ZHName>
+<Desc>柠檬是一饮料类似于柠檬水，但石灰汁或石灰味） 而不是柠檬。最大的饮料公司现在提供他们自己的品牌的柠檬，总长 Barr plc 的格拉斯哥和纽曼的自己 2004 年以来，与分钟女佣甚至引入樱桃柠檬饮料柠檬的大众化响应等。[] 1</Desc>
+<ENName>Lime (fruit)</ENName>
+<ZHName>石灰 (果子)</ZHName>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>柠檬水是砂糖的柠檬味饮料。在世界不同地区，有饮料和其名称的变化。此外编写了粉红色柠檬水和冷冻的柠檬水。柠檬替换出石灰的柠檬。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>List of Coca-Cola brands</ENName>
+<ZHName>可口可乐品牌的列表</ZHName>
+<Desc>由可口可乐公司拥有 （完全或部分） 的所有品牌的列表： [1] [2]</Desc>
+<ENName>Hawaiian Punch</ENName>
+<ZHName>夏威夷拳</ZHName>
+<Desc>夏威夷拳是水果拳饮料含果汁 5%[1] 博士辣椒果汁过活集团股份有限公司 （DPS） 所拥有的品牌。[] 2[] 3[] 4[5] 它是在 1934 年由创建 A.W.利奥、 汤姆耶茨、 拉尔夫 · 哈里森作为在富勒顿分校，加州 ； 转换后的车库打顶冰淇淋客户后来发现它作吸引人喝酒时与水混合。他们成立了太平洋夏威夷生产的饮料产品。R.J.雷诺兹烟草公司买了太平洋夏威夷于 1962 年。宝洁公司收买夏威夷拳打从德尔蒙特食品，自旋从 RJR 纳贝斯克在 1989 年，1990 年。宝洁公司出售夏威夷拳给吉百利施韦普斯在 1999 年。在 2008 年从吉百利施韦普斯剥离了博士辣椒果汁过活。</Desc>
+<ENName>Toronto Pearson International Airport</ENName>
+<ZHName>多伦多皮尔逊国际机场</ZHName>
+<Desc>客运</Desc>
+<ENName>Jet Fuel Formula</ENName>
+<ZHName>喷气燃料配方</ZHName>
+<Desc>喷气燃料公式是第一个和最长的洛基和韩国故事弧。（喷气燃料配方涵盖四十个情节，虽然平均故事弧包括大约十六岁。）此外值得注意的是，因为它建立的人物、 主题、 正在运行的堵嘴和其他元素，将在以后的故事被雇用和，会变得如此密切洛基和 Bullwinkle 的程序在年中查明以来大部分。第一次几个情节所载笑轨道，情节获释作为一部分岩石 &amp;amp; Bullwinkle &amp;amp; 朋友完整赛季 1 的时候被去除。</Desc>
+<ENName>Asphalt concrete</ENName>
+<ZHName>沥青混凝土</ZHName>
+<Desc>沥青混凝土 （俗称的沥青、 [2] 柏油路或路面在北美地区和在英国的停机坪） 是复合材料常用的表面道路、 停车场和机场。它包括矿料装订在一起沥青、 在图层中，奠定了和碾压。这一进程是提炼和增强比利时发明者和美国移民爱德华德 Smedt。[3] 它越来越多地被用于作为核心的土石坝。[] 4</Desc>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>柠檬水是砂糖的柠檬味饮料。在世界不同地区，有饮料和其名称的变化。此外编写了粉红色柠檬水和冷冻的柠檬水。柠檬替换出石灰的柠檬。</Desc>
+<ENName>Old Orchard Brands</ENName>
+<ZHName>老果园品牌</ZHName>
+<Desc>老果园品牌，LLC 是私人拥有的果汁公司，坐落在斯巴达，密歇根州。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>M.I.L.K</ENName>
+<ZHName>M.I.L.K</ZHName>
+<ENName>Milk (film)</ENName>
+<ZHName>牛奶 (影片)</ZHName>
+<Desc>牛奶是基于生命的同性恋权利活动家和政治家哈维 · 米尔克，是第一次公开的同性恋人到公共办公室在加利福尼亚州，当选的旧金山监事成员的 2008年美国传记电影。导演格斯 · 范 · 桑特和由达斯汀兰斯黑写，电影明星作为牛奶的西恩 · 潘和乔什布洛林作为城市的主管人员暗杀牛奶丹 · 怀特。影片发布大获好评，从电影评论和行会获得众多荣誉。最终，它收到八个奥斯卡奖提名，包括最佳的图片，赢得两个为最佳的演员在主导作用的佩恩和最佳原著剧本为黑色。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Tuscan Dairy Farms</ENName>
+<ZHName>托斯卡纳奶牛场</ZHName>
+<Desc>托斯卡纳奶牛场是设在纽约大都会地区，由院长食品拥有奶牛。</Desc>
+<ENName>Dairy</ENName>
+<ZHName>奶制品</ZHName>
+<Desc>奶牛是为收获供人食用的动物牛奶 — — 大多来自牛或羊，但从水牛、 绵羊、 马或骆驼 — — 建立一家企业。奶牛通常位于专用的奶牛场或感到关切的是多用途农场与牛奶的收获节上。</Desc>
+<ENName>Butterfat</ENName>
+<ZHName>乳脂</ZHName>
+<Desc>乳脂率是牛奶的脂肪部分。根据它们所包含的乳脂量常常出售牛奶和奶油。</Desc>
+<ENName>Milk</ENName>
+<ZHName>牛奶</ZHName>
+<Desc>牛奶是一种白色液体产生的哺乳动物的乳腺。在他们能够消化食物的其他类型之前是为年轻的哺乳动物营养的主要来源。早期泌乳牛奶中含有牛初乳，运载到婴儿母亲的抗体，可以减少许多疾病的婴儿的风险。它还包含许多其他营养素。[] 1</Desc>
+<ENName>Fat content of milk</ENName>
+<ZHName>牛奶的脂肪含量</ZHName>
+<ENName>Powdered milk</ENName>
+<ZHName>奶粉</ZHName>
+<Desc>牛奶粉或奶粉是由蒸发干燥牛奶制造乳制品产品。干燥牛奶的目的之一是要保留它 ；奶粉已远较长的保质期比液态奶、 不需要冷藏，由于其低水分含量。另一个目的是减少其体积为经济的交通工具。奶粉和乳制品包括干全脂奶、 脱脂奶粉、 干白脱牛奶、 干乳清产品和干乳制品混合等项目。许多乳制品出口符合食品标准法典中规定的标准。</Desc>
+<ENName>Blotto (biology)</ENName>
+<ZHName>(生物学) 布洛托</ZHName>
+<ENName>Milk manufacturing marketing adjustment</ENName>
+<ZHName>牛奶制造营销调整</ZHName>
+<Desc>在美国的农业政策，使津贴 （或牛奶制造市场调整） 是政府支持价格为牛奶和黄油、 脱脂牛奶和奶酪的商品信贷公司 (CCC) 购买价格之间的边距。</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Super Milk Chan</ENName>
+<ZHName>超级牛奶陈</ZHName>
+<Desc>超级奶陈展，已知在日本作为哦 ！超级奶陈 (哦! スーパーミルクチャン，哦 ！Sūpā Miruku-陈?)，是动漫喜剧是一个满嘴脏话女孩名叫牛奶体育陈委托的总统的一切捍卫世界，即使她可以做很少除了流行文化的引用。它美国的口号，因此，成为了"健康吗？也许不是。对你有好处吗？肯定"</Desc>
+<ENName>Churning (butter)</ENName>
+<ZHName>翻腾 (黄油)</ZHName>
+<Desc>是翻腾的动摇了奶油 (或全脂牛奶) 做黄油，过程和各种形式的黄油改动已用于目的。在欧洲从中世纪，直到工业革命，这是一般简单，每桶与柱塞在它，而用手搬。后来，机械手段的翻腾通常会被替换。</Desc>
+<ENName>Grandaddy</ENName>
+<ZHName>爷爷在</ZHName>
+<Desc>爷爷在是加州莫德斯托，在 1992 年成立于美国的摇滚乐队。乐队由杰森莱特尔 (声乐、 吉他、 键盘)、 凯文 · 加西亚 (低音吉他)、 亚伦 Burtch (桶)、 费尔柴尔德吉姆 (吉他)、 蒂姆 · 莱顿 （键盘） 组成。[] 2</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Cocoa bean</ENName>
+<ZHName>可可豆</ZHName>
+<Desc>可可豆，还可可豆 [1] 或只是可可 (/ ˈkoʊ.koʊ/) 或可可 (/ kəˈkaʊ/），是热带可可，从中提取可可粉和可可脂的干和全发酵的脂肪肝 bean。[2] 他们是巧克力，以及许多中美洲食品如痣调味汁和 tejate 的基础。</Desc>
+<ENName>The Fabulous Chi-Ali</ENName>
+<ZHName>神话般的志-阿里</ZHName>
+<Desc>神话般的志-阿里是第一次和只专辑由说唱志-阿里，母语的成员。</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Different Strokes (The Nite-Liters album)</ENName>
+<ZHName>不同笔画 （尼特升专辑)</ZHName>
+<Desc>不同笔画是诞生的路易斯维尔，肯塔基州集团尼特-升，器乐合奏衍生出来的新第四张专辑。发表于 1972 年在 RCA 的记录上。由导师哈维福库产生。</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>List of chocolate bar brands</ENName>
+<ZHName>巧克力品牌列表</ZHName>
+<Desc>这是的巧克力品牌，列表按字母顺序排列。一条巧克力棒是甜点在酒吧形式组成的部分或全部由以下组件构成： 可可粉、 可可脂、 糖、 牛奶。这些组件相对存在形成黑巧克力、 牛奶巧克力和白巧克力的子类。除了这些主要的成分，它可能包含如大豆卵磷脂乳化剂和香料香草等。</Desc>
+<ENName>List of coffee beverages</ENName>
+<ZHName>咖啡饮料的列表</ZHName>
+<Desc>这是咖啡的饮料，列表，涵盖了各种类型的显著咖啡饮料。</Desc>
+<ENName>Milkshake</ENName>
+<ZHName>奶昔</ZHName>
+<Desc>一杯奶昔是一种甜、 冷的饮料，通常是从牛奶、 冰淇淋、 或冰的牛奶和香料或甜味剂如奶油、 焦糖酱、 巧克力酱或果糖浆。以外，美国饮料有时称为 thickshake 或厚奶昔或在新英格兰，刨冰，以区别于其他较不粘性形式的风味乳。</Desc>
+<ENName>Twix</ENName>
+<ZHName>Twix</ZHName>
+<Desc>Twix 是由火星，Inc.，组成的申请与其他糖果浇头和涂层饼干手指巧克力棒 (最频繁焦糖巧克力和牛奶巧克力）。[1] Twix 酒吧的包装内通常成对。</Desc>
+<ENName>List of chocolate bar brands</ENName>
+<ZHName>巧克力品牌列表</ZHName>
+<Desc>这是的巧克力品牌，列表按字母顺序排列。一条巧克力棒是甜点在酒吧形式组成的部分或全部由以下组件构成： 可可粉、 可可脂、 糖、 牛奶。这些组件相对存在形成黑巧克力、 牛奶巧克力和白巧克力的子类。除了这些主要的成分，它可能包含如大豆卵磷脂乳化剂和香料香草等。</Desc>
+<ENName>Orange juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是指的桔子汁。它是由由挤新鲜橙色，由干燥和稍后重新保湿汁，或浓度的果汁和水以后加入浓缩。它是已知其健康福利，特别是其高浓度的维生素 c。它在几个不同的品种，包括血橙中来。在美国英语俚语，橙汁可能也用于指的桔子汁。</Desc>
+<ENName>Orange juice (disambiguation)</ENName>
+<ZHName>橙汁 (消歧)</ZHName>
+<Desc>桔子汁通常指索取挤压橙色的果汁。</Desc>
+<ENName>The Orange Juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是由苏格兰后朋克乐队橙汁 1984年专辑。这是他们最后的工作室 LP。标题是天鹅绒地下同名的第三张专辑致敬。</Desc>
+<ENName>Orange juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是指的桔子汁。它是由由挤新鲜橙色，由干燥和稍后重新保湿汁，或浓度的果汁和水以后加入浓缩。它是已知其健康福利，特别是其高浓度的维生素 c。它在几个不同的品种，包括血橙中来。在美国英语俚语，橙汁可能也用于指的桔子汁。</Desc>
+<ENName>Orange (fruit)</ENName>
+<ZHName>桔子 (果子)</ZHName>
+<Desc>橙色 （具体而言，甜橙色） 是芸香科植物种类柑橘柑橘 × 中华的果实。[2] 的夏橙果实被认为是甜橙色，而枳实的水果被认为是一个苦橙。橙色的是混合动力的可能柚 (柑橘千里马) 与普通话 （柑），以来的耕地远古时代。[] 3</Desc>
+<ENName>Sangrita</ENName>
+<ZHName>前</ZHName>
+<Desc>前 (即"小血")，其起源可追溯到 20 世纪 20 年代，是习惯合作伙伴的一枪直龙舌兰酒 blanco ；非酒精性伴奏，突出了龙舌兰酒的酸度和净化之间每个辣的 sip 佳肴。前的基本构想是以补充 100%龙舌兰龙舌兰酒，也是胡椒和柑橘的味道的味道。增加全球范围内的知名度和龙舌兰酒在 1990 年代后期和 21 世纪初企业兴趣之前，在墨西哥太平洋地区接壤的哈利斯科州，哪里龙舌兰酒主要是生产和消费，状态很少人知道的存在和少得多的前，其配方。随着人气的增长，所以没有商业努力重新创建已送达与龙舌兰酒的神秘红、 辣饮料。事实上饮料并不是那么神秘。虽然大多数外人会引用其红色使起来作为番茄汁和香料，当地人和传统主义者同意最有可能不属于一种成分是番茄。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>Tropicana Products</ENName>
+<ZHName>纯品康纳室内产品</ZHName>
+<Desc>纯品康纳室内产品，Inc.是一家美国多国公司，主要使软性饮料。它成立于 1947 年由安东尼 T.罗西布雷登顿，在佛罗里达州。自 1998 年以来它已拥有由百事可乐。纯品康纳室内的总部设在伊利诺伊州芝加哥市。本公司专业生产的桔子汁。</Desc>
+<ENName>Simply Orange</ENName>
+<ZHName>只是橙色</ZHName>
+<Desc>只是橙果汁公司是阿波普卡、 佛罗里达州的公司，成立于 2001 年，是可口可乐公司的品牌。[1] 它使得不从精矿橙数目和其他果汁销售冰鲜的一个明显异型塑料瓶。</Desc>
+<ENName>Rose's lime juice</ENName>
+<ZHName>玫瑰的石灰汁</ZHName>
+<Desc>玫瑰的酸橙汁，往往简单地称为玫瑰，是一线的果汁产品首次获得专利于 1867 年。该系列包括原始集中的壁球或亲切和也稀释饮料搅拌机。该公司是现在组拥有的博士辣椒果汁过活，其莫司的一部分。</Desc>
+<ENName>Ruashi Mine</ENName>
+<ZHName>Ruashi 煤矿</ZHName>
+<ENName>Sepro Mineral Systems</ENName>
+<ZHName>欣矿物系统</ZHName>
+<ENName>Orange juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是指的桔子汁。它是由由挤新鲜橙色，由干燥和稍后重新保湿汁，或浓度的果汁和水以后加入浓缩。它是已知其健康福利，特别是其高浓度的维生素 c。它在几个不同的品种，包括血橙中来。在美国英语俚语，橙汁可能也用于指的桔子汁。</Desc>
+<ENName>Lemonade</ENName>
+<ZHName>柠檬水</ZHName>
+<Desc>柠檬水是砂糖的柠檬味饮料。在世界不同地区，有饮料和其名称的变化。此外编写了粉红色柠檬水和冷冻的柠檬水。柠檬替换出石灰的柠檬。</Desc>
+<ENName>List of breakfast beverages</ENName>
+<ZHName>早餐饮料的列表</ZHName>
+<ENName>Orange juice</ENName>
+<ZHName>桔子汁</ZHName>
+<Desc>桔子汁是指的桔子汁。它是由由挤新鲜橙色，由干燥和稍后重新保湿汁，或浓度的果汁和水以后加入浓缩。它是已知其健康福利，特别是其高浓度的维生素 c。它在几个不同的品种，包括血橙中来。在美国英语俚语，橙汁可能也用于指的桔子汁。</Desc>
+<ENName>Minute Maid</ENName>
+<ZHName>分钟女佣</ZHName>
+<Desc>分钟女佣是一条产品线通常与柠檬汁或橙汁，关联的饮料，但现在已扩展到许多种类，包括喜 C.软性饮料根据卡比品牌在中欧和挪威 Fruitopia 出售分钟女佣。</Desc>
+<ENName>Drink</ENName>
+<ZHName>喝</ZHName>
+<Desc>饮品或饮料，都是专门编写的供人类消费的液体。除了基本的需要，饮料的人类社会文化的一部分。尽管大多数饮料，包括果汁、 软性饮料和碳酸的饮料，在他们 ； 有某种形式的水水本身往往不归类为一种饮料，和 word 饮料已殃及定义为不指水。</Desc>
+<ENName>Red wine</ENName>
+<ZHName>红酒</ZHName>
+<Desc>红葡萄酒是酒的一种由深色 （黑色） 葡萄品种。酒的实际颜色的范围可以从激烈的紫，典型的年轻葡萄酒，通过为砖红色成熟的葡萄酒和布朗为较旧的红葡萄酒。</Desc>
+<ENName>Wine</ENName>
+<ZHName>红酒</ZHName>
+<Desc>酒是由发酵的葡萄或其他水果制成的酒精饮料。葡萄的天然化学平衡允许它们发酵不添加糖、 酸、 酶、 水或其它营养成分。[1] 酵母消耗葡萄中的糖分，将它们转换成酒精和二氧化碳。不同品种的葡萄和株酵母菌产生不同风格的红酒。知名的变化导致从之间的生化发展水果、 参与发酵、 风土和随后的称谓，并在整个过程中人为干预的反应十分复杂的相互作用。</Desc>
+<ENName>Table wine</ENName>
+<ZHName>表酒</ZHName>
+<Desc>表酒是葡萄酒的术语，用两个不同的意思： 一种样式的葡萄酒和葡萄酒分类内的质量水平。</Desc>
+<ENName>Pinot noir</ENName>
+<ZHName>黑比诺</ZHName>
+<Desc>黑比诺 （法文： [皮诺 nwaʁ]) 是欧亚种葡萄品种的红酒葡萄品种。名称也可能指葡萄酒主要地创建的黑皮诺葡萄。名称是从松树和黑色 ； 的法语单词派生暗指有紧密聚集的葡萄品种的松树，松树圆锥形的水果串。[] 1</Desc>
+<ENName>Burgundy wine</ENName>
+<ZHName>勃艮第葡萄酒</ZHName>
+<Desc>勃艮第酒 （法语： 勃艮第公爵或 vin de 勃艮第公爵) 葡萄酒勃艮第地区在法国东部，[1] 中的山谷和山坡对颂河作罗纳河的一条支流。这里最著名的葡萄酒生产 — — 那些通常被称为"勃艮第红"— — 是干红葡萄酒由黑皮诺葡萄和白葡萄酒霞多丽葡萄酿造的。红葡萄酒和白葡萄酒也有从其他葡萄品种，如格美和 Aligoté，分别。少量的桃红和汽酒也在该地区生产的。夏敦埃酒占主导地位的夏布利和主导格美薄酒属于正式的勃艮第葡萄酒产区，但来自这些分区域的葡萄酒通常转介给他们自己的名字而不是作为"勃艮第葡萄酒"。</Desc>
+<ENName>Pinot gris</ENName>
+<ZHName>灰皮诺</ZHName>
+<Desc>灰皮诺是白色酿酒葡萄品种的葡萄品种。以为是 Pinot noir 各种突变体克隆，它通常有一种灰蓝色水果，会计对其名称 （灰含义"灰色"法语），但葡萄可以有褐色粉红色与黑色相间的外观。Word 黑比诺，来自单词含义"松塔"法语，[1] 能作出对它因为葡萄生长在小小的松树圆锥形群集中。从这种葡萄生产的葡萄酒也不同颜色从深金黄色、 铜、 甚至灯罩粉红色，[2]，它是更受欢迎葡萄橙酒之一。克隆的灰比诺生长在意大利被称为比诺格里。</Desc>
+<ENName>Zinfandel</ENName>
+<ZHName>叫</ZHName>
+<Desc>叫 （也称为灰白色） 是黑皮肤的酿酒葡萄的品种。超过 10%的加州葡萄园种植品种。[1] DNA 指纹图谱表明它是向传统种植在普利亚大区 ("脚跟"意大利的)，其中，介绍了它在 18 世纪的灰白色种类以及克罗地亚葡萄 Crljenak Kaštelanski 和 Tribidrag 基因等效。[2] 葡萄在 19 世纪中期，发现其对美国的方式和出名的"叫"，来源不明的名称的名称变体。</Desc>
+<ENName>White Zinfandel</ENName>
+<ZHName>白仙粉黛</ZHName>
+<ENName>Benovia Winery</ENName>
+<ZHName>Benovia 酒庄</ZHName>
+<ENName>Chianti</ENName>
+<ZHName>基安蒂</ZHName>
+<Desc>基安蒂红酒 [ˈkjanti] 是任何产于基安蒂地区，在中部托斯卡纳的酒。它是历史上关联与括在一个草篮，称为惨败 （"瓶"； 复数 fiaschi） ； 一蹲坐式瓶然而，惨败是仅由几个制造商的葡萄酒现在使用 ；大多数基安蒂现在是在多个标准形葡萄酒瓶瓶装的。男爵 Bettino Ricasoli （以后总理的意大利的王国） 创建 70%的基安蒂配方桑娇维塞，15%Canaiolo 和 15%酿制比安卡于十九世纪中叶。[] 1</Desc>
+<ENName>History of Chianti</ENName>
+<ZHName>基安蒂的历史</ZHName>
+<Desc>基安蒂的历史可以追溯到至少与红酒最早化身 13 世纪作为一种白葡萄酒。今天这个托斯卡纳葡萄酒是意大利最著名和最可认识葡萄酒之一。在中世纪，区佳奥利、 区卡斯特利那和拉达位于 Lega 德尔基安蒂 (联盟的基安蒂），创建一个区域，所形成的佛罗伦萨附近的村庄将成为精神和历史基安蒂地区和今天的"心"是位于内基安蒂 Classico Denominazione di 起源 Controllata e Garantita (DOCG)。在大众化的基安蒂葡萄酒随着其他村庄的托斯卡纳想要他们的土地被称为基安蒂。该区域的边界千百年来看到许多扩产和分部门。这些不同的 macroclimates 变量风土作出了贡献的质量在市场上和由 20 世纪后期消费者感知的基安蒂的不同范围往往是关联与基本大众市场基安蒂在括在一个草篮，称为惨败一蹲瓶出售。[] 1</Desc>
+<ENName>Greve in Chianti</ENName>
+<ZHName>格雷夫</ZHName>
+<Desc>格雷夫 (旧名称是格雷夫 ； 1972 年是在该地区的基安蒂红酒区列入后重命名格雷夫) 是一个小镇和皮科洛 (自治市) 省的托斯卡纳，意大利的佛罗伦萨。它位于约 31 公里 (19 mi) 南的佛罗伦萨在 A1 公路上和 42 公里 (26 mi) 北部的锡耶纳。</Desc>
+<ENName>Cabernet Sauvignon</ENName>
+<ZHName>赤霞珠</ZHName>
+<Desc>赤霞珠 (法语: [kabɛʁnɛ soviˈɲɔ̃]) 是世界上最广泛认可红酒葡萄品种之一。它是生长在几乎每个主要的葡萄酒生产国之间各种不同的气候条件下从加拿大的奥肯那根谷地到黎巴嫩的贝卡谷地。赤霞珠成为了国际公认通过其在哪里它往往与梅鹿辄和赤霞珠法郎混合的波尔多葡萄酒中突出的地位。从法国葡萄蔓延整个欧洲和对新的世界，它在美国加州的圣克鲁斯山、 纳帕谷、 新西兰霍克斯湾，澳大利亚玛格丽特河和库纳瓦拉地区和智利的安龙谷和 Colchagua 像发现新的家园。为 20 世纪的大部分时间，它是世界上最广泛种植高档红酒葡萄，直到它在 90 年代超过了梅鹿辄。[] 1</Desc>
+<ENName>Cabernet Franc</ENName>
+<ZHName>丽珠</ZHName>
+<Desc>丽珠是全世界主要的黑葡萄品种之一。它是主要是种植与赤霞珠和梅鹿辄调合的波尔多风格，但也可以在卢瓦尔河谷的希侬独自，酿制。除了正在中混合使用和生产作为在加拿大和美国的品种，它是制成冰酒在这些地区。</Desc>
+<ENName>Merlot</ENName>
+<ZHName>梅鹿辄</ZHName>
+<Desc>梅洛是暗蓝色酿酒葡萄品种，那用作两个混合葡萄、 品种葡萄酒。梅鹿辄名称被认为是一个身材矮小的梅尔，黑鸟的法语名字，可能对葡萄的颜色的引用。其柔软性和"其后"，加上其较早的成熟，使得梅鹿辄与更严厉，稍后催熟赤霞珠，往往要高于在单宁混合流行葡萄。</Desc>
+<ENName>Root beer</ENName>
+<ZHName>根啤酒</ZHName>
+<Desc>根啤酒作为主味是一种碳酸、 加糖饮料，最初提出的使用檫植物 （或檫树的树皮） 的根。根啤酒，推广在北美，有两种形式： 酒精和软性饮料。历史的根啤酒是类似于小啤酒的进程提供了非常低的酒精含量与喝一杯。虽然根用作在世界各地的很多软性饮料的来源，可以用往往不同的名称。</Desc>
+<ENName>A&W Root Beer</ENName>
+<ZHName>A &amp; W 根啤酒</ZHName>
+<ENName>Dad's Root Beer</ENName>
+<ZHName>老爸的根啤酒</ZHName>
+<ENName>Mug Root Beer</ENName>
+<ZHName>杯啤酒</ZHName>
+<Desc>杯啤酒是由百事可乐公司的根啤酒的品牌名称。</Desc>
+<ENName>A&W Root Beer</ENName>
+<ZHName>A &amp; W 根啤酒</ZHName>
+<ENName>Chicago Root Beer</ENName>
+<ZHName>芝加哥根啤酒</ZHName>
+<Desc>芝加哥根啤酒是根啤酒主要提供在美国的品牌。</Desc>
+<ENName>List of soft drinks by country</ENName>
+<ZHName>软性饮料的国家的名单</ZHName>
+<Desc>这是原籍的软性饮料的品牌国的顺序的列表。软性饮料是一种饮料，它通常包含 （通常，但不是总是，碳酸水） 水、 通常一种甜味剂和通常调味剂。这种甜味剂可能是糖、 高果糖玉米糖浆、 果汁、 糖代用品 （如饮食饮品) 或这些项的组合。软性饮料还可能包含咖啡因、 色素、 防腐剂等成分。</Desc>
+<ENName>IBC Root Beer</ENName>
+<ZHName>中型散货箱根啤酒</ZHName>
+<ENName>Mug Root Beer</ENName>
+<ZHName>杯啤酒</ZHName>
+<Desc>杯啤酒是由百事可乐公司的根啤酒的品牌名称。</Desc>
+<ENName>A&W Root Beer</ENName>
+<ZHName>A &amp; W 根啤酒</ZHName>
+<ENName>United States</ENName>
+<ZHName>美国</ZHName>
+<Desc>美利坚合众国 (美国)，通常称为美国 （美国）、 美国、 和有时国家，是由 50 个州和一个联邦区组成的联邦共和国 [10] [11]。48 个毗邻的州和华盛顿特区在中央北美加拿大和墨西哥之间。阿拉斯加州是北美洲西北部和夏威夷州的是一个在太平洋中部的群岛。该国也有五个填充和九人烟的领土在太平洋和加勒比地区。379 万平方英里 (983 万 km2) 总数和约 3 亿 1800 万人，在美国是第三或第四大的国家由总面积和第三大的人口。它是世界上最种族地多样和多元文化的国家，从许多国家大规模移民的产品之一。[12] 的地理和气候的美国也是非常多样的和它是各种各样的野生动物的家园。</Desc>

@@ -1,1 +1,0 @@
-http://ndb.nal.usda.gov/ndb/foods?format=Abridged&count=&max=25&sort=&fg=&man=&lfacet=&qlookup=&offset=25
