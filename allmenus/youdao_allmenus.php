@@ -10,14 +10,15 @@
 	$output_handle = fopen($output, "w+");
 	
 	$temp = './youdao_temp.xml';
-	$temp_handle = fopen($temp,"w+");
+	
 	
 	echo "Open for read and write...\r\n";
 	
 		$counter = 0;
-	while(!feof($inputHandle))
+	while(!feof($input_handle))
 	{
-		$buffer=fgets($inputHandle,4096);
+				
+		$buffer=fgets($input_handle,4096);
 		
 		
 		$buffer = str_replace("\n", "", $buffer);
@@ -31,7 +32,7 @@
 		if(preg_match($pattern,$buffer)){
 			continue;//skip image url
 		}
-		if($buffer == ""){
+		if($buffer == "<Desc></Desc>"){
 			continue;
 		}
 		
@@ -41,21 +42,20 @@
 			
 			echo $counter .": " .$buffer."\r\n";
 			$transword = "<ENName>".$buffer. "</ENName>\r\n";
-			fwrite($outputHandle,$transword);
+			fwrite($output_handle,$transword);
 			
 			$word = urlencode($buffer);
 			
-			$url = 'http://fanyi.youdao.com/openapi.do?keyfrom=goodDict&key=2121816595&type=data&doctype=xml&version=1.1&only=translate&q='.$word;
+			$url = 'http://fanyi.youdao.com/openapi.do?keyfrom=goodDict&key=2121816595&type=data&doctype=json&version=1.1&only=translate&q='.$word;
 			$contents = file_get_contents($url);
-			fwrite($temp_handle, $contents);
 			
-			$xml=simplexml_load_file("./youdao_temp.xml");
 
-			$chinese = $xml->translate->paragraph;
-			
+			$chinese = json_decode($contents);
+			$chinese = $chinese->translation[0];
+				
 			$transword = "<ZHName>".$chinese. "</ZHName>\r\n";
 			$counter ++;
-			fwrite($outputHandle,$transword);
+			fwrite($output_handle,$transword);
 			
 		}
 		
@@ -65,17 +65,16 @@
 			
 			$word = urlencode($buffer);
 			
-			$url = 'http://fanyi.youdao.com/openapi.do?keyfrom=goodDict&key=2121816595&type=data&doctype=xml&version=1.1&only=translate&q='.$word;
+			$url = 'http://fanyi.youdao.com/openapi.do?keyfrom=goodDict&key=2121816595&type=data&doctype=json&version=1.1&only=translate&q='.$word;
 			$contents = file_get_contents($url);
-			fwrite($temp_handle, $contents);
 			
-			$xml=simplexml_load_file("./youdao_temp.xml");
 
-			$chinese = $xml->translate->paragraph;
+			$chinese = json_decode($contents);
+			$chinese = $chinese->translation[0];
 			
 			
 			$transword ="<Desc>".$chinese."</Desc>\r\n";
-			fwrite($outputHandle,$transword);
+			fwrite($output_handle,$transword);
 			
 		}
 		
@@ -83,14 +82,13 @@
 		
 		
 		
-		
-		
-		sleep(1);
+				
+		sleep(4);
 
  	}
-	fclose($inputHandle);
-	fclose($outputHandle);
-	fclose($temp_handle);
+	fclose($input_handle);
+	fclose($output_handle);
+	
 	echo "Done with file read and write...\r\n";
 
 

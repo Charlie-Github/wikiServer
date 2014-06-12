@@ -3,10 +3,10 @@
 // Youdao translate
 //functions for retrieving images	
 
-	$input='./foods_newyork.xml';
+	$input='./foodlist_a-z_xml.xml';
 	$input_handle=fopen($input,'r');
 	
-	$output = './foods_newyork_chinese.xml';
+	$output = './foodlist_a-z_chinese_xml.xml';
 	$output_handle = fopen($output, "w+");
 	
 	$temp = './youdao_temp.xml';
@@ -17,8 +17,7 @@
 		$counter = 0;
 	//while(!feof($input_handle))
 	{
-		$temp_handle = fopen($temp,"w+");
-		
+				
 		$buffer=fgets($input_handle,4096);
 		
 		
@@ -26,15 +25,14 @@
 		$buffer = str_replace("\r", "", $buffer);
 		$buffer = str_replace("_", " ", $buffer);
 		
-		
+		$pattern = '#<Image>(.*)</Image>#Us';
 		$patternName = '#<Name>(.*)</Name>#Us';
 		$patternDesc = '#<Desc>(.*)</Desc>#Us';
-		
 		
 		if(preg_match($pattern,$buffer)){
 			continue;//skip image url
 		}
-		if($buffer == ""){
+		if($buffer == "<Desc></Desc>"){
 			continue;
 		}
 		
@@ -84,9 +82,8 @@
 		
 		
 		
-		fclose($temp_handle);
-		
-		sleep(1);
+				
+		sleep(4);
 
  	}
 	fclose($input_handle);

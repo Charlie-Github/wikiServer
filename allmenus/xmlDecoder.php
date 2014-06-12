@@ -2,7 +2,7 @@
 
 
 
-$xml=simplexml_load_file("menus_iowacity.xml");
+$xml=simplexml_load_file("youdao_temp.xml");
 
 print_r($xml);
 

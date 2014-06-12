@@ -15,10 +15,9 @@
 	echo "Open for read and write...\r\n";
 	
 		$counter = 0;
-	//while(!feof($input_handle))
+	while(!feof($input_handle))
 	{
-		$temp_handle = fopen($temp,"w+");
-		
+				
 		$buffer=fgets($input_handle,4096);
 		
 		
@@ -33,7 +32,7 @@
 		if(preg_match($pattern,$buffer)){
 			continue;//skip image url
 		}
-		if($buffer == ""){
+		if($buffer == "<Desc></Desc>"){
 			continue;
 		}
 		
@@ -83,9 +82,8 @@
 		
 		
 		
-		fclose($temp_handle);
-		
-		sleep(1);
+				
+		sleep(4);
 
  	}
 	fclose($input_handle);
