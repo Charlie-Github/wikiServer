@@ -12,26 +12,41 @@ $input='./foodlist_a-z_html.html';
 	while(!feof($input_handle)){
 	
 		$pattern_url = '#<a href=\".*\">#';
+		$pattern_name = '#>.*#';
+
 		$record=fgets($input_handle,4096);
+
+		$record = str_replace("\s","",$record);
 		$record = str_replace("\n", "", $record);
 		$record = str_replace("\r", "", $record);
 		
 		
 		preg_match($pattern_url,$record,$match);
-		
+		preg_match($pattern_name,$record,$match_name);
 		
 		
 		$url = str_replace("<a href=\"","",$match[0]);
 		$url = str_replace("\">","",$url);
-		echo $url."\r\n";
-	
+		
+		$name = str_replace(">","",$match_name[0]);
+		$name = mb_convert_encoding($name, 'UTF-8', 'HTML-ENTITIES');
+
+		$desc = get_desc( $url);
+		
+		echo $counter.": ".$name."\r\n";
+
+		fwrite($output_handle, "<Name>".$name."</Name>\r\n");
+		fwrite($output_handle, "<Desc>".$desc."</Desc>\r\n");
+		
+		$counter++;
 	}
 
 
+fclose(input_handle);
+fclose(output_handle);
 
 
 
-//echo get_desc($url);
 
 
 
@@ -48,15 +63,25 @@ function get_desc($url){
 	$pattern_2 = '#<p>.*</p>#';
 
 	preg_match($desc_pattern,$contents,$match);
+	
+	if($match[0]){
+	
+		preg_match($pattern_2,$match[0],$match);
 
-	preg_match($pattern_2,$match[0],$match);
+		$str = mb_convert_encoding($match[0], 'UTF-8', 'HTML-ENTITIES');
 
-	$str = mb_convert_encoding($match[0], 'UTF-8', 'HTML-ENTITIES');
+		$str = str_replace("<p>","",$str);
+		$str = str_replace("</p>","",$str);
+		
+		return $str;
+	
+	}
 
-	$str = str_replace("<p>","",$str);
-	$str = str_replace("</p>","",$str);
+	else{
+		return $str="";
+	}
 
-	return $str;
+	
 }
 
 ?>
