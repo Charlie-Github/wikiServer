@@ -1,0 +1,10 @@
+<ENName>American Coffee</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Cappuccino</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Espresso</ENName>
+<ZHName></ZHName>
+<Desc></Desc>
+<ENName>Double Espresso</ENName>

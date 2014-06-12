@@ -1,10 +1,10 @@
 <?php 
 //functions for retrieving images	
 
-	$input='./allmenus_iowacity.dat';
+	$input='./allmenus_newyork.txt';
 	$input_handle=fopen($input,'r');
 	
-	$output = './menus_iowacity.xml';
+	$output = './menus_newyork.xml';
 	$output_handle = fopen($output, "w+");
 	
 	echo "Open for read and write...\r\n";
@@ -33,6 +33,7 @@
 		fwrite($output_handle, $contents);
 			
 		$counter++;
+		sleep(1);
 		
  	}
  	

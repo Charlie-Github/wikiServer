@@ -2,10 +2,10 @@
 
 
 
-$xml=simplexml_load_file("menus_iowacity.xml");
+$xml=simplexml_load_file("menus_newyork.xml");
 
 
-$output = "./foods_iowacity.xml";
+$output = "./foods_chicago.xml";
 $output_handle = fopen($output,"w+");
 
 foreach($xml->menu as $menu){
