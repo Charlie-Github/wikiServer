@@ -9,7 +9,7 @@ CREATE TABLE `Foods` (
 
 CREATE TABLE `Foods_EN` (
   `Food_Title` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `EName` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `Food_Name` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Description` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Tags` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
   `Create_Date` datetime NOT NULL DEFAULT '2014-01-01 00:00:00',
@@ -17,6 +17,18 @@ CREATE TABLE `Foods_EN` (
   UNIQUE KEY `Food_Title_UNIQUE` (`Food_Title`),
   CONSTRAINT `Foods_EN_Food_Title` FOREIGN KEY (`Food_Title`) REFERENCES `Foods` (`Food_Title`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+CREATE TABLE `Foods_CN` (
+  `Food_Title` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
+  `Food_Name` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `Description` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `Tags` varchar(200) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `Create_Date` datetime NOT NULL DEFAULT '2014-01-01 00:00:00',
+  PRIMARY KEY (`Food_Title`),
+  UNIQUE KEY `Food_Title_UNIQUE` (`Food_Title`),
+  CONSTRAINT `Foods_EN_Food_Title` FOREIGN KEY (`Food_Title`) REFERENCES `Foods` (`Food_Title`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
 
 CREATE TABLE `Photos` (
   `Photo_Name` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
