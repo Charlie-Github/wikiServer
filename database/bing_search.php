@@ -11,8 +11,7 @@
 	
 		$img_name = str_replace(" ","_",$query);
 		$query = str_replace(" ","+",$query);
-	
-    	$accountKey = 'hfZ3wZX812gJMJqswuK3YZkyRwrp9IkuxYeKVfu99Pg';
+
     	$url = 'https://api.datamarket.azure.com/Bing/Search/Image?$format=json&$top=2&Query=%27'.$query.'+food%27';//search for food
 		$process = curl_init($url);
 		curl_setopt($process, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
