@@ -8,12 +8,14 @@ $to='zh';
 $inputPath = './foods_iowacity.xml';
 $inputHandle = fopen($inputPath, "r");
 
-$outputPath = './foods_iowacity_chinese.txt';
+$outputPath = './foods_iowacity_chinese.xml';
 $outputHandle = fopen($outputPath, "w+");
 
+$counter = 0;
 
 	while(!feof($inputHandle))
 	{
+		echo $counter.": ";
 		$buffer=fgets($inputHandle,4096);
 		
 		
@@ -42,7 +44,7 @@ $outputHandle = fopen($outputPath, "w+");
 			$transword = "<ZHName>".$translator->translate($word, $from, $to) . "</ZHName>\r\n";
 
 			fwrite($outputHandle,$transword);
-			
+			$counter++;
 		}
 		
 		if(preg_match($patternDesc,$buffer)){
@@ -50,12 +52,17 @@ $outputHandle = fopen($outputPath, "w+");
 			$buffer = str_replace("</Desc>", "", $buffer);
 			
 			$word = urlencode($buffer);
-			$transword ="<Desc>".$translator->translate($word, $from, $to)."</Desc>\r\n";
+			$transed = $translator->translate($word, $from, $to);
+			
+			if ($transed == "" || $transed ==" "){
+				$transed = "N/A";
+			}
+			$transword ="<Desc>".$transed."</Desc>\r\n";
 			fwrite($outputHandle,$transword);
 			
 		}
 		
-	
+		
  	}
 	fclose($inputHandle);
 	fclose($outputHandle);
