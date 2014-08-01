@@ -1,0 +1,8 @@
+﻿http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=jsonfm&redirects=1&titles=apple
+
+http://en.wikipedia.org/w/api.php?action=opensearch&search=apple&format=xml&limit=1
+
+
+http://zh.wikipedia.org/w/api.php?action=opensearch&search=%E8%98%8B%E6%9E%9C&format=xml&limit=1
+
+http://en.wikipedia.org/w/api.php?action=query&titles=apple&prop=langlinks&lllimit=500

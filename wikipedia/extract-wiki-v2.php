@@ -1,13 +1,13 @@
 <?php 
 //functions for retrieving images	
 
-	$file_name='./foodnames_keyformat_2600.txt';
+	$file_name='./foodnames-v2-test.txt';
 	$fp=fopen($file_name,'r');
 	
-	$filepath = './wikiextraction_query_2600.xml';
+	$filepath = './wikiextraction-v2-test.txt';
 	$handle = fopen($filepath, "w+");
-	
 	echo "Open file for read and write...\r\n";
+	
 	while(!feof($fp))
 	{
 		
@@ -18,11 +18,11 @@
 		$buffer = str_replace("\n", "", $buffer);
 		$buffer = str_replace("\r", "", $buffer);
 		
+		echo $buffer."\r\n";
 		
 		
 		wikisearch($buffer,$handle);
-		wiki3image($buffer,$handle);
-		
+		//wiki3image($buffer,$handle);
 		
 		
  	}
@@ -32,32 +32,6 @@
 	
 	echo "Done with file read and write...\r\n";
 	
-	
-	
-function wiki3image($keyword,$handle){
-
-	$imageUrls = wikipediaImageUrls('http://en.wikipedia.org/wiki/'.$keyword);
-
-	$counter = 0;
-	
-	foreach ($imageUrls as &$value) {
-		
-		if (counter == 2){
-			break;
-		}
-		fwrite($handle,"<Image>".$value."</Image>\r\n");
-		$img = "./pic/".$keyword."_".$counter.".jpg";
-		file_put_contents($img, file_get_contents($value));
-		
-		
-   		 $counter++;
-   	}
-
-}
-
-
-
-
 	
 function wikisearch($keyword,$handle){
 
@@ -70,9 +44,7 @@ function wikisearch($keyword,$handle){
 		$c = curl_exec($ch);
 
 		$json = json_decode($c);
-		
-		try{
-		
+
 		$content = $json->{'parse'}->{'text'}->{'*'}; // get the main text content of the query (it's parsed HTML)
 
 		// pattern for first match of a paragraph
@@ -82,11 +54,6 @@ function wikisearch($keyword,$handle){
  		   // print $matches[0]; // content of the first paragraph (including wrapping <p> tag)
   			 $content_2 = strip_tags($matches[1]); // Content of the first paragraph without the HTML tags.
 			fwrite($handle,"<Desc>".$content_2."</Desc>\r\n");
-		}
-		
-		}
-		catch (Exception $e) {
-    		echo 'Caught exception: ',  $e->getMessage(), "\n";
 		}
 		
 		
@@ -100,6 +67,28 @@ function makeCall($url) {
     curl_setopt($curl, CURLOPT_URL, $url);
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
     return curl_exec($curl);
+}
+
+
+function wiki3image($keyword,$handle){
+
+	$imageUrls = wikipediaImageUrls('http://en.wikipedia.org/wiki/'.$keyword);
+
+	$counter = 0;
+	
+	foreach ($imageUrls as &$value) {
+		
+		if($counter == 2){
+			break;
+		}
+		
+			fwrite($handle,"<Image>".$value."</Image>\r\n");
+			$img = "./pic/".$keyword."_".$counter.".jpg";
+			file_put_contents($img, file_get_contents($value));
+		
+   		 $counter++;
+   	}
+
 }
 
 function wikipediaImageUrls($url) {
