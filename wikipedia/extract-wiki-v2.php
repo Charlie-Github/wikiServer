@@ -1,76 +1,131 @@
 <?php 
 //functions for retrieving images	
 
-	$file_name='./foodnames-v2-test.txt';
-	$fp=fopen($file_name,'r');
+	//$file_name='./foodnames_keyformat_2600.txt';
+	//$fp=fopen($file_name,'r');
 	
-	$filepath = './wikiextraction-v2-test.txt';
-	$handle = fopen($filepath, "w+");
+	//$filepath = './wikiextraction_2600.txt';
+	//$handle = fopen($filepath, "w+");
 	echo "Open file for read and write...\r\n";
-	
-	while(!feof($fp))
+	//while(!feof($fp))
 	{
 		
+		//$keyword=fgets($fp,4096);
+		$keyword = "apple";
+		$keyword = str_replace("\n", "", $keyword);
+		$keyword = str_replace("\r", "", $keyword);
 		
+		echo $keyword."\r\n";
 		
-		$buffer=fgets($fp,4096);
-		
-		$buffer = str_replace("\n", "", $buffer);
-		$buffer = str_replace("\r", "", $buffer);
-		
-		echo $buffer."\r\n";
-		
-		
-		wikisearch($buffer,$handle);
-		//wiki3image($buffer,$handle);
+		wikisearch($keyword);//,$handle
+		//wiki2image($keyword,$handle);
 		
 		
  	}
  	
-	fclose($handle);
-	fclose($fp);
+	//fclose($handle);
+	//fclose($fp);
 	
 	echo "Done with file read and write...\r\n";
 	
 	
-function wikisearch($keyword,$handle){
+	
 
-		fwrite($handle,"<Name>".$keyword."</Name>\r\n");
-		
-		$url = 'http://en.wikipedia.org/w/api.php?action=parse&page='.$keyword.'&format=json&prop=text&section=0';
-		$ch = curl_init($url);
-		curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt ($ch, CURLOPT_USERAGENT, "test"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
-		$c = curl_exec($ch);
+	
+function wikisearch($keyword){//,$handle
 
-		$json = json_decode($c);
+	//fwrite($handle,"<Name>".$keyword."</Name>\r\n");
 
-		$content = $json->{'parse'}->{'text'}->{'*'}; // get the main text content of the query (it's parsed HTML)
-
-		// pattern for first match of a paragraph
-		$pattern = '#<p>(.*)</p>#Us'; // http://www.phpbuilder.com/board/showthread.php?t=10352690
-		if(preg_match($pattern, $content, $matches))
-		{
- 		   // print $matches[0]; // content of the first paragraph (including wrapping <p> tag)
-  			 $content_2 = strip_tags($matches[1]); // Content of the first paragraph without the HTML tags.
-			fwrite($handle,"<Desc>".$content_2."</Desc>\r\n");
-		}
-		
-		
-		
-}
-		
-		
-		
-function makeCall($url) {
-    $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $url);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
-    return curl_exec($curl);
+	$url = 'http://en.wikipedia.org/w/api.php?action=opensearch&search='.$keyword.'&format=xml&limit=1';
+	
+	$ch = curl_init($url);
+	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt ($ch, CURLOPT_USERAGENT, "test"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
+	$content = curl_exec($ch);
+	
+	parse_content_en($content);
+	
 }
 
+function parse_content_en($content){
+	
+	$pattern_keyword = '#<Text xml:space=.preserve.>(.*)</Text>#Us';
+	if(preg_match($pattern_keyword, $content, $matches_keyword))
+	{
+	   
+		$content_keyword = strip_tags($matches_keyword[1]);
+		echo $content_keyword."\r\n";
+		
+	}
+	
+	// pattern for first match of a paragraph
+	$pattern = '#<Description xml:space=.preserve.>(.*)</Description>#Us';
+	if(preg_match($pattern, $content, $matches))
+	{
+	   
+		$content_desc = strip_tags($matches[1]);
+		echo $content_desc."\r\n";
+		//fwrite($handle,"<Desc>".$content_2."</Desc>\r\n");
+	}
+	
+	search_zh($content_keyword);
+	wiki2image($content_keyword);
 
-function wiki3image($keyword,$handle){
+}
+
+function search_zh($keyword){
+	
+	$url = 'http://en.wikipedia.org/w/api.php?action=query&titles='.$keyword.'&prop=langlinks&lllimit=500&format=xml';
+	
+	$ch = curl_init($url);
+	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt ($ch, CURLOPT_USERAGENT, "test"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
+	$content = curl_exec($ch);
+	
+	parse_content_zh($content);
+	
+
+}
+
+function parse_content_zh($content){
+
+	// pattern for first match of a paragraph
+	$pattern_lang = '#<ll lang=.zh. xml:space=.preserve.>(.*)</ll>#Us';
+	if(preg_match($pattern_lang, $content, $matches_lang))
+	{
+	   
+		$content_keyword_zh = strip_tags($matches_lang[1]);
+		echo $content_keyword_zh."\r\n";
+		wikisearch_zh($content_keyword_zh);
+	}
+}
+
+function wikisearch_zh($keyword_zh){
+	$url = 'http://zh.wikipedia.org/w/api.php?action=opensearch&search='.$keyword_zh.'&format=xml&limit=1';
+	
+	$ch = curl_init($url);
+	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt ($ch, CURLOPT_USERAGENT, "test"); // required by wikipedia.org server; use YOUR user agent with YOUR contact information. (otherwise your IP might get blocked)
+	$content = curl_exec($ch);
+	
+	// pattern for first match of a paragraph
+	$pattern = '#<Description xml:space=.preserve.>(.*)</Description>#Us';
+	if(preg_match($pattern, $content, $matches))
+	{
+	   
+		$content_desc = strip_tags($matches[1]);
+		echo $content_desc."\r\n";
+		//fwrite($handle,"<Desc>".$content_2."</Desc>\r\n");
+	}
+
+
+
+
+}
+
+
+
+function wiki2image($keyword){//,$handle
 
 	$imageUrls = wikipediaImageUrls('http://en.wikipedia.org/wiki/'.$keyword);
 
@@ -78,18 +133,19 @@ function wiki3image($keyword,$handle){
 	
 	foreach ($imageUrls as &$value) {
 		
-		if($counter == 2){
+		if($counter == 3){
 			break;
 		}
-		
-			fwrite($handle,"<Image>".$value."</Image>\r\n");
-			$img = "./pic/".$keyword."_".$counter.".jpg";
-			file_put_contents($img, file_get_contents($value));
+			echo $value."\r\n";
+			//fwrite($handle,"<Image>".$value."</Image>\r\n");
+			//$img = "./pic/".$keyword."_".$counter.".jpg";
+			//file_put_contents($img, file_get_contents($value));
 		
    		 $counter++;
    	}
 
 }
+
 
 function wikipediaImageUrls($url) {
     $imageUrls = array();
@@ -111,6 +167,15 @@ function wikipediaImageUrls($url) {
         }
     }
     return $imageUrls;
+}
+
+
+
+function makeCall($url) {
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $url);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+    return curl_exec($curl);
 }
 ?>
 
