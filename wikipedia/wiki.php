@@ -1,47 +1,15 @@
 <?php 
-	$input_file_name='./basic_foods_test.txt';
-	$input = fopen($input_file_name,'r');
-	
-	$output_file_name = './basic_foods_desc_test.txt';
-	$output = fopen($output_file_name, "w+");
-	echo "Open file for read and write...\r\n";
-	
-	$result = "";
-	while(!feof($input))
-	{		
-		$keyword=fgets($input,4096);
-		
-		$keyword = str_replace("\n", "", $keyword);
-		$keyword = str_replace("\r", "", $keyword);
-		$keyword = trim($keyword);
-		
-		$result = validateEn($keyword);
-		echo $result;
-		
-		fwrite($output,$result);
-		
-		echo "--------------------------------------------------------\r\n";
- 	}
- 	
-	fclose($input);
-	fclose($output);
-	
-	echo "Done with file read and write...\r\n";
-	
-	
-function validateEn($keyword){
-	$result = "";
-	$pattern_en = '#\W+#Us';
+	header("Content-Type: text/html;charset=utf-8");
 
-	if(preg_match($pattern_en, $keyword, $matches_keyword))
-	{	   
-		$result = "N/A\r\n";
-	}
-	else{
-		$result = wikisearch($keyword);
-	}
-	return $result;
-}
+	//$keyword = $_POST["title"];
+	$keyword = "apple";
+	$keyword = str_replace("\n", "", $keyword);
+	$keyword = str_replace("\r", "", $keyword);
+	$keyword = trim($keyword);
+	
+	$result = wikisearch($keyword);
+	echo $result;
+ 
 	
 	
 function wikisearch($keyword){
@@ -71,7 +39,7 @@ function parse_content_en($content){
 	{	   
 		$content_keyword = strip_tags($matches_keyword[1]);
 		
-		$text_en = "<enName>".$content_keyword."</enName>\r\n";
+		$text_en = $content_keyword."<br>";
 	}
 	
 	// pattern for first match of a paragraph
@@ -79,38 +47,13 @@ function parse_content_en($content){
 	if(preg_match($pattern, $content, $matches))
 	{	   
 		$content_desc = strip_tags($matches[1]);		
-		$text_en .= "<enDesc>".$content_desc."</enDesc>\r\n";
+		$text_en .= $content_desc."<br>";
 	}
 	
 	$text_zh = search_zh($content_keyword);
-	//$text_urls = wiki2image($content_keyword);
+	$text_urls = wiki2image($content_keyword);
 	$text_all = $text_en . $text_zh . $text_urls;
 	return $text_all;
-}
-
-function parse_content_zh($content){
-
-	// pattern for first match of a paragraph
-	$pattern_lang_wuu = '#<ll lang=.wuu. xml:space=.preserve.>(.*)</ll>#Us';
-$pattern_lang_zh = '#<ll lang=.zh. xml:space=.preserve.>(.*)</ll>#Us';
-	$text_zh = "";
-	if(preg_match($pattern_lang_wuu, $content, $matches_lang))
-	{
-	   
-		$content_keyword_zh = strip_tags($matches_lang[1]);
-		$text_zh = "<zhName>".$content_keyword_zh."</zhName>\r\n";
-		$text_zh .= wikisearch_zh($content_keyword_zh);
-	}
-	else if(preg_match($pattern_lang_zh, $content, $matches_lang)){
-
-
-		$content_keyword_zh = strip_tags($matches_lang[1]);
-		$text_zh = "<zhName>".$content_keyword_zh."</zhName>\r\n";
-		$text_zh .= wikisearch_zh($content_keyword_zh);
-
-
-	}
-	return $text_zh;
 }
 
 function search_zh($keyword){
@@ -126,6 +69,31 @@ function search_zh($keyword){
 	$text_zh = parse_content_zh($content);
 	return $text_zh;
 
+}
+
+function parse_content_zh($content){
+
+	// pattern for first match of a paragraph
+	$pattern_lang_wuu = '#<ll lang=.wuu. xml:space=.preserve.>(.*)</ll>#Us';
+$pattern_lang_zh = '#<ll lang=.zh. xml:space=.preserve.>(.*)</ll>#Us';
+	$text_zh = "";
+	if(preg_match($pattern_lang_wuu, $content, $matches_lang))
+	{
+	   
+		$content_keyword_zh = strip_tags($matches_lang[1]);
+		$text_zh = $content_keyword_zh."<br>";
+		$text_zh .= wikisearch_zh($content_keyword_zh);
+	}
+	else if(preg_match($pattern_lang_zh, $content, $matches_lang)){
+
+
+		$content_keyword_zh = strip_tags($matches_lang[1]);
+		$text_zh = $content_keyword_zh."<br>";
+		$text_zh .= wikisearch_zh($content_keyword_zh);
+
+
+}
+	return $text_zh;
 }
 
 function wikisearch_zh($keyword_zh){
@@ -146,7 +114,7 @@ function wikisearch_zh($keyword_zh){
 		$content_desc = strip_tags($matches[1]);
 		
 	}
-	return "<zhDesc>".$content_desc."</zhDesc>\r\n";
+	return $content_desc."<br>";
 }
 
 
@@ -165,7 +133,7 @@ function wiki2image($keyword){
 			break;
 		}
 		
-		$str_urls .= "<imgurl>".$value."</imgurl>\r\n";
+		$str_urls .= $value."<br>";
 		
    		$counter++;
    	}
