@@ -1,12 +1,30 @@
 <?php
 
+$input='./basic_foods_wiki_5.xml';
+$input_handle=fopen($input,'r');
+
+$output = './basic_foods_wiki5000_en.txt';
+$output_handle = fopen($output, "w+");
+
+$output_zhName = './basic_foods_wiki5000_zh.txt';
+$output_zhName_handle = fopen($output_zhName, "w+");
+
+$inputXML = simplexml_load_file($input);
+$food = $inputXML->food;
+
+
 $con = mysqli_connect('aa25dqkbwfsa09.cuzbw4369xvy.us-west-2.rds.amazonaws.com', 'edible', 'edible001', 'blue_cheese', 3306);	
 
 // Check connection
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
 }
-
+// change character set to utf8
+if (!$con->set_charset("utf8")) {
+    printf("Error loading character set utf8: %s\n", $con->error);
+} else {
+    printf("Current character set: %s\n", $con->character_set_name());
+}
 
 /*prototype
 	//insertFoods($con,"CHARLIE");
@@ -15,24 +33,57 @@ if (mysqli_connect_errno()) {
 	//insertToEn($con,"1790","CHARLIE","Charlie","Desc");
 	//insertToZh($con,"1790","CHARLIE","ZHName","ZhDesc");
 */
+	
 
-/*
-//Sample
-$result = mysqli_query($con,"SELECT * FROM foods where title = \'CHARLIE\'");
-
-while($result != "" && $row = mysqli_fetch_array($result)) {
-  echo $row[0];
-  echo "\r\n";
-}
-*/
-
+$counter = 0;
+foreach ($food as $sigleFood):
+	$title=strtoupper($sigleFood->enName);
+	$enName=$sigleFood->enName;
+	$enDesc=$sigleFood->enDesc;
+	$zhName=$sigleFood->zhName;
+	$zhDesc=$sigleFood->zhDesc;
+	if(validate($enName,$enDesc,$zhName,$zhDesc)){
+	
+		$counter++;
+		echo $counter."\r\n";
+		insertNewTitle($con,$title,$enName,$zhName,$enDesc,$zhDesc);
+		fwrite($output_handle,$enName."\r\n");
+		fwrite($output_zhName_handle,$zhName."\r\n");
+		
+		
+	}
+	
+	
+endforeach;
 
 mysqli_close($con);
 
 
-function insertTitle(){
+//========================================================================functions=============
 
+function validate($enName,$enDesc,$zhName,$zhDesc){
+		if(strlen($enName) < 20 && $zhName != ""){
+			return true;		
+		}
+		else{
+			return false;
+		}
+	
+	}
 
+function insertNewTitle($con,$title,$enName,$zhName,$enDesc,$zhDesc){
+
+	$exist = checkExist($con,"foods",$title);
+	if($exist < 1){
+		insertFoods($con,$title);
+		$fid = checkFid($con,$title);
+		insertToEn($con,$fid,$title,$enName,$enDesc);
+		insertToZh($con,$fid,$title,$zhName,$zhDesc);
+	}
+	else{
+		echo "Duplicate: ".$title."\r\n";
+	}
+	
 
 }
 
@@ -54,7 +105,7 @@ function checkFid($con,$title){
 	");
 	$count = mysqli_fetch_array($result);
 
-	return $count[0];
+	return strval($count[0]);
 
 
 }
